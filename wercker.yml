@@ -27,7 +27,9 @@ build:
           echo "hello world!"
     - script:
         name: generate site
-        code: bundle exec jekyll build --trace
+        code: |
+          jekyll build --destination build
+          htmlproof build --empty-alt-ignore
 deploy:
     steps:
     - s3sync:
