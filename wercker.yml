@@ -54,4 +54,8 @@ deploy:
         bucket-url:   http://s3-us-west-1.amazonaws.com/fda-documentation
         key-id: $AWS_ACCESS_KEY_ID
         key-secret: $AWS_SECRET_ACCESS_KEY 
+    - script:
+        name: sync
+        code: |
+            s3cmd sync --acl-public --delete-removed --verbose ./ http://s3-us-west-1.amazonaws.com/fda-documentation
           
