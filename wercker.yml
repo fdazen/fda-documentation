@@ -22,9 +22,9 @@ build:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
     - script:
-        name: echo
+        name: make build directory
         code: |
-          echo "hello world!"
+          mkdir -p build
     - script:
         name: generate site
         code: |
