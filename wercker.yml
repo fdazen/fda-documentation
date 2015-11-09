@@ -49,5 +49,5 @@ deploy:
     - script:
         name: sync
         code: |
-            s3cmd sync --acl-public --delete-removed --verbose ./ s3://fda-documentation/
+            s3cmd sync --acl-public --delete-removed --verbose ./build s3://fda-documentation/
           
