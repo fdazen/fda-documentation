@@ -44,10 +44,7 @@ deploy:
     - script:
         name: install pyinstaller
         code: |
-            apk add --update
-            python
-            python-dev
-            py-pip
+            apk add --update python python-dev py-pip
             sudo pip install python-dateutil
             sudo pip install pyinstaller
     - script:
