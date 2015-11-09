@@ -30,7 +30,7 @@ build:
         name: generate site
         code: |
           jekyll build --destination build
-          htmlproof build --empty-alt-ignore
+#          htmlproof build --empty-alt-ignore
 deploy:
   steps:
     - script:
