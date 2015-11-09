@@ -1,30 +1,32 @@
-## This content is duplicated here from configs/config_designers.yml because I'm building this site through Github Pages, and Github Pages just looks for the _config.yml file in the root directory to create the build.
 # project definitions
-project: doc_designers
-audience: designers
+project: doc_writers
+audience: writers
 product: all
 platform: all
 version: all
-destination: ../doc_designers
+destination: ../doc_writers
 topnav_title: Jekyll Documentation Theme
-homepage_title: Jekyll Documentation Theme &mdash; Designers
-site_title: Jekyll Documentation Theme &mdash; Designers
+homepage_title: Jekyll Documentation Theme &mdash; Writers
+site_title: Jekyll Documentation Theme &mdash; Writers
 disqus_shortname: idrbwjekyll
 google_analytics: UA-66296557-1
 github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages
 # don't use a slash before or after the above path. here's how this url gets written out in page.html: https://github.com/{{site.github_editme_path}}{{page.url | replace: '.html', '.md'}}
+
 # variables
 
-sidebar_tagline: designers
+sidebar_tagline: writers
 sidebar_version: version 3.0
+theme_file: theme-green.css
+project_file_name: doc
 
-port: 4001
-
+port: 4003
 exclude:
-  - doc_writers*
+  - doc_designers*
   - configs/
   - _site
-  - doc_multi*
+  - _drafts
+  - di_multi*
 
 # same for all
 host: 127.0.0.1
@@ -32,14 +34,14 @@ feedback_email: tomjohnson1492@gmail.com
 sidebar_accordion: true
 markdown: redcarpet
 print: false
-theme_file: theme-blue.css
+
 # only use suffix if you need to force index.html to display
 # suffix: index.html
 
+highlighter: pygments
+
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "tables", "with_toc_data"]
-
-highlighter: pygments
 
 collections:
   tooltips:
@@ -60,3 +62,5 @@ defaults:
     values:
       layout: "post"
       comments: true
+
+
