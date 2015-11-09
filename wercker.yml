@@ -44,9 +44,9 @@ deploy:
     - script:
         name: install pyinstaller
         code: |
-            apk add --update python python-dev py-pip
-            sudo pip install python-dateutil
-            sudo pip install pyinstaller
+            apk add --update python python-dev py-pip build-base
+            pip install python-dateutil
+            pip install pyinstaller
     - script:
         name: download s3cmd
         code: |
