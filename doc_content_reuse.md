@@ -1,16 +1,20 @@
 ---
 title: Content reuse
-tags: [single-sourcing]
-keywords: includes, conref, dita, transclusion, transclude, inclusion, reference
-last_updated: August 12, 2015
+tags: 
+  - "single-sourcing"
+keywords: "includes, conref, dita, transclusion, transclude, inclusion, reference"
+last_updated: "August 12, 2015"
 summary: "You can reuse chunks of content by storing these files in the includes folder. You then choose to include the file where you need it. This works similar to conref in DITA, except that you can include the file in any content type."
+published: true
 ---
+
 
 
 ## About content reuse
 You can embed content from one file inside another using includes. Put the file containing content you want to reuse (e.g., mypage.html) inside the \_includes folder, and then use a tag like this:
 
-{% raw %}
+{% raw %}![ade2.jpg]({{site.baseurl}}/ade2.jpg)
+
 ```
 {% include mypage.html %}
 ```
@@ -45,6 +49,4 @@ thing2: {{page.thing2}}
 
 Honestly, I haven't found a tremendous use case for page-level variables, but it's nice to know they're available. 
 
-I use includes all the time. Most of the includes in the \_includes directory are pulled into the theme layouts. For those includes that change, I put them inside custom and then inside a specific project folder. 
-
-
+I use includes all the time. Most of the includes in the \_includes directory are pulled into the theme layouts. For those includes that change, I put them inside custom and then inside a specific project folder.
