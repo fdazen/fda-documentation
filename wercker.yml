@@ -33,6 +33,10 @@ build:
           htmlproof build --empty-alt-ignore
 deploy:
     steps:
+    - script:
+        name: install s3cmd
+        code: |
+          apk add s3cmd
     - s3sync:
         source_dir: build/
         delete-removed: true
