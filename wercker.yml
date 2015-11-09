@@ -36,7 +36,7 @@ deploy:
     - script:
         name: install s3cmd
         code: |
-          apk add s3cmd
+          apk add --force s3cmd
     - s3sync:
         source_dir: build/
         delete-removed: true
