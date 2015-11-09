@@ -25,6 +25,7 @@ build:
         name: make build directory
         code: |
           mkdir -p build
+          chmod -R 777 build
     - script:
         name: generate site
         code: |
