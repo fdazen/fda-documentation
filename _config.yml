@@ -60,3 +60,6 @@ defaults:
     values:
       layout: "post"
       comments: true
+
+prose:
+  media: 'images'
