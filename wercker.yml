@@ -43,11 +43,10 @@ deploy:
     - s3sync:
         source_dir: build/
         delete-removed: true
-        bucket-url: s3://fda-documentation/
+        bucket-url: s3://docs.frontdeskanywhere.net/
         key-id: $AWS_ACCESS_KEY_ID
         key-secret: $AWS_SECRET_ACCESS_KEY 
     - script:
         name: sync
         code: |
-            s3cmd sync --acl-public --delete-removed --verbose ./build s3://fda-documentation/
-          
+            s3cmd sync --acl-public --delete-removed --verbose ./build s3://docs.frontdeskanywhere.net/
