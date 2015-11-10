@@ -54,7 +54,7 @@ entries:
           product: all
           version: all
           
-		- title: Introduction Test
+        - title: Introduction Test
           url: /index.html
           audience: writers, designers
           platform: all
