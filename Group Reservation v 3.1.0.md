@@ -4,11 +4,12 @@ Creating a multiple rooms reservation for small or large groups is easy in Front
   - Begin by clicking on the blue button _NEW GROUP_ on top of your Tape Chart:   
   ![]()        
   - A new window will pop up: insert the Group Name in the first field, and select the Source and Market from the available options in the second and last field. Once done, click on the blue button _NEXT_:      
-    ![](http://screencast.com/t/OgwJYFrJimage)     
+  ![](http://screencast.com/t/OgwJYFrJimage)     
     
 ##**Step 2.** Choose the group’s stay date and the room information     
+     
    - Using the two scroll down calendars, select the check-in and check-out dates of the group. If you need shoulder dates, or if part of the group is staying longer/shorter, you will be able to adjust details in the next step.    
-        ![](http://screencast.com/t/sitzNAykMbimage)        
+   ![](http://screencast.com/t/sitzNAykMbimage)        
    - Choose the room type of your choice by selecting the right option from the respective scroll down menu: if your group has booked more room types, you will be given the option to add more rooms once **Step_Step 2**2_ is completed:   
    ![](http://screencast.com/t/dDygprZ2O0Himage)   
 
