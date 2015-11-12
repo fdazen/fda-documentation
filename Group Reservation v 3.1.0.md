@@ -81,17 +81,10 @@ When ready, you can click on the button **Next** to go to the next step.
 
 ##**Step 6.** Group Rules   
 
-Group Rules are used to set up group payments: from this panel you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group together charges, and so on. When a group is created, all charges are, by default, transferred to one reservation folio, which represents the group's leader. If you want to changemkiy   
-- You will be now looking at your Group Reservation:.   
-![](http://screencast.com/t/j9DthBG1ET2limage)   
-- Under the column ‘Balance’ you will notice that the first reservation in the list has, by default, all of  the group’s charges. If you want to change this and set up a different payment arrangement, click on _GROUP RULES_ on the top of the panel   
-![](http://screencast.com/t/q2tk8p1ql)   
-- The **Rule Set 1** is the
- 
-   
- 
-        
-   
- 
- 
- 
+Group Rules are used to set up group payments: you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group chargestogether, and so on. When a group is created, all charges are by default transferred to one reservation folio, which represents the group's leader. If you want to distribute charges differently, you will need to modify the Group Rules.   
+
+- Open your group reservation:   
+![](13.png]({{site.baseurl}}/images/13.png)   
+
+- Click on **Group Rules** on the top of the panel:   
+![](14.png]({{site.baseurl}}/images/14.png)
