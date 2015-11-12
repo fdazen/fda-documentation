@@ -94,4 +94,18 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 **Folio(s) to Transfer Charges From**: the option _All Folios_ is selected in the default rule, meaning that charges from all the group reservation folios will be transferred. Unchecking the box will enable you to select the charges of those folio(s) you want to transfer:   
 
-![](17.png]({{site.baseurl}}/images/17.png)
+![](17.png]({{site.baseurl}}/images/17.png)   
+
+**Folio to Transfer Charges to**: from the scroll down menu, sleect what folio is to receive the charges:   
+
+![](18.png]({{site.baseurl}}/images/18.png)   
+
+**Percentage to Be Paid**: insert the percentage you wish to transfer from the selected folios:   
+
+![](20.png]({{site.baseurl}}/images/20.png)   
+
+- Click on the button _Save_ to save your work. You will be prompted to choose whether to override the existing rule (_Rule Set 1_), or to simply save the new rule:   
+
+![](21.png]({{site.baseurl}}/images/21.png)   
+
+Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.   
