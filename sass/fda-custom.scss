@@ -12,8 +12,18 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 
 // Layout
 
+// switch out main navbar bg color
 .navbar{
 	&.fda-doc-nav{
 		background-color: $fda-header-gray;
+	}
+}
+
+// switch out side bar active links
+.nav{
+	> li.active{
+		> a{
+			background-color: $brand-primary;
+		}
 	}
 }
