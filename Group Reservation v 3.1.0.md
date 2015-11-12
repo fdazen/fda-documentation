@@ -30,46 +30,57 @@ or you can click on the circle box _Fixed Price Edit_ to change the total rate f
      
 Click on the yellow button **Update** to save your changes.   
  
-   - Choose how you want to assign rooms for this group. You will have three options:    
-![](http://screencast.com/t/XgZGocduABmimage)   
-        
-   
-**Auto Assign** will make the system automatically assign the rooms among the ones available.   
+   - Choose how you want to assign rooms for this group.   
+   You will have three options:    
+![](7.png]({{site.baseurl}}/images/7.png)   
+
+**Auto Assign** will have the system automatically assign the rooms among the ones available.   
 **Unassign** will create the group without any room assignment.   
-**Manual Assign** will enable you to choose the rooms among the ones available.    
- 
-Select your option and click on the blue button _ADD ROOMS_.   
+**Manual Assign** will enable you to choose the rooms among the ones available.   
+
+Select your option and click on the blue button **Add Rooms**.   
+
 ##**Step 3.** Manual Assignment (skip to Step 4 if not applicable)   
 - If you chose the Manual Assignment option, the following panel will pop-up:   
-![](http://screencast.com/t/ZqhT7cmglOeimage)   
- 
-Make your choice and click on the button _SELECT_ when done. 
-![](http://screencast.com/t/SVCU4tmIYlLU)   
-Click on the blue button _ADD ROOMS_.      
+![](8.png]({{site.baseurl}}/images/8.png)   
+
+Make your choice and click on the button **Select** when done:   
+
+![](9.png]({{site.baseurl}}/images/9.png)   
+
+Click on the blue button **Add Rooms*.   
+
 ##**Step 4.** Select Group Reservation Status   
-- Once the rooms are added, there will appear a brief summary ofand the group details: you will now need to choose the group reservation status:   
-     ![](http://screencast.com/t/GMROugMebimage)     
- 
+
+- Once the rooms are added, there will appear a brief summary of the group details: you will now need to choose the group reservation status.   
+
+![](10.png]({{site.baseurl}}/images/10.png)   
+
 Choose:   
+
 **Reserve** if you want to finalize the reservation as reserved   
 **Hold** if you want to hold rooms for the group without fully reserving them      
 **Block / DNR** if you want to take the rooms out of your current inventory   
+
 - If you choose to hold rooms, you will be given two options:   
-![](http://screencast.com/t/XmIMTeBOimage)   
- 
-If you select a _ManualManual Release_Release for the rooms, the rooms will stay inas aHolds Hold status until you manually change the status in the Group Folio.   
- 
-If you select _AutomaticAutomatic Release_Release, you will need to choose a certain date from the scroll down calendar: the system will automatically release the rooms on that date, if the latter have not been reserved up to then.   
+![](![11.png]({{site.baseurl}}/images/11.png)   
+
+If you select a _Manual Release_ for the rooms, the rooms will stay in a Hold status until you manually change the status within the Group Folio.   
+
+If you select _Automatic Release_ you will need to choose a certain date from the scroll down calendar: the system will automatically release the rooms on that date, if the latter have not been reserved up to then.   
+
 ##**Step 5.**  Removing a room from the Room Queue   
 - If you made a mistake and reserved too many rooms, you can remove the extra ones by clicking on the button _Remove_:‘Remove’:   
-![](http://screencast.com/t/QQtZbA5hsimage)   
- 
-- Select the number of rooms you wish to remove and click on the blue button _SAVE_.   
- 
-When ready, you can click on the button _NEXT_ to go to the next step.   
- 
-**NOTE**: If you wish to add more room types to the reservation, you will need to go repeat all steps from **Step 2**   
+![](12.png]({{site.baseurl}}/images/12.png)   
+
+- Select the number of rooms you wish to remove and click on the blue button **Save**.   
+
+When ready, you can click on the button **Next** to go to the next step.   
+
+**NOTE**: If you wish to add more room types to the reservation, you will need to repeat **Step 2**.   
+
 ##**Step 6.** Group Rules   
+
 Group Rules are used to set up group payments: from this panel you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group together charges, and so on. When a group is created, all charges are, by default, transferred to one reservation folio, which represents the group's leader. If you want to changemkiy   
 - You will be now looking at your Group Reservation:.   
 ![](http://screencast.com/t/j9DthBG1ET2limage)   
