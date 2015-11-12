@@ -5,8 +5,15 @@ $brand-success:         #23de90 !default; //#5cb85c !default;
 $brand-info:            #5bc0de !default;
 $brand-warning:         #F6CD4E !default;
 $brand-danger:          #f69679 !default;
+$fda-header-gray:		 #424242 !default;
 
 $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
-.header_stuff{
-	font-weight: bold;
+
+
+// Layout
+
+.navbar{
+	&.fda-doc-nav{
+		background-color: $fda-header-gray;
+	}
 }
