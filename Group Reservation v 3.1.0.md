@@ -110,10 +110,11 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.   
 
-#**Step 7**. Group Bulk Updates   
+#**Step 7**. Group Operations   
 
-From the group folio, you are able to perform bulk operations, like change the status of the group reservation or edit the name for individual reservations.   
+From the group folio, you are able to perform bulk operations, like change the status of the group reservation or edit the name for individual reservations.  
 
+###**BULK UPDATES**
 - In the Group Folio, click on the tab _Details_:   
 
 ![](22.png]({{site.baseurl}}/images/22.png)   
@@ -122,4 +123,24 @@ From the group folio, you are able to perform bulk operations, like change the s
 
 ![](24.png]({{site.baseurl}}/images/24.png)   
 
-In the example, the current folios status is _Reserved_; hence the available operations are _Check-in_ and _No-Show_ (if the group's arrival is today's date), and _Cancel_. If the current status of the folio was _Hold_, then there would also be a _Reserved_ option, if the current status was _Checked-in_, then a _Check-out_ option would be there, and so on.
+In the example, the current folios status is _Reserved_; hence the available operations are _Check-in_ and _No-Show_ (if the group's arrival is today's date), and _Cancel_. If the current status of the folio was _Hold_, then there would also be a _Reserved_ option, if the current status was _Checked-in_, then a _Check-out_ option would be there, and so on.   
+
+- To perform a bulk operation, select the folios by checking the boxes on the left side, and click on the operation you would like to perform:   
+
+![](25.png]({{site.baseurl}}/images/25.png)  
+
+###**EDIT/CHANGE SINGLE RESERVATION FOLIO**  
+
+- If you want to assign names to the single reservations that are part of the group, you can click on the button _Edit_ on the right hand side of each folio:  
+
+![](26.png]({{site.baseurl}}/images/26.png)  
+
+- If you want to change an existing guest (i.e. substitute an existing guest profile), then click on the button _Change_ on the right hand side of a folio.  
+
+###**ACCESS SINGLE FOLIO WITHIN A GROUP**
+
+You can easily access each of the folios that are part of a group directly from the Group Reservation folio.  
+
+- To access a reservation that is part of a group, click on the reservation number on the left hand side of each folio:  
+
+![](27.png]({{site.baseurl}}/images/27.png)
