@@ -108,9 +108,16 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 ![](21.png]({{site.baseurl}}/images/21.png)   
 
-Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.   
+Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.  
 
-#**Step 7**. Group Operations   
+#**Step 7**. Transferring Charges to a Company Profile  
+
+You can transfer charges to any Guest or Company profile. This is a two-step process, and you will need to make sure that the profile you wish to transfer charges to is currently existing in the system.  
+
+1. Transfer the charges you wish to one reservation folio. If you do not remember how to, check out section **Group Rules**.  
+
+
+#**Step 8**. Group Operations   
 
 From the group folio, you are able to perform bulk operations, like change the status of the group reservation or edit the name for individual reservations.  
 
