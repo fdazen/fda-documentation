@@ -2,6 +2,6 @@
   background-color: #424242; }
 
 .nav > li.active > a {
-  background-color: #0ab0d1; }
+  background-color: #0ab0d1 !important; }
 
 /*# sourceMappingURL=fda-custom.css.map */

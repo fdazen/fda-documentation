@@ -23,7 +23,7 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 .nav{
 	> li.active{
 		> a{
-			background-color: $brand-primary;
+			background-color: $brand-primary !important;
 		}
 	}
 }
