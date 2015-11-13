@@ -1,4 +1,4 @@
-// Variables
+// Variables ====== //
 
 $brand-primary:         #0ab0d1 !default;
 $brand-success:         #23de90 !default; //#5cb85c !default;
@@ -10,7 +10,7 @@ $fda-header-gray:		 #424242 !default;
 $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 
 
-// Layout
+// Layout ====== //
 
 // switch out main navbar bg color
 .navbar{
@@ -26,4 +26,10 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 			background-color: $brand-primary !important;
 		}
 	}
+}
+
+// fda-logo
+.fda-logo{
+	display: inline-block;
+	background: url(../images/fda_logo_new.svg) no-repeat center center;
 }

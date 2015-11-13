@@ -4,4 +4,8 @@
 .nav > li.active > a {
   background-color: #0ab0d1 !important; }
 
+.fda-logo {
+  display: inline-block;
+  background: url(../images/fda_logo_new.svg) no-repeat center center; }
+
 /*# sourceMappingURL=fda-custom.css.map */
