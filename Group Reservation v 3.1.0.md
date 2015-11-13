@@ -1,6 +1,6 @@
 #** MULTIPLE ROOMS RESERVATION ** 
 Creating a multiple rooms reservation for small or large groups is easy in Frontdesk Anywhere: from only one panel you are able to streamline the reservation process, manage booking status, set up payment rules and print/send group messages.       
-##**Step 1.** New Group      
+##**Step 1. New Group**      
   - Begin by clicking on the blue button _NEW GROUP_ on top of your Tape Chart:   
   
   ![](1.png]({{site.baseurl}}/images/1.png)     
@@ -9,7 +9,7 @@ Creating a multiple rooms reservation for small or large groups is easy in Front
   
     ![](2.png]({{site.baseurl}}/images/2.png)       
  
-##**Step 2.** Choose the group’s stay date and the room information     
+##**Step 2. Choose the group’s stay date and the room information**     
    - Using the two scroll down calendars, select the check-in and check-out dates of the group. If you need shoulder dates, or if part of the group is staying longer/shorter, you will be able to adjust details in the next step.   
    
    ![](3.png]({{site.baseurl}}/images/3.png)   
@@ -40,7 +40,7 @@ Click on the yellow button **Update** to save your changes.
 
 Select your option and click on the blue button **Add Rooms**.   
 
-##**Step 3.** Manual Assignment (skip to Step 4 if not applicable)   
+##**Step 3. Manual Assignment (skip to Step 4 if not applicable)**   
 - If you chose the Manual Assignment option, the following panel will pop-up:   
 ![](8.png]({{site.baseurl}}/images/8.png)   
 
@@ -50,7 +50,7 @@ Make your choice and click on the button **Select** when done:
 
 Click on the blue button **Add Rooms*.   
 
-##**Step 4.** Select Group Reservation Status   
+##**Step 4. Select Group Reservation Status**   
 
 - Once the rooms are added, there will appear a brief summary of the group details: you will now need to choose the group reservation status.   
 
@@ -63,13 +63,13 @@ Choose:
 **Block / DNR** if you want to take the rooms out of your current inventory   
 
 - If you choose to hold rooms, you will be given two options:   
-![](![11.png]({{site.baseurl}}/images/11.png)   
+![](11.png]({{site.baseurl}}/images/11.png)   
 
 If you select a _Manual Release_ for the rooms, the rooms will stay in a Hold status until you manually change the status within the Group Folio.   
 
 If you select _Automatic Release_ you will need to choose a certain date from the scroll down calendar: the system will automatically release the rooms on that date, if the latter have not been reserved up to then.   
 
-##**Step 5.**  Removing a room from the Room Queue   
+##**Step 5. Removing a room from the Room Queue**   
 - If you made a mistake and reserved too many rooms, you can remove the extra ones by clicking on the button _Remove_:‘Remove’:   
 ![](12.png]({{site.baseurl}}/images/12.png)   
 
@@ -79,7 +79,7 @@ When ready, you can click on the button **Next** to go to the next step.
 
 **NOTE**: If you wish to add more room types to the reservation, you will need to repeat **Step 2**.   
 
-##**Step 6.** Group Rules   
+##**Step 6. Group Rules**   
 
 Group Rules are used to set up group payments: you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group chargestogether, and so on. When a group is created, all charges are by default transferred to one reservation folio, which represents the group's leader. If you want to distribute charges differently, you will need to modify the Group Rules.   
 
@@ -110,14 +110,34 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.  
 
-#**Step 7**. Transferring Charges to a Company Profile  
+#**Step 7. Transferring Charges to a Company (Direct Billing)**  
 
-You can transfer charges to any Guest or Company profile. This is a two-step process, and you will need to make sure that the profile you wish to transfer charges to is currently existing in the system.  
+You can transfer charges to any Guest or Company profile. This is a step-by-step process, and you will need to make sure that the profile you wish to transfer charges to is currently existing in the system. Also, you will need to make sure that an Invoice is created for that profile.  
 
-1. Transfer the charges you wish to one reservation folio. If you do not remember how to, check out section **Group Rules**.  
+ 1. Transfer the charges you wish to one reservation folio. If you do not remember how to, check out section **Group Rules**.  
+
+ 2. Access the folio that bears all charges to transfer by clicking on the correspondent folio number in the panel _Details_ :  
+ 
+  ![](29.png]({{site.baseurl}}/images/29.png)
+ 
+ 3. Go into the _Payments_ section of the folio that received all the charges to transfer:  
+ 
+ ![](30.png]({{site.baseurl}}/images/30.png)  
+
+ 4. In the payments panel, click on the scroll down menu _Uninvoiced Transactions_ and select all charges you wish yo transfer:  
+ 
+ ![](31.png]({{site.baseurl}}/images/31.png)  
+ 
+ 5. On the top right hand side, click on the button _Transfer Charges_; a small search box will appear: type in the name of the Guest Profile you wish to transfer charges to:  
+ 
+ ![](32.png]({{site.baseurl}}/images/32.png)  
+ 
+ 6. For that profile, select the invoice you want to use:  
+ 
+ ![](33.png]({{site.baseurl}}/images/33.png)
 
 
-#**Step 8**. Group Operations   
+#**Step 8. Group Operations**   
 
 From the group folio, you are able to perform bulk operations, like change the status of the group reservation or edit the name for individual reservations.  
 
