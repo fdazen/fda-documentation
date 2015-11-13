@@ -135,4 +135,12 @@ In the example, the current folios status is _Reserved_; hence the available ope
 
 ![](26.png]({{site.baseurl}}/images/26.png)  
 
-- If you want to change existing guest profiles 
+- If you want to change an existing guest (i.e. substitute an existing guest profile), then click on the button _Change_ on the right hand side of a folio.  
+
+###**ACCESS SINGLE FOLIO WITHIN A GROUP**
+
+You can easily access each of the folios that are part of a group directly from the Group Reservation folio.  
+
+- To access a reservation that is part of a group, click on the reservation number on the left hand side of each folio:  
+
+![](27.png]({{site.baseurl}}/images/27.png)
