@@ -6,7 +6,7 @@ product: all
 platform: all
 version: all
 destination: ../doc_designers
-topnav_title: Frontdesk Anywhere Documentation
+topnav_title: Documentation
 homepage_title: Frontdesk Anywhere Documentation &mdash; Designers
 site_title: Frontdesk Anywhere Documentation &mdash; Designers
 disqus_shortname: idrbwjekyll
