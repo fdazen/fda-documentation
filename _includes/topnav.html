@@ -26,9 +26,9 @@
                 {% if subcategory.external_url %}
                 <li><a href="{{subcategory.external_url}}" target="_blank">{{subcategory.title}}</a></li>
                 {% elsif page.url == subcategory.url %}
-            <!--     <li class="active"><a href="{{subcategory.url | replace: "/",""}}">{{subcategory.title}}</a></li> -->
+                <li class="active"><a href="{{subcategory.url | replace: "/",""}}">{{subcategory.title}}</a></li>
                 {% else %}
-             <!--    <li><a href="{{subcategory.url | replace: "/",""}}">{{subcategory.title}}</a></li> -->
+                <li><a href="{{subcategory.url | replace: "/",""}}">{{subcategory.title}}</a></li>
                 {% endif %}
                 {% endif %}
                 {% endfor %}
