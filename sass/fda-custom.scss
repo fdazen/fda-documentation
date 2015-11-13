@@ -30,8 +30,9 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 
 // fda-logo
 .fda-logo{
-	background: url(../images/fda_logo.png) no-repeat center center;
+	background: url(../images/fda_logo.png) no-repeat center left;
 	width: 200px;
 	height: 50px;
+	background-size: 125px;
 }
 
