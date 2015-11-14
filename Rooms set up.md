@@ -9,4 +9,20 @@ Let's start by creating the amenities that are available in your rooms. Make sur
 
   - In the Admin Settings, click on the link **Room Amenities**:
   
-  ![](1.png]({{site.baseurl}}/images/1.png)
+  ![](1.png]({{site.baseurl}}/images/1.png)  
+  
+  - You will see a list of some defaulted amenities.
+ 
+   ![](![2.png]({{site.baseurl}}/images/2.png)
+  
+  - Before creating new ones, you can first edit those that you do not need, as this will make your account cleaner. For example, if you do not offer a laundry service in any of the rooms, but you offer a complimentary bathrobe, you will need to edit the laundry service and turn it into a bathrobe. To do this, click on the blue link _Edit_ on the corresponding row:
+  
+  ![](4.png]({{site.baseurl}}/images/4.png)
+    
+  - Edit the name in the _Amenity Title_ field:
+  
+  ![](5.png]({{site.baseurl}}/images/5.png)
+
+  
+  
+
