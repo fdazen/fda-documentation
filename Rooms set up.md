@@ -19,9 +19,19 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
   ![](4.png]({{site.baseurl}}/images/4.png)
     
-  - Edit the name in the _Amenity Title_ field:
+  - Edit the name in the _Amenity Title_ field, and click on the **Save** button when done.
   
   ![](5.png]({{site.baseurl}}/images/5.png)
+  
+  - To add a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
+  
+  ![](6.png]({{site.baseurl}}/images/6.png)
+  
+  
+  ![](7.png]({{site.baseurl}}/images/7.png)
+
+  
+  
 
   
   
