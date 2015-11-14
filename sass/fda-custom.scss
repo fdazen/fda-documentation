@@ -37,7 +37,7 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 }
 
 // sidebar nav
-.fda-doc-nav{
+#mysidebar{ // <-- using id because classes get over written on load
 	> h3{
 		font-size: 180%;
 		margin: 0;
@@ -47,4 +47,5 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 .sidebar-version{
 	padding: 0 !important;
 	color: #888888;
+	font-family: "Helvetica", sans-serif !important;
 }
