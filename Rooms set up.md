@@ -28,12 +28,8 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   ![](6.png]({{site.baseurl}}/images/6.png)
   
   
-  ![](7_001.png]({{site.baseurl}}/images/7_001.png)
-
-
+  ![](7_001.png]({{site.baseurl}}/images/7_001.png)   
   
+  - To deactivate an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
   
-
-  
-  
-
+  ![](8.png]({{site.baseurl}}/images/8.png)
