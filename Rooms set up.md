@@ -13,7 +13,7 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
   - You will see a list of some defaulted amenities.
  
-   ![](![2.png]({{site.baseurl}}/images/2.png)
+   ![](2.png]({{site.baseurl}}/images/2.png)
   
   - Before creating new ones, you can first edit those that you do not need, as this will make your account cleaner. For example, if you do not offer a laundry service in any of the rooms, but you offer a complimentary bathrobe, you will need to edit the laundry service and turn it into a bathrobe. To do this, click on the blue link _Edit_ on the corresponding row:
   
@@ -28,7 +28,8 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   ![](6.png]({{site.baseurl}}/images/6.png)
   
   
-  ![](7.png]({{site.baseurl}}/images/7.png)
+  ![](7_001.png]({{site.baseurl}}/images/7_001.png)
+
 
   
   
