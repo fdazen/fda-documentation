@@ -10,4 +10,12 @@
   height: 50px;
   background-size: 125px; }
 
+.fda-doc-nav > h3 {
+  font-size: 180%;
+  margin: 0; }
+
+.sidebar-version {
+  padding: 0 !important;
+  color: #888888; }
+
 /*# sourceMappingURL=fda-custom.css.map */

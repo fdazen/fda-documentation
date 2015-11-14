@@ -40,10 +40,10 @@
 
         {% include custom/conditions.html %}
 
-        <ul id="mysidebar" class="nav">
+        <ul id="mysidebar" class="nav fda-doc-nav">
 
             <h3>{{site.topnav_title}}</h3>
-            <span class="versionTagline">{{site.sidebar_version}}</span>
+            <span class="label sidebar-version">{{site.sidebar_version}}</span>
 
             {% for entry in sidebar %}
             {% for subcategory in entry.subcategories %}
