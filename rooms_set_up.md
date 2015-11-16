@@ -40,6 +40,7 @@ The same small window will pop-up: edit the name and click on the button _Save_ 
 
 ![](14.png]({{site.baseurl}}/images/14.png)
 
+
 - **HOW TO USE FLOORS**: When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ in order to have your rooms grouped by floors.
 
 ![](15.png]({{site.baseurl}}/images/15.png)
