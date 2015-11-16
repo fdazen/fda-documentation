@@ -47,7 +47,7 @@ entries:
 
       items:
 
-        - title: Introduction
+        - title: Group Reservations
           url: /index.html
           audience: writers, designers
           platform: all
@@ -62,7 +62,7 @@ entries:
           version: all
 
         - title: Group Reservations
-          url: /group_reservation_v_3.1.0.html
+          url: /group_reservation.html
           audience: writers, designers
           platform: all
           product: all
