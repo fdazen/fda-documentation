@@ -112,4 +112,18 @@ A room class is a general concept referring to any extra organisazional level yo
 
 ##**Room Types**   
 
-We have now come to the point of building your hotel's room types: as we understand it, a room 'type' is defined by the occupancy level, its position in the bulding and the type of amenities it offers. For example, common room types are 'King'
+We have now come to the point of building your hotel's room types: as we understand it, a room 'type' is defined by the occupancy level, its position in the bulding and the type of amenities it offers. For example, common room types are 'King', 'Queen', 'Twin', and so on.  
+
+ - Start by clicking on the link **Room Types** under section _Rooms_ in the Admin Settings:  
+ 
+ ![](25.png]({{site.baseurl}}/images/25.png)  
+ 
+ - To create a new room type, click on the blue button _Add a Room Type_:  
+ 
+ ![](24.png]({{site.baseurl}}/images/24.png)  
+ 
+ - Fill up the fields with the requested infromation: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
+ 
+ ![](26.png]({{site.baseurl}}/images/26.png)
+
+
