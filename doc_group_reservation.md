@@ -8,6 +8,7 @@ summary: Labels are just a simple Bootstrap component that you can include in yo
 published: true
 ---
 
+
 #** MULTIPLE ROOMS RESERVATION ** 
 Creating a multiple rooms reservation for small or large groups is easy in Frontdesk Anywhere: from only one panel you are able to streamline the reservation process, manage booking status, set up payment rules and print/send group messages.       
 ##**Step 1. New Group**      
@@ -180,4 +181,5 @@ You can easily access each of the folios that are part of a group directly from 
 
 - To access a reservation that is part of a group, click on the reservation number on the left hand side of each folio:  
 
-![](27.png]({{site.baseurl}}/images/27.png)
+![27.png]({{site.baseurl}}/images/27.png)
+
