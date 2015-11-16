@@ -16,6 +16,7 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 .navbar{
 	&.fda-doc-nav{
 		background-color: $fda-header-gray;
+		border: 0;
 	}
 }
 

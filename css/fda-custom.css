@@ -1,5 +1,6 @@
 .navbar.fda-doc-nav {
-  background-color: #424242; }
+  background-color: #424242;
+  border: 0; }
 
 .nav > li.active > a {
   background-color: #0ab0d1 !important; }
