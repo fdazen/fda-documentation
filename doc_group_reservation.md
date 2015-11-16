@@ -1,3 +1,11 @@
+---
+title: Group Reservations
+tags: [formatting]
+keywords: labels, buttons, bootstrap, api methods
+last_updated: August 12, 2015
+summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
+---
+
 #** MULTIPLE ROOMS RESERVATION ** 
 Creating a multiple rooms reservation for small or large groups is easy in Frontdesk Anywhere: from only one panel you are able to streamline the reservation process, manage booking status, set up payment rules and print/send group messages.       
 ##**Step 1. New Group**      
