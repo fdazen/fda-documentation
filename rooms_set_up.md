@@ -105,5 +105,9 @@ A room class is a general concept referring to any extra organisazional level yo
  
  ![](21.png]({{site.baseurl}}/images/21.png)
 
+ - **HOW TO USE CLASSES**: When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by CLass_ in order to have your rooms grouped by classes:  
+ 
+ ![](23.png]({{site.baseurl}}/images/23.png)
+
 
 
