@@ -1,5 +1,5 @@
 ---
-title: group_reservations
+title: Group Reservations
 tags: 
   - formatting
 keywords: "labels, buttons, bootstrap, api methods"
