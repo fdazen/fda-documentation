@@ -78,4 +78,16 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
   ![](8.png]({{site.baseurl}}/images/8.png)
   
-  ##
+##**3. Room Classes**##   
+
+A room class is a general concept referring to any extra organisazional level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as buildings and easily check for availability.  
+
+ - Start by clicking on the link _Room Classes_ in the Admin Settings:  
+ 
+ ![](16.png]({{site.baseurl}}/images/16.png)
+
+ - You can create a new class by clicking on the blue button _Add a Class_:   
+ 
+ ![](17.png]({{site.baseurl}}/images/17.png)
+
+  
