@@ -20,9 +20,24 @@ Let's start by set up the number of floors in your property. This is important a
 
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
  
- ![](11.png]({{site.baseurl}}/images/11.png)
+ ![](11.png]({{site.baseurl}}/images/11.png)  
+ 
+ Click on the blue button _Save_ when done.  
+ NOTE: you can either number your floors (1,2,3, etc.) or name them (First, Second, etc).  
+ 
+###**FLOOR OPERATIONS**
+ - To edit a floor, click on the blue link **Edit** in the relevant row:
 
-##**1. Amenities**
+![](12.png]({{site.baseurl}}/images/12.png)  
+The same small window will pop-up: edit the name and click on the button _Save_ when done.  
+
+- To deactivate a floor, uncheck the box under the column _Status_ for the relevant row:  
+
+![](13.png]({{site.baseurl}}/images/13.png)
+
+
+
+##**2. Amenities**
 
 Let's start by creating the amenities that are available in your rooms. Make sure to create all of the amenities, independently of the type or room level in which they appear.   
 
