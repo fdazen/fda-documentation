@@ -78,9 +78,10 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
   ![](8.png]({{site.baseurl}}/images/8.png)
   
-##**3. Room Classes**##   
+##**3. Room Classes**
 
 A room class is a general concept referring to any extra organisazional level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as buildings and easily check for availability.  
+**Note**: a class is different from a room _type_. If you do not need classes and types suffice, then you can skip to the section Room Types
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
@@ -109,5 +110,6 @@ A room class is a general concept referring to any extra organisazional level yo
  
  ![](23.png]({{site.baseurl}}/images/23.png)
 
+##**Room Types**   
 
-
+We have now come to the point of building your hotel's room types: as we understand it, a room 'type' is defined by the occupancy level, its position in the bulding and the type of amenities it offers. For example, common room types are 'King'
