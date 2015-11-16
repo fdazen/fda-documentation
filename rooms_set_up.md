@@ -25,15 +25,25 @@ Let's start by set up the number of floors in your property. This is important a
  Click on the blue button _Save_ when done.  
  NOTE: you can either number your floors (1,2,3, etc.) or name them (First, Second, etc).  
  
-###**FLOOR OPERATIONS**
- - To edit a floor, click on the blue link **Edit** in the relevant row:
+###**Floor Operations**   
+
+ - **EDIT**: To edit a floor, click on the blue link _Edit_ in the relevant row:
 
 ![](12.png]({{site.baseurl}}/images/12.png)  
 The same small window will pop-up: edit the name and click on the button _Save_ when done.  
 
-- To deactivate a floor, uncheck the box under the column _Status_ for the relevant row:  
+ - **DEACTIVATE**: To deactivate a floor, uncheck the box under the column _Status_ for the relevant row:  
 
-![](13.png]({{site.baseurl}}/images/13.png)
+![](13.png]({{site.baseurl}}/images/13.png)   
+
+- **DELETE**: Select the floor you want to delete by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
+
+![](14.png]({{site.baseurl}}/images/14.png)
+
+
+- **HOW TO USE FLOORS**: When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ in order to have your rooms grouped by floors.
+
+![](15.png]({{site.baseurl}}/images/15.png)
 
 
 
@@ -68,4 +78,36 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
   ![](8.png]({{site.baseurl}}/images/8.png)
   
-  ##
+##**3. Room Classes**##   
+
+A room class is a general concept referring to any extra organisazional level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as buildings and easily check for availability.  
+
+ - Start by clicking on the link _Room Classes_ in the Admin Settings:  
+ 
+ ![](16.png]({{site.baseurl}}/images/16.png)
+
+ - You can create a new class by clicking on the blue button _Add a Class_ and a small window will pop up: type in the name of the class you wish to create and click on the blue button _Save_
+ 
+ ![](18.png]({{site.baseurl}}/images/18.png)  
+ 
+ ###**Room Classes Operations**   
+
+ - **EDIT**: to edit a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
+ 
+ ![](19.png]({{site.baseurl}}/images/19.png)  
+ Insert the updated name and click on the button _Save_  
+ 
+ - **DELETE**: check the box on the left side of the class you wish to erase, and click on the blue button _Delete Selected Class_:  
+ 
+ ![](20.png]({{site.baseurl}}/images/20.png)  
+ 
+ - **DEACTIVATE**: uncheck the box under column _Status_ relevant to the class you wish to make inactive:  
+ 
+ ![](21.png]({{site.baseurl}}/images/21.png)
+
+ - **HOW TO USE CLASSES**: When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by CLass_ in order to have your rooms grouped by classes:  
+ 
+ ![](23.png]({{site.baseurl}}/images/23.png)
+
+
+
