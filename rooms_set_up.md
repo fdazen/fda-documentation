@@ -8,7 +8,19 @@ summary: "hotel room structure set up"
 #**Rooms Set Up**   
 
 Setting up your rooms on your Frontdesk Anywhere is a good way to start building your account and make it look as familiar as your hotel. This operation involves not only creating rooms, but also building amentities, define the levels you wish to have rooms organize, load pictures and much more.   
-In the sections below we will teach you the best ways to reproduce your hotel room structure in your account.
+In the sections below you will learn the best ways to create your hotel room structure.
+
+##**1. Floors**  
+
+Let's start by set up the number of floors in your property. This is important as you will be able to group your rooms by the floor they are on!  
+
+ - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
+
+ ![](9.png]({{site.baseurl}}/images/9.png)  
+
+ - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
+ 
+ ![](11.png]({{site.baseurl}}/images/11.png)
 
 ##**1. Amenities**
 
@@ -40,3 +52,5 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   - To deactivate an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
   
   ![](8.png]({{site.baseurl}}/images/8.png)
+  
+  ##
