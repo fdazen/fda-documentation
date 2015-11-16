@@ -99,6 +99,11 @@ A room class is a general concept referring to any extra organisazional level yo
  
  - **DELETE**: check the box on the left side of the class you wish to erase, and click on the blue button _Delete Selected Class_:  
  
- ![](20.png]({{site.baseurl}}/images/20.png)
+ ![](20.png]({{site.baseurl}}/images/20.png)  
+ 
+ - **DEACTIVATE**: uncheck the box under column _Status_ relevant to the class you wish to make inactive:  
+ 
+ ![](21.png]({{site.baseurl}}/images/21.png)
+
 
 
