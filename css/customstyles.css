@@ -241,6 +241,7 @@ ul#results-container a: hover {
   box-sizing: border-box;
   float: right;
   margin-top:7px;
+  border: transparent !important;
   }
 /* end search */
 

@@ -50,3 +50,21 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 	color: #888888 !important;
 	font-family: "Helvetica", sans-serif !important;
 }
+
+#search-input{
+	::-webkit-input-placeholder {
+	   color: rgba(0,0,0,0.7);
+	}
+
+	:-moz-placeholder { /* Firefox 18- */
+	   color: rgba(0,0,0,0.7);  
+	}
+
+	::-moz-placeholder {  /* Firefox 19+ */
+	   color: rgba(0,0,0,0.7);  
+	}
+
+	:-ms-input-placeholder {  
+	   color: rgba(0,0,0,0.7);  
+	}
+}

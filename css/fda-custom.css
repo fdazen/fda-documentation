@@ -20,4 +20,15 @@
   color: #888888 !important;
   font-family: "Helvetica", sans-serif !important; }
 
+#search-input ::-webkit-input-placeholder {
+  color: rgba(0, 0, 0, 0.7); }
+#search-input :-moz-placeholder {
+  /* Firefox 18- */
+  color: rgba(0, 0, 0, 0.7); }
+#search-input ::-moz-placeholder {
+  /* Firefox 19+ */
+  color: rgba(0, 0, 0, 0.7); }
+#search-input :-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0.7); }
+
 /*# sourceMappingURL=fda-custom.css.map */
