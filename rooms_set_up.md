@@ -222,6 +222,7 @@ Complete the rest of the information by selecting the right option from the scro
  
  - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specifc room:  
  
+<<<<<<< HEAD
  ![](44.png]({{site.baseurl}}/images/44.png)  
  
  ##**Order Room Types**  
@@ -257,3 +258,6 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 
 
 
+=======
+ ![](44.png]({{site.baseurl}}/images/44.png)
+>>>>>>> c7644e4379f90659681490ce930a39555fd87615
