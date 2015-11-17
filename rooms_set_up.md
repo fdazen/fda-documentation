@@ -232,8 +232,8 @@ Complete the rest of the information by selecting the right option from the scro
  
  ![](49.png]({{site.baseurl}}/images/49.png)  
  
- - You will see a list of all your newly created room types, each one with an editable box on the right hand side: insert a numeric value in each box, according to the progressive order you want your room types to show up on the Tape Chart:  
+ - You will see a list of all your newly created room types, each one with an editable box on the right hand side. Insert a numeric value in each box, according to the progressive order you want your room types to show up on the Tape Chart and click on the blue button _Save_:  
  
  ![](50.png]({{site.baseurl}}/images/50.png)
 
-
+**Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system: this will ensure a proper refresh of the room order.
