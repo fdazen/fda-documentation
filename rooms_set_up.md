@@ -244,6 +244,11 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 
 - In the Admin Settings, click on the blue link **Published Rooms** under section _Rooms_:  
 
-![](52.png]({{site.baseurl}}/images/52.png)
+![](52.png]({{site.baseurl}}/images/52.png)  
+
+- You will see a list of all your room types, and three columns: the **Real** column shows the real availability for each type, meaning hte number of rooms actually created and listed under a type; the **OBA** column shows the number of rooms you have set up in the Overbooking Allowance; the **Total** column shows the sum between the Real and the OBA column. In the example below, no OBAh has been set up, hence the number of Real rooms is equal to the number of Total rooms:  
+
+![](53.png]({{site.baseurl}}/images/53.png)
+
 
 
