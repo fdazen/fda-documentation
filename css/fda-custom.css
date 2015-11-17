@@ -34,4 +34,7 @@
 p + img {
   border: solid 6px rgba(0, 0, 0, 0.04); }
 
+.dropdown.open > a {
+  background: transparent !important; }
+
 /*# sourceMappingURL=fda-custom.css.map */
