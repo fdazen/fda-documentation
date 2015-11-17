@@ -45,3 +45,13 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 ![](![7.png]({{site.baseurl}}/images/7.png)
 
 As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system. 
+
+
+##**Rates Set-Up**  
+
+There are different ways you can create and operate on a rate. Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
+
+ - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
+ 
+ ![](8.png]({{site.baseurl}}/images/8.png)
+
