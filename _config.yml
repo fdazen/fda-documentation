@@ -9,7 +9,7 @@ destination: ../doc_designers
 topnav_title: Documentation
 homepage_title: Frontdesk Anywhere Documentation &mdash; Designers
 site_title: Frontdesk Anywhere Documentation &mdash; Designers
-disqus_shortname: idrbwjekyll
+# disqus_shortname: idrbwjekyll
 google_analytics: 
 github_editme_path: fdazen/fda-documentation
 baseurl: /build
