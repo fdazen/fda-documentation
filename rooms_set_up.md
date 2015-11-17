@@ -236,4 +236,14 @@ Complete the rest of the information by selecting the right option from the scro
  
  ![](50.png]({{site.baseurl}}/images/50.png)
 
-**Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system: this will ensure a proper refresh of the room order.
+**Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system: this will ensure a proper refresh of the room order.  
+
+##**Published Rooms**  
+
+Frontdesk Anywhere allows you to take some rooms off all channels while still enabling you to operate on those rooms on the internal side. This can be handy when you do not want to advertise all of your availability, but prefer keeping a certain number of rooms for yourself or for internal purposes only.  
+
+- In the Admin Settings, click on the blue link **Published Rooms** under section _Rooms_:  
+
+![](52.png]({{site.baseurl}}/images/52.png)
+
+
