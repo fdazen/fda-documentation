@@ -20,5 +20,15 @@ You will see a list of the existing taxes in the system: your Frontdesk Anywhere
 
  - To edit a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
  
- ![](2.png]({{site.baseurl}}/images/2.png)
+ ![](2.png]({{site.baseurl}}/images/2.png)  
+ 
+ - Insert all information requested: 
+ 
+ ![](3.png]({{site.baseurl}}/images/3.png)  
+ 
+  - The tax title will appear in each reservation where the tax is applied, so we advise it to keep the name simple. You will need to choose whether to make the tax a fixed amount or a percentage by clicking on the right circle box:  
+  
+  ![](4.png]({{site.baseurl}}/images/4.png)
+
+
 
