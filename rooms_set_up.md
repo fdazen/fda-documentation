@@ -187,7 +187,12 @@ Depending on whether you wish to enter room names or room numbers, select the ri
 
 If you wish to create room numbers, place the prefix for your rooms and the from/to number value in the boxes, as in the example below:  
 
-![](41.png]({{site.baseurl}}/images/41.png)
+![](41.png]({{site.baseurl}}/images/41.png)  
+
+Complete the rest of the information by selecting the right option from the scroll down menu and click on the blue button _Save_:  
+
+![](42.png]({{site.baseurl}}/images/42.png)
+
 
 
 
