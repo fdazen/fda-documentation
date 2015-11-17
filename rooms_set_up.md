@@ -171,7 +171,17 @@ Your Frontdesk Anywhere account comes with a few rooms already built, and we adv
 
  - Insert the room name or number, the type it belongs to, the floor and the class. Once done, you can click on the blue button _Save_:  
  
- ![](35.png]({{site.baseurl}}/images/35.png)
+ ![](35.png]({{site.baseurl}}/images/35.png)  
+ 
+ - To create a new room, scroll down the list of rooms and click on the button _Add a Room_ and follow the instructions above:  
+ 
+ ![](37.png]({{site.baseurl}}/images/37.png)  
+ 
+ - You can also create multiple rooms at a time: click on the button _Add Multiple Room_ on the bottom of the page:  
+ 
+ ![](38.png]({{site.baseurl}}/images/38.png)
+
+
 
 
 
