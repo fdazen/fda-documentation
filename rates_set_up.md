@@ -40,4 +40,8 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
 ###**TAX OPERATIONS**  
 
-**Erase**: to edit a tax, go back to the tax list and 
+ - **Deactivate**: to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
+
+![](![7.png]({{site.baseurl}}/images/7.png)
+
+As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system. 
