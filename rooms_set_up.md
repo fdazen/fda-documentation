@@ -140,7 +140,9 @@ We have now come to the point of building your hotel's room types: as we underst
  
  Select the amenities you wish to apply to this room type by selecting them among the available ones and by using the arrows to move them from one panel to another: the one under panel _Selected Amenities_ will be the one showing up in the system:  
  
- ![](30.png]({{site.baseurl}}/images/30.png)
+ ![](30.png]({{site.baseurl}}/images/30.png)  
+ 
+ - Finally, select whether this room type has to have a OBA and whether it should be restricted to only certain user levels. The OBA *O*ver*b*ooking *A*llowance
 
 
 
