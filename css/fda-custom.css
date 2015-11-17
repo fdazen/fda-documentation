@@ -4,6 +4,8 @@
 
 .nav > li.active > a {
   background-color: #0ab0d1 !important; }
+.nav > li > a:hover, .nav > li > a:focus {
+  background-color: #0ab0d1 !important; }
 
 .fda-logo {
   background: url(../images/fda_logo.png) no-repeat center left;

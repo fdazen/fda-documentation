@@ -27,6 +27,11 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 			background-color: $brand-primary !important;
 		}
 	}
+	> li > a{
+		&:hover, &:focus{
+			background-color: $brand-primary !important;
+		}
+	}
 }
 
 // fda-logo
