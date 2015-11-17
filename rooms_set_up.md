@@ -1,10 +1,14 @@
 ---
 title: Rooms Set up
-tags: [formatting]
-keywords: rooms, amenities, classes, room types, order rooms
-last_updated: November 16, 2015
-summary: "hotel room structure set up"
----  
+tags: 
+  - formatting
+keywords: "rooms, amenities, classes, room types, order rooms"
+last_updated: "November 16, 2015"
+summary: hotel room structure set up
+published: true
+---
+
+  
 #**Rooms Set Up**   
 
 Setting up your rooms on your Frontdesk Anywhere is a good way to start building your account and make it look as familiar as your hotel. This operation involves not only creating rooms, but also building amentities, define the levels you wish to have rooms organize, load pictures and much more.   
@@ -154,6 +158,12 @@ We have now come to the point of building your hotel's room types: as we underst
 
 If you need more information on _User Levels_, click here.  
 
+**Load Room Type Pictures**  
+
+ - Go back to the Room Types List (Admin Settings - Room Types) and click on the blue link _Images_ on the right hand side of the relevant room type: 
+ 
+  ![](45.png]({{site.baseurl}}/images/45.png)
+
 
 ##**Rooms**  
 
@@ -202,18 +212,3 @@ Complete the rest of the information by selecting the right option from the scro
  - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specifc room:  
  
  ![](44.png]({{site.baseurl}}/images/44.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
