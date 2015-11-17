@@ -152,7 +152,19 @@ We have now come to the point of building your hotel's room types: as we underst
 
 ![](32.png]({{site.baseurl}}/images/32.png)  
 
-If you need more information on _User Levels_, click here.
+If you need more information on _User Levels_, click here.  
+
+
+##**Rooms**  
+
+You can now load in the system all of the rooms at your property, and organize them around the room types, classes and floors you have created.  
+
+- In the Admin Settings, click on the blue link **Rooms** under section _Rooms_:  
+
+![](33.png]({{site.baseurl}}/images/33.png)  
+
+- You will be presented with a list of existing rooms: notice that your Frontdesk Anywhere account comes with a few rooms already built, and we advise to _Edit_ the existing rooms before creating new ones, as rooms cannot be erased once created, but only deactivated. 
+
 
 
 
