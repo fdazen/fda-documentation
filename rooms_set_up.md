@@ -167,7 +167,12 @@ Your Frontdesk Anywhere account comes with a few rooms already built, and we adv
 
  - To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
 
-![](34.png]({{site.baseurl}}/images/34.png)
+![](34.png]({{site.baseurl}}/images/34.png)  
+
+ - Insert the room name or number, the type it belongs to, the floor and the class. Once done, you can click on the blue button _Save_:  
+ 
+ ![](35.png]({{site.baseurl}}/images/35.png)
+
 
 
 
