@@ -152,8 +152,7 @@ We have now come to the point of building your hotel's room types: as we underst
 
 ![](32.png]({{site.baseurl}}/images/32.png)  
 
-
-
+If you need more information on _User Levels_, click here.
 
 
 
