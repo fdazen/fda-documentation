@@ -124,6 +124,70 @@ We have now come to the point of building your hotel's room types: as we underst
  
  - Fill up the fields with the requested infromation: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
  
- ![](26.png]({{site.baseurl}}/images/26.png)
+ ![](26.png]({{site.baseurl}}/images/26.png)  
+ 
+ - Continue by filling in all information: from the _Room Alias_ drop down menu select whether the room type should be considered as different from a room: if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
+
+![](27.png]({{site.baseurl}}/images/27.png)  
+
+ - Choose whether your room is to be gender-based: choosing _yes_ will prompt the system to have you choose what gender you want to default the room to:  
+ 
+ ![](28.png]({{site.baseurl}}/images/28.png)  
+ 
+ - Select the maximum and default occupancy, and select the amenities applicable to this type of room: you will see two small panels, one called _Available Amenities_ and another called _Selected Amenities_, with two arrows in the middle:  
+ 
+ ![](29.png]({{site.baseurl}}/images/29.png)
+ 
+ Select the amenities you wish to apply to this room type by selecting them among the available ones and by using the arrows to move them from one panel to another: the one under panel _Selected Amenities_ will be the one showing up in the system:  
+ 
+ ![](30.png]({{site.baseurl}}/images/30.png)  
+ 
+ - Select whether this room type has to have an OBA. The OBA (**O**ver**b**ooking **A**llowance) will enable the room type to receive more bookings than the posted availability: you can decide how many overbookings you wish to allow by placing a numeric value in the box that appears when you check the box _OBA_:  
+ 
+  ![](31.png]({{site.baseurl}}/images/31.png)
+
+**Note**: we advise to keep this box unchecked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support team at support@frontdeskanywhere.com  
+
+ - Finally, you can constraint the room type and make it visible only to certain user levels: simply uncheck the box of the levels for which the room should _not_ have be visible:  
+
+![](32.png]({{site.baseurl}}/images/32.png)  
+
+If you need more information on _User Levels_, click here.  
+
+
+##**Rooms**  
+
+You can now load in the system all of the rooms at your property, and organize them around the room types, classes and floors you have created.  
+
+- In the Admin Settings, click on the blue link **Rooms** under section _Rooms_:  
+
+![](33.png]({{site.baseurl}}/images/33.png)  
+
+Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to _Edit_ the existing rooms before creating new ones, as rooms cannot be erased once created but only deactivated. Hence, once you click on _Rooms_ , you will be presented with a list of existing rooms.  
+
+ - To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
+
+![](34.png]({{site.baseurl}}/images/34.png)  
+
+ - Insert the room name or number, the type it belongs to, the floor and the class. Once done, you can click on the blue button _Save_:  
+ 
+ ![](35.png]({{site.baseurl}}/images/35.png)  
+ 
+ - To create a new room, scroll down the list of rooms and click on the button _Add a Room_ and follow the instructions above:  
+ 
+ ![](37.png]({{site.baseurl}}/images/37.png)  
+ 
+ - You can also create multiple rooms at a time: click on the button _Add Multiple Room_ on the bottom of the page:  
+ 
+ ![](38.png]({{site.baseurl}}/images/38.png)
+
+
+
+
+
+
+
+
+
 
 
