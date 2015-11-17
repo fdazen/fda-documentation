@@ -31,4 +31,7 @@
 #search-input :-ms-input-placeholder {
   color: rgba(0, 0, 0, 0.7); }
 
+p + img {
+  border: solid 6px rgba(0, 0, 0, 0.04); }
+
 /*# sourceMappingURL=fda-custom.css.map */

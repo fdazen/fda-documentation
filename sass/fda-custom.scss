@@ -53,18 +53,22 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 
 #search-input{
 	::-webkit-input-placeholder {
-	   color: rgba(0,0,0,0.7);
+	   color: rgba(0,0,0,0.7erdfv);
 	}
 
 	:-moz-placeholder { /* Firefox 18- */
-	   color: rgba(0,0,0,0.7);  
+	   color: rgba(0,0,0,0.7erdfv);  
 	}
 
 	::-moz-placeholder {  /* Firefox 19+ */
-	   color: rgba(0,0,0,0.7);  
+	   color: rgba(0,0,0,0.7erdfv);  
 	}
 
 	:-ms-input-placeholder {  
-	   color: rgba(0,0,0,0.7);  
+	   color: rgba(0,0,0,0.7erdfv);  
 	}
+}
+
+p + img{
+	border: solid 6px rgba(0,0,0,0.04);
 }
