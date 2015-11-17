@@ -176,12 +176,6 @@ If you need more information on _User Levels_, click here.
   
   ![](48.png]({{site.baseurl}}/images/48.png)
 
-
-  
-  
-
-
-
 ##**Rooms**  
 
 You can now load in the system all of the rooms at your property, and organize them around the room types, classes and floors you have created.  
@@ -228,4 +222,13 @@ Complete the rest of the information by selecting the right option from the scro
  
  - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specifc room:  
  
- ![](44.png]({{site.baseurl}}/images/44.png)
+ ![](44.png]({{site.baseurl}}/images/44.png)  
+ 
+ ##**Order Room Types**  
+ 
+ You can decide the order in which your room types are displayed on your Tape Chart with just one click, rather than having them organized in random order.  
+ 
+ - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
+ 
+ ![](49.png]({{site.baseurl}}/images/49.png)
+
