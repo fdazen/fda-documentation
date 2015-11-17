@@ -31,7 +31,7 @@
 #search-input :-ms-input-placeholder {
   color: rgba(0, 0, 0, 0.7); }
 
-p + img {
+p > img {
   border: solid 6px rgba(0, 0, 0, 0.04); }
 
 .dropdown.open > a {

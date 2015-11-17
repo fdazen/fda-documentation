@@ -69,7 +69,7 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 	}
 }
 
-p + img{
+p > img{
 	border: solid 6px rgba(0,0,0,0.04);
 }
 
