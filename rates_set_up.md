@@ -1,10 +1,14 @@
 ---
 title: Rates Set Up
-tags: [formatting]
-keywords: rates, taxes, add-ons
-last_updated: November 17th, 2015
-summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
----  
+tags: 
+  - formatting
+keywords: "rates, taxes, add-ons"
+last_updated: "November 17th, 2015"
+summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+published: true
+---
+
+  
 
 #**Rates** 
 
@@ -22,13 +26,18 @@ You will see a list of the existing taxes in the system: your Frontdesk Anywhere
  
  ![](2.png]({{site.baseurl}}/images/2.png)  
  
- - Insert all information requested: 
+ - Insert all information requested: the _Tax Title_ will appear in each reservation where the tax is applied, so we advise it to keep the name simple.   
+You will need to choose whether to make the tax a fixed amount or a percentage by clicking on the right circle box. If you choose to make the tax a flat fee to be added, specify whether the amount has to be added on a per reservation or per night basis:  
  
  ![](3.png]({{site.baseurl}}/images/3.png)  
  
-  - The tax title will appear in each reservation where the tax is applied, so we advise it to keep the name simple. You will need to choose whether to make the tax a fixed amount or a percentage by clicking on the right circle box:  
-  
-  ![](4.png]({{site.baseurl}}/images/4.png)
+ If you are creating an inclusive tax, tick the box with the tag _Inclusive Tax_: if this box is checked, the tax will only appear when reporting, and it won't show anywhere in reservations. 
 
+ - Once you have done, click on the _Save_ button: if you need to create a new tax, click on the blue button _Add a Tax_; the process is the same as editing one:  
 
+![](6.png]({{site.baseurl}}/images/6.png)
+ 
 
+###**TAX OPERATIONS**  
+
+**Erase**: to edit a tax, go back to the tax list and 
