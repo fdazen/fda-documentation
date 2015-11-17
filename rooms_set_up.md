@@ -142,7 +142,7 @@ We have now come to the point of building your hotel's room types: as we underst
  
  ![](30.png]({{site.baseurl}}/images/30.png)  
  
- - Finally, select whether this room type has to have a OBA and whether it should be restricted to only certain user levels. The OBA *O*ver*b*ooking *A*llowance
+ - Finally, select whether this room type has to have a OBA and whether it should be restricted to only certain user levels. The OBA (*O*ver*b*ooking *A*llowance)
 
 
 
