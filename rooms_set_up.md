@@ -179,7 +179,16 @@ Your Frontdesk Anywhere account comes with a few rooms already built, and we adv
  
  - You can also create multiple rooms at a time: click on the button _Add Multiple Room_ on the bottom of the page:  
  
- ![](38.png]({{site.baseurl}}/images/38.png)
+ ![](38.png]({{site.baseurl}}/images/38.png)  
+ 
+Depending on whether you wish to enter room names or room numbers, select the right circle box so to be able to make the right fields editable. If you want to insert different room names, make sure to only place a coma as a separator between the names:  
+
+![](![40.png]({{site.baseurl}}/images/40.png)
+
+If you wish to create room numbers, place the prefix for your rooms and the from/to number value in the boxes, as in the example below:  
+
+![](41.png]({{site.baseurl}}/images/41.png)
+
 
 
 
