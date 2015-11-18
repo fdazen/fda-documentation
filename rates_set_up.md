@@ -168,7 +168,22 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
  - All the boxes are editable, so you can just amend the rate by inserting a new value for any day:  
  
- ![](34.png]({{site.baseurl}}/images/34.png)
+ ![](34.png]({{site.baseurl}}/images/34.png)  
+ 
+ - Once you amend and save the rate, you will see that the adjusted rate appears ina different color; the rate will be green if you are going over the rate set up in the Rate Class:  
+ 
+ ![](35.png]({{site.baseurl}}/images/35.png)
+ 
+ - It will show in red, if instead you are going below your base rate:  
+ 
+ ![](36.png]({{site.baseurl}}/images/36.png)  
+ 
+ - In order to see what was the rate set up in your Rate Class, just hover the mouse over the boxes:  
+ 
+ ![](37.png]({{site.baseurl}}/images/37.png)
+
+
+
 
 
  
