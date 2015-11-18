@@ -8,6 +8,7 @@ summary: Labels are just a simple Bootstrap component that you can include in yo
 published: true
 ---
 
+
   
 
 #**Rates** 
@@ -49,7 +50,18 @@ As mentioned before, it is not possible to erase a tax: however, making a tax in
 
 ##**Rates Set-Up**  
 
-There are different ways you can create and operate on a rate. Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
+There are different ways you can create and operate on a rate in Frontdesk Anywhere, but before starting it would be good to spend a few words on our terminology: this will make you become more familiar with the instructions written below.  
+
+A **Rate Class** is the heart of your rate configuration: from here you can define the type of rate you want to create, decide the channels on which it is to be distributed, apply taxes, and create _Season Periods_. 
+
+A **Season Period** is the area of the Rate Class where you place the actual price for your rooms and charges for extra occupancy. As the name suggests, Season Periods are intended to be used to set up rates for extended periods of time, like for high/low season. You will still be able to change the price on a daily basis by using the _Daily Rate Grid_.
+
+The **Daily Rate Grid** is where you can view and perform adjustments on the rate for any day of the year.
+
+
+##**Rate Classes**
+
+Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
 
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
  
@@ -164,18 +176,3 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  - If you go back to the _Rate Class_ List, you will notice that the derived rate appears in that list marked with a capital, bold *D* and an arrow. The latter points to the Derived Rate's Master Rate:  
  
  ![](31.png]({{site.baseurl}}/images/31.png)
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-
