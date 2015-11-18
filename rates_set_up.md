@@ -86,7 +86,12 @@ Keep in mind that if you create a multiple nights rate, the latter will not show
 
 ![](14.png]({{site.baseurl}}/images/14.png)  
 
-However, note that differently from the Multiple Nights Rate, the value you place for the rate will be the nightly price.
+However, note that differently from the Multiple Nights Rate, the value you place for the rate will be the nightly price.  
+
+ - Select the right Revenue Label in the drop down menu next to the tag _Revenue Label_:  
+ 
+ ![](15.png]({{site.baseurl}}/images/15.png)
+
 
 
 
