@@ -82,7 +82,12 @@ If you choose the option _Multiple Nights_, you will need to specify how many ni
 
 Keep in mind that if you create a multiple nights rate, the latter will not show up anywhere unless the minimum number of nights are selected.  
 
- - 
+**Note**: If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement:  
+
+![](14.png]({{site.baseurl}}/images/14.png)  
+
+However, note that differently from the Multiple Nights Rate, the value you place for the rate will be the nightly price.
+
 
 
 
