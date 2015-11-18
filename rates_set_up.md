@@ -90,7 +90,23 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 
  - Select the right Revenue Label in the drop down menu next to the tag _Revenue Label_:  
  
- ![](15.png]({{site.baseurl}}/images/15.png)
+ ![](15.png]({{site.baseurl}}/images/15.png)  
+ 
+ - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
+ You can start by clicking on the little icon next to the tag _Add Period_:  
+ 
+ ![](16.png]({{site.baseurl}}/images/16.png)
+
+ - Insert all information requested: use the scroll down calendars to select the starting and ending date for the rate, place a description if necessary, select the days of the week you want the value to be valid for, and finally place the value for the rate in the first box:  
+ 
+ ![](17.png]({{site.baseurl}}/images/17.png)
+
+You can add additional charges in the relevant boxes, if applicable. In the example above the base rate will be $100, there is no extra charge for the second occupant, but an extra $10 for any additional person and $5 for any child.
+Click on the button _Save_ when done.
+
+ -  You will now see your Season Period saved:  
+ 
+ ![](18.png]({{site.baseurl}}/images/18.png)
 
 
 
