@@ -53,5 +53,39 @@ There are different ways you can create and operate on a rate. Although the syst
 
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
  
- ![](8.png]({{site.baseurl}}/images/8.png)
+ ![](8.png]({{site.baseurl}}/images/8.png)  
+ 
+ - You are now in the heart of a rate configuration, and you will see different information to fill in. Let's start by placing a name for your new rate, next to the tag _Rate Code_, and a brief description of the rate:  
+ 
+ ![](9.png]({{site.baseurl}}/images/9.png)  
+ 
+ If you are using the Frontdesk Anywhere booking engine, you will see the description show up underneath the name of the rate, when a guest is trying to make reservation online: for this reason, we advise to keep the description simple.
+ 
+ - Check the box _Active_ if you want the rate to be enabled upon creation, and check the box _Allow Override_ if you want to enable the possibility to edit the rate on a reservation basis. Also, check the boxes for all the rate's applicable taxes:  
+ 
+ ![](10.png]({{site.baseurl}}/images/10.png)  
+ 
+If you choose to check the _Allow Override_ box, the rate will become editable on the reservation folio. This means that the _Edit Rate_ link will become clickable.  
+
+ ![11.png]({{site.baseurl}}/images/11.png)  
+
+For more information on how to edit a rate on a per reservation basis, click here.  
+
+- Specify the type of rate you are creating by selecting the right option in the scroll down menu, next to the tag _Rate Type_:  
+
+![](12.png]({{site.baseurl}}/images/12.png)  
+
+If you choose the option _Nightly_ rate, the value you will insert will be considered as the nightly price.  
+If you choose the option _Multiple Nights_, you will need to specify how many nights the rate is valid for. You can place a numeric value in the box _Rate Is Valid For_. The value you insert will be considered as the total price for the number of nights you define in that box. In the example below I am creating a weekly rate: 
+
+![](![13.png]({{site.baseurl}}/images/13.png)  
+
+Keep in mind that if you create a multiple nights rate, the latter will not show up anywhere unless the minimum number of nights are selected.  
+
+ - 
+
+
+
+
+
 
