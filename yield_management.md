@@ -50,9 +50,14 @@ Let us start by defining what rules you want the system to follow.
  
  ![](68.png]({{site.baseurl}}/images/68.png)  
  
- To **Deactivate** a Yield Management Rule, un-check the box under the column _Status_ for the relevant rule"  
+ To **DEACTIVATE** a Yield Management Rule, un-check the box under the column _Status_ for the relevant rule"  
  
-![](69.png]({{site.baseurl}}/images/69.png)
+![](69.png]({{site.baseurl}}/images/69.png)  
+
+To **EDIT** a rule, click on the blue link _Edit_ on the right hand side of the rule list:  
+
+![](70.png]({{site.baseurl}}/images/70.png)
+
 
 
 
