@@ -2,11 +2,12 @@
 title: Rates Set Up
 tags: 
   - formatting
-keywords: "rates, taxes, add-ons"
+keywords: "rates, taxes, add-ons, rate classes, season periods, weekly rate,"
 last_updated: "November 17th, 2015"
 summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
 published: true
 ---
+
 
   
 
@@ -49,7 +50,17 @@ As mentioned before, it is not possible to erase a tax: however, making a tax in
 
 ##**Rates Set-Up**  
 
-There are different ways you can create and operate on a rate. Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
+There are different ways you can create and operate on a rate, but before starting it would be good to spend a few words on the terminology employed in the system:
+
+ **Rate Class** is the heart of your rate configuration: from here you will be able to select applicable tax, decide the type of rate you want to create, apply the rate to different room types and channels and create _Season Periods_.
+
+ **Season Period** is the area in which rates for specific seasons are configured, and where you set up the actual price for your rooms. It is also the place you would set up extra charges for extra occupancy, and where you pick the days of the week to which the rate should apply. As the name says, the rate you insert here is supposed to be for the whole _season_: you will learn how to modify the rate on a daily basis in the section Rate Grid.  
+ 
+ **Daily Rate Grid** is the tool via which you can see and change the rate on a daily basis.
+
+##**Rate Classes**
+
+Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
 
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
  
@@ -138,9 +149,12 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  
  ![](24.png]({{site.baseurl}}/images/24.png)  
  
- - You will now need to amend all the information that is different from the rate you are duplicating from: commonly these are _Rate Code_, _Rate Description_, vlaue in each _Season Period_ and _Room Type_ applied:  
+ - You will now need to amend all the information that is different from the rate you are duplicating from: commonly these are _Rate Code_, _Rate Description_, value in each _Season Period_ and _Room Type_ applied:  
  
  ![](26.png]({{site.baseurl}}/images/26.png)  
+ 
+ ##**Rate Daily Grid**  
+ 
  
  
  ##**Deriving a Rate**  
@@ -164,18 +178,3 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  - If you go back to the _Rate Class_ List, you will notice that the derived rate appears in that list marked with a capital, bold *D* and an arrow. The latter points to the Derived Rate's Master Rate:  
  
  ![](31.png]({{site.baseurl}}/images/31.png)
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-
