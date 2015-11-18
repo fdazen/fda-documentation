@@ -158,9 +158,18 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
 
 The Rate Grid is the tool via which you can see and change the rates on a daily basis. It is also a great tool to change rates for shorter time frames like 'New Years Eve'!  
 
-- In the _Rate Classes_, click on the blue link **View** on the right hand side of any rate:  
+ - In the _Rate Classes_, click on the blue link **View** on the right hand side of any rate:  
 
 ![](32.png]({{site.baseurl}}/images/32.png)
+
+ - You will see a daily breakdown of the rate you have set up in the corresponding Rate Class:  
+
+![](33.png]({{site.baseurl}}/images/33.png)  
+
+ - All the boxes are editable, so you can just amend the rate by inserting a new value for any day:  
+ 
+ ![](34.png]({{site.baseurl}}/images/34.png)
+
 
  
  
