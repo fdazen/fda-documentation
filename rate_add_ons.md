@@ -10,7 +10,20 @@ summary: "Labels are just a simple Bootstrap component that you can include in y
 
 Frontdesk Anywhere allows you to set up additional charges that may be applicable at certain times for certain guests: for example, you can set up a fixed fee for late check-outs, parking, and so on.  
 
-- In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
+ - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
 
 ![](50.png]({{site.baseurl}}/images/50.png)
+
+ - Click on the blue button _Add an Add-on_:  
+ 
+ ![](51.png]({{site.baseurl}}/images/51.png)
+ 
+ - Fill in all information: place the name (_Charge Title_), the price and the applicable tax/es, and select whether the charge is to be applied on a nightly or a reservation basis. For reporting purposes, select the right _Revenue Label_ from the scroll down menu, and click on the blue button _Save_ when done:  
+ 
+ ![](53.png]({{site.baseurl}}/images/53.png)
+
+ - You will be given the option to add any of the newly created Add-Ons directly in any reservation folio:  
+ 
+ ![](52.png]({{site.baseurl}}/images/52.png)
+
 
