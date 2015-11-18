@@ -190,6 +190,16 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
  ![](39.png]({{site.baseurl}}/images/39.png)
 
+- If your rate is applied to different room types, you will have a row for each of those types, so that you can easily edit them:  
+
+![](40.png]({{site.baseurl}}/images/40.png)  
+
+- If the rate you are viewing has a derived rate linked to it, the latter will change accordingly any time that the Mster rate is changed:  
+
+![](41.png]({{site.baseurl}}/images/41.png)
+
+
+
 
 
 
