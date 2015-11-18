@@ -181,6 +181,16 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  - In order to see what was the rate set up in your Rate Class, just hover the mouse over the boxes:  
  
  ![](37.png]({{site.baseurl}}/images/37.png)
+ 
+ - Use the scroll down calendar to move across dates:  
+ 
+ ![](38.png]({{site.baseurl}}/images/38.png)
+ 
+ -You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
+ 
+ ![](39.png]({{site.baseurl}}/images/39.png)
+
+
 
 
 
