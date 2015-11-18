@@ -107,6 +107,11 @@ Click on the button _Save_ when done.
  -  You will now see your Season Period saved:  
  
  ![](18.png]({{site.baseurl}}/images/18.png)
+ 
+The three icons that appear under the column _Action_ are used to visualize/edit the season period, cancel it and duplicate it. Hovering on the icon will also explain to you what each one does:  
+
+![](20.png]({{site.baseurl}}/images/20.png)
+
 
 
 
