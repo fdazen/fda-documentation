@@ -126,9 +126,32 @@ The three icons that appear under the column _Action_ are used to visualize/edit
  
  ![](23.png]({{site.baseurl}}/images/23.png)
 
+You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _OBOE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
+ 
+ - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
+ 
+ ##**Duplicate a Rate**  
+ 
+ Duplicating a rate will come handy when you are trying to set up different rates for different room types. We are starting from the idea that although the value of the rate will be different, your Season Periods will probably be the same: a High Season, for example, is defined by the starting/ending date. Hence, instead of having to re-build all Season periods for each of your room type, you can duplicate an existing Rate Class with all its Season Periods, and simply place a different value in it!
+ 
+ - In the _Rate Classes_, click on the button **Duplicate** on the right hand side of the relevant rate:  
+ 
+ ![](24.png]({{site.baseurl}}/images/24.png)  
+ 
+ - You will now need to amend all the information that is different from the rate you are duplicating from: commonly these are _Rate Code_, _Rate Description_, vlaue in each _Season Period_ and _Room Type_ applied:  
+ 
+ ![](26.png]({{site.baseurl}}/images/26.png)  
  
  
+ ##**Deriving a Rate**  
+ 
+ You can create a new rate by applying a certain discount/premium on the value of an existing Rate Class: the new rate is called a _Derived Rate_. Derived rates are linked to the master rate (the one you are deriving them from) in virtue of a certain algorithm you set up. For example, if you are running a 10% promotion for returning guests, you can create these promotional rates by deriving it from the master rate and set an adjustment of a 10% discount. Every time you change the master rate, the derived rate will also be automatically calculated.
+ 
+ - In the _Rate Classes_ list, click on the blue link **Derive** under column _Action_:  
+ 
+ ![](28.png]({{site.baseurl}}/images/28.png)
 
+ 
 
 
 
