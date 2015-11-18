@@ -46,6 +46,10 @@ Let us start by defining what rules you want the system to follow.
   
   ![](67.png]({{site.baseurl}}/images/67.png)
 
+ - If you wish to remove a condition, click on the blue button _Remove_ on the right side of the relevant rule:  
+ 
+ ![](68.png]({{site.baseurl}}/images/68.png)
+
 
 
 
