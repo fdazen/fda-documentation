@@ -30,6 +30,9 @@ Frontdesk Anywhere allows you to set up additional charges that may be applicabl
 
 ![](54.png]({{site.baseurl}}/images/54.png)
 
- 
+- You can change the amount to charge and the quantity by amending the appropriate fields. When ready, click on the button _Save_: 
+
+![](56.png]({{site.baseurl}}/images/56.png)
+
 
 
