@@ -24,7 +24,14 @@ Let us start by defining what rules you want the system to follow.
   
   - Type in a name for the rule, and select the date range for which you want to apply the rule:  
   
-  ![](62.png]({{site.baseurl}}/images/62.png)
+  ![](62.png]({{site.baseurl}}/images/62.png)  
+  
+  **NOTE**: Choosing '1' as a starting day does not mean that the Yield Manager will run on any current day, but on the following one. We currently do not support yielding on day '0'.
+  
+  - Choose your conditions by selecting the relevant choices from the scroll down menus:  
+  
+  ![](64.png]({{site.baseurl}}/images/64.png)
+
 
 
 
