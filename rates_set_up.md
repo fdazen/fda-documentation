@@ -194,12 +194,13 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 ![](40.png]({{site.baseurl}}/images/40.png)  
 
-- If the rate you are viewing has a derived rate linked to it, the latter will change accordingly any time that the Mster rate is changed:  
+- If the rate you are viewing has a derived rate linked to it, the latter will automatically change accordingly any time that the Mster rate is changed:  
 
-![](41.png]({{site.baseurl}}/images/41.png)
+![](41.png]({{site.baseurl}}/images/41.png)  
 
+- If you do not wish the derived rate to be changed, you can un-check the box with the tag _Apply to Derived Rates_:  
 
-
+![](42.png]({{site.baseurl}}/images/42.png)
 
 
 
