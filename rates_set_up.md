@@ -122,6 +122,11 @@ The three icons that appear under the column _Action_ are used to visualize/edit
  
  ![](22.png]({{site.baseurl}}/images/22.png)  
  
+ - Finally, you will need to choose what are the room types to which the rate will be applied to, and the channels on which it will be available:  
+ 
+ ![](23.png]({{site.baseurl}}/images/23.png)
+
+ 
  
 
 
