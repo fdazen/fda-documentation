@@ -24,6 +24,12 @@ Frontdesk Anywhere allows you to set up additional charges that may be applicabl
 
  - You will be given the option to add any of the newly created Add-Ons directly in any reservation folio:  
  
- ![](52.png]({{site.baseurl}}/images/52.png)
+ ![](52.png]({{site.baseurl}}/images/52.png)  
+ 
+ - If you click on the link, another window will appear; use the scroll down menu to select the right charge among the ones you have created: 
+
+![](54.png]({{site.baseurl}}/images/54.png)
+
+ 
 
 
