@@ -42,7 +42,12 @@ You can **DEACTIVATE** an Add-On by un-checking the box under column _Status_ on
 
 To **ERASE** an Add-On, select it by checking the box on the left hand side of the relevant item and click on the blue button _Delete Selected Add-Ons_:  
 
-![](58.png]({{site.baseurl}}/images/58.png)
+![](58.png]({{site.baseurl}}/images/58.png)  
+
+To **EDIT** an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
+
+![](59.png]({{site.baseurl}}/images/59.png)
+
 
 
 
