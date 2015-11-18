@@ -110,7 +110,21 @@ Click on the button _Save_ when done.
  
 The three icons that appear under the column _Action_ are used to visualize/edit the season period, cancel it and duplicate it. Hovering on the icon will also explain to you what each one does:  
 
-![](20.png]({{site.baseurl}}/images/20.png)
+![](20.png]({{site.baseurl}}/images/20.png)  
+
+ - Duplicating a season period comes handy when you are building a weekend rate that is different from the weekly one: indeed, the starting/ending date for the season period will be the same, what is different is the value and the days of the week to which the rate applies. Hence, click on the icon to duplicate the season period and amend the relevant fields:  
+ 
+ ![](21.png]({{site.baseurl}}/images/21.png)  
+ 
+ Click on _Save Period As Duplicate_ when finished.
+ 
+ - You can continue to create more Season Periods by clicking on the button _Add New_:  
+ 
+ ![](22.png]({{site.baseurl}}/images/22.png)  
+ 
+ 
+
+
 
 
 
