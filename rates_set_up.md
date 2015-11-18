@@ -202,7 +202,15 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 ![](42.png]({{site.baseurl}}/images/42.png)  
 
-- If you the derived rate is applied to different room
+- If your the derived rate is applied to different room types, note that the rate will change only for those Derived Rates applied to the same room type as the Master Rate; if you want it to apply to all room types, then check the box next to the tag _APply to All Room Types_:  
+
+![](44.png]({{site.baseurl}}/images/44.png)
+
+##**Making a Rate Inactive**
+
+As for rooms, rates cannot be completely erased from the system; however, you can make them inactive by unchecking the box under the column _Status_ for any row:  
+
+![](45.png]({{site.baseurl}}/images/45.png)
 
 
 
@@ -210,7 +218,8 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
  
- 
+
+
  ##**Deriving a Rate**  
  
  You can create a new rate by applying a certain discount/premium on the value of an existing Rate Class: the new rate is called a _Derived Rate_. Derived rates are linked to the master rate (the one you are deriving them from) in virtue of a certain adjustment you set up. For example, if you are running a 10% promotion for returning guests, you can create these promotional rates by deriving it from the master rate and set an adjustment of a 10% discount. Every time you change the master rate, the derived rate will also be automatically calculated.
