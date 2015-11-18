@@ -16,7 +16,12 @@ Let us start by defining what rules you want the system to follow.
 
   - Click on the blue link **Yield Managament Rules** under section _Rates_:  
   
-  ![](60.png]({{site.baseurl}}/images/60.png)
+  ![](60.png]({{site.baseurl}}/images/60.png)  
+  
+  - You will notice that your account comes with a few rules already embedded. Click on the blue button _New_ to create your own rule:  
+  
+  ![](61.png]({{site.baseurl}}/images/61.png)
+
 
 
 
