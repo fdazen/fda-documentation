@@ -147,7 +147,7 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  
  You can create a new rate by applying a certain discount/premium on the value of an existing Rate Class: the new rate is called a _Derived Rate_. Derived rates are linked to the master rate (the one you are deriving them from) in virtue of a certain adjustment you set up. For example, if you are running a 10% promotion for returning guests, you can create these promotional rates by deriving it from the master rate and set an adjustment of a 10% discount. Every time you change the master rate, the derived rate will also be automatically calculated.
  
- - In the _Rate Classes_ list, click on the blue link **Derive** under column _Action_:  
+ - In the _Rate Class_ list, click on the blue link **Derive** under column _Action_:  
  
  ![](28.png]({{site.baseurl}}/images/28.png)  
  
@@ -159,7 +159,13 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
 
  - Select the rooms to which the rate is to be applied and the channels and click on the blue button _Save_ when finished:  
  
- ![](30.png]({{site.baseurl}}/images/30.png)
+ ![](30.png]({{site.baseurl}}/images/30.png)  
+ 
+ - If you go back to the _Rate Class_ List, you will notice that the derived rate appears in that list marked with a capital, bold *D* and an arrow. The latter points to the Derived Rate's Master Rate:  
+ 
+ ![](31.png]({{site.baseurl}}/images/31.png)
+
+ 
 
 
  
