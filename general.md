@@ -150,7 +150,12 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
 
  - In the Admin Settings, click on the link **Email Rules** under section _General_:  
  
- ![](31.png]({{site.baseurl}}/images/31.png)
+ ![](31.png]({{site.baseurl}}/images/31.png)  
+ 
+ - Start by clicking on the blue button _Add Rule_:  
+ 
+ ![](!32.png]({{site.baseurl}}/images/32.png)
+
 
 
 
