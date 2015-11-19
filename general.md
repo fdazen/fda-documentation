@@ -123,7 +123,12 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 
  - In the Admin Settings, click on the link **Automated Emails** under section _General_:  
  
- ![](25.png]({{site.baseurl}}/images/25.png)
+ ![](25.png]({{site.baseurl}}/images/25.png)  
+ 
+ - The Automated Emails panel has three columns: the first, _Folio Status Action_ defines what change in the status of any reservation folio will trigger the automatic email:  
+ 
+ ![](26.png]({{site.baseurl}}/images/26.png)
+
 
  
  
