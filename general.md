@@ -88,7 +88,14 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  - Select where you want the template to apply and appear, by checking the right boxes under the written _System Section Filters_:  
  
- ![](19.png]({{site.baseurl}}/images/19.png)
+ ![](19.png]({{site.baseurl}}/images/19.png)  
+ 
+    - If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
+ 
+ ![](20.png]({{site.baseurl}}/images/20.png)  
+ 
+ If you
+
 
 
 
