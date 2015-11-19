@@ -76,7 +76,7 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  - The template you have just created will appear as the first template in the apposite panel:  
  
- ![](16.png]({{site.baseurl}}/images/16.png)  
+ ![](16.png]({{site.baseurl}}/images/16.png)
  
  - Once the template has been created, it also needs to be enabled. Click on the yellow button _Edit_ on the right hand side of the newly created template:  
  
