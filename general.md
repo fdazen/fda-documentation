@@ -80,7 +80,7 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  - Once the template has been created, it also needs to be enabled. Click on the yellow button _Edit_ on the right hand side of the newly created template:  
  
- ![](17.png]({{site.baseurl}}/images/17.png)  
+ ![](17.png]({{site.baseurl}}/images/17.png)
  
  - Enable the template by checking the box next to the tag _Template Enabled_:  
  
