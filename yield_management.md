@@ -64,9 +64,12 @@ Once the Yield Management Rules are created, you will need to specify how often 
 
  - Click on the link **Yield Management Settings** under section _Rates_:  
  
- ![](![80.png]({{site.baseurl}}/images/80.png)  
+ ![](80.png]({{site.baseurl}}/images/80.png)  
  
- - Using the scroll dow
+ - Using the scroll down menu, select the right time frame:  
+ 
+ ![](71.png]({{site.baseurl}}/images/71.png)
+
 
 
 
