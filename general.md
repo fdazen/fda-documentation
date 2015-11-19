@@ -64,11 +64,14 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  - Select the template you want to create by clicking on the right option in the scroll down menu:  
  
- ![](14.png]({{site.baseurl}}/images/14.png)  
+ ![](14.png]({{site.baseurl}}/images/14.png)
+
+
  
  - Give a name to the template:  
  
- ![](15.png]({{site.baseurl}}/images/15.png)
+
+
 
 
  
