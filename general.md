@@ -50,9 +50,14 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  ![](9.png]({{site.baseurl}}/images/9.png)  
  
- - You will see a list of all the types of templates that the system offers: the name of each template appears on the top left hand side of each message panel. They are _Invoice_  
+ - You will see a list of all the types of templates that the system offers: the name of each template appears on the top left hand side of each message panel.
  
- ![](11.png]({{site.baseurl}}/images/11.png)
+ ![](11.png]({{site.baseurl}}/images/11.png)  
+ 
+ - Under each section you will see one disabled template already listed: these templates are only used as a guidance, and they are non-editable:  
+ 
+ ![](12.png]({{site.baseurl}}/images/12.png)
+
  
  
  
