@@ -28,7 +28,12 @@ The Guest Messages are messages that will appear in some areas of your Frontdesk
  
  - Proceed to edit the _Terms and Conditons_ message: the latter will show up on your Online Booking Engine, and your confirmation email:  
  
- ![](4.png]({{site.baseurl}}/images/4.png)
+ ![](4.png]({{site.baseurl}}/images/4.png)  
+ 
+ - The third message will be the _Room Cancellation_ message: as the text in the box says, this will appear both on your Booking Engine and in your cancellation email:  
+ 
+ ![](5.png]({{site.baseurl}}/images/5.png)
+
 
 
 
