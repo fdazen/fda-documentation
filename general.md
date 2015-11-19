@@ -85,5 +85,10 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  - Enable the template by checking the box next to the tag _Template Enabled_:  
  
  ![](18.png]({{site.baseurl}}/images/18.png)
+ 
+ - Select where you want the template to apply and appear, by checking the right boxes under the written _System Section Filters_:  
+ 
+ ![](19.png]({{site.baseurl}}/images/19.png)
+
 
 
