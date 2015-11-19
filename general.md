@@ -156,9 +156,14 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
  
  ![](!32.png]({{site.baseurl}}/images/32.png)  
  
- - Fill in all the information: place a name, and select the right options from the scroll down menus:  
+ - Fill in all the information: place a title, and select the right options from the scroll down menus:  
  
- ![](33.png]({{site.baseurl}}/images/33.png)
+ ![](33.png]({{site.baseurl}}/images/33.png)  
+ 
+  - Select the email template you want to send among the ones you have previously created. You will also need to select what room type and rates you want to enable for this rule:  
+  
+  ![](34.png]({{site.baseurl}}/images/34.png)
+
 
 
 
