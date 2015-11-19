@@ -90,6 +90,8 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  ![](19.png]({{site.baseurl}}/images/19.png)  
  
+Here is a quick breakdown of what ach box means:  
+
 If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
  
  ![](20.png]({{site.baseurl}}/images/20.png)  
@@ -100,7 +102,14 @@ If you check the box _POS_, the template will show up as a Receipt in the _Point
 
 If the box _Group Messages_ is checked, the newly create template will appear in any Group Folio, at the bottom:  
 
- ![](22.png]({{site.baseurl}}/images/22.png)
+ ![](22.png]({{site.baseurl}}/images/22.png)  
+ 
+ If you check the box _Reservation Messages_, the template will appear on the bottom left side of each reservation folio:  
+ 
+ ![](23.png]({{site.baseurl}}/images/23.png)
+
+ 
+
 
 
 
