@@ -68,7 +68,16 @@ Once the Yield Management Rules are created, you will need to specify how often 
  
  - Using the scroll down menu, select the right time frame:  
  
- ![](71.png]({{site.baseurl}}/images/71.png)
+ ![](71.png]({{site.baseurl}}/images/71.png)  
+ 
+##**Running the Yield Manager**  
+
+The time frame you have chosen in the Yield Management Settings will ensure that the system periodically updates price according to occupancy levels. However, there might be times at which you may want to manually run the Yield Manager.
+
+ - To manually run the Yield Manager, click on link _Yield Management Rules_:  
+ 
+ ![](72.png]({{site.baseurl}}/images/72.png)
+
 
 
 
