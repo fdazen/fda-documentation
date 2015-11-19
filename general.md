@@ -125,9 +125,19 @@ Once your _Email Templates_ are set up, you can configure the system to automati
  
  ![](25.png]({{site.baseurl}}/images/25.png)  
  
- - The Automated Emails panel has three columns: the first, _Folio Status Action_ defines what change in the status of any reservation folio will trigger the automatic email:  
+ - The first column _Folio Status Action_ defines what change in the status of any reservation folio will trigger the automatic email
+
+ ![](26.png]({{site.baseurl}}/images/26.png)  
  
- ![](26.png]({{site.baseurl}}/images/26.png)
+ - Under column _Automated E-mail Status_ check the box corresponding to the action you want the system to perform. In the example below I am choosing to have the system to send an automatic email any time a reservation is created:  
+ 
+ ![](28.png]({{site.baseurl}}/images/28.png)  
+ 
+ - Select what email template you want to use by choosing one in the scroll down menu: 
+
+![](29.png]({{site.baseurl}}/images/29.png)
+
+
 
 
  
