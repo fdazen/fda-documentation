@@ -187,7 +187,13 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
  
  - When finished, click on the blue button _Save Language_ at the bottom of the page:  
  
- ![](43.png]({{site.baseurl}}/images/43.png)
+ ![](43.png]({{site.baseurl}}/images/43.png)  
+ 
+ **NOTE** Making a certain language the default one does not mean that all users will have the same language upon log-in. Each user can choose a different language for the same account and they can set this up on the _Preferences_ area:  
+ 
+ ![](45.png]({{site.baseurl}}/images/45.png)
+ 
+ so setting up a default language only means that all _new_ users will see the system in that language upon their first log-in. 
 
 
 
