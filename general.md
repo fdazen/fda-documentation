@@ -98,6 +98,9 @@ If you check the box _POS_, the template will show up as a Receipt in the _Point
 
  ![](21.png]({{site.baseurl}}/images/21.png)
 
+If the box _Group Messages_ is checked, the newly create template will appear in any Group Folio, at the bottom:  
+
+ ![](22.png]({{site.baseurl}}/images/22.png)
 
 
 
