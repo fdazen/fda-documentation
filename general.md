@@ -144,7 +144,14 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 
 ##**Email Rules**  
 
-_Email rules_ is the tool that enables you to send automatic emails outside the sphere of any key event proper of a guest’s stay (reservation confirmation, check-in, check-out, and cancellation). Differently from the _Automated Emails_ where those emails are triggered by some change in the status of a reservation folio, _Email Rules_ do not have any constrain in terms of the time at which the email is sent: you simply set the condition yourself! This comes useful when you want to send a remainder to your guests for their upcoming arrival or at times when you want to send a "thank you" message to your guests after their stay.
+_Email rules_ is the tool that enables you to send automatic emails outside the sphere of any key event proper of a guest’s stay (reservation confirmation, check-in, check-out, and cancellation). Differently from the _Automated Emails_ where those emails are triggered by some change in the status of a reservation folio, _Email Rules_ do not have any constrain in terms of the time at which the email is sent: you simply set the condition yourself! This comes useful when you want to send a remainder to your guests for their upcoming arrival or at times when you want to send a "thank you" message to your guests after their stay.  
+
+**Note**: you will have to have both _Email Templates_ enabled and _Guest Messages_ set up before placing Email Rules. 
+
+ - In the Admin Settings, click on the link **Email Rules** under section _General_:  
+ 
+ ![](31.png]({{site.baseurl}}/images/31.png)
+
 
 
 
