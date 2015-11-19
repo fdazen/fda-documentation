@@ -24,6 +24,11 @@ The Guest Messages are messages that will appear in some areas of your Frontdesk
  
  - The first one is the _Invoice Message_: this is a message that will appear in each of your property invoices:    
  
- ![](3.png]({{site.baseurl}}/images/3.png)
+ ![](3.png]({{site.baseurl}}/images/3.png)  
+ 
+ - Proceed to edit the _Terms and Conditons_ message: the latter will show up on your Online Booking Engine, and your confirmation email:  
+ 
+ ![](4.png]({{site.baseurl}}/images/4.png)
+
 
 
