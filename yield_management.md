@@ -1,10 +1,14 @@
 ---
 title: Yield Management
-tags: [formatting]
-keywords: yield management, yield rules, yield settings
-last_updated: November 18th, 2015
-summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
----  
+tags: 
+  - formatting
+keywords: "yield management, yield rules, yield settings"
+last_updated: "November 18th, 2015"
+summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+published: true
+---
+
+  
 
 #**Yield Management**  
 
@@ -84,20 +88,6 @@ The time frame you have chosen in the Yield Management Settings will ensure that
  
  - To see how the Yield is changing the rates, you will need to go into the _Daily Rate Grid_: you can see what has been changed from the different color the rates will have.  
  
- ![](![74.png]({{site.baseurl}}/images/74.png)  
+ ![](74.png]({{site.baseurl}}/images/74.png)  
  
- **NOTE**: the Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been edited on the grid, otherwise the Yield won't work!   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ **NOTE**: the Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been edited on the grid, otherwise the Yield won't work!
