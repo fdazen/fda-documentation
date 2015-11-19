@@ -114,8 +114,19 @@ If the box _Group Messages_ is checked, the newly create template will appear in
  
  - When finished, click on the button _Save_ at the bottom of the screen.
  
- **NOTE**: if you wish to have customized guest messages, please contact our support team at support@frontdeskanywhere.com
+ **NOTE**: if you wish to have customized guest messages, please contact our support team at support@frontdeskanywhere.com  
 
+
+##**Automated Emails**  
+ 
+Once your _Email Templates_ are set up, you can configure the system to automatically send those templates to your guests at key points during their reservation process and stay.  
+
+ - In the Admin Settings, click on the link **Automated Emails** under section _General_:  
+ 
+ ![](25.png]({{site.baseurl}}/images/25.png)
+
+ 
+ 
  
  
 
