@@ -80,7 +80,14 @@ The time frame you have chosen in the Yield Management Settings will ensure that
  
  - Click on the blue button _Run Yield Management_:  
  
- ![](73.png]({{site.baseurl}}/images/73.png)
+ ![](73.png]({{site.baseurl}}/images/73.png)  
+ 
+ - To see how the Yield is changing the rates, you will need to go into the _Daily Rate Grid_: you can see what has been changed from the different color the rates will have.  
+ 
+ ![](![74.png]({{site.baseurl}}/images/74.png)  
+ 
+ **NOTE**: the Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been edited on the grid, otherwise the Yield won't work!   
+
 
 
 
