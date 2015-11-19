@@ -164,6 +164,12 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
   
   ![](34.png]({{site.baseurl}}/images/34.png)
 
+ - When finished, click on the blue button _Add Rule_ at the bottom of the page:  
+ 
+ ![](35.png]({{site.baseurl}}/images/35.png)  
+ 
+ 
+
 
 
 
