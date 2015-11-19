@@ -260,10 +260,11 @@ Unless you order your rates, they will appear randomly in the folio: for example
  
  - Click on the blue button _Save_, and you will see your rates in the order you placed.  
  
- ![](86.png]({{site.baseurl}}/images/86.png)
-
+ ![](86.png]({{site.baseurl}}/images/86.png)  
  
- - 
+ Remember to log out and log back in into the system in order to see changes being effective!
+
+
 
  
  
