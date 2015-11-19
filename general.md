@@ -36,7 +36,12 @@ The Guest Messages are messages that will appear in some areas of your Frontdesk
  
  - FInally, edit your _Guest Receipt_ and your _Registration Card_ messages:  
  
- ![](7.png]({{site.baseurl}}/images/7.png)
+ ![](7.png]({{site.baseurl}}/images/7.png)  
+ 
+ - When finished, scroll at the bottom of the page and click on the blue button _Save_:  
+ 
+ ![](8.png]({{site.baseurl}}/images/8.png)
+
 
 
 
