@@ -32,7 +32,12 @@ The Guest Messages are messages that will appear in some areas of your Frontdesk
  
  - The third message will be the _Room Cancellation_ message: as the text in the box says, this will appear both on your Booking Engine and in your cancellation email:  
  
- ![](5.png]({{site.baseurl}}/images/5.png)
+ ![](5.png]({{site.baseurl}}/images/5.png)  
+ 
+ - FInally, edit your _Guest Receipt_ and your _Registration Card_ messages:  
+ 
+ ![](7.png]({{site.baseurl}}/images/7.png)
+
 
 
 
