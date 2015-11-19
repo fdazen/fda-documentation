@@ -168,6 +168,17 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
  
  ![](35.png]({{site.baseurl}}/images/35.png)  
  
+
+##**Languages**  
+
+Frontdesk Anywhere comes with a few optional languages that you can set up as default for both your OBE and your PMS.
+
+ - In the Admin Settings click on the link **Languages** under section _General_:  
+ 
+ ![](40.png]({{site.baseurl}}/images/40.png)
+
+
+
  
 
 
