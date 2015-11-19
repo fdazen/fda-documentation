@@ -56,7 +56,18 @@ Let us start by defining what rules you want the system to follow.
 
 To **EDIT** a rule, click on the blue link _Edit_ on the right hand side of the rule list:  
 
-![](70.png]({{site.baseurl}}/images/70.png)
+![](70.png]({{site.baseurl}}/images/70.png)  
+
+##**Yield Management Settings**  
+
+Once the Yield Management Rules are created, you will need to specify how often you want the system to perform the rate change.  
+
+ - Click on the link **Yield Management Settings** under section _Rates_:  
+ 
+ ![](![80.png]({{site.baseurl}}/images/80.png)  
+ 
+ - Using the scroll dow
+
 
 
 
