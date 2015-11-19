@@ -183,7 +183,12 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
  
  - You can also add different languages for some of the items in the system; to do this, click on the blue button _Add a Language_ and fill in all the fields with the appropriate translation:   
  
- ![](42.png]({{site.baseurl}}/images/42.png)
+ ![](42.png]({{site.baseurl}}/images/42.png)  
+ 
+ - When finished, click on the blue button _Save Language_ at the bottom of the page:  
+ 
+ ![](43.png]({{site.baseurl}}/images/43.png)
+
 
 
 
