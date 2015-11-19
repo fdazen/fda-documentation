@@ -106,7 +106,14 @@ If the box _Group Messages_ is checked, the newly create template will appear in
  
  If you check the box _Reservation Messages_, the template will appear on the bottom left side of each reservation folio:  
  
- ![](23.png]({{site.baseurl}}/images/23.png)
+ ![](23.png]({{site.baseurl}}/images/23.png)  
+ 
+ Finally, if you check on the _Profile Documents_, the template will show in the _Profiles_ area:  
+ 
+ ![](24.png]({{site.baseurl}}/images/24.png)
+
+ 
+ 
 
  
 
