@@ -16,4 +16,14 @@ The Guest Messages are messages that will appear in some areas of your Frontdesk
 
  - In the Admin Settings, click on the link **Guest Messages** under section _General_:  
  
- ![](1.png]({{site.baseurl}}/images/1.png)
+ ![](1.png]({{site.baseurl}}/images/1.png)  
+ 
+ - You will see different panels, each one editable and with a title on the top that should give you some guidance on what sort of information you should type in the editable box:  
+ 
+ ![](2.png]({{site.baseurl}}/images/2.png)  
+ 
+ - The first one is the _Invoice Message_: this is a message that will appear in each of your property invoices:    
+ 
+ ![](3.png]({{site.baseurl}}/images/3.png)
+
+
