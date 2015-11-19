@@ -110,7 +110,11 @@ If the box _Group Messages_ is checked, the newly create template will appear in
  
  Finally, if you check on the _Profile Documents_, the template will show in the _Profiles_ area:  
  
- ![](24.png]({{site.baseurl}}/images/24.png)
+ ![](24.png]({{site.baseurl}}/images/24.png)  
+ 
+ - When finished, click on the button _Save_ at the bottom of the screen.
+ 
+ **NOTE**: if you wish to have customized guest messages, please contact our support team at support@frontdeskanywhere.com
 
  
  
