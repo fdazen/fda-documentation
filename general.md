@@ -34,14 +34,21 @@ The Guest Messages are messages that will appear in some areas of your Frontdesk
  
  ![](5.png]({{site.baseurl}}/images/5.png)  
  
- - FInally, edit your _Guest Receipt_ and your _Registration Card_ messages:  
+ - Finally, edit your _Guest Receipt_ and your _Registration Card_ messages:  
  
  ![](7.png]({{site.baseurl}}/images/7.png)  
  
  - When finished, scroll at the bottom of the page and click on the blue button _Save_:  
  
- ![](8.png]({{site.baseurl}}/images/8.png)
+ ![](8.png]({{site.baseurl}}/images/8.png)  
+ 
+ ##**Email Templates**  
 
+Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and they can be easily editable; however, your account already comes with some defaults templates that you can enable and start using.  
+
+ - In the Admin Settings, click on the blue link **Email Templates** under section _General_:  
+ 
+ ![](9.png]({{site.baseurl}}/images/9.png)
 
 
 
