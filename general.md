@@ -177,6 +177,10 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
  
  ![](40.png]({{site.baseurl}}/images/40.png)
 
+ - You will see that English, Spanish and French are already loaded in the system: you can select which of these you want to have as default for your Online Booking Engine and for your system by checking the relevant boxes:  
+ 
+ ![](41.png]({{site.baseurl}}/images/41.png)
+
 
 
  
