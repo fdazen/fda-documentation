@@ -135,7 +135,12 @@ Once your _Email Templates_ are set up, you can configure the system to automati
  
  - Select what email template you want to use by choosing one in the scroll down menu: 
 
-![](29.png]({{site.baseurl}}/images/29.png)
+![](29.png]({{site.baseurl}}/images/29.png)  
+
+ - When finished, click on the blue button _Save_ at the bottom of the page:  
+ 
+ ![](30.png]({{site.baseurl}}/images/30.png)
+
 
 
 
