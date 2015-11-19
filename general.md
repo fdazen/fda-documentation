@@ -90,11 +90,14 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  ![](19.png]({{site.baseurl}}/images/19.png)  
  
-    - If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
+If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
  
  ![](20.png]({{site.baseurl}}/images/20.png)  
  
- If you
+If you check the box _POS_, the template will show up as a Receipt in the _Point of Sale_ area of your PMS:  
+
+ ![](21.png]({{site.baseurl}}/images/21.png)
+
 
 
 
