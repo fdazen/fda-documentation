@@ -168,7 +168,13 @@ You will notice that the folio is made out of three columns: the first one conta
  
  - For any field, select whether the field is required by checking/unchecking the box under column _Required_:  
 
-![](85.png]({{site.baseurl}}/images/85.png)
+![](85.png]({{site.baseurl}}/images/85.png)  
+
+When you mark a field as **Required**, the system will force agents to insert the information into that field before they are able to create/operate on a folio.  
+
+ - To add a Custom Field, click on the blue button _Add Custom Field_ at the bottom of the page:  
+ 
+ ![](86.png]({{site.baseurl}}/images/86.png)
 
 
 
