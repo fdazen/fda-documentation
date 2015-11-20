@@ -165,7 +165,7 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
  
  ![](84.png]({{site.baseurl}}/images/84.png)  
  
- **Note**: it is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it inactive.  
+ **Note**: it is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it **Inactive**.  
  
  - For any field, select whether the field is required by checking/unchecking the box under column _Required_:  
 
@@ -207,9 +207,16 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  ![](96.png]({{site.baseurl}}/images/96.png)  
  
+ 
+ 
+ 
   - As mentioned above, you can create information for Guests, but also for Travel Agents and Company profiles. To create fields for the latter, select your option form the scroll down menu that appears on top of the _Guest Profile Custom Fields_ list:  
   
-  ![](97.png]({{site.baseurl}}/images/97.png)
+  ![](97.png]({{site.baseurl}}/images/97.png)  
+  
+  
+  
+  
 
 
 
