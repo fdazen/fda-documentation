@@ -216,6 +216,10 @@ or you can erase them by selecting the check box on the left hand side of any Mo
 
 ![](49.png]({{site.baseurl}}/images/49.png)
 
+- To create new Modes of Arrival, click on the blue button _Add Mode of Arrival_:  
+
+![](50.png]({{site.baseurl}}/images/50.png)
+
 
 
 
