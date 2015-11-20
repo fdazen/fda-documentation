@@ -236,7 +236,11 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  - Select your choice by clicking on the colored disc on the bottom right side of the small color panel:  
  
- ![](102.png]({{site.baseurl}}/images/102.png)
+ ![](102.png]({{site.baseurl}}/images/102.png)  
+ 
+ -You can add more colors by clicking on the blue button **Add** next to the tag _Front Desk User Defined Colors_:  
+ 
+ ![](103.png]({{site.baseurl}}/images/103.png)
 
 
 
