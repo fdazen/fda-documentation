@@ -241,6 +241,15 @@ You configure all the Identification Types that are accepted at your property in
 
 ![](60.png]({{site.baseurl}}/images/60.png)
 
+- Your account comes with some defaulted identification types. To create a new identification type, click on the blue button _Add Identification Type_ at the bottom of the page: 
+
+![](71.png]({{site.baseurl}}/images/71.png)  
+
+- Insert the name for the new identification type, and click on the blue button _Save Identification Type_ when done:  
+
+![](62.png]({{site.baseurl}}/images/62.png)
+
+
  
 
 
