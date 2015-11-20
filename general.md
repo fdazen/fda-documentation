@@ -244,7 +244,17 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  - To remove one color, just click on the blue button _Remove_ on the right hand side of any custom status:  
 
-![](104.png]({{site.baseurl}}/images/104.png)
+![](104.png]({{site.baseurl}}/images/104.png)  
+
+##**Alerts**
+
+Frontdesk Anywhere can help you reducing the margin of human error that is involved in the daily management of your hotel. You can set up the system to warn users when a possible damaging action is about to be taken: for example, if a guest is about to be checked-in into a dirty room, or if a guest is about to be checked-out with an outstanding balance, security deposit.
+
+- In the Admin Settings, click on the link **Alerts** under section _General_:  
+
+![](106+.png]({{site.baseurl}}/images/106+.png)
+
+
 
 
 
