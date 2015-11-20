@@ -251,7 +251,12 @@ You configure all the Identification Types that are accepted at your property in
 
 - To edit an Identification Type, click on the blue link _Edit_ on the right hand side of the Identification Types List:  
 
-![](63.png]({{site.baseurl}}/images/63.png)
+![](63.png]({{site.baseurl}}/images/63.png)  
+
+- You can make an existing Identification Type inactive by unchecking the box under the column _Status_:  
+
+![](64.png]({{site.baseurl}}/images/64.png)  
+
 
 
  
