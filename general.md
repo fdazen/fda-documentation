@@ -199,6 +199,11 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  If you want to create one, save it and then add the options by clicking on the blue link _Add Option_:  
  
- ![](94.png]({{site.baseurl}}/images/94.png)
+ ![](94.png]({{site.baseurl}}/images/94.png)    
+ 
+ A **TEXT AREA** will create a comment box in the folio guest profile:  
+ 
+ ![](96.png]({{site.baseurl}}/images/96.png)
+
 
 
