@@ -125,7 +125,12 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 - To add a Market, click on the blue button _Add Market_ and place the right name in the field. When done, click on the blue button _Save Market_:  
 
-![](![72.png]({{site.baseurl}}/images/72.png)
+![](![72.png]({{site.baseurl}}/images/72.png)  
+
+- To edit a Market, click on the link _Edit_ on the right hand side of the Markets List:  
+
+![](76.png]({{site.baseurl}}/images/76.png)
+
 
 
 
