@@ -257,6 +257,9 @@ You configure all the Identification Types that are accepted at your property in
 
 ![](64.png]({{site.baseurl}}/images/64.png)  
 
+- To permanently erase an Identification Type, select it by using the check box on the left hand side of the list and click on the blue button _Delete Selected Identification Types_:  
+
+![](65.png]({{site.baseurl}}/images/65.png)
 
 
  
