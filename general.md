@@ -202,7 +202,12 @@ Create your guest's modes of arrival to keep track of how they come to your prop
 
  - In the Admin Settings, click on the link **Modes of Arrival** under section _General_:  
  
- ![](46.png]({{site.baseurl}}/images/46.png)
+ ![](46.png]({{site.baseurl}}/images/46.png)  
+ 
+ - The system comes with a few modes of arrival defaulted in the system:  
+ 
+ ![](47.png]({{site.baseurl}}/images/47.png)
+
 
  
 
