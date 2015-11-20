@@ -228,7 +228,17 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  - To change the color for any of these statuses, click on the colored field with the color code:  
  
- ![](100.png]({{site.baseurl}}/images/100.png)
+ ![](100.png]({{site.baseurl}}/images/100.png)  
+ 
+ - Choose the colo you want by moving the arrows up or down on the color scale:  
+ 
+ ![](101.png]({{site.baseurl}}/images/101.png)  
+ 
+ - Select your choice by clicking on the colored disc on the bottom right side of the small color panel:  
+ 
+ ![](102.png]({{site.baseurl}}/images/102.png)
+
+
 
 
 
