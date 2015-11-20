@@ -187,6 +187,13 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  ![](92.png]({{site.baseurl}}/images/92.png)
  
-	- If you choose to create one, save it and then add those options by clicking on the blue link _Add Option_:  
+ If you choose to create one, save it and then add those options by clicking on the blue link _Add Option_:  
  
- ![](90.png]({{site.baseurl}}/images/90.png)
+ ![](90.png]({{site.baseurl}}/images/90.png)  
+ 
+ Insert your options and click on the button _Save_.
+ 
+ A **MULTISELECT** option will create a scroll down menu where multiple options can be chose, like the following one:  
+ 
+ ![](95.png]({{site.baseurl}}/images/95.png)
+
