@@ -210,7 +210,12 @@ Create your guest's modes of arrival to keep track of how they come to your prop
  
  - If some of these arrival modes do not apply to your property, you can either deactivate them by un-checking the box under column _Status_:  
  
- ![](48.png]({{site.baseurl}}/images/48.png)
+ ![](48.png]({{site.baseurl}}/images/48.png)  
+ 
+or you can erase them by selecting the check box on the left hand side of any Modes of Arrival, and by clicking on the blue button _Delete Selected Modes of Arrival_:  
+
+![](49.png]({{site.baseurl}}/images/49.png)
+
 
 
 
