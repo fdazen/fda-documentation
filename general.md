@@ -220,7 +220,12 @@ When you mark a field as **Required**, the system will force agents to insert th
 
  - In the Admin Settings, click on the blue link **Display Colors** under section _General_: 
  
- ![](98.png]({{site.baseurl}}/images/98.png)
+ ![](98.png]({{site.baseurl}}/images/98.png)  
+ 
+ - You will have a list of all the reservation and room status with the respective default colors:  
+ 
+ ![](99.png]({{site.baseurl}}/images/99.png)
+
 
   
 
