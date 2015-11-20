@@ -224,7 +224,12 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  - You will have a list of all the reservation and room status with the respective default colors:  
  
- ![](99.png]({{site.baseurl}}/images/99.png)
+ ![](99.png]({{site.baseurl}}/images/99.png)  
+ 
+ - To change the color for any of these statuses, click on the colored field with the color code:  
+ 
+ ![](100.png]({{site.baseurl}}/images/100.png)
+
 
 
   
