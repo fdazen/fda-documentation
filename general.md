@@ -258,7 +258,10 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 ![](107.png]({{site.baseurl}}/images/107.png)  
 
-- For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; if you want to have the system preventing the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_
+- For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; if you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_:  
+
+![](108.png]({{site.baseurl}}/images/108.png)
+
 
   
 
