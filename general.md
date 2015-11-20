@@ -178,7 +178,13 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  - Insert the name in the first box and choose what _type_ of field you want to create by picking the irght choice form the scrll down menu:  
  
- ![](89.png]({{site.baseurl}}/images/89.png)
+ ![](89.png]({{site.baseurl}}/images/89.png)  
+ 
+ A **TEXT** option will create an editable field.
+ A **SELECT** option will create a scroll down menu with different options for the agent to select.  If you choose to create one, save it anfd then add those options by clicking on the blue link _Add Option_:  
+ 
+ ![](90.png]({{site.baseurl}}/images/90.png)
+
 
 
 
