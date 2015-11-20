@@ -149,7 +149,9 @@ Frontdesk Anywhere allows you to personalize the number and type of fields you w
 
 ![](![80.png]({{site.baseurl}}/images/80.png)  
 
-You will notice that the folio is made out of three columns: the first one contains general information about the reservation, the middle one has fields regarding guest information. The links _Reservation Information: Custom Fields_ and _Guest Information: Custom Fields_ in the Admin Settings are the links via which you can configure what appears in those folio sections: 
+You will notice that the folio is made out of three columns: the first one contains general information about the reservation, the middle one has fields regarding information about profiles. A profile can be a Guest, a Travel Agent or a Company.
+
+The links _Reservation Information: Custom Fields_ and _Guest Information: Custom Fields_ in the Admin Settings are the links via which you can configure what appears in those folio sections: 
 
  - In the Admin Settings, click on the link _Guest Information: Custom Fields_:  
  
@@ -203,7 +205,9 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  A **TEXT AREA** will create a comment box in the folio guest profile:  
  
- ![](96.png]({{site.baseurl}}/images/96.png)
+ ![](96.png]({{site.baseurl}}/images/96.png)  
+ 
+  - The Guest Custom Fields do not apply only to your _guests_, but they can be applied to Travel AGents and Company Profiles, too
 
 
 
