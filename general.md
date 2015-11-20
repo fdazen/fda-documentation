@@ -218,8 +218,15 @@ or you can erase them by selecting the check box on the left hand side of any Mo
 
 - To create new Modes of Arrival, click on the blue button _Add Mode of Arrival_:  
 
-![](50.png]({{site.baseurl}}/images/50.png)
+![](50.png]({{site.baseurl}}/images/50.png)  
 
+- Insert the name for the new Mode of Arrival and click on the blue button _Save Mode of Arrival_:  
+
+![](51.png]({{site.baseurl}}/images/51.png)  
+
+- You can also edit a Mode of Arrival by clicking on the blue link _Edit_ on the right hand side of the Mode of Arrival list:  
+
+![](53.png]({{site.baseurl}}/images/53.png)
 
 
 
