@@ -154,7 +154,12 @@ You will notice that the folio is made out of three columns: the first one conta
 
  - In the Admin Settings, click on the link _Guest Information: Custom Fields_:  
  
- ![](81.png]({{site.baseurl}}/images/81.png)
+ ![](81.png]({{site.baseurl}}/images/81.png)  
+ 
+ - You will see a list of all the current active fields in your folios:  
+ 
+ ![](83.png]({{site.baseurl}}/images/83.png)
+
 
 
 
