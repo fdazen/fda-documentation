@@ -268,7 +268,17 @@ From time to time it might happen that you will need to update your Tape Chart: 
 
  - In the Admin Settings, click on the link **Tape Chart**, under section _General_:  
  
- ![](109.png]({{site.baseurl}}/images/109.png)
+ ![](109.png]({{site.baseurl}}/images/109.png)  
+ 
+ - The screen will show you when the Tape Chart was run last:  
+ 
+ ![](110.png]({{site.baseurl}}/images/110.png)  
+ 
+ - To run the Tape Chart, click on the blue button _Run Tape Chart_:  
+ 
+ ![](111.png]({{site.baseurl}}/images/111.png)
+
+
 
 
 
