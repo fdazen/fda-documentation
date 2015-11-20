@@ -238,9 +238,14 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  ![](102.png]({{site.baseurl}}/images/102.png)  
  
- -You can add more colors by clicking on the blue button **Add** next to the tag _Front Desk User Defined Colors_:  
+ - You can add more colors by clicking on the blue button **Add** next to the tag _Front Desk User Defined Colors_:  
  
- ![](103.png]({{site.baseurl}}/images/103.png)
+ ![](103.png]({{site.baseurl}}/images/103.png)  
+ 
+ - To remove one color, just click on the blue button _Remove_ on the right hand side of any custom status:  
+
+![](104.png]({{site.baseurl}}/images/104.png)
+
 
 
 
