@@ -212,9 +212,16 @@ When you mark a field as **Required**, the system will force agents to insert th
   ![](97.png]({{site.baseurl}}/images/97.png)  
   
   - The _Reservation Information: Custom Fields_ link works the same as the _Guest Information: Custom Fields_ one.  
+
+
+##**Display Colors**
   
-  
-  
+  Your account comes with a set of colors that you can easily personalize. Colors are used to define the status of a reservation and of rooms, they are employed to give you a good first-glance understanding of what is happening at your property at any time by just looking at your Tape Chart.  
+
+ - In the Admin Settings, click on the blue link **Display Colors** under section _General_: 
+ 
+ ![](98.png]({{site.baseurl}}/images/98.png)
+
   
 
 
