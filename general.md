@@ -162,7 +162,14 @@ You will notice that the folio is made out of three columns: the first one conta
  
  - For each field, select whether you want it active or not by checking/unchecking the box under column _Status_:  
  
- ![](84.png]({{site.baseurl}}/images/84.png)
+ ![](84.png]({{site.baseurl}}/images/84.png)  
+ 
+ **Note**: it is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it inactive.  
+ 
+ - For any field, select whether the field is required by checking/unchecking the box under column _Required_:  
+
+![](85.png]({{site.baseurl}}/images/85.png)
+
 
 
 
