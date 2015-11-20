@@ -109,4 +109,24 @@ You configure all the Identification Types that are accepted at your property in
 
 - All active Identification Types will appear in the central section of each reservation folio:  
 
-![](66.png]({{site.baseurl}}/images/66.png)
+![](66.png]({{site.baseurl}}/images/66.png)  
+
+##**Markets**  
+
+Markets are used to group your guests into segments: you can report on this field to have a better understanding on who your guests are.  
+
+- In the Admin Settings, click on the link **Markets** under section _General_:  
+
+![](67.png]({{site.baseurl}}/images/67.png)  
+
+- Your account comes with some of the most commonly used Markets:  
+
+![](68.png]({{site.baseurl}}/images/68.png)
+
+
+
+
+
+
+
+
