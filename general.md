@@ -207,7 +207,9 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  ![](96.png]({{site.baseurl}}/images/96.png)  
  
-  - The Guest Custom Fields do not apply only to your _guests_, but they can be applied to Travel AGents and Company Profiles, too
+  - As mentioned above, you can create information for Guests, but also for Travel Agents and Company profiles. To create fields for the latter, select your option form the scroll down menu that appears on top of the _Guest Profile Custom Fields_ list:  
+  
+  ![](97.png]({{site.baseurl}}/images/97.png)
 
 
 
