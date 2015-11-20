@@ -193,7 +193,18 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
  
  ![](45.png]({{site.baseurl}}/images/45.png)
  
- so setting up a default language only means that all _new_ users will see the system in that language upon their first log-in. 
+ Setting up a default language only means that all _new_ users will see the system in that language upon their first log-in.   
+
+
+##**Modes Of Arrival**  
+
+Create your guest's modes of arrival to keep track of how they come to your property!  
+
+ - In the Admin Settings, click on the link **Modes of Arrival** under section _General_:  
+ 
+ ![](46.png]({{site.baseurl}}/images/46.png)
+
+ 
 
 
 
