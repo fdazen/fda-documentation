@@ -158,7 +158,12 @@ You will notice that the folio is made out of three columns: the first one conta
  
  - You will see a list of all the current active fields in your folios:  
  
- ![](83.png]({{site.baseurl}}/images/83.png)
+ ![](83.png]({{site.baseurl}}/images/83.png)  
+ 
+ - For each field, select whether you want it active or not by checking/unchecking the box under column _Status_:  
+ 
+ ![](84.png]({{site.baseurl}}/images/84.png)
+
 
 
 
