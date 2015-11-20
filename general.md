@@ -259,7 +259,12 @@ You configure all the Identification Types that are accepted at your property in
 
 - To permanently erase an Identification Type, select it by using the check box on the left hand side of the list and click on the blue button _Delete Selected Identification Types_:  
 
-![](65.png]({{site.baseurl}}/images/65.png)
+![](65.png]({{site.baseurl}}/images/65.png)  
+
+- All active Identification Types will appear in the central section of each reservation folio:  
+
+![](66.png]({{site.baseurl}}/images/66.png)
+
 
 
  
