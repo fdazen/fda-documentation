@@ -226,7 +226,11 @@ or you can erase them by selecting the check box on the left hand side of any Mo
 
 - You can also edit a Mode of Arrival by clicking on the blue link _Edit_ on the right hand side of the Mode of Arrival list:  
 
-![](53.png]({{site.baseurl}}/images/53.png)
+![](53.png]({{site.baseurl}}/images/53.png)  
+
+- All Modes of Arrival show up in each reservation folio on the left hand side of the screen:  
+
+![](54.png]({{site.baseurl}}/images/54.png)
 
 
 
