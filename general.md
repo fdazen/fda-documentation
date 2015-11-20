@@ -1,5 +1,5 @@
 ---
-title: General
+title: general.md
 tags: 
   - formatting
 keywords: "languages, modes of arrival, identification types, sources of business, markets, display colors, guest information, reservation information, custom fields, alerts, tape chart."
@@ -9,7 +9,6 @@ published: true
 ---
 
 
-  
 
 #**General**  
 
