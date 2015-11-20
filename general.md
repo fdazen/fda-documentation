@@ -249,6 +249,10 @@ You configure all the Identification Types that are accepted at your property in
 
 ![](62.png]({{site.baseurl}}/images/62.png)
 
+- To edit an Identification Type, click on the blue link _Edit_ on the right hand side of the Identification Types List:  
+
+![](63.png]({{site.baseurl}}/images/63.png)
+
 
  
 
