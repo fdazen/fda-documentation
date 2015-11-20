@@ -211,6 +211,8 @@ When you mark a field as **Required**, the system will force agents to insert th
   
   ![](97.png]({{site.baseurl}}/images/97.png)  
   
+  - The _Reservation Information: Custom Fields_ link works the same as the _Guest Information: Custom Fields_ one.  
+  
   
   
   
