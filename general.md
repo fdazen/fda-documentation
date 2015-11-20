@@ -144,6 +144,23 @@ Markets are used to group your guests into segments: you can report on this fiel
 ![](79.png]({{site.baseurl}}/images/79.png)
 
 
+##**Guest Information and Reservation Information Custom Fields**  
+
+Frontdesk Anywhere allows you to personalize the number and type of fields you want to have in your reservation folios. Before starting, let us look at a reservation folio:  
+
+![](![80.png]({{site.baseurl}}/images/80.png)  
+
+You will notice that the folio is made out of three columns: the first one contains general information about the reservation, the middle one has fields regarding guest information. The links _Reservation Information: Custom Fields_ and _Guest Information: Custom Fields_ in the Admin Settings are the links via which you can configure what appears in those folio sections: 
+
+ - In the Admin Settings, click on the link _Guest Information: Custom Fields_:  
+ 
+ ![](81.png]({{site.baseurl}}/images/81.png)
+
+
+
+
+
+
 
 
 
