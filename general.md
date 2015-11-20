@@ -174,7 +174,12 @@ When you mark a field as **Required**, the system will force agents to insert th
 
  - To add a Custom Field, click on the blue button _Add Custom Field_ at the bottom of the page:  
  
- ![](86.png]({{site.baseurl}}/images/86.png)
+ ![](86.png]({{site.baseurl}}/images/86.png)  
+ 
+ - Insert the name in the first box and choose what _type_ of field you want to create by picking the irght choice form the scrll down menu:  
+ 
+ ![](89.png]({{site.baseurl}}/images/89.png)
+
 
 
 
