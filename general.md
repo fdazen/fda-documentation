@@ -233,6 +233,13 @@ or you can erase them by selecting the check box on the left hand side of any Mo
 ![](54.png]({{site.baseurl}}/images/54.png)
 
 
+##**Identification Type**  
+
+You configure all the Identification Types that are accepted at your property in a simple click!  
+
+- In the Admin Settings, click on the link **Identification Types** under section _General_:  
+
+![](60.png]({{site.baseurl}}/images/60.png)
 
  
 
