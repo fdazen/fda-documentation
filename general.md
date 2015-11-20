@@ -193,7 +193,12 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  Insert your options and click on the button _Save_.
  
- A **MULTISELECT** option will create a scroll down menu where multiple options can be chose, like the following one:  
+ A **MULTISELECT** option will create a scroll down menu where multiple options can be chosen, like the following one:  
  
- ![](95.png]({{site.baseurl}}/images/95.png)
+ ![](95.png]({{site.baseurl}}/images/95.png)  
+ 
+ If you want to create one, save it and then add the options by clicking on the blue link _Add Option_:  
+ 
+ ![](94.png]({{site.baseurl}}/images/94.png)
+
 
