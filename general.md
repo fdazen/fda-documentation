@@ -204,9 +204,14 @@ Create your guest's modes of arrival to keep track of how they come to your prop
  
  ![](46.png]({{site.baseurl}}/images/46.png)  
  
- - The system comes with a few modes of arrival defaulted in the system:  
+ - The system comes with a few Modes of Arrival defaulted in the system:  
  
- ![](47.png]({{site.baseurl}}/images/47.png)
+ ![](47.png]({{site.baseurl}}/images/47.png)  
+ 
+ - If some of these arrival modes do not apply to your property, you can either deactivate them by un-checking the box under column _Status_:  
+ 
+ ![](48.png]({{site.baseurl}}/images/48.png)
+
 
 
  
