@@ -9,7 +9,6 @@ published: true
 ---
 
 
-
 #**General**  
 
 The _General_ section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  
@@ -180,28 +179,14 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  ![](89.png]({{site.baseurl}}/images/89.png)  
  
- A **TEXT** option will create an editable field.
- A **SELECT** option will create a scroll down menu with different options for the agent to select.  If you choose to create one, save it anfd then add those options by clicking on the blue link _Add Option_:  
+ A **TEXT** option will create an editable field like the following: 
+ 
+ ![](91.png]({{site.baseurl}}/images/91.png)
+
+ A **SELECT** option will create a scroll down menu with different options for the agent to select, like this one:  
+ 
+ ![](92.png]({{site.baseurl}}/images/92.png)
+ 
+	- If you choose to create one, save it and then add those options by clicking on the blue link _Add Option_:  
  
  ![](90.png]({{site.baseurl}}/images/90.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
