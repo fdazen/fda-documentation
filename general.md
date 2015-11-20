@@ -260,7 +260,16 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 - For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; if you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_:  
 
-![](108.png]({{site.baseurl}}/images/108.png)
+![](108.png]({{site.baseurl}}/images/108.png)  
+
+##**Tape Chart**  
+
+From time to time it might happen that you will need to update your Tape Chart: for example, if you are undergoing some display issue where a reservation does not have an updated status, running the Tape Chart will automatically refresh all of your bookings.
+
+ - In the Admin Settings, click on the link **Tape Chart**, under section _General_:  
+ 
+ ![](109.png]({{site.baseurl}}/images/109.png)
+
 
 
   
