@@ -41,7 +41,12 @@ In case you need it, here is a breakdown of the meaning of the all channels list
  
  - Under _Identifier_, place the name of the Source of Business Item and click on the grey button _Save_ on the right hand side:  
  
- ![](5.png]({{site.baseurl}}/images/5.png)
+ ![](5.png]({{site.baseurl}}/images/5.png)  
+ 
+ - In case you need to edit the SOurce of Business Item you have just created, click on the button _Edit_ on the right hand side of the item:  
+ 
+ ![](6.png]({{site.baseurl}}/images/6.png)
+
 
   
 
