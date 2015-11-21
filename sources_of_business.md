@@ -69,7 +69,13 @@ In case you need it, here is a breakdown of the meaning of the all channels list
   
   - This is where you configure the rules that the sytem will follow. Choose a priority, and select your options form the scroll down menus. You will need to choose those options according to what you want the system to do; in my example below, I am selecting that all reservations made via the channel **Frontdesk** (Tape Chart), marked with the source **Phone Call** will end up in the **Direct** category:  
   
-  ![](11.png]({{site.baseurl}}/images/11.png)
+  ![](11.png]({{site.baseurl}}/images/11.png)  
+  
+  
+**NOTE**: Upon _first_ receipt of any reservations coming from any channel other than Frontdesk, you will need to log back into the _Sources of Business_ as that will create a new _Source Item_: you will then need to define the rule controlling that Item!  
+
+
+
 
 
 
