@@ -19,6 +19,34 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  ![](2.png]({{site.baseurl}}/images/2.png)  
  
  ###1. **Create your Source Items** 
+ 
+  - Start by entering all Source Items for reservations that you will have to manually insert in the system. **Do not** enter sources for those reservations that will automatically flow into your accounts, as the Source Item for those ones will be automatically created upon reservation receipt.
+  
+ Click on the blue link _Add Source of Business Item_:  
+  
+  ![](3.png]({{site.baseurl}}/images/3.png)  
+  
+ - Select the channel via which reservations come to interface with your PMS. As mentioned before, you will only need to create sources for those manually inserted reservations, as all others will pick up their channel automatically, so choose the option **Frontdesk**: 
+ 
+ ![](4.png]({{site.baseurl}}/images/4.png)  
+ 
+In case you need it, here is a breakdown of the meaning of the all channels listed:
+ 
+ **FRONTDESK** for reservations manually entered on your Tape Chart.
+ **OBOE** for those coming from your **O**nline **BO**oking **E**ngine.  
+ **INNLINK** for those reservation coming from Innlink.  
+ **FDX2** for those coming from your channel manager.
+ **BDC** for those reservations coming via the Booking.com direct connection.
+ **EXPEDIA** for those coming via the Expedia direct connection.  
+ 
+ - Under _Identifier_, place the name of the Source of Business Item and click on the grey button _Save_ on the right hand side:  
+ 
+ ![](5.png]({{site.baseurl}}/images/5.png)
+
+  
+
+
+
 
 
 
