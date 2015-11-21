@@ -12,6 +12,13 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
  
- ![](1.png]({{site.baseurl}}/images/1.png)
+ ![](1.png]({{site.baseurl}}/images/1.png)  
+ 
+ - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
+ 
+ ![](2.png]({{site.baseurl}}/images/2.png)  
+ 
+ ###1. **Create your Source Items** 
+
 
 
