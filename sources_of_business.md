@@ -57,6 +57,10 @@ In case you need it, here is a breakdown of the meaning of the all channels list
   
   ![](8.png]({{site.baseurl}}/images/8.png)
 
+ - To edit a Source Category, click on the grey button _Edit_ on the right hand side of the newly created category:  
+ 
+ ![](9.png]({{site.baseurl}}/images/9.png)
+
 
 
 
