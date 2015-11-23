@@ -4,11 +4,11 @@
 Sources of Business track the origin of reservations. You can report on these in order to find out where people come to know about your property, or to check the production level for each channel.  
 Each reservation that automatically arrives to your PMS comes with a _source tag_ that your system will pick up and store: you will need to organize these incoming sources via the set up of automatic rules that the system will follow. Before starting configuring those up, let's explore some system terminology that will come useful during the set up: 
 
-**Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These can be _Walk-In_, _Phone Call_, _Booking.com_, etc.  
+**Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These Sources come with the file of reservations that interface with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_.
 
-**Source of Business Category**: categories are used to group together sources: you can think of them as "buckets" where different but affiliated sources are grouped together. For example, a Source Category can be _Direct_ and it can group all sources from direct bookings, as _EMail_, _Walk-In_, _Phone Calls_, etc.  
+**Source of Business Category**: as mentioned above, although we have no control over what Source Items get sent to us, we do provide you with a tool to re-name them. By creating Source Categories you will be able to control how the Items are named.
 
-**Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the ysstem will operate.  
+**Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system will operate.  
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
  
@@ -72,20 +72,4 @@ In case you need it, here is a breakdown of the meaning of the all channels list
   ![](11.png]({{site.baseurl}}/images/11.png)  
   
   
-**NOTE**: Upon _first_ receipt of any reservations coming from any channel other than Frontdesk, you will need to log back into the _Sources of Business_ as that will create a new _Source Item_: you will then need to define the rule controlling that Item!  
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
+**NOTE**: Upon _first_ receipt of any reservations coming from any channel other than Frontdesk, you will need to log back into the _Sources of Business_ as that will create a new _Source Item_: you will then need to define the rule controlling that Item!
