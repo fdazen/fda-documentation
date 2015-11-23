@@ -11,13 +11,26 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
 **Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system will operate.  
 
 
+ ###1. **Create your Source Categories** 
+
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
  
  ![](1.png]({{site.baseurl}}/images/1.png)  
  
  - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
  
- ![](2.png]({{site.baseurl}}/images/2.png)  
+ ![](2.png]({{site.baseurl}}/images/2.png)
+ 
+  - Click on the blue button _Add Source of Business Category_:  
+  
+  ![](7.png]({{site.baseurl}}/images/7.png)
+
+
+
+ 
+ 
+ 
+ 
  
  ###1. **Create your Source Items** 
  
@@ -48,19 +61,7 @@ In case you need it, here is a breakdown of the meaning of the all channels list
  
  ![](6.png]({{site.baseurl}}/images/6.png)  
  
- ###2. **Create you Source Categories**  
- 
-  - Click on the blue button _Ad Source of Business Category_:  
-  
-  ![](7.png]({{site.baseurl}}/images/7.png)  
-  
-  - Enter the name for the Category and a brief description; when done, click on the grey button _Save_ on the right hand side:  
-  
-  ![](8.png]({{site.baseurl}}/images/8.png)
 
- - To edit a Source Category, click on the grey button _Edit_ on the right hand side of the newly created category:  
- 
- ![](9.png]({{site.baseurl}}/images/9.png)  
  
  ###3. **Create your Source of Business Rules**  
  
