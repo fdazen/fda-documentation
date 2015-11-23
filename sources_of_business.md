@@ -51,7 +51,7 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
 
 Here is a quick overview of what each channel means:  
 
- **FRONTDESK** for reservations manually entered on your Tape Chart.
+ **FRONTDESK** for reservations manually entered on your Tape Chart.  
  **OBOE** for those coming from your **O**nline **BO**oking **E**ngine.  
  **INNLINK** for those reservation coming from Innlink.  
  **FDX2** for those coming from your channel manager.
