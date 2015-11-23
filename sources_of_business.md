@@ -38,7 +38,8 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  
  ###2. **Create your Source of Business Rules**  
  
- Sources of Business Rules will turn Identifiers into Categories. All rules **must be set up upon first receipt of a new reservation source tag**. Once you start connecting with channels and receive reservations, you will need to define what the system has to do: 
+ Sources of Business Rules will turn Identifiers into Categories. All rules **must be set up upon first receipt of a new reservation source tag**. If you are not connected with any channel (including OBE), you can skip the following instructions.
+ Once you start connecting with channels and receive reservations, you will need to define what the system has to do: 
  
   - Click on the blue button _Add Source of Business Rule_:  
   
@@ -48,9 +49,18 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
   
   ![](203.png]({{site.baseurl}}/images/203.png)
 
-  
-  
-**NOTE**: Upon _first_ receipt of any reservations coming from any channel other than Frontdesk, you will need to log back into the _Sources of Business_ as that will create a new _Source Item_: you will then need to define the rule controlling that Item!
+Here is a quick overview of what each channel means:  
+
+ **FRONTDESK** for reservations manually entered on your Tape Chart.
+ **OBOE** for those coming from your **O**nline **BO**oking **E**ngine.  
+ **INNLINK** for those reservation coming from Innlink.  
+ **FDX2** for those coming from your channel manager.
+ **BDC** for those reservations coming via the Booking.com direct connection.
+ **EXPEDIA** for those coming via the Expedia direct connection.  
+
+Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced:  
+
+ ![](204.png]({{site.baseurl}}/images/204.png)
 
 
 
@@ -73,12 +83,6 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  
 In case you need it, here is a breakdown of the meaning of the all channels listed:
  
- **FRONTDESK** for reservations manually entered on your Tape Chart.
- **OBOE** for those coming from your **O**nline **BO**oking **E**ngine.  
- **INNLINK** for those reservation coming from Innlink.  
- **FDX2** for those coming from your channel manager.
- **BDC** for those reservations coming via the Booking.com direct connection.
- **EXPEDIA** for those coming via the Expedia direct connection.  
  
  - Under _Identifier_, place the name of the Source of Business Item and click on the grey button _Save_ on the right hand side:  
  
