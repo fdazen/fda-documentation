@@ -23,7 +23,12 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  
   - Click on the blue button _Add Source of Business Category_:  
   
-  ![](7.png]({{site.baseurl}}/images/7.png)
+  ![](7.png]({{site.baseurl}}/images/7.png)  
+  
+  - Enter the name for your Category, and give it a brief description if you want. Once done, click on the grey button _Save_ on the right hand side of the screen:
+  
+  ![](201.png]({{site.baseurl}}/images/201.png)
+
 
 
 
