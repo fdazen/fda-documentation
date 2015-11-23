@@ -62,33 +62,7 @@ Note that when a Source of Business Item comes through the system, it will pick 
 
  ![](204.png]({{site.baseurl}}/images/204.png)
 
-This means that when setting up your Sources Rules and deciding what channel to choose from the drop down menu, make sure to look at the Source Identifier's channel, as they will **need to be the same**.
- 
- 
- ![](4.png]({{site.baseurl}}/images/4.png)  
- 
-In case you need it, here is a breakdown of the meaning of the all channels listed:
- 
- 
- - Under _Identifier_, place the name of the Source of Business Item and click on the grey button _Save_ on the right hand side:  
- 
- ![](5.png]({{site.baseurl}}/images/5.png)  
- 
- - In case you need to edit the SOurce of Business Item you have just created, click on the button _Edit_ on the right hand side of the item:  
- 
- ![](6.png]({{site.baseurl}}/images/6.png)  
+This means that when setting up your Sources Rules and deciding what channel to choose from the drop down menu, make sure to look at the Source Identifier's channel, as they will **need to be the same**. This is because the rule will need to recognize not only the source tag sent by the channel, but also the channel from which the tag has been sent.
  
 
- 
- ###3. **Create your Source of Business Rules**  
- 
-  - Click on the blue button _Add Source of Business Rule_:  
-  
-  ![](10.png]({{site.baseurl}}/images/10.png)  
-  
-  - This is where you configure the rules that the sytem will follow. Choose a priority, and select your options form the scroll down menus. You will need to choose those options according to what you want the system to do; in my example below, I am selecting that all reservations made via the channel **Frontdesk** (Tape Chart), marked with the source **Phone Call** will end up in the **Direct** category:  
-  
-  ![](11.png]({{site.baseurl}}/images/11.png)  
-  
-  
-**NOTE**: Upon _first_ receipt of any reservations coming from any channel other than Frontdesk, you will need to log back into the _Sources of Business_ as that will create a new _Source Item_: you will then need to define the rule controlling that Item!
+
