@@ -4,7 +4,7 @@
 Sources of Business track the origin of reservations. You can report on these in order to find out where people come to know about your property, or to check the production level for each channel.  
 Each reservation that automatically arrives to your PMS comes with a _source tag_ that your system will pick up and store: you will need to organize these incoming sources via the set up of automatic rules that the system will follow. Before starting configuring those up, let's explore some system terminology that will come useful during the set up: 
 
-**Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These Sources come with the file of reservations that interface with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_.
+**Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These Sources come with the file of reservations that interface with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_. Since they come from external sources, you won't need to create them, as the system will automatically pick up the source tag along with the channel from where these tags interface with the system.
 
 **Source of Business Category**: as mentioned above, although we have no control over what Source Items get sent to us, we do provide you with a tool to re-name them. By creating Source Categories you will be able to control how the Items are named. For example, if Expedia sends _EQC_, you can re-name it by creating the Category _Expedia_. The latter will show up in any reservation folios and also in reports.
 
@@ -27,8 +27,29 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
   
   - Enter the name for your Category, and give it a brief description if you want. Once done, click on the grey button _Save_ on the right hand side of the screen:
   
-  ![](201.png]({{site.baseurl}}/images/201.png)
-
+  ![](201.png]({{site.baseurl}}/images/201.png)  
+  
+  - Repeat for all Sources you have.
+  
+ The Categories will show up in each reservation folios under the scroll down menu _Source_, on the right hand side of each folio:  
+ 
+ ![](202.png]({{site.baseurl}}/images/202.png)
+ 
+ 
+ ###2. **Create your Source of Business Rules**  
+ 
+ Sources of Business Rules will turn 
+ 
+  - Click on the blue button _Add Source of Business Rule_:  
+  
+  ![](10.png]({{site.baseurl}}/images/10.png)  
+  
+  - This is where you configure the rules that the sytem will follow. Choose a priority, and select your options form the scroll down menus. You will need to choose those options according to what you want the system to do; in my example below, I am selecting that all reservations made via the channel **Frontdesk** (Tape Chart), marked with the source **Phone Call** will end up in the **Direct** category:  
+  
+  ![](11.png]({{site.baseurl}}/images/11.png)  
+  
+  
+**NOTE**: Upon _first_ receipt of any reservations coming from any channel other than Frontdesk, you will need to log back into the _Sources of Business_ as that will create a new _Source Item_: you will then need to define the rule controlling that Item!
 
 
 
