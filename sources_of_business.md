@@ -38,15 +38,16 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  
  ###2. **Create your Source of Business Rules**  
  
- Sources of Business Rules will turn 
+ Sources of Business Rules will turn Identifiers into Categories. All rules **must be set up upon first receipt of a new reservation source tag**. Once you start connecting with channels and receive reservations, you will need to define what the system has to do: 
  
   - Click on the blue button _Add Source of Business Rule_:  
   
   ![](10.png]({{site.baseurl}}/images/10.png)  
   
-  - This is where you configure the rules that the sytem will follow. Choose a priority, and select your options form the scroll down menus. You will need to choose those options according to what you want the system to do; in my example below, I am selecting that all reservations made via the channel **Frontdesk** (Tape Chart), marked with the source **Phone Call** will end up in the **Direct** category:  
+  - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _FDX2_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
   
-  ![](11.png]({{site.baseurl}}/images/11.png)  
+  ![](203.png]({{site.baseurl}}/images/203.png)
+
   
   
 **NOTE**: Upon _first_ receipt of any reservations coming from any channel other than Frontdesk, you will need to log back into the _Sources of Business_ as that will create a new _Source Item_: you will then need to define the rule controlling that Item!
