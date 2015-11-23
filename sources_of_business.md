@@ -54,8 +54,8 @@ Here is a quick overview of what each channel means:
  **FRONTDESK** for reservations manually entered on your Tape Chart.  
  **OBOE** for those coming from your **O**nline **BO**oking **E**ngine.  
  **INNLINK** for those reservation coming from Innlink.  
- **FDX2** for those coming from your channel manager.
- **BDC** for those reservations coming via the Booking.com direct connection.
+ **FDX2** for those coming from your channel manager.  
+ **BDC** for those reservations coming via the Booking.com direct connection.  
  **EXPEDIA** for those coming via the Expedia direct connection.  
 
 Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced:  
