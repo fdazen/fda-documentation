@@ -62,22 +62,8 @@ Note that when a Source of Business Item comes through the system, it will pick 
 
  ![](204.png]({{site.baseurl}}/images/204.png)
 
-
-
+This means that when setting up your Sources Rules and deciding what channel to choose from the drop down menu, make sure to look at the Source Identifier's channel, as they will **need to be the same**.
  
- 
- 
- 
- 
- ###1. **Create your Source Items** 
- 
-  - Start by entering all Source Items for reservations that you will have to manually insert in the system. **Do not** enter sources for those reservations that will automatically flow into your accounts, as the Source Item for those ones will be automatically created upon reservation receipt.
-  
- Click on the blue link _Add Source of Business Item_:  
-  
-  ![](3.png]({{site.baseurl}}/images/3.png)  
-  
- - Select the channel via which reservations come to interface with your PMS. As mentioned before, you will only need to create sources for those manually inserted reservations, as all others will pick up their channel automatically, so choose the option **Frontdesk**: 
  
  ![](4.png]({{site.baseurl}}/images/4.png)  
  
