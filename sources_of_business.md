@@ -6,9 +6,10 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
 
 **Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These Sources come with the file of reservations that interface with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_.
 
-**Source of Business Category**: as mentioned above, although we have no control over what Source Items get sent to us, we do provide you with a tool to re-name them. By creating Source Categories you will be able to control how the Items are named.
+**Source of Business Category**: as mentioned above, although we have no control over what Source Items get sent to us, we do provide you with a tool to re-name them. By creating Source Categories you will be able to control how the Items are named. For example, if Expedia sends _EQC_, you can re-name it by creating the Category _Expedia_. The latter will show up in any reservation folios and also in reports.
 
 **Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system will operate.  
+
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
  
