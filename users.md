@@ -52,9 +52,13 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  ![](10.png]({{site.baseurl}}/images/10.png)  
  
- - Select all the actions you want to enable for a certain level, by checking the boxes next to the description of the action you can enable/limit:  
+ - Select all the actions you want to enable for a certain level, by checking the boxes next to the description of the action you can enable:  
  
- ![](11.png]({{site.baseurl}}/images/11.png)
+ ![](11.png]({{site.baseurl}}/images/11.png)  
+ 
+ - Once done, click on the blue button _Save Changes_ at the bottom of the page:  
+ 
+ ![](13.png]({{site.baseurl}}/images/13.png)
 
 
 
