@@ -21,7 +21,7 @@ Creating different access levels for users may be necessary to protect certain s
  
  - Your system comes with four defaulted and common access levels, that you can _Edit_ before creating new ones:
  
- ![](2.png]({{site.baseurl}}/images/2.png)  
+ ![](2.png]({{site.baseurl}}/images/2.png)    
  
  - To edit a User Level, click on the blue link _Edit_ on the right hand side of any level:  
  
@@ -69,23 +69,3 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  - To **Deactivate** a User Level, simply uncheck the box on the right hand side of the User Levels List, under column _Status_:  
  
  ![](15.png]({{site.baseurl}}/images/15.png)
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-
- 
-
- 
- 
-
