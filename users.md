@@ -95,7 +95,12 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 - Click on the blue link _Save User_ at the bottom of the screen:  
 
-![](20.png]({{site.baseurl}}/images/20.png)
+![](20.png]({{site.baseurl}}/images/20.png)  
+
+- To **Deactivate** a user, un-check the box under column _Status_ on the right hand side of any user:  
+
+![](21.png]({{site.baseurl}}/images/21.png)
+
 
 
 
