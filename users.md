@@ -89,6 +89,10 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 ![](18.png]({{site.baseurl}}/images/18.png)
 
+- Choose the default view for the user, by selecting a choice from the drop down menu next to the tag _Default View_:  
+
+![](19.png]({{site.baseurl}}/images/19.png) 
+
 
 
  
