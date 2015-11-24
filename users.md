@@ -11,7 +11,7 @@ summary: "Labels are just a simple Bootstrap component that you can include in y
 
 Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what users can do and tailor-made what is displayed for each of them upon login.
 
-##**User Levels**  
+##**User Levels**w  
 
 Creating different access levels for users may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account.  
 
