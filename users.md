@@ -76,8 +76,16 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  **Apply User Levels**  
  
- All of your system users appear in the Users List. In the Admin Settings, click on the blue link **Users** under section _Users_:  
+ - All of your system users appear in the Users List. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
- ![](16.png]({{site.baseurl}}/images/16.png)
+ ![](16.png]({{site.baseurl}}/images/16.png) 
+
+- You will see a list of all the currently created users: click on blue link _Edit_ on the right hand side of any user:  
+
+![](17.png]({{site.baseurl}}/images/17.png)
+
+
+ 
+ 
 
  
