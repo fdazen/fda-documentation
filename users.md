@@ -124,10 +124,13 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
 ![](26.png]({{site.baseurl}}/images/26.png)  
 
-- Amend the name in the _Shift Title_ text box and when finished, click on the blue button _Save Shift_:  
+- Edit the name in the _Shift Title_ text box and when finished, click on the blue button _Save Shift_:  
 
 ![](27.png]({{site.baseurl}}/images/27.png)
 
+- To add a new shift, click on the button _Add Shift_: 
+
+![](28.png]({{site.baseurl}}/images/28.png)
 
 
 
