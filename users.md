@@ -11,7 +11,7 @@ summary: "Labels are just a simple Bootstrap component that you can include in y
 
 Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what users can do and tailor-made what is displayed for each of them upon login.
 
-###**User Levels**  
+##**User Levels**  
 
 Creating different access levels for users may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account.  
 
@@ -42,7 +42,16 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - Give a name for the new User Level and check all the applicable boxes, and click on the blue button _Save Changes_:  
  
- ![](9.png]({{site.baseurl}}/images/9.png)
+ ![](9.png]({{site.baseurl}}/images/9.png)  
+ 
+ **Edit Permissions for a User Level**
+ 
+ Now that you have created your User Levels, you can go more in depth and pick permissions within the areas you have applied for a level.
+ 
+ - In the User Level List, click on the blue link _Permissions_:  
+ 
+ ![](10.png]({{site.baseurl}}/images/10.png)
+
 
 
 
