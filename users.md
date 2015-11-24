@@ -134,7 +134,7 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
 The process is the same as editing one!  
 
-- To **Deactivate** a shift, simply un-chekc the box under the column _Status_ on the right hand side of the screen:  
+- To **Deactivate** a shift, simply un-check the box under the column _Status_ on the right hand side of the screen:  
 
 ![](29.png]({{site.baseurl}}/images/29.png)
 
