@@ -25,7 +25,12 @@ Creating different access levels for users may be necessary to protect certain s
  
  - To edit a User Level, click on the blue link _Edit_ on the right hand side of any level:  
  
- ![](4.png]({{site.baseurl}}/images/4.png)
+ ![](4.png]({{site.baseurl}}/images/4.png)  
+ 
+ - Select all of the areas you would like to enable for the User Level. In the example below, I am editing the _All Access_ level and I am checking all boxes. This means that users I will list under this level will have acces to all of the checked areas of the system:  
+ 
+ ![](3.png]({{site.baseurl}}/images/3.png)
+
 
  
 
