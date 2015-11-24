@@ -17,4 +17,9 @@ Creating different access levels for users may be necessary to protect certain s
 
  - In the Admin Settings, click on the blue link **User Levels** under section _Users_:  
  
- ![](1.png]({{site.baseurl}}/images/1.png)
+ ![](1.png]({{site.baseurl}}/images/1.png)  
+ 
+ - Your system comes from four defaulted and common access levels:
+ 
+ -![](2.png]({{site.baseurl}}/images/2.png)
+
