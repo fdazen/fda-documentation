@@ -35,24 +35,23 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 ![](7.png]({{site.baseurl}}/images/7.png)  
 
-
- - To add a User Level, click on the blue button _Add a New User Level_:  
+ - To **Add** a User Level, click on the blue button _Add a New User Level_:  
  
  ![](8.png]({{site.baseurl}}/images/8.png)  
  
- - Give a name for the new User Level and check all the applicable boxes, and click on the blue button _Save Changes_:  
+ - Give a name for the new User Level and check all the applicable boxes. Whene done, click on the blue button _Save Changes_:  
  
  ![](9.png]({{site.baseurl}}/images/9.png)  
  
  **Edit Permissions for a User Level**
  
- Now that you have created your User Levels, you can go more in depth and pick permissions within the areas you have applied for a level.
+ Now that you have created your User Levels, you can go more in depth and edit access permissions permissions within each level.
  
  - In the User Level List, click on the blue link _Permissions_:  
  
  ![](10.png]({{site.baseurl}}/images/10.png)  
  
- - Select all the actions you want to enable for a certain level, by checking the boxes next to the description of the action you can enable:  
+ - Select all the actions you want to enable for the level, by checking the boxes next to each tag. The latter describes the kind of action you can enable/disable:  
  
  ![](11.png]({{site.baseurl}}/images/11.png)  
  
