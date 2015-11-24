@@ -64,7 +64,12 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - To **Delete** a User Level, select the box on the right hand side of the level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
  
- ![](14.png]({{site.baseurl}}/images/14.png)
+ ![](14.png]({{site.baseurl}}/images/14.png)  
+ 
+ - To **Deactivate** a User Level, simply uncheck the box on the right hand side of the User Levels List, under column _Status_:  
+ 
+ ![](15.png]({{site.baseurl}}/images/15.png)
+
 
 
 
