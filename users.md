@@ -29,7 +29,14 @@ Creating different access levels for users may be necessary to protect certain s
  
  - Select all of the areas you would like to enable for the User Level. In the example below, I am editing the _All Access_ level and I am checking all boxes. This means that users I will list under this level will have acces to all of the checked areas of the system:  
  
- ![](3.png]({{site.baseurl}}/images/3.png)
+ ![](3.png]({{site.baseurl}}/images/3.png)  
+ 
+ Here is a breakdown of what each tag means:  
+ 
+ **Profiles**: if checked, it will enable all users listed under this level to access the Profile Tab:  
+ 
+ ![](5.png]({{site.baseurl}}/images/5.png)
+
 
 
  
