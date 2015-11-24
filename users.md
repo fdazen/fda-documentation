@@ -19,15 +19,15 @@ Creating different access levels for users may be necessary to protect certain s
  
  ![](1.png]({{site.baseurl}}/images/1.png)  
  
- - Your system comes with four defaulted and common access levels, that you can _Edit_ before creating new ones:
+ - Your system comes with four defaulted, common access levels, that you can edit before creating new ones:
  
  ![](2.png]({{site.baseurl}}/images/2.png)    
  
- - To edit a User Level, click on the blue link _Edit_ on the right hand side of any level:  
+ - To **Edit** a User Level, click on the blue link _Edit_ on the right hand side of any level:  
  
  ![](4.png]({{site.baseurl}}/images/4.png)  
  
- - Select all of the areas you would like to enable for the User Level. In the example below, I am editing the _All Access_ level and I am checking all boxes. This means that users I will list under this level will have acces to all of the checked areas of the system:  
+ - Select all of the areas that you want accessible for the User Level you are editing. In the example below, I am editing the _All Access_ level and I am checking all boxes. This means that users I list under this level will have access to all of the checked areas of the system:  
  
  ![](3.png]({{site.baseurl}}/images/3.png)  
  
