@@ -67,4 +67,17 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - To **Deactivate** a User Level, simply uncheck the box on the right hand side of the User Levels List, under column _Status_:  
  
- ![](15.png]({{site.baseurl}}/images/15.png)
+ ![](15.png]({{site.baseurl}}/images/15.png)  
+ 
+ 
+ **Create Users** 
+ 
+ It is currently not possible to create users directly within your account: if you wish to create a new user, please contact our Support Team at support@frontdeskanywhere.com! 
+ 
+ **Apply User Levels**  
+ 
+ All of your system users appear in the Users List. In the Admin Settings, click on the blue link **Users** under section _Users_:  
+ 
+ ![](16.png]({{site.baseurl}}/images/16.png)
+
+ 
