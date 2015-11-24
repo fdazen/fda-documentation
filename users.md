@@ -35,7 +35,12 @@ Creating different access levels for users may be necessary to protect certain s
  
  **Profiles**: if checked, it will enable all users listed under this level to access the Profile Tab:  
  
- ![](5.png]({{site.baseurl}}/images/5.png)
+ ![](5.png]({{site.baseurl}}/images/5.png)  
+ 
+ **Point Of Sale** will enable All Access users to visualize the POS tab:
+ 
+ ![](6.png]({{site.baseurl}}/images/6.png)
+
 
 
 
