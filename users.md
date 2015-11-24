@@ -19,7 +19,16 @@ Creating different access levels for users may be necessary to protect certain s
  
  ![](1.png]({{site.baseurl}}/images/1.png)  
  
- - Your system comes from four defaulted and common access levels:
+ - Your system comes with four defaulted and common access levels, that you can _Edit_ before creating new ones:
  
- -![](2.png]({{site.baseurl}}/images/2.png)
+ ![](2.png]({{site.baseurl}}/images/2.png)  
+ 
+ - To edit a User Level, click on the blue link _Edit_ on the right hand side of any level:  
+ 
+ ![](4.png]({{site.baseurl}}/images/4.png)
+
+ 
+
+ 
+ 
 
