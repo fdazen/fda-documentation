@@ -59,9 +59,9 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  ![](13.png]({{site.baseurl}}/images/13.png)  
  
- You can duplicate a User Level, if you need to create a similar one by the one you just edited, by clicking on the blue button _Save and Duplicate User Level_.  
+ You can also duplicate a User Level, if you need to create a similar one by the one you just edited, by clicking on the blue button _Save and Duplicate User Level_.  
  
- - To **Delete** a User Level, select the box on the right hand side of the level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
+ - To **Delete** User Levels, select the box on the right hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
  
  ![](14.png]({{site.baseurl}}/images/14.png)  
  
