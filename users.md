@@ -33,7 +33,13 @@ Creating different access levels for users may be necessary to protect certain s
  
 The tags next to the check boxes refer to the tabs that appear on the top of your Tape Chart:  
 
-![](7.png]({{site.baseurl}}/images/7.png)
+![](7.png]({{site.baseurl}}/images/7.png)  
+
+
+ - To add a User Level, click on the blue button _Add a New User Level_:  
+ 
+ ![](8.png]({{site.baseurl}}/images/8.png)
+
 
 
  
