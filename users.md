@@ -9,11 +9,11 @@ summary: "Labels are just a simple Bootstrap component that you can include in y
 
 #**Users**
 
-Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what users can do and tailor-made what is displayed for each of them upon login.
+Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what each can do and tailor-made what is displayed for each of them upon login.
 
 ##**User Levels**  
 
-Creating different access levels for users may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account.  
+Creating different access levels for users may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account. Our first step will be to create the levels; once that is done, we will need to assign each user their respective access level.
 
  - In the Admin Settings, click on the blue link **User Levels** under section _Users_:  
  
