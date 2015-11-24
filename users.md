@@ -91,7 +91,12 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 - Choose the default view for the user, by selecting a choice from the drop down menu next to the tag _Default View_:  
 
-![](19.png]({{site.baseurl}}/images/19.png) 
+![](19.png]({{site.baseurl}}/images/19.png)  
+
+- Click on the blue link _Save User_ at the bottom of the screen:  
+
+![](20.png]({{site.baseurl}}/images/20.png)
+
 
 
 
