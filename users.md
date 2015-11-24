@@ -138,6 +138,15 @@ The process is the same as editing one!
 
 ![](29.png]({{site.baseurl}}/images/29.png)
 
+Once shifts are created, users will be prompted to select a shift at the time when they log in in Frontdesk Anywhere:  
+
+![](30.png]({{site.baseurl}}/images/30.png)  
+
+Different users will be able to join the same shift upon log in. However, for auditing purposes it is important that shifts are not left open when they are supposed to be closed.
+To close a shift, click on the drop down menu next to the user's name on the top right of the Frontdesk Screen:  
+
+![](31.png]({{site.baseurl}}/images/31.png)
+
 
 
 
