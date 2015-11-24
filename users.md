@@ -50,7 +50,12 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - In the User Level List, click on the blue link _Permissions_:  
  
- ![](10.png]({{site.baseurl}}/images/10.png)
+ ![](10.png]({{site.baseurl}}/images/10.png)  
+ 
+ - Select all the actions you want to enable for a certain level, by checking the boxes next to the description of the action you can enable/limit:  
+ 
+ ![](11.png]({{site.baseurl}}/images/11.png)
+
 
 
 
