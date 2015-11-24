@@ -130,7 +130,14 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
 - To add a new shift, click on the button _Add Shift_: 
 
-![](28.png]({{site.baseurl}}/images/28.png)
+![](28.png]({{site.baseurl}}/images/28.png)  
+
+The process is the same as editing one!  
+
+- To **Deactivate** a shift, simply un-chekc the box under the column _Status_ on the right hand side of the screen:  
+
+![](29.png]({{site.baseurl}}/images/29.png)
+
 
 
 
