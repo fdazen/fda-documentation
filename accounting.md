@@ -157,6 +157,9 @@ You can check the number of your invoices with a simple click!
   - The number of your Invoices will show at the center of the panel:  
   
   ![](29.png]({{site.baseurl}}/images/29.png)
+  
+  
+  ##**Discount Reasons**
 
 
 
