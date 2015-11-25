@@ -137,9 +137,14 @@ The procedure is the same as adding a new one!
 
 ##**Charging POS Products**  
 
-- You can add your POS products in any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
+- Add a POS product charge from any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
 
-![](24.png]({{site.baseurl}}/images/24.png)
+![](24.png]({{site.baseurl}}/images/24.png)  
+
+ - You can also operate on POS products without them having to be added to a specific room reservation, by clicking on the tab _Point of Sale_ on the top of your Tape Chart:  
+ 
+ ![](26.png]({{site.baseurl}}/images/26.png)
+
 
 
 
