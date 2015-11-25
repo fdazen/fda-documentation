@@ -71,3 +71,11 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  ![](11.png]({{site.baseurl}}/images/11.png)
 
+##**Credit Card Types**
+
+Along with Pay Types you can also configure all credit cards accepted at your property. Note that all accepted cards will show on your booking engine as available payment methods for your guests, and it is for this reason important to have them up to date.
+
+- Click on the blue link **Credit Card types** under section _Accounting_:  
+
+![](12.png]({{site.baseurl}}/images/12.png)
+
