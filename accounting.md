@@ -14,6 +14,6 @@ The Accounting section is about all of those settings that have to do payments a
 
 During the intial system set-up it is important for you to configure the right currency, as this will be displayed in all guest communications and if applicable, on OBE.  
 
-- Click on the blue link **Currency** under section _Accounting_: \
+- Click on the blue link **Currency** under section _Accounting_:
 
 ![](1.png]({{site.baseurl}}/images/1.png)
