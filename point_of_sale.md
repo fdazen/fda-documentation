@@ -104,9 +104,14 @@ After creating your POS Points and Categories, you can finally proceed to set up
  
  ![](16.png]({{site.baseurl}}/images/16.png)  
  
- - Once you choose a Pos Point, the options in the scroll down menu _Pos Category_ will update to show what categories are actually linked to the Pos Point you chose:  
+ - Once a Pos Point is chosen, the options in the scroll down menu _Pos Category_ will update to show what categories are actually linked to the Pos Point you chose:  
  
- ![](17.png]({{site.baseurl}}/images/17.png)
+ ![](17.png]({{site.baseurl}}/images/17.png)  
+ 
+ - Complete all information by assigning the right  _Revenue Label_ to the item, the price and check the box for any tax you want to apply:  
+ 
+ ![](18.png]({{site.baseurl}}/images/18.png)
+
 
 
 
