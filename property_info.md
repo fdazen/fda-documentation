@@ -37,6 +37,10 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
   - Select the default country for your guests by choosing an option from the scroll down menu _Country_:  
   
   ![](4.png]({{site.baseurl}}/images/4.png)
+  
+  - Click on the blue button _Save_ when finished.  
+  
+  
 
 
 
