@@ -73,7 +73,12 @@ The process is the same as editing one.
 
 - To **Deactivate** a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
 
-![](10.png]({{site.baseurl}}/images/10.png)
+![](10.png]({{site.baseurl}}/images/10.png)  
+
+- To **Delete** a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
+
+![](11.png]({{site.baseurl}}/images/11.png)
+
 
 
 
