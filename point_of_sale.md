@@ -42,7 +42,19 @@ Start by creating your POS Points.
  
  - To Add a POS Point, click on the blue button _Add a POS Point_:  
  
- ![](5.png]({{site.baseurl}}/images/5.png)
+ ![](5.png]({{site.baseurl}}/images/5.png)  
+ 
+ The process will be the same as editing one.  
+ 
+ 
+ ##**POS Categories**  
+ 
+ Once POS Points are created, you can go ahead and create your Categories.
+ 
+ - In the Admin Settings, click on the link _POS Categories_:  
+ 
+ ![](6.png]({{site.baseurl}}/images/6.png)
+
 
  
  
