@@ -98,7 +98,12 @@ After creating your POS Points and Categories, you can finally proceed to set up
  
  - Click on the blue button _Add a POS Product_:  
  
- ![](15.png]({{site.baseurl}}/images/15.png)
+ ![](15.png]({{site.baseurl}}/images/15.png)  
+ 
+ - You will need to fill in all information. Enter the name and the code for the product you are creating (these can be the same), and select the Pos Point where the item belongs by selecting the right option from the scroll down menu:  
+ 
+ ![](16.png]({{site.baseurl}}/images/16.png)
+
 
 
 
