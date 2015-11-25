@@ -112,6 +112,11 @@ After creating your POS Points and Categories, you can finally proceed to set up
  
  ![](18.png]({{site.baseurl}}/images/18.png)  
  
+ - To **Deactivate** a POS product, just uncheck the box under column _Status_:  
+ 
+ ![](19.png]({{site.baseurl}}/images/19.png)
+
+ 
  
 
 
