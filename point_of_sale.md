@@ -63,7 +63,12 @@ Start by creating your POS Points.
  
 ![](8.png]({{site.baseurl}}/images/8.png)  
 
-Click on the blue button _Edit POS Category_ when done.
+Click on the blue button _Edit POS Category_ when done.  
+
+- To add a POS Category, click on the button _Add a POS Category_:  
+
+![](9.png]({{site.baseurl}}/images/9.png)
+
 
 
 
