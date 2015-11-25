@@ -42,7 +42,16 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
  - Select the month and the year of your fiscal year by following the format below: your current fiscal year is also displayed, in case you forgot!  
  
- ![](6.png]({{site.baseurl}}/images/6.png)
+ ![](6.png]({{site.baseurl}}/images/6.png)  
+ 
+ ##**Pay Types**  
+ 
+ Selecting the pay types that are accepted at your property is important to avoid the margin of human error of your front desk staff when they collect payments, it is also good when auditing and run reports!  
+ 
+ - In the Admin Settings, click on the blue link **Pay Types** under section _Accounting_:  
+ 
+ ![](7.png]({{site.baseurl}}/images/7.png)
+
 
 
 
