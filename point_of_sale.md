@@ -34,5 +34,10 @@ Start by creating your POS Points.
 
  - Click on the blue link _Edit_ on the right hand side of the panel:  
  
- ![](3.png]({{site.baseurl}}/images/3.png)
+ ![](3.png]({{site.baseurl}}/images/3.png)  
+ 
+ - Edit the name in the textbox and click on the blue button _Edit POS Point_:  
+ 
+ ![](4.png]({{site.baseurl}}/images/4.png)
+
 
