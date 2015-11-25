@@ -77,5 +77,10 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 - Click on the blue link **Credit Card types** under section _Accounting_:  
 
-![](12.png]({{site.baseurl}}/images/12.png)
+![](12.png]({{site.baseurl}}/images/12.png)  
+
+- You will see a list of all active credit card types that by default comes with your account:  
+
+![](13.png]({{site.baseurl}}/images/13.png)
+
 
