@@ -40,9 +40,10 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
   
   - Click on the blue button _Save_ when finished.  
   
-  
 
+##**Time Zone**  
 
+At the moment it is not currently possible to change the time zone directly from your account. Please contact our Support Team at support@frontdeskanywhere.com to change it!
 
  
 
