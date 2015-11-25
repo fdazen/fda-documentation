@@ -65,9 +65,16 @@ Start by creating your POS Points.
 
 Click on the blue button _Edit POS Category_ when done.  
 
-- To add a POS Category, click on the button _Add a POS Category_:  
+- To **Add** a POS Category, click on the button _Add a POS Category_:  
 
-![](9.png]({{site.baseurl}}/images/9.png)
+![](9.png]({{site.baseurl}}/images/9.png)  
+
+The process is the same as editing one.
+
+- To **Deactivate** a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
+
+![](10.png]({{site.baseurl}}/images/10.png)
+
 
 
 
