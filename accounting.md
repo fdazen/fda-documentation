@@ -60,9 +60,10 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  ![](9.png]({{site.baseurl}}/images/9.png)  
  
- - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add:  
+ - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add. Click on the button _Save_ when finished!  
  
- ![](10.png]({{site.baseurl}}/images/10.png)
+ ![](10.png]({{site.baseurl}}/images/10.png)  
+ 
 
 
 
