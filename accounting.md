@@ -1,7 +1,7 @@
 ---
 title: Accounting
 tags: [formatting]
-keywords: reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories
+keywords: reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories, security deposit
 last_updated: November 25th, 2015
 summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
 ---
@@ -24,5 +24,9 @@ During the intial system set-up it is important for you to configure the right c
 
 **Note**: if your currency is not listed in the drop down menu, please contact our Support Team at support@frontdeskanywhere.com and ask them to have the currency added to your account!  
 
- - 
+ - Choose whether to enable security deposits on your reservation folios by clicking on the relevant circle box.
+
+![](4.png]({{site.baseurl}}/images/4.png)
+
+Activating the security deposit will enable you to record payments as deposits rather than payments proper. When
 
