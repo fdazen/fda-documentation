@@ -28,7 +28,12 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 
  - Click on the blue link **Default Guest Settings**, under section _Property Info_:  
  
- ![](2.png]({{site.baseurl}}/images/2.png)
+ ![](2.png]({{site.baseurl}}/images/2.png)  
+ 
+  - Chose how you want the names of your guests to be displayed on the Tape Chart, by selecting your option from the scroll down menu with the tag _Name Display_:  
+  
+  ![](3.png]({{site.baseurl}}/images/3.png)
+
 
  
 
