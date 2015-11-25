@@ -52,11 +52,7 @@ Start by creating your POS Points.
  
  - Your POS Point will be accessible via the POS tab on top of your Tape Chart:  
  
- ![](13.png]({{site.baseurl}}/images/13.png)
-
- 
- 
-
+ ![](13.png]({{site.baseurl}}/images/13.png)  
  
  
  ##**POS Categories**  
