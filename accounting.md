@@ -1,10 +1,13 @@
 ---
 title: Accounting
-tags: [formatting]
-keywords: reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories, security deposit
-last_updated: November 25th, 2015
-summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
+tags: 
+  - formatting
+keywords: "reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories, security deposit"
+last_updated: "November 25th, 2015"
+summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+published: true
 ---
+
 
 #**Accounting**  
 
@@ -56,19 +59,15 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  ![](8.png]({{site.baseurl}}/images/8.png)  
  
- - To add a Pay Type, click on the blue button _Add a Pay Type_:  
+ - To **Add** a Pay Type, click on the blue button _Add a Pay Type_:  
  
  ![](9.png]({{site.baseurl}}/images/9.png)  
  
- - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add. Click on the button _Save_ when finished!  
+ - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add. Click on the button _Save_ when finished: 
  
  ![](10.png]({{site.baseurl}}/images/10.png)  
  
-
-
-
-
-
-
-
+ - To **Delete** a Pay Type, select it by checking the box on its left side and click on the blue button _Delete Selected Pay Types_:  
+ 
+ ![](11.png]({{site.baseurl}}/images/11.png)
 
