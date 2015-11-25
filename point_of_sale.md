@@ -124,6 +124,12 @@ After creating your POS Points and Categories, you can finally proceed to set up
  
  ![](21.png]({{site.baseurl}}/images/21.png)
 
+The procedure is the same as adding a new one!
+
+- You can also add pictures to your POS items, if you choose to add these products on your OBE. Click on the blue link _Images_ on the right hand side of any product:  
+
+![](22.png]({{site.baseurl}}/images/22.png)
+
 
 
  
