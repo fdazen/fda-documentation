@@ -48,7 +48,14 @@ Start by creating your POS Points.
  
  - To **Deactivate** a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
  
- ![](12.png]({{site.baseurl}}/images/12.png)
+ ![](12.png]({{site.baseurl}}/images/12.png)  
+ 
+ - Your POS Point will be accessible via the POS tab on top of your Tape Chart:  
+ 
+ ![](13.png]({{site.baseurl}}/images/13.png)
+
+ 
+ 
 
  
  
