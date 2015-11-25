@@ -105,6 +105,9 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 ![](19.png]({{site.baseurl}}/images/19.png)
 
+- Choose your gateway by looking it up among the ones in the list. Note that they are listed in alphabetic order! In my example below, I am chooseing Authorize.net:
+
+![](20.png]({{site.baseurl}}/images/20.png)
 
 
 
