@@ -102,7 +102,12 @@ After creating your POS Points and Categories, you can finally proceed to set up
  
  - You will need to fill in all information. Enter the name and the code for the product you are creating (these can be the same), and select the Pos Point where the item belongs by selecting the right option from the scroll down menu:  
  
- ![](16.png]({{site.baseurl}}/images/16.png)
+ ![](16.png]({{site.baseurl}}/images/16.png)  
+ 
+ - Once you choose a Pos Point, the options in the scroll down menu _Pos Category_ will update to show what categories are actually linked to the Pos Point you chose:  
+ 
+ ![](17.png]({{site.baseurl}}/images/17.png)
+
 
 
 
