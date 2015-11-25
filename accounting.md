@@ -50,7 +50,12 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  - In the Admin Settings, click on the blue link **Pay Types** under section _Accounting_:  
  
- ![](7.png]({{site.baseurl}}/images/7.png)
+ ![](7.png]({{site.baseurl}}/images/7.png)  
+ 
+ - You will see a list of all the defaulted pay types enabled for your account:  
+ 
+ ![](8.png]({{site.baseurl}}/images/8.png)
+
 
 
 
