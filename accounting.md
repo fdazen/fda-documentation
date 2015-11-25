@@ -131,7 +131,7 @@ Remember to set up how you want to collect payments on your Booking Engine by se
 
 ##**Credit Card Purge**
 
-As a security measure, Frontdesk Anywhere enables you to erase the details of your guests’ credit card stored in your account on a regular basis.
+As a security measure Frontdesk Anywhere enables you to erase, on a regular basis, the details of your guests’ credit card stored in your account.
 
 
 
