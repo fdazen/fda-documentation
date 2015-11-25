@@ -108,9 +108,11 @@ After creating your POS Points and Categories, you can finally proceed to set up
  
  ![](17.png]({{site.baseurl}}/images/17.png)  
  
- - Complete all information by assigning the right  _Revenue Label_ to the item, the price and check the box for any tax you want to apply:  
+ - Complete all information by assigning the right  _Revenue Label_ to the item, the price and check the box for any tax you want to apply. Once done, click on the blue button _Save POS Product_:  
  
- ![](18.png]({{site.baseurl}}/images/18.png)
+ ![](18.png]({{site.baseurl}}/images/18.png)  
+ 
+ 
 
 
 
