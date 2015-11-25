@@ -94,7 +94,12 @@ After creating your POS Points and Categories, you can finally proceed to set up
 
  - In the Admin Settings, click on the link **Products** under section _POS_:  
  
- ![](14.png]({{site.baseurl}}/images/14.png)
+ ![](14.png]({{site.baseurl}}/images/14.png)  
+ 
+ - Click on the blue button _Add a POS Product_:  
+ 
+ ![](15.png]({{site.baseurl}}/images/15.png)
+
 
 
 
