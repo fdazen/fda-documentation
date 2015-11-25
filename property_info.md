@@ -32,7 +32,12 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
  
   - Chose how you want the names of your guests to be displayed on the Tape Chart, by selecting your option from the scroll down menu with the tag _Name Display_:  
   
-  ![](3.png]({{site.baseurl}}/images/3.png)
+  ![](3.png]({{site.baseurl}}/images/3.png)  
+  
+  - Select the default country for your guests by choosing an option from the scroll down menu _Country_:  
+  
+  ![](4.png]({{site.baseurl}}/images/4.png)
+
 
 
  
