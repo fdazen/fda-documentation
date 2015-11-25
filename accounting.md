@@ -58,7 +58,12 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  - To add a Pay Type, click on the blue button _Add a Pay Type_:  
  
- ![](9.png]({{site.baseurl}}/images/9.png)
+ ![](9.png]({{site.baseurl}}/images/9.png)  
+ 
+ - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add:  
+ 
+ ![](10.png]({{site.baseurl}}/images/10.png)
+
 
 
 
