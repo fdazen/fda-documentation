@@ -91,6 +91,13 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 ![](16.png]({{site.baseurl}}/images/16.png)  
 
+##**Payment Processing**  
+
+Frontdesk Anywhere allows you to integrate with many secure payment gateways that will make charging a guest's card much faster and your check-in process much easier!
+
+- In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
+
+![](17.png]({{site.baseurl}}/images/17.png)
 
 
 
