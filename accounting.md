@@ -16,4 +16,13 @@ During the intial system set-up it is important for you to configure the right c
 
 - Click on the blue link **Currency** under section _Accounting_:
 
-![](1.png]({{site.baseurl}}/images/1.png)
+![](1.png]({{site.baseurl}}/images/1.png)  
+
+- Select the right currency among the ones available in the scroll down menu:  
+
+![](2.png]({{site.baseurl}}/images/2.png)  
+
+**Note**: if your currency is not listed in the drop down menu, please contact our Support Team at support@frontdeskanywhere.com and ask them to have the currency added to your account!  
+
+ - 
+
