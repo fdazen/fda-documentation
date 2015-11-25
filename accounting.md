@@ -28,5 +28,8 @@ During the intial system set-up it is important for you to configure the right c
 
 ![](4.png]({{site.baseurl}}/images/4.png)
 
-Activating the security deposit will enable you to record payments as deposits rather than payments proper. When
+Activating the security deposit will enable you to record payments as deposits rather than payments proper. When deposits are enabled, there will be track of them in each reservation folio:  
+
+![](3.png]({{site.baseurl}}/images/3.png)
+
 
