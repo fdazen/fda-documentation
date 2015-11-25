@@ -59,7 +59,7 @@ Start by creating your POS Points.
  
  Once POS Points are created, you can go ahead and create your Categories.
  
- - In the Admin Settings, click on the link _POS Categories_:  
+ - In the Admin Settings, click on the link **Categories**, under section _POS_:  
  
  ![](6.png]({{site.baseurl}}/images/6.png)  
  
@@ -86,6 +86,16 @@ The process is the same as editing one.
 - To **Delete** a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
 
 ![](11.png]({{site.baseurl}}/images/11.png)  
+
+
+##**POS Products**  
+
+After creating your POS Points and Categories, you can finally proceed to set up all items you want to sell!
+
+ - In the Admin Settings, click on the link **Products** under section _POS_:  
+ 
+ ![](14.png]({{site.baseurl}}/images/14.png)
+
 
 
 
