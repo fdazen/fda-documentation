@@ -53,7 +53,12 @@ Start by creating your POS Points.
  
  - In the Admin Settings, click on the link _POS Categories_:  
  
- ![](6.png]({{site.baseurl}}/images/6.png)
+ ![](6.png]({{site.baseurl}}/images/6.png)  
+ 
+ - You will see a list of all your POS Categories: one category comes as default, and you can edit this before proceeding to create new ones! Click on the blue link _Edit_ on the right hand side of the panel:  
+ 
+ ![](7.png]({{site.baseurl}}/images/7.png)
+
 
 
  
