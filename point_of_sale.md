@@ -40,11 +40,16 @@ Start by creating your POS Points.
  
  ![](4.png]({{site.baseurl}}/images/4.png)  
  
- - To Add a POS Point, click on the blue button _Add a POS Point_:  
+ - To **Add** a POS Point, click on the blue button _Add a POS Point_:  
  
  ![](5.png]({{site.baseurl}}/images/5.png)  
  
  The process will be the same as editing one.  
+ 
+ - To **Deactivate** a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
+ 
+ ![](12.png]({{site.baseurl}}/images/12.png)
+
  
  
  ##**POS Categories**  
@@ -77,7 +82,9 @@ The process is the same as editing one.
 
 - To **Delete** a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
 
-![](11.png]({{site.baseurl}}/images/11.png)
+![](11.png]({{site.baseurl}}/images/11.png)  
+
+
 
 
 
