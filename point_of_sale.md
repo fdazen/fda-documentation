@@ -8,6 +8,7 @@ summary: Labels are just a simple Bootstrap component that you can include in yo
 published: true
 ---
 
+
 ---
 title: Point of Sale
 tags: [formatting]
@@ -152,34 +153,3 @@ The procedure is the same as adding a new one!
  - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
 
 ![](29.png]({{site.baseurl}}/images/29.png)
-
-
- 
- 
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
