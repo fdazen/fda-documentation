@@ -57,7 +57,14 @@ Start by creating your POS Points.
  
  - You will see a list of all your POS Categories: one category comes as default, and you can edit this before proceeding to create new ones! Click on the blue link _Edit_ on the right hand side of the panel:  
  
- ![](7.png]({{site.baseurl}}/images/7.png)
+ ![](7.png]({{site.baseurl}}/images/7.png)  
+ 
+ - Change the Category Title and apply the category to POS Point where it belongs, by using the scroll down menu next to the tag _POS Point_:  
+ 
+![](8.png]({{site.baseurl}}/images/8.png)  
+
+Click on the blue button _Edit POS Category_ when done.
+
 
 
 
