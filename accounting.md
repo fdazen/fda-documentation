@@ -54,7 +54,12 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  - You will see a list of all the defaulted pay types enabled for your account:  
  
- ![](8.png]({{site.baseurl}}/images/8.png)
+ ![](8.png]({{site.baseurl}}/images/8.png)  
+ 
+ - To add a Pay Type, click on the blue button _Add a Pay Type_:  
+ 
+ ![](9.png]({{site.baseurl}}/images/9.png)
+
 
 
 
