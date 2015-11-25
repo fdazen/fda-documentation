@@ -143,7 +143,19 @@ The procedure is the same as adding a new one!
 
  - You can also operate on POS products without them having to be added to a specific room reservation, by clicking on the tab _Point of Sale_ on the top of your Tape Chart:  
  
- ![](26.png]({{site.baseurl}}/images/26.png)
+ ![](26.png]({{site.baseurl}}/images/26.png)  
+ 
+ - All active POS products will appear as a list in the tab: you can click on the green button _New_ to add items:  
+ 
+ ![](28.png]({{site.baseurl}}/images/28.png)  
+ 
+ - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
+
+![](29.png]({{site.baseurl}}/images/29.png)
+
+
+ 
+ 
 
 
 
