@@ -146,6 +146,14 @@ As a security measure Frontdesk Anywhere enables you to erase, on a regular basi
 ![](27.png]({{site.baseurl}}/images/27.png)
 
 
+##**Invoices**
+
+You can number your invoices, if needed with a simple click! Be aware that numbering invoices is a process that **cannot be reversed, nor turned off**.  
+
+ - Click on the link **Invoices** under section _Accounting_:  
+ 
+ ![](28.png]({{site.baseurl}}/images/28.png)
+
 
 
 
