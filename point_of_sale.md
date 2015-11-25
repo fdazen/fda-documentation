@@ -130,6 +130,20 @@ The procedure is the same as adding a new one!
 
 ![](22.png]({{site.baseurl}}/images/22.png)
 
+- Click on the blue button _Upload Image_ and choose an image to add:  
+
+![](23.png]({{site.baseurl}}/images/23.png)   
+
+
+##**Charging POS Products**  
+
+- You can add your POS products in any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
+
+![](24.png]({{site.baseurl}}/images/24.png)
+
+
+
+
 
 
  
