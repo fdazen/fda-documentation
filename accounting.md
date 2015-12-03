@@ -211,9 +211,14 @@ You can create Department options for the discount reasons you created, to make 
 
 ![](39.png]({{site.baseurl}}/images/39.png)  
 
-- Insert the Department Code and the name of the Department: the first will appear in each reservation folio as an option to sleect.  
+- Insert the Department Code and the name of the Department: the first will appear in each reservation folio as an option to select. Click on the blue button _Save_ when finished:  
 
-![](40.png]({{site.baseurl}}/images/40.png)
+![](40.png]({{site.baseurl}}/images/40.png)  
+
+ - To **Delete** a Discount Department, select it by checking the box on the left hand side and click on the blue button _Delete Selected Department_:  
+ 
+ ![](41.png]({{site.baseurl}}/images/41.png)
+
 
 
 
