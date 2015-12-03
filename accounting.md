@@ -190,9 +190,16 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 ![](35.png]({{site.baseurl}}/images/35.png)  
 
-Your active Discount Reasons will appear on each reserved folio, under section _Adjustments_:  
+Your active Discount Reasons will appear on each reserved folio, under section _Adjustment_:  
 
-![](36.png]({{site.baseurl}}/images/36.png)
+![](36.png]({{site.baseurl}}/images/36.png) 
+
+Scroll down the menu with the tag _Select Adjustment Reason_:  
+
+![](37.png]({{site.baseurl}}/images/37.png)
+
+
+
 
 
 
