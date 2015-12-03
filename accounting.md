@@ -166,5 +166,10 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
  - In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
  
- ![](30.png]({{site.baseurl}}/images/30.png)
+ ![](30.png]({{site.baseurl}}/images/30.png)  
+ 
+  - Click on the blue button _Add a Discount Reason_:  
+  
+  ![](31.png]({{site.baseurl}}/images/31.png)
+
 
