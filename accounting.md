@@ -188,7 +188,12 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 - Select the Discount Reason you want to re-activate by checking the box on the left hand side of the panel; then click on the blue button _Undelete Selected Discount Reason_:  
 
-![](35.png]({{site.baseurl}}/images/35.png)
+![](35.png]({{site.baseurl}}/images/35.png)  
+
+Your active Discount Reasons will appear on each reserved folio, under section _Adjustments_:  
+
+![](36.png]({{site.baseurl}}/images/36.png)
+
 
 
  
