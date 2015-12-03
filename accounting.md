@@ -209,7 +209,12 @@ You can create Department options for the discount reasons you created, to make 
  
  - To add a Department, click on the blue link _Add Department_:  
 
-![](39.png]({{site.baseurl}}/images/39.png)
+![](39.png]({{site.baseurl}}/images/39.png)  
+
+- Insert the Department Code and the name of the Department: the first will appear in each reservation folio as an option to sleect.  
+
+![](40.png]({{site.baseurl}}/images/40.png)
+
 
 
 
