@@ -205,7 +205,12 @@ You can create Department options for the discount reasons you created, to make 
 
  - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
  
- ![](38.png]({{site.baseurl}}/images/38.png)
+ ![](38.png]({{site.baseurl}}/images/38.png)  
+ 
+ - To add a Department, click on the blue link _Add Department_:  
+
+![](39.png]({{site.baseurl}}/images/39.png)
+
 
 
 
