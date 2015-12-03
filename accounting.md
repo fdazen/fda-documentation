@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
 #**Accounting**  
 
 The Accounting section is about all of those settings that have to do payments and accounting. From here you can set up currency and accepted pay types and credit card types, number invoices, set up discount reasons and most importantly configure your Revenue Labels and Categories around which your reports are organized.  
@@ -161,8 +162,4 @@ You can check the number of your invoices with a simple click!
   
   ##**Discount Reasons**
 
-
-
-
-
-
+You may want to set up a list of reasons for those discounts that your hotel gives out regularly. Setting them up on your Frontdesk Anywhere account allows you to keep track of the reasons why discounts are given .
