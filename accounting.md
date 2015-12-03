@@ -227,7 +227,9 @@ You can create Department options for the discount reasons you created, to make 
 
  - Select it by checking the box on the left hand side of the item and click on the blue button _UnDelete Selected Department_:  
  
- ![](43.png]({{site.baseurl}}/images/43.png)
+ ![](43.png]({{site.baseurl}}/images/43.png)  
+ 
+ 
 
 
 
