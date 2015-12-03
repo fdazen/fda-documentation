@@ -196,7 +196,17 @@ Your active Discount Reasons will appear on each reserved folio, under section _
 
 Scroll down the menu with the tag _Select Adjustment Reason_:  
 
-![](37.png]({{site.baseurl}}/images/37.png)
+![](37.png]({{site.baseurl}}/images/37.png)  
+
+
+##**Discount Reasons: Department Options**  
+
+You can create Department options for the discount reasons you created, to make sure that all your discounts are approved and listed under the right department!  
+
+ - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
+ 
+ ![](38.png]({{site.baseurl}}/images/38.png)
+
 
 
 
