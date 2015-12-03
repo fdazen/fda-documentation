@@ -164,12 +164,18 @@ You can check the number of your invoices with a simple click!
 
 You may want to set up a list of reasons for those discounts that your hotel gives out regularly. Setting them up on your Frontdesk Anywhere account allows you to keep track of the reasons why discounts are given.  
 
- - In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
+- In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
  
- ![](30.png]({{site.baseurl}}/images/30.png)  
+  ![](30.png]({{site.baseurl}}/images/30.png)  
  
-  - Click on the blue button _Add a Discount Reason_:  
+ - Click on the blue button _Add a Discount Reason_:  
   
-  ![](31.png]({{site.baseurl}}/images/31.png)
+  ![](31.png]({{site.baseurl}}/images/31.png)  
+  
+ - There will appear two editable fields: place the Discount Reason Code and the associated Discount Reasons. The first will appear in each folio as an option to select for a discount! Once ready, click on the blue button _Save Changes_ when finished:  
+ 
+ ![](32.png]({{site.baseurl}}/images/32.png)
+
+
 
 
