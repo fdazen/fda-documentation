@@ -229,6 +229,14 @@ You can create Department options for the discount reasons you created, to make 
  
  ![](43.png]({{site.baseurl}}/images/43.png)  
  
+ You will be able to find and select your active Discount Department Options in any reservation folio, under section _Adjustment_:  
+ 
+ ![](44.png]({{site.baseurl}}/images/44.png)
+
+ 
+ 
+ 
+ 
  
 
 
