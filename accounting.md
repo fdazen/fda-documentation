@@ -221,9 +221,15 @@ You can create Department options for the discount reasons you created, to make 
  
   **Note**: make sure that you have at least one Department Option built in your account, as the system won't allow you to erase all of them.   
  
-You can make active those Department Options that have been previously deleted. Select the option _Delete_ from the scroll down menu on the right hand side of the Department Option panel:  
+ - You can make active those Department Options that have been previously deleted. Select the option _Delete_ from the scroll down menu on the right hand side of the Department Option panel:  
 
-![](42.png]({{site.baseurl}}/images/42.png)
+![](42.png]({{site.baseurl}}/images/42.png)  
+
+ - Select it by checking the box on the left hand side of the item and click on the blue button _UnDelete Selected Department_:  
+ 
+ ![](43.png]({{site.baseurl}}/images/43.png)
+
+
 
 
 
