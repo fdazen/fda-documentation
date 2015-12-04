@@ -256,7 +256,19 @@ You can create Department options for the discount reasons you created, to make 
  
   - To **Deactivate** a Revenue Label, simply uncheck the relevant box under section _Status_:  
   
-  ![](54.png]({{site.baseurl}}/images/54.png)
+  ![](54.png]({{site.baseurl}}/images/54.png)  
+  
+  - To **Edit** a Label, click on the blue button _Edit_ on the right hand side of any label: the text in the panel will become editable, so you can amend the label name. When done, click on the blue button _Save Changes_:  
+  
+  ![](![55.png]({{site.baseurl}}/images/55.png)  
+  
+  You Revenue Labels will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Label:  
+  
+  ![](56.png]({{site.baseurl}}/images/56.png)
+
+
+  
+
 
 
 
