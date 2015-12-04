@@ -264,7 +264,8 @@ You can create Department options for the discount reasons you created, to make 
   
   You Revenue Labels will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Label:   
   
-  ![](56.png]({{site.baseurl}}/images/56.png)
+  ![](65.png]({{site.baseurl}}/images/65.png)
+
 
 
 ##**Revenue Account Categories**  
@@ -287,9 +288,14 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 ![](62.png]({{site.baseurl}}/images/62.png)  
 
--  - To **Edit** a Category, click on the blue link _Edit_ on the right hand side of any row: the text in the panel will become editable, so you can amend the category name. When done, click on the blue button _Save Changes_:  
+- To **Edit** a Category, click on the blue link _Edit_ on the right hand side of any row: the text in the panel will become editable, so you can amend the category name. When done, click on the blue button _Save Changes_:  
 
-![](63.png]({{site.baseurl}}/images/63.png)
+![](63.png]({{site.baseurl}}/images/63.png)  
+
+You Revenue Categories will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Category:  
+
+![](56.png]({{site.baseurl}}/images/56.png)
+
 
 
 
