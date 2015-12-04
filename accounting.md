@@ -252,7 +252,12 @@ You can create Department options for the discount reasons you created, to make 
  
  - Another editable row will appear; insert the name for the new label, and click on the blue button _Save Changes_:  
  
- ![](53.png]({{site.baseurl}}/images/53.png)
+ ![](53.png]({{site.baseurl}}/images/53.png)  
+ 
+  - To **Deactivate** a Revenue Label, simply uncheck the relevant box under section _Status_:  
+  
+  ![](54.png]({{site.baseurl}}/images/54.png)
+
 
 
  
