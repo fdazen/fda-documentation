@@ -238,6 +238,16 @@ You can create Department options for the discount reasons you created, to make 
  ![](49.png]({{site.baseurl}}/images/49.png)  
  
  
+ ##**Revenue Account Labels**  
+ 
+ Revenue Account Labels are customizable tags that will help you organizing your reports. Thanks to these Labels you can group together similar items you are selling at your property (where _item_ is understood here as anything that produces revenue), and have a much better overview of where your earnings come from.  
+ 
+ - In the Admin Settings, click on the blue link **Revenue Account Labels**:  
+ 
+ ![](50.png]({{site.baseurl}}/images/50.png)
+
+ 
+ 
 
 
  
