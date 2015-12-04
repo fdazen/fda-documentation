@@ -273,7 +273,12 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 -  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
 
-![](60.png]({{site.baseurl}}/images/60.png)
+![](60.png]({{site.baseurl}}/images/60.png)  
+
+- Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account.  To add a new Category, click on the blue link _Add Category_:  
+
+![](57.png]({{site.baseurl}}/images/57.png)
+
 
 
   
