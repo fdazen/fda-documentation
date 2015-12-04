@@ -275,9 +275,14 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 ![](60.png]({{site.baseurl}}/images/60.png)  
 
-- Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account.  To add a new Category, click on the blue link _Add Category_:  
+- Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account. To add a new Category, click on the blue link _Add Category_:  
 
-![](57.png]({{site.baseurl}}/images/57.png)
+![](57.png]({{site.baseurl}}/images/57.png)  
+
+- You will see appearing a new editable row; insert the name for the new category, and click on the blue button _Save Changes_:
+
+![](58.png]({{site.baseurl}}/images/58.png)
+
 
 
 
