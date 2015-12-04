@@ -281,7 +281,11 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 - You will see appearing a new editable row; insert the name for the new category, and click on the blue button _Save Changes_:
 
-![](58.png]({{site.baseurl}}/images/58.png)
+![](58.png]({{site.baseurl}}/images/58.png)  
+
+- To **Deactivate** a Revenue Category, simply uncheck the relevant box under section _Status_: 
+
+![](62.png]({{site.baseurl}}/images/62.png)
 
 
 
