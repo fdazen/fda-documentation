@@ -267,6 +267,15 @@ You can create Department options for the discount reasons you created, to make 
   ![](56.png]({{site.baseurl}}/images/56.png)
 
 
+##**Revenue Account Categories**  
+
+Revenue Account Categories are used to group together Revenue Account Lables. This will offer you yet another organizational level!
+
+-  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
+
+![](60.png]({{site.baseurl}}/images/60.png)
+
+
   
 
 
