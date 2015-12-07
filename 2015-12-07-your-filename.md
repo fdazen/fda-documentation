@@ -22,9 +22,24 @@ Housekeeping Statuses serve to indicate whether a certain room needs attention f
   
   ![](1.png]({{site.baseurl}}/images/1.png)  
   
-  - You will see a lit of available Housekeeping Statuses:  
+  - You will see a list of available Housekeeping Statuses:  
   
-  ![](2.png]({{site.baseurl}}/images/2.png)
+  ![](2.png]({{site.baseurl}}/images/2.png)  
+
+Here is a breakdown of what they mean:  
+
+1. **Clean**: Room is clean and ready to be rented!  
+
+2. **Inspect**: Room needs a formal inspection, where action from an Housekeeper might or not be necessary.  
+
+3. **Dirty**: Room is currently rented but needs action from Houssekeepers.  
+
+4. **Dirty Vacant**: Room is not currently rented, it needs full operations from housekeeping.  
+
+
+**NOTE**: It is currently not possible to add further Housekeeping Status
+  
+  
 
 
 
