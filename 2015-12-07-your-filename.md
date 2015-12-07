@@ -14,6 +14,13 @@ published: true
 
 The Housekeeping section in your Frontdesk Anywhere helps you set up certain rules to govern the change in housekeeping status for each room at your property. This is necessary, in turn, to define what your Housekeeping Team will need to: in other words, you will be able to define in what occasions the system should report a certain room to be 'dirty' or 'clean', thus making it easier for the housekeepers to know what action is required of them!
 
-##**Housekeeping Status**  
+##**Housekeeping Status**    
+
+Housekeeping Statuses serve to indicate whether a certain room needs attention from your Housekeeping staff or not. Frontdesk Anywhere performs changes in the Housekeeping Status of each room thanks to certain Rules you will have to set up: since the rules are based on the Housekeeping Statuses, it will be good for you to familiarize with what each status mean!  
+
+  - In the Admin Settings, click on the blue link **Housekeeping Statuses** under section _Housekeeping_:  
+  
+  ![](1.png]({{site.baseurl}}/images/1.png)
+
 
 
