@@ -50,7 +50,9 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
  
  - Your Frontdesk Anywhere comes with some very common default rules that define how your Housekeeping Statuses are to change:  
  
- ![](4.png]({{site.baseurl}}/images/4.png)
+ ![](4.png]({{site.baseurl}}/images/4.png)  
+ 
+ 
 
 
   
