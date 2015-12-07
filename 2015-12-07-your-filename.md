@@ -60,7 +60,9 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
  2.**Check-Out - Dirty Vacant**: this rule is also triggered by the change in reservation status. In this case, when a reservation status is set to _Checked-Out_, the Housekeeping Status will in turn change to _Dirty Vacant_.  
  
  
- 3.**Nightly - Dirty**: differently from the previous two rules, this one is not triggered by changes in reservation status, but it is triggered automatically on a nightly basis.
+ 3.**Nightly - Dirty**: differently from the previous two rules, this one is not triggered by changes in reservation status, but it is triggered automatically on a nightly basis. This rule establiushes that any checked-in room will be marked with the Housekeeping Status _Dirty_, regardless of whether the status of a reservation has been changed on that day: in hotel management words, this rule accounts for your Stay Overs.  
+ 
+ 
  
  
 
