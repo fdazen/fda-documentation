@@ -37,7 +37,17 @@ Here is a breakdown of what they mean:
 4. **Dirty Vacant**: Room is not currently rented, it needs full operations from housekeeping.  
 
 
-**NOTE**: It is currently not possible to add further Housekeeping Status
+**NOTE**: It is currently not possible to add or edit an Housekeeping Status.  
+
+
+##**Housekeeping Rules**  
+
+Housekeeping Rules are necessary to establish how the system should use the Housekeeping Status. Since the work of your Housekeeping staff will center on the Statuses, it is extremely important to set your rules correctly!  
+
+ - In the Admin Settings, click on the blue link **Housekeeping Rules**, in section _Housekeeping_:  
+ 
+ ![](3.png]({{site.baseurl}}/images/3.png)
+
   
   
 
