@@ -52,6 +52,16 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
  
  ![](4.png]({{site.baseurl}}/images/4.png)  
  
+ - Before trying to create a new rule, let us examine what each rule among the default ones so:  
+ 
+ 1.**Check-In - Dirty**:  this rule is triggered by the change in the reservation status. When the reservation status will change to _Checked-In_, that will cause the Housekeeping Status of the room to also change, in this case to _Dirty_.  
+ 
+ 
+ 2.**Check-Out - Dirty Vacant**: this rule is also triggered by the change in reservation status. In this case, when a reservation status is set to _Checked-Out_, the Housekeeping Status will in turn change to _Dirty Vacant_.  
+ 
+ 
+ 3.**Nightly - Dirty**: differently from the previous two rules, this one is not triggered by changes in reservation status, but it is triggered automatically on a nightly basis.
+ 
  
 
 
