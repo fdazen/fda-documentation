@@ -44,9 +44,14 @@ Here is a breakdown of what they mean:
 
 Housekeeping Rules are necessary to establish how the system should use the Housekeeping Status. Since the work of your Housekeeping staff will center on the Statuses, it is extremely important to set your rules correctly!  
 
- - In the Admin Settings, click on the blue link **Housekeeping Rules**, in section _Housekeeping_:  
+ - In the Admin Settings, click on the blue link **Housekeeping Rules**, under section _Housekeeping_:  
  
- ![](3.png]({{site.baseurl}}/images/3.png)
+ ![](3.png]({{site.baseurl}}/images/3.png)  
+ 
+ - Your Frontdesk Anywhere comes with some very common default rules that define how your Housekeeping Statuses are to change:  
+ 
+ ![](4.png]({{site.baseurl}}/images/4.png)
+
 
   
   
