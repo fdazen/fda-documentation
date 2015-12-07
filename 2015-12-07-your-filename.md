@@ -20,7 +20,12 @@ Housekeeping Statuses serve to indicate whether a certain room needs attention f
 
   - In the Admin Settings, click on the blue link **Housekeeping Statuses** under section _Housekeeping_:  
   
-  ![](1.png]({{site.baseurl}}/images/1.png)
+  ![](1.png]({{site.baseurl}}/images/1.png)  
+  
+  - You will see a lit of available Housekeeping Statuses:  
+  
+  ![](2.png]({{site.baseurl}}/images/2.png)
+
 
 
 
