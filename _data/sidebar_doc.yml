@@ -89,7 +89,7 @@ entries:
           product: all
           version: all
 
-    - title: Authoring
+    - title: Admin Settings
       audience: writers, designers
       platform: all
       product: all
