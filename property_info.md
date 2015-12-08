@@ -14,11 +14,11 @@ As the name suggests, this section is dedicated to information about your compan
 
  - In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
  
- ![](30.png]({{site.baseurl}}/images/30.png)  
+ ![30.png]({{site.baseurl}}/images/30.png)  
  
  - Click on the blue button _Upload Logo_ to upload one from your computer:  
 
-![](1.png]({{site.baseurl}}/images/1.png)  
+![1.png]({{site.baseurl}}/images/1.png)  
 
 Your Company Logo will appear in all system communication to your guests!  
 
@@ -28,15 +28,15 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 
  - Click on the blue link **Default Guest Settings**, under section _Property Info_:  
  
- ![](2.png]({{site.baseurl}}/images/2.png)  
+ ![2.png]({{site.baseurl}}/images/2.png)  
  
   - Chose how you want the names of your guests to be displayed on the Tape Chart, by selecting your option from the scroll down menu with the tag _Name Display_:  
   
-  ![](3.png]({{site.baseurl}}/images/3.png)  
+  ![3.png]({{site.baseurl}}/images/3.png)  
   
   - Select the default country for your guests by choosing an option from the scroll down menu _Country_:  
   
-  ![](4.png]({{site.baseurl}}/images/4.png)
+  ![4.png]({{site.baseurl}}/images/4.png)
   
   - Click on the blue button _Save_ when finished.  
   
