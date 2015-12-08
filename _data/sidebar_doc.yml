@@ -113,6 +113,13 @@ entries:
           audience: writers, designers
           platform: all
           product: all
+          version: all
+
+        - title: Guest Messages and Emails
+          url: /messages_and_emails.html
+          audience: writers, designers
+          platform: all
+          product: all
           version: all      
 
     - title: Tape Chart
