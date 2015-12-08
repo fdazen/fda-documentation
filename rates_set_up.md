@@ -104,7 +104,10 @@ For more information on how to edit a rate on a per reservation basis, click her
 
 
 If you choose the option _Nightly_ rate, the value you will insert will be considered as the nightly price.  
-If you choose the option _Multiple Nights_, you will need to specify how many nights the rate is valid for. You can place a numeric value in the box _Rate Is Valid For_. The value you insert will be considered as the total price for the number of nights you define in that box. In the example below I am creating a weekly rate: 
+If you choose the option _Multiple Nights_, you will need to specify how many nights the rate is valid for. You can place a numeric value in the box _Rate Is Valid For_. The value you insert will be considered as the total price for the number of nights you define in that box.   
+
+
+In the example below I am creating a weekly rate: 
 
 ![13.png]({{site.baseurl}}/images/13.png)
  
