@@ -86,6 +86,7 @@ Once the Yield Management Rules are created, you will need to specify how often 
  
 ![71.png]({{site.baseurl}}/images/71.png)
 
+
  
 ##**Running the Yield Manager**  
 
