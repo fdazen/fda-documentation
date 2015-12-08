@@ -39,6 +39,7 @@ entries:
           frontmatter: true
 
     - title: Getting started
+      url: /index.html
       audience: writers, designers
       platform: all
       product: all
