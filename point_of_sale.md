@@ -29,25 +29,30 @@ Start by creating your POS Points.
 
  - Click on the blue link _Edit_ on the right hand side of the panel:  
  
-  
+![3.png]({{site.baseurl}}/images/3.png)
+
  
  - Edit the name in the textbox and click on the blue button _Edit POS Point_:  
  
- ![4.png]({{site.baseurl}}/images/4.png)  
+![4.png]({{site.baseurl}}/images/4.png)
+ 
  
  - To **Add** a POS Point, click on the blue button _Add a POS Point_:  
  
- ![5.png]({{site.baseurl}}/images/5.png)  
+![5.png]({{site.baseurl}}/images/5.png)
+
  
  The process will be the same as editing one.  
  
  - To **Deactivate** a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
  
- ![12.png]({{site.baseurl}}/images/12.png)  
+![12.png]({{site.baseurl}}/images/12.png)
+
  
  - Your POS Point will be accessible via the POS tab on top of your Tape Chart:  
  
- ![13.png]({{site.baseurl}}/images/13.png)  
+![13.png]({{site.baseurl}}/images/13.png)
+
  
  
  ##**POS Categories**  
