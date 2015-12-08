@@ -66,6 +66,7 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
 ![1.png]({{site.baseurl}}/images/1.png)
 
+
   
   - You will see a list of some defaulted amenities.
  
