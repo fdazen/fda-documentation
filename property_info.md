@@ -17,12 +17,12 @@ As the name suggests, this section is dedicated to information about your compan
 
  - In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
  
- ![1.png]({{site.baseurl}}/images/1.png)
-
+ ![55.png]({{site.baseurl}}/images/55.png)
  
+
  - Click on the blue button _Upload Logo_ to upload one from your computer:  
 
-![1.png]({{site.baseurl}}/images/1.png)  
+
 
 Your Company Logo will appear in all system communication to your guests!  
 
