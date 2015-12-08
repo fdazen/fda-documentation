@@ -8,6 +8,7 @@ summary: Labels are just a simple Bootstrap component that you can include in yo
 published: true
 ---
 
+
 #**Sources of Business**  
 
 Sources of Business track the origin of reservations. You can report on these in order to find out where people come to know about your property, or to check the production level for each channel.  
@@ -24,11 +25,13 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
  
- ![1.png]({{site.baseurl}}/images/1.png)  
+![1.png]({{site.baseurl}}/images/1.png)
+
  
  - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
  
- ![2.png]({{site.baseurl}}/images/2.png)
+![2.png]({{site.baseurl}}/images/2.png)
+
  
   - Click on the blue button _Add Source of Business Category_:  
   
@@ -72,6 +75,3 @@ Note that when a Source of Business Item comes through the system, it will pick 
 ![204.png]({{site.baseurl}}/images/204.png)
 
 This means that when setting up your Sources Rules and deciding what channel to choose from the drop down menu, make sure to look at the Source Identifier's channel, as they will **need to be the same**. This is because the rule will need to recognize not only the source tag sent by the channel, but also the channel from which the tag has been sent.
- 
-
-
