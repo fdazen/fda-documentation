@@ -1,10 +1,13 @@
 ---
 title: Property Info
-tags: [formatting]
-keywords: property info, logo, time zone, default guest settings, default guest county, guest settings, company info
-last_updated: November 25th, 2015
-summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
+tags: 
+  - formatting
+keywords: "property info, logo, time zone, default guest settings, default guest county, guest settings, company info"
+last_updated: "November 25th, 2015"
+summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+published: true
 ---
+
 
 #**Property Info**  
 
@@ -14,7 +17,8 @@ As the name suggests, this section is dedicated to information about your compan
 
  - In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
  
- ![30.png]({{site.baseurl}}/images/30.png)  
+ ![1.png]({{site.baseurl}}/images/1.png)
+
  
  - Click on the blue button _Upload Logo_ to upload one from your computer:  
 
@@ -44,8 +48,3 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 ##**Time Zone**  
 
 At the moment it is not currently possible to change the time zone directly from your account. Please contact our Support Team at support@frontdeskanywhere.com to change it!
-
- 
-
- 
- 
