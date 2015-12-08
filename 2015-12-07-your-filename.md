@@ -10,6 +10,7 @@ published: true
 
 
 
+
 #**Housekeeping**  
 
 The Housekeeping section in your Frontdesk Anywhere helps you set up certain rules to govern the change in housekeeping status for each room at your property. This is necessary, in turn, to define what your Housekeeping Team will need to: in other words, you will be able to define in what occasions the system should report a certain room to be 'dirty' or 'clean', thus making it easier for the housekeepers to know what action is required of them!
@@ -52,7 +53,7 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
  
  ![](4.png]({{site.baseurl}}/images/4.png)  
  
- - Before trying to create a new rule, let us examine what each rule among the default ones so:  
+ - Before trying to create a new rule, let us examine what each default rule does:  
  
  1.**Check-In - Dirty**:  this rule is triggered by the change in the reservation status. When the reservation status will change to _Checked-In_, that will cause the Housekeeping Status of the room to also change, in this case to _Dirty_.  
  
@@ -94,24 +95,6 @@ You can also choose the rule to be triggered by a specific event (check-in/out d
  - Finally, choose whether the rule is to be applied to all reservations or whether you want to manually apply the rule in each reservation folio; place the priority the rule should have, check the _Statu_ box to make it active, and click on the blue button _Save_ when finished:  
  
  ![](11.png]({{site.baseurl}}/images/11.png)
-
-
-
- 
- ![](
-
-
-
-
- 
- 
- 
- 
-
-
-  
-  
-
 
 
 
