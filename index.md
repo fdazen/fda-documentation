@@ -11,6 +11,7 @@ published: true
 
 # Welcome!
 
+Welcome to Frontdesk Anywhere!
 We have gathered here all the documentation and training notes that will help you set up and make the best of your Frontdesk Anywhere PMS. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme! 
 
 ## Overview
