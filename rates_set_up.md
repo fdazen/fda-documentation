@@ -171,7 +171,7 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  
  - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
  
- ##**Duplicate a Rate**  
+ ## **Duplicate a Rate**  
  
  Duplicating a rate will come handy when you are trying to set up different rates for different room types. We are starting from the idea that although the value of the rate will be different, your Season Periods will probably be the same: a High Season, for example, is defined by the starting/ending date. Hence, instead of having to re-build all Season periods for each of your room type, you can duplicate an existing Rate Class with all its Season Periods, and simply place a different value in it!
  
