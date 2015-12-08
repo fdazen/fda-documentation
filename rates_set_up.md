@@ -281,24 +281,29 @@ If you are building different rates for the same room type, you may want to cont
 
 When you open a folio, all applicable rates for the room type appear in the scroll down menu on the right hand side of the panel:  
 
-![81.png]({{site.baseurl}}/images/81.png)  
+![81.png]({{site.baseurl}}/images/81.png)
+
 
 Unless you order your rates, they will appear randomly in the folio: for example, in the picture above my AAA rate shows up before the BAR rate.
 
   - In the Admin Settings, click on **Rate Priority** under section _Rates_:  
  
- ![83.png]({{site.baseurl}}/images/83.png)  
+![83.png]({{site.baseurl}}/images/83.png)
+
  
  - You will see a list of all the rates you have created in the system, independently of the room types where they are applied:  
  
- ![84.png]({{site.baseurl}}/images/84.png)  
+ ![84.png]({{site.baseurl}}/images/84.png)
+
  
  - Replace the _999_ number with a progressive numeric order: in the example below I am setting my BAR rates to show up first:  
  
- ![85.png]({{site.baseurl}}/images/85.png)  
+![85.png]({{site.baseurl}}/images/85.png)
+
  
  - Click on the blue button _Save_, and you will see your rates in the order you placed.  
  
- ![86.png]({{site.baseurl}}/images/86.png)  
+![86.png]({{site.baseurl}}/images/86.png)
+
  
  Remember to log out and log back in into the system in order to see changes being effective!
