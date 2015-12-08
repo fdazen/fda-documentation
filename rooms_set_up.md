@@ -10,6 +10,7 @@ published: true
 
 
 
+
   
 #**Rooms Set Up**   
 
@@ -22,12 +23,15 @@ Let's start by set up the number of floors in your property. This is important a
 
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
- ![9.png]({{site.baseurl}}/images/9.png)
+![9999999.png]({{site.baseurl}}/images/9999999.png)
+
+
 
 
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
  
 ![11.png]({{site.baseurl}}/images/11.png)
+
   
  
  Click on the blue button _Save_ when done.  
@@ -71,7 +75,7 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
   - You will see a list of some defaulted amenities.
  
-![2.png]({{site.baseurl}}/images/2.png)
+![3.png]({{site.baseurl}}/images/3.png)
 
   
   - Before creating new ones, you can first edit those that you do not need, as this will make your account cleaner. For example, if you do not offer a laundry service in any of the rooms, but you offer a complimentary bathrobe, you will need to edit the laundry service and turn it into a bathrobe. To do this, click on the blue link _Edit_ on the corresponding row:
@@ -79,15 +83,18 @@ Let's start by creating the amenities that are available in your rooms. Make sur
 
 ![4.png]({{site.baseurl}}/images/4.png)
 
+
     
   - Edit the name in the _Amenity Title_ field, and click on the **Save** button when done.
   
 ![5.png]({{site.baseurl}}/images/5.png)
 
+
   
   - To add a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
   
 ![6.png]({{site.baseurl}}/images/6.png)
+
 
   
   
@@ -303,6 +310,3 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 - For each room type, insert in each box the number of rooms that you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
 ![54.png]({{site.baseurl}}/images/54.png)
-
-
-
