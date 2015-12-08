@@ -94,7 +94,13 @@ You can also choose the rule to be triggered by a specific event (check-in/out d
  
  - Finally, choose whether the rule is to be applied to all reservations or whether you want to manually apply the rule in each reservation folio; place the priority the rule should have, check the _Statu_ box to make it active, and click on the blue button _Save_ when finished:  
  
- ![](11.png]({{site.baseurl}}/images/11.png)
+ ![](11.png]({{site.baseurl}}/images/11.png)  
+ 
+ 
+ You will see your Housekeeping Rules and Statuses in action by going in the _Housekeeping_ tab on top of your Tape Chart:  
+ 
+![12.png]({{site.baseurl}}/images/12.png)
+
 
 
 
