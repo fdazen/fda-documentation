@@ -10,6 +10,7 @@ published: true
 
 
 
+
   
 #**Rooms Set Up**   
 
@@ -71,7 +72,7 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
   - You will see a list of some defaulted amenities.
  
-![2.png]({{site.baseurl}}/images/2.png)
+![3.png]({{site.baseurl}}/images/3.png)
 
   
   - Before creating new ones, you can first edit those that you do not need, as this will make your account cleaner. For example, if you do not offer a laundry service in any of the rooms, but you offer a complimentary bathrobe, you will need to edit the laundry service and turn it into a bathrobe. To do this, click on the blue link _Edit_ on the corresponding row:
@@ -303,6 +304,3 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 - For each room type, insert in each box the number of rooms that you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
 ![54.png]({{site.baseurl}}/images/54.png)
-
-
-
