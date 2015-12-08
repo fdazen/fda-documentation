@@ -1,10 +1,14 @@
 ---
-title: Rate Add-Ons
-tags: [formatting]
-keywords: add-ons
-last_updated: November 18th, 2015
-summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
---- 
+title: "Rate Add-Ons"
+tags: 
+  - formatting
+keywords: "add-ons"
+last_updated: "November 18th, 2015"
+summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+published: true
+---
+
+ 
 
 #**Rate Add-Ons**  
 
@@ -14,9 +18,11 @@ Frontdesk Anywhere allows you to set up additional charges that may be applicabl
 
 ![50.png]({{site.baseurl}}/images/50.png)
 
+
  - Click on the blue button _Add an Add-on_:  
  
- ![51.png]({{site.baseurl}}/images/51.png)
+![51.png]({{site.baseurl}}/images/51.png)
+
  
  - Fill in all information: place the name (_Charge Title_), the price and the applicable tax/es, and select whether the charge is to be applied on a nightly or a reservation basis. For reporting purposes, select the right _Revenue Label_ from the scroll down menu, and click on the blue button _Save_ when done:  
  
@@ -47,9 +53,3 @@ To **ERASE** an Add-On, select it by checking the box on the left hand side of t
 To **EDIT** an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
 
 ![59.png]({{site.baseurl}}/images/59.png)
-
-
-
-
-
-
