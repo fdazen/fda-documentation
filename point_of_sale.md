@@ -61,31 +61,37 @@ Start by creating your POS Points.
  
  - In the Admin Settings, click on the link **Categories**, under section _POS_:  
  
- ![6.png]({{site.baseurl}}/images/6.png)  
+![6.png]({{site.baseurl}}/images/6.png)
+
  
  - You will see a list of all your POS Categories: one category comes as default, and you can edit this before proceeding to create new ones! Click on the blue link _Edit_ on the right hand side of the panel:  
  
- ![7.png]({{site.baseurl}}/images/7.png)  
+![7.png]({{site.baseurl}}/images/7.png)
+
  
  - Change the Category Title and apply the category to POS Point where it belongs, by using the scroll down menu next to the tag _POS Point_:  
  
-![8.png]({{site.baseurl}}/images/8.png)  
+![8.png]({{site.baseurl}}/images/8.png)
+
 
 Click on the blue button _Edit POS Category_ when done.  
 
 - To **Add** a POS Category, click on the button _Add a POS Category_:  
 
-![9.png]({{site.baseurl}}/images/9.png)  
+![9.png]({{site.baseurl}}/images/9.png)
+
 
 The process is the same as editing one.
 
 - To **Deactivate** a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
 
-![10.png]({{site.baseurl}}/images/10.png)  
+![10.png]({{site.baseurl}}/images/10.png)
+
 
 - To **Delete** a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
 
-![11.png]({{site.baseurl}}/images/11.png)  
+![11.png]({{site.baseurl}}/images/11.png)
+
 
 
 ##**POS Products**  
@@ -94,35 +100,42 @@ After creating your POS Points and Categories, you can finally proceed to set up
 
  - In the Admin Settings, click on the link **Products** under section _POS_:  
  
- ![14.png]({{site.baseurl}}/images/14.png)  
+![14.png]({{site.baseurl}}/images/14.png)
+
  
  - Click on the blue button _Add a POS Product_:  
  
- ![15.png]({{site.baseurl}}/images/15.png)  
+![15.png]({{site.baseurl}}/images/15.png)
+
  
  - You will need to fill in all information. Enter the name and the code for the product you are creating (these can be the same), and select the Pos Point where the item belongs by selecting the right option from the scroll down menu:  
  
- ![16.png]({{site.baseurl}}/images/16.png)  
+![16.png]({{site.baseurl}}/images/16.png)
+
  
  - Once a Pos Point is chosen, the options in the scroll down menu _Pos Category_ will update to show what categories are actually linked to the Pos Point you chose:  
  
- ![17.png]({{site.baseurl}}/images/17.png)  
+![17.png]({{site.baseurl}}/images/17.png)
+
  
  - Complete all information by assigning the right  _Revenue Label_ to the item, the price and check the box for any tax you want to apply. Once done, click on the blue button _Save POS Product_:  
  
- ![18.png]({{site.baseurl}}/images/18.png)  
+![18.png]({{site.baseurl}}/images/18.png)
  
  - To **Deactivate** a POS product, just uncheck the box under column _Status_:  
  
- ![19.png]({{site.baseurl}}/images/19.png)  
+![19.png]({{site.baseurl}}/images/19.png)
+ 
  
  - To **Delete** a POS Product, select it by checking the box on the left hand side of its name and click on the blue button _Delete Selected POS Product_:  
  
- ![20.png]({{site.baseurl}}/images/20.png)  
+![20.png]({{site.baseurl}}/images/20.png)
+ 
  
  - To **Edit** a POS Product, click on the blue link _Edit_ on the right hand side of any product:  
  
- ![21.png]({{site.baseurl}}/images/21.png)
+![21.png]({{site.baseurl}}/images/21.png)
+
 
 The procedure is the same as adding a new one!
 
@@ -130,9 +143,11 @@ The procedure is the same as adding a new one!
 
 ![22.png]({{site.baseurl}}/images/22.png)
 
+
 - Click on the blue button _Upload Image_ and choose an image to add:  
 
-![23.png]({{site.baseurl}}/images/23.png)   
+![23.png]({{site.baseurl}}/images/23.png)
+ 
 
 
 ##**Charging POS Products**  
