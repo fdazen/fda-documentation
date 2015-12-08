@@ -224,19 +224,23 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 - If your rate is applied to different room types, you will have a row for each of those types, so that you can easily edit them:  
 
-![40.png]({{site.baseurl}}/images/40.png)  
+![40.png]({{site.baseurl}}/images/40.png)
+
 
 - If the rate you are viewing has a derived rate linked to it, the latter will automatically change accordingly any time that the Master rate is changed,:  
 
-![41.png]({{site.baseurl}}/images/41.png)  
+![41.png]({{site.baseurl}}/images/41.png)
+
 
 - If you do not wish the derived rate to be changed, you can un-check the box with the tag _Apply to Derived Rates_:  
 
-![42.png]({{site.baseurl}}/images/42.png)  
+![42.png]({{site.baseurl}}/images/42.png)
+
 
 - If your the derived rate is applied to different room types, note that the rate will change only for those Derived Rates applied to the same room type as the Master Rate; if you want it to apply to all room types, then check the box next to the tag _APply to All Room Types_:  
 
 ![44.png]({{site.baseurl}}/images/44.png)
+
 
  ##**Deriving a Rate**  
  
