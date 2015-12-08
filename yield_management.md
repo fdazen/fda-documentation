@@ -14,8 +14,8 @@ published: true
 #**Yield Management**  
 
 The _Yield Management_ is a powerful tool of your PMS: it triggers automatic rate changes based on the occupancy level of a room type or run of house. The price change is governed by rules that you will have to place in the system, in order to define how the rates should change when certain conditions apply.  
+![download.png]({{site.baseurl}}/images/download.png)
 
-![72.png]({{site.baseurl}}/images/72.png)
 
 ##**Yield Management Rules**  
 
