@@ -70,7 +70,8 @@ Let us start by defining what rules you want the system to follow.
 
 To **EDIT** a rule, click on the blue link _Edit_ on the right hand side of the rule list:  
 
-![70.png]({{site.baseurl}}/images/70.png)  
+![70.png]({{site.baseurl}}/images/70.png)
+ 
 
 ##**Yield Management Settings**  
 
