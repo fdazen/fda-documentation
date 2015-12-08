@@ -102,11 +102,13 @@ A room class is a general concept referring to any extra organisazional level yo
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
- ![16.png]({{site.baseurl}}/images/16.png)
+![16.png]({{site.baseurl}}/images/16.png)
+
 
  - You can create a new class by clicking on the blue button _Add a Class_ and a small window will pop up: type in the name of the class you wish to create and click on the blue button _Save_
  
- ![18.png]({{site.baseurl}}/images/18.png)  
+![18.png]({{site.baseurl}}/images/18.png)
+
  
  ###**Room Classes Operations**   
 
