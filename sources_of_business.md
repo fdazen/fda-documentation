@@ -51,7 +51,7 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  ![202.png]({{site.baseurl}}/images/202.png)
  
  
- ###2. **Create your Source of Business Rules**  
+ ##2. **Create your Source of Business Rules**  
  
  Sources of Business Rules will turn Identifiers into Categories. All rules **must be set up upon first receipt of a new reservation source tag**. If you are not connected with any channel (including OBE), you can skip the following instructions.
  Once you start connecting with channels and receive reservations, you will need to define what the system has to do: 
