@@ -24,25 +24,25 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
  
- ![](1.png]({{site.baseurl}}/images/1.png)  
+ ![1.png]({{site.baseurl}}/images/1.png)  
  
  - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
  
- ![](2.png]({{site.baseurl}}/images/2.png)
+ ![2.png]({{site.baseurl}}/images/2.png)
  
   - Click on the blue button _Add Source of Business Category_:  
   
-  ![](7.png]({{site.baseurl}}/images/7.png)  
+  ![7.png]({{site.baseurl}}/images/7.png)  
   
   - Enter the name for your Category, and give it a brief description if you want. Once done, click on the grey button _Save_ on the right hand side of the screen:
   
-  ![](201.png]({{site.baseurl}}/images/201.png)  
+  ![201.png]({{site.baseurl}}/images/201.png)  
   
   - Repeat for all Sources you have.
   
  The Categories will show up in each reservation folios under the scroll down menu _Source_, on the right hand side of each folio:  
  
- ![](202.png]({{site.baseurl}}/images/202.png)
+ ![202.png]({{site.baseurl}}/images/202.png)
  
  
  ###2. **Create your Source of Business Rules**  
@@ -52,11 +52,11 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  
   - Click on the blue button _Add Source of Business Rule_:  
   
-  ![](10.png]({{site.baseurl}}/images/10.png)  
+  ![10.png]({{site.baseurl}}/images/10.png)  
   
   - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _FDX2_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
   
-  ![](203.png]({{site.baseurl}}/images/203.png)
+  ![203.png]({{site.baseurl}}/images/203.png)
 
 Here is a quick overview of what each channel means:  
 
@@ -69,7 +69,7 @@ Here is a quick overview of what each channel means:
 
 Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced:  
 
- ![](204.png]({{site.baseurl}}/images/204.png)
+![204.png]({{site.baseurl}}/images/204.png)
 
 This means that when setting up your Sources Rules and deciding what channel to choose from the drop down menu, make sure to look at the Source Identifier's channel, as they will **need to be the same**. This is because the rule will need to recognize not only the source tag sent by the channel, but also the channel from which the tag has been sent.
  
