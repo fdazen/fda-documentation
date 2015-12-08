@@ -63,6 +63,15 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
  3.**Nightly - Dirty**: differently from the previous two rules, this one is not triggered by changes in reservation status, but it is triggered automatically on a nightly basis. This rule establiushes that any checked-in room will be marked with the Housekeeping Status _Dirty_, regardless of whether the status of a reservation has been changed on that day: in hotel management words, this rule accounts for your Stay Overs.  
  
  
+ 4.**Room Change - Inspect**: if any of your guests changes room during their stay, the system will trigger the previous room to an 'Inspect' Housekeeping Status.  
+ 
+
+- To **Add** an Housekeeping Rule, click on the blue button _Add_ at the bottom of the rule list:  
+
+![](5.png]({{site.baseurl}}/images/5.png)
+
+ 
+ 
  
  
 
