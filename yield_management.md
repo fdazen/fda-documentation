@@ -8,6 +8,7 @@ summary: Labels are just a simple Bootstrap component that you can include in yo
 published: true
 ---
 
+
   
 
 #**Yield Management**  
