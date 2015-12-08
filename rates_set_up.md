@@ -171,11 +171,13 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  
  - In the _Rate Classes_, click on the button **Duplicate** on the right hand side of the relevant rate:  
  
- ![24.png]({{site.baseurl}}/images/24.png)  
+![24.png]({{site.baseurl}}/images/24.png)
+
  
  - You will now need to amend all the information that is different from the rate you are duplicating from: commonly these are _Rate Code_, _Rate Description_, vlaue in each _Season Period_ and _Room Type_ applied:  
  
- ![26.png]({{site.baseurl}}/images/26.png) 
+![26.png]({{site.baseurl}}/images/26.png)
+
 
 ##**Daily Rate Grid**  
 
