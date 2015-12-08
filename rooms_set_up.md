@@ -8,6 +8,7 @@ summary: hotel room structure set up
 published: true
 ---
 
+
   
 #**Rooms Set Up**   
 
@@ -20,11 +21,13 @@ Let's start by set up the number of floors in your property. This is important a
 
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
- ![9.png]({{site.baseurl}}/images/9.png)  
+ ![9.png]({{site.baseurl}}/images/9.png)
+
 
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
  
- ![11.png]({{site.baseurl}}/images/11.png)  
+![11.png]({{site.baseurl}}/images/11.png)
+  
  
  Click on the blue button _Save_ when done.  
  NOTE: you can either number your floors (1,2,3, etc.) or name them (First, Second, etc).  
@@ -257,4 +260,3 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 
 
 ![44.png]({{site.baseurl}}/images/44.png)
-
