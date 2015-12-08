@@ -89,7 +89,12 @@ You can also choose the rule to be triggered by a specific event (check-in/out d
  
  - From the scroll down menu, select whether you want the rule to have a lower or higher priority, by choosing the right option:  
  
- ![](10.png]({{site.baseurl}}/images/10.png)
+ ![](10.png]({{site.baseurl}}/images/10.png)  
+ 
+ - Finally, choose whether the rule is to be applied to all reservations or whether you want to manually apply the rule in each reservation folio; place the priority the rule should have, check the _Statu_ box to make it active, and click on the blue button _Save_ when finished:  
+ 
+ ![](11.png]({{site.baseurl}}/images/11.png)
+
 
 
  
