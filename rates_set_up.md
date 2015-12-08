@@ -38,7 +38,10 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 ![3.png]({{site.baseurl}}/images/3.png)
 
  
- If you are creating an inclusive tax, tick the box with the tag _Inclusive Tax_: if this box is checked, the tax will only appear when reporting, and it won't show anywhere in reservations. 
+ - If you are creating an inclusive tax, tick the box with the tag _Inclusive Tax_: if this box is checked, the tax will only appear when reporting, and it won't show anywhere in reservations. 
+ 
+ ![15263.png]({{site.baseurl}}/images/15263.png)
+
 
  - Once you have done, click on the _Save_ button: if you need to create a new tax, click on the blue button _Add a Tax_; the process is the same as editing one:  
 
