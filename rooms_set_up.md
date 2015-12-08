@@ -139,7 +139,8 @@ We have now come to the point of building your hotel's room types: as we underst
 
  - Start by clicking on the link **Room Types** under section _Rooms_ in the Admin Settings:  
  
- ![25.png]({{site.baseurl}}/images/25.png)  
+![25.png]({{site.baseurl}}/images/25.png)
+
  
  - To create a new room type, click on the blue button _Add a Room Type_:  
  
@@ -147,23 +148,28 @@ We have now come to the point of building your hotel's room types: as we underst
  
  - Fill up the fields with the requested infromation: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
  
- ![26.png]({{site.baseurl}}/images/26.png)  
+![26.png]({{site.baseurl}}/images/26.png)
+
  
  - Continue by filling in all information: from the _Room Alias_ drop down menu select whether the room type should be considered as different from a room: if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
 
-![27.png]({{site.baseurl}}/images/27.png)  
+![27.png]({{site.baseurl}}/images/27.png)
+ 
 
  - Choose whether your room is to be gender-based: choosing _yes_ will prompt the system to have you choose what gender you want to default the room to:  
  
- ![28.png]({{site.baseurl}}/images/28.png)  
+![28.png]({{site.baseurl}}/images/28.png)
+
  
  - Select the maximum and default occupancy, and select the amenities applicable to this type of room: you will see two small panels, one called _Available Amenities_ and another called _Selected Amenities_, with two arrows in the middle:  
  
- ![29.png]({{site.baseurl}}/images/29.png)
+![29.png]({{site.baseurl}}/images/29.png)
+
  
  Select the amenities you wish to apply to this room type by selecting them among the available ones and by using the arrows to move them from one panel to another: the one under panel _Selected Amenities_ will be the one showing up in the system:  
  
- ![30.png]({{site.baseurl}}/images/30.png)  
+![30.png]({{site.baseurl}}/images/30.png)
+
  
  - Select whether this room type has to have an OBA. The OBA (**O**ver**b**ooking **A**llowance) will enable the room type to receive more bookings than the posted availability: you can decide how many overbookings you wish to allow by placing a numeric value in the box that appears when you check the box _OBA_:  
  
