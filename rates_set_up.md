@@ -73,78 +73,93 @@ Although the system comes with a couple of rates already built-in, it will be go
 
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
  
- ![8.png]({{site.baseurl}}/images/8.png)  
+![8.png]({{site.baseurl}}/images/8.png)
+
  
  - You are now in the heart of a rate configuration, and you will see different information to fill in. Let's start by placing a name for your new rate, next to the tag _Rate Code_, and a brief description of the rate:  
  
- ![9.png]({{site.baseurl}}/images/9.png)  
+![9.png]({{site.baseurl}}/images/9.png)
+  
  
  If you are using the Frontdesk Anywhere booking engine, you will see the description show up underneath the name of the rate, when a guest is trying to make reservation online: for this reason, we advise to keep the description simple.
  
  - Check the box _Active_ if you want the rate to be enabled upon creation, and check the box _Allow Override_ if you want to enable the possibility to edit the rate on a reservation basis. Also, check the boxes for all the rate's applicable taxes:  
  
- ![10.png]({{site.baseurl}}/images/10.png)  
+ ![10.png]({{site.baseurl}}/images/10.png)
+
  
 If you choose to check the _Allow Override_ box, the rate will become editable on the reservation folio. This means that the _Edit Rate_ link will become clickable.  
 
- ![11.png]({{site.baseurl}}/images/11.png)  
+![11.png]({{site.baseurl}}/images/11.png)
+
 
 For more information on how to edit a rate on a per reservation basis, click here.  
 
 - Specify the type of rate you are creating by selecting the right option in the scroll down menu, next to the tag _Rate Type_:  
 
-![12.png]({{site.baseurl}}/images/12.png)  
+![12.png]({{site.baseurl}}/images/12.png)
+
 
 If you choose the option _Nightly_ rate, the value you will insert will be considered as the nightly price.  
 If you choose the option _Multiple Nights_, you will need to specify how many nights the rate is valid for. You can place a numeric value in the box _Rate Is Valid For_. The value you insert will be considered as the total price for the number of nights you define in that box. In the example below I am creating a weekly rate: 
 
-![![13.png]({{site.baseurl}}/images/13.png)  
+![13.png]({{site.baseurl}}/images/13.png)
+ 
 
 Keep in mind that if you create a multiple nights rate, the latter will not show up anywhere unless the minimum number of nights are selected.  
 
 **Note**: If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement:  
 
-![14.png]({{site.baseurl}}/images/14.png)  
+![14.png]({{site.baseurl}}/images/14.png)
+ 
 
 However, note that differently from the Multiple Nights Rate, the value you place for the rate will be the nightly price.  
 
  - Select the right Revenue Label in the drop down menu next to the tag _Revenue Label_:  
  
- ![15.png]({{site.baseurl}}/images/15.png)  
+![15.png]({{site.baseurl}}/images/15.png)
+
  
  - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
  
- ![16.png]({{site.baseurl}}/images/16.png)
+![16.png]({{site.baseurl}}/images/16.png)
+
 
  - Insert all information requested: use the scroll down calendars to select the starting and ending date for the rate, place a description if necessary, select the days of the week you want the value to be valid for, and finally place the value for the rate in the first box:  
  
- ![17.png]({{site.baseurl}}/images/17.png)
+![17.png]({{site.baseurl}}/images/17.png)
+
 
 You can add additional charges in the relevant boxes, if applicable. In the example above the base rate will be $100, there is no extra charge for the second occupant, but an extra $10 for any additional person and $5 for any child.
 Click on the button _Save_ when done.
 
  -  You will now see your Season Period saved:  
  
- ![18.png]({{site.baseurl}}/images/18.png)
+![18.png]({{site.baseurl}}/images/18.png)
+
  
 The three icons that appear under the column _Action_ are used to visualize/edit the season period, cancel it and duplicate it. Hovering on the icon will also explain to you what each one does:  
 
-![20.png]({{site.baseurl}}/images/20.png)  
+![20.png]({{site.baseurl}}/images/20.png)
+
 
  - Duplicating a season period comes handy when you are building a weekend rate that is different from the weekly one: indeed, the starting/ending date for the season period will be the same, what is different is the value and the days of the week to which the rate applies. Hence, click on the icon to duplicate the season period and amend the relevant fields:  
  
- ![21.png]({{site.baseurl}}/images/21.png)  
+![21.png]({{site.baseurl}}/images/21.png)
+
  
  Click on _Save Period As Duplicate_ when finished.
  
  - You can continue to create more Season Periods by clicking on the button _Add New_:  
  
- ![22.png]({{site.baseurl}}/images/22.png)  
+![22.png]({{site.baseurl}}/images/22.png)
+  
  
  - Finally, you will need to choose what are the room types to which the rate will be applied to, and the channels on which it will be available:  
  
- ![23.png]({{site.baseurl}}/images/23.png)
+![23.png]({{site.baseurl}}/images/23.png)
+
 
 You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _OBOE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
  
