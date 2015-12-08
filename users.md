@@ -92,34 +92,41 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - All of your system users appear in the Users List. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
- ![16.png]({{site.baseurl}}/images/16.png) 
+![16.png]({{site.baseurl}}/images/16.png)
+
 
 - You will see a list of all the currently created users: click on blue link _Edit_ on the right hand side of any user:  
 
-![17.png]({{site.baseurl}}/images/17.png)  
+![17.png]({{site.baseurl}}/images/17.png)
+
 
 - As mentioned above, it is not currenlty possible to create a user directly from your account, and for this reason the name, last name and username of each user is not editable; if you need to make any amendments to those fields, please contact our Support Team at support@frontdeskanywhere.com.
 Select the right access level by using the scroll down menu next to the tag _User Type_:  
 
 ![18.png]({{site.baseurl}}/images/18.png)
 
+
 - Choose the default view for the user, by selecting a choice from the drop down menu next to the tag _Default View_:  
 
-![19.png]({{site.baseurl}}/images/19.png)  
+![19.png]({{site.baseurl}}/images/19.png)
+
 
 - Click on the blue link _Save User_ at the bottom of the screen:  
 
-![20.png]({{site.baseurl}}/images/20.png)  
+![20.png]({{site.baseurl}}/images/20.png)
+
 
 - To **Deactivate** a user, un-check the box under column _Status_ on the right hand side of any user:  
 
 ![21.png]({{site.baseurl}}/images/21.png)
 
+
 **Note**: it is currently not possible to delete a user! However, if a user has been made inactive there will be no chance of them accessing the system.
 
 - If you have a lot of users, you might find it useful to filter them by level. You can do that by using the scroll down menu on the top right hand side of the screen:  
 
-![22.png]({{site.baseurl}}/images/22.png)  
+![22.png]({{site.baseurl}}/images/22.png)
+
 
 
 **Shifts**
