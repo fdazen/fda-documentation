@@ -81,7 +81,14 @@ You can also choose the rule to be triggered by a specific event (check-in/out d
 
  - Choose the folio status where the rule is to apply:  
  
- ![](8.png]({{site.baseurl}}/images/8.png)
+ ![](8.png]({{site.baseurl}}/images/8.png)  
+ 
+ - In the  _Stay Interval_ editable box, select the interval you want the rule to run for (interval of 2 days or 3 days, etc.); also, choose whether you want the rule to repeat on a regular basis by checking the box under _Repeat_:  
+ 
+ ![](9.png]({{site.baseurl}}/images/9.png)
+
+ 
+ ![](
 
 
 
