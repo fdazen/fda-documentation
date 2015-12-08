@@ -20,7 +20,8 @@ Start by creating your POS Points.
 
 - In the Admin Settings, click on the link **POS Point** link under section _POS_:
 
-![]({{site.baseurl}}/images/1.png)
+![555.png]({{site.baseurl}}/images/555.png)
+
 
 - You will see the list of POS Points: the system comes with one default one, and you can start by editing this before creating new ones:  
 
