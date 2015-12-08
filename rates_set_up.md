@@ -248,21 +248,25 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
  - In the _Rate Class_ list, click on the blue link **Derive** under column _Action_:  
  
- ![28.png]({{site.baseurl}}/images/28.png)  
+![28.png]({{site.baseurl}}/images/28.png)
+
  
  - Type in a name for the new rate and a new description, and select the type of adjustment you want to make:  
  
- ![29.png]({{site.baseurl}}/images/29.png)  
+![29.png]({{site.baseurl}}/images/29.png)
+ 
  
  You can either discount a rate or increase it (_Premium_), and you can select whether the adjustment has to be a percentage or a fixed value over the Master Rate.  
 
  - Select the rooms to which the rate is to be applied and the channels and click on the blue button _Save_ when finished:  
  
- ![30.png]({{site.baseurl}}/images/30.png)  
+![30.png]({{site.baseurl}}/images/30.png)
+
  
  - If you go back to the _Rate Class_ List, you will notice that the derived rate appears in that list marked with a capital, bold **D** and an arrow. The latter points to the Derived Rate's Master Rate:  
  
- ![31.png]({{site.baseurl}}/images/31.png)  
+![31.png]({{site.baseurl}}/images/31.png)
+
  
 ##**Making a Rate Inactive**
  
