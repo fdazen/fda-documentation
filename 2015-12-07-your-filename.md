@@ -85,7 +85,12 @@ You can also choose the rule to be triggered by a specific event (check-in/out d
  
  - In the  _Stay Interval_ editable box, select the interval you want the rule to run for (interval of 2 days or 3 days, etc.); also, choose whether you want the rule to repeat on a regular basis by checking the box under _Repeat_:  
  
- ![](9.png]({{site.baseurl}}/images/9.png)
+ ![](9.png]({{site.baseurl}}/images/9.png)  
+ 
+ - From the scroll down menu, select whether you want the rule to have a lower or higher priority, by choosing the right option:  
+ 
+ ![](10.png]({{site.baseurl}}/images/10.png)
+
 
  
  ![](
