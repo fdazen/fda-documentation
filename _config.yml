@@ -7,8 +7,8 @@ platform: all
 version: all
 destination: ../doc_designers
 topnav_title: Documentation
-homepage_title: Frontdesk Anywhere Documentation &mdash; Designers
-site_title: Frontdesk Anywhere Documentation &mdash; Designers
+homepage_title: Frontdesk Anywhere Documentation 
+site_title: Frontdesk Anywhere Documentation 
 # disqus_shortname: idrbwjekyll
 google_analytics: 
 github_editme_path: fdazen/fda-documentation
