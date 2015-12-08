@@ -80,6 +80,7 @@ Let's start by creating the amenities that are available in your rooms. Make sur
 
 ![4.png]({{site.baseurl}}/images/4.png)
 
+
     
   - Edit the name in the _Amenity Title_ field, and click on the **Save** button when done.
   
