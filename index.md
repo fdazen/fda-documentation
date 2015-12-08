@@ -8,38 +8,33 @@ published: true
 ---
 
 
-## Overview Test
 
-This site provides documentation, training, and other notes for the Frontdesk Anywhere PMS. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. 
+## Welcome!
 
-## Survey of features
+We have gathered here all the documentation and training notes that will help you set up and make the best of your Frontdesk Anywhere PMS. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme! 
+
+## Overview
 
 Some of the more prominent features of this theme include the following:
 
-* Bootstrap framework
-* Sidebar with page hierarchy and advanced toc
-* PDF generation (with Prince XML utility)
-* Notes, tips, and warning information notes
-* Tags
-* Single sourced outputs
-* Emphasis on pages, not posts
-* Relative (rather than absolute) link structure
+* System Configuration
+* Reporting
+* User Guide
+* Notes and tips about Integrations
+* External Resources
 
-I'm using this theme for my documentation projects, building about 15 different outputs for various products, versions, languages, and audiences from the same set of files. This single sourcing requirement has influenced how I constructed this theme.
-
-For more discussion about the available features, see {{site.data.urls_d.doc_supported_features.link}}.
 
 ## Getting started
 
 To get started, see these three topics:
 
-1. {{site.data.urls.doc_getting_started.link}}
-2. {{site.data.urls.doc_configuration_settings.link}}
-3. {{site.data.urls.doc_customizing_the_theme.link}}
+1. Room Confirguration
+2. Rate Set Up
+3. Users
 
 ## PDF Download 
 
-If you would like to download this help file as a PDF, you can do so here. The PDF most of the same content as the online help, except that some elements (such as video or special layouts) don't translate the the print medium, so they're excluded.
+If you would like to download this help file as a PDF, you can do it from here. 
 
 <a target="_blank" class="noCrossRef" href="doc_{{site.audience}}_pdf.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
