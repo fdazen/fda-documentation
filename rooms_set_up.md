@@ -114,20 +114,24 @@ A room class is a general concept referring to any extra organisazional level yo
 
  - **EDIT**: to edit a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
  
- ![19.png]({{site.baseurl}}/images/19.png)  
+![19.png]({{site.baseurl}}/images/19.png)
+
  Insert the updated name and click on the button _Save_  
  
  - **DELETE**: check the box on the left side of the class you wish to erase, and click on the blue button _Delete Selected Class_:  
  
- ![20.png]({{site.baseurl}}/images/20.png)  
+![20.png]({{site.baseurl}}/images/20.png)
+
  
  - **DEACTIVATE**: uncheck the box under column _Status_ relevant to the class you wish to make inactive:  
  
- ![21.png]({{site.baseurl}}/images/21.png)
+![21.png]({{site.baseurl}}/images/21.png)
+
 
  - **HOW TO USE CLASSES**: When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by CLass_ in order to have your rooms grouped by classes:  
  
- ![23.png]({{site.baseurl}}/images/23.png)
+![24.png]({{site.baseurl}}/images/24.png)
+
 
 ##**Room Types**   
 
