@@ -111,7 +111,7 @@ A room class is a general concept referring to any extra organisazional level yo
 ![18.png]({{site.baseurl}}/images/18.png)
 
  
- ###**Room Classes Operations**   
+ ##**Room Classes Operations**   
 
  - **EDIT**: to edit a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
  
