@@ -84,7 +84,8 @@ Once the Yield Management Rules are created, you will need to specify how often 
  
  - Using the scroll down menu, select the right time frame:  
  
-![71.png]({{site.baseurl}}/images/71.png)
+![71255.png]({{site.baseurl}}/images/71255.png)
+
 
 
  
