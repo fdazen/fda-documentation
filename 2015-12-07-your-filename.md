@@ -77,7 +77,12 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 - By clicking on the right circle box, select whether you want the rule to be triggered by changes in the Room Status, or whether you want the rule to run on nightly basis: in the latter case, the rule will run automatically every night.  
 You can also choose the rule to be triggered by a specific event (check-in/out day) or by days of the week: in the latter case you will need to specify what day/s of the week you want the rule to run, by clicking on the check-boxes:  
 
-![](7.png]({{site.baseurl}}/images/7.png)
+![](7.png]({{site.baseurl}}/images/7.png)  
+
+ - Choose the folio status where the rule is to apply:  
+ 
+ ![](8.png]({{site.baseurl}}/images/8.png)
+
 
 
 
