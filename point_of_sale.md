@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
 #**POINT OF SALE**
 
 If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section. POS products are organized around POS Points and POS Categories. You can think of a POS Point as being, for example, a ‘restaurant’ or a ‘coffee shop’, a POS Category as being ‘food’ or ‘beverages’, and a POS Item as being ‘walnuts’ or ‘coffee’.  
@@ -19,11 +20,12 @@ Start by creating your POS Points.
 
 - In the Admin Settings, click on the link **POS Point** link under section _POS_:
 
-![1.png]({{site.baseurl}}/images/1.png)  
+![]({{site.baseurl}}/images/1.png)
 
 - You will see the list of POS Points: the system comes with one default one, and you can start by editing this before creating new ones:  
 
-![2.png]({{site.baseurl}}/images/2.png)  
+![2.png]({{site.baseurl}}/images/2.png)
+
 
  - Click on the blue link _Edit_ on the right hand side of the panel:  
  
@@ -145,34 +147,3 @@ The procedure is the same as adding a new one!
  - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
 
 ![29.png]({{site.baseurl}}/images/29.png)
-
-
- 
- 
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
