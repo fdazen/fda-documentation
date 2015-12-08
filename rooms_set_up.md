@@ -36,16 +36,19 @@ Let's start by set up the number of floors in your property. This is important a
 
  - **EDIT**: To edit a floor, click on the blue link _Edit_ in the relevant row:
 
-![12.png]({{site.baseurl}}/images/12.png)  
+![12.png]({{site.baseurl}}/images/12.png)
+ 
 The same small window will pop-up: edit the name and click on the button _Save_ when done.  
 
  - **DEACTIVATE**: To deactivate a floor, uncheck the box under the column _Status_ for the relevant row:  
 
-![13.png]({{site.baseurl}}/images/13.png)   
+![13.png]({{site.baseurl}}/images/13.png)
+  
 
 - **DELETE**: Select the floor you want to delete by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
 
 ![14.png]({{site.baseurl}}/images/14.png)
+
 
 
 - **HOW TO USE FLOORS**: When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ in order to have your rooms grouped by floors.
