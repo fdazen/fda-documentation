@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
   
 #**Rooms Set Up**   
 
@@ -263,7 +264,8 @@ Complete the rest of the information by selecting the right option from the scro
  - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specifc room:  
  
 <<<<<<< HEAD
- ![44.png]({{site.baseurl}}/images/44.png)  
+![44.png]({{site.baseurl}}/images/44.png)
+ 
  
  ##**Order Room Types**  
  
@@ -271,11 +273,13 @@ Complete the rest of the information by selecting the right option from the scro
  
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
- ![49.png]({{site.baseurl}}/images/49.png)  
+![49.png]({{site.baseurl}}/images/49.png)
+ 
  
  - You will see a list of all your newly created room types, each one with an editable box on the right hand side. Insert a numeric value in each box, according to the progressive order you want your room types to show up on the Tape Chart and click on the blue button _Save_:  
  
- ![50.png]({{site.baseurl}}/images/50.png)
+![50.png]({{site.baseurl}}/images/50.png)
+
 
 **Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system: this will ensure a proper refresh of the room order.  
 
@@ -285,15 +289,17 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 
 - In the Admin Settings, click on the blue link **Published Rooms** under section _Rooms_:  
 
-![52.png]({{site.baseurl}}/images/52.png)  
+![52.png]({{site.baseurl}}/images/52.png)
+ 
 
 - You will see a list of all your room types, and three columns: the **Real** column shows the real availability for each type, meaning hte number of rooms actually created and listed under a type; the **OBA** column shows the number of rooms you have set up in the Overbooking Allowance; the **Total** column shows the sum between the Real and the OBA column. In the example below, no OBAh has been set up, hence the number of Real rooms is equal to the number of Total rooms:  
 
-![53.png]({{site.baseurl}}/images/53.png)  
+![53.png]({{site.baseurl}}/images/53.png)
+
 
 - For each room type, insert in each box the number of rooms that you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
 ![54.png]({{site.baseurl}}/images/54.png)
 
 
-![44.png]({{site.baseurl}}/images/44.png)
+
