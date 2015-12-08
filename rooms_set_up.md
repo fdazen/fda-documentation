@@ -23,12 +23,14 @@ Let's start by set up the number of floors in your property. This is important a
 
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
- ![9.png]({{site.baseurl}}/images/9.png)
+![9.png]({{site.baseurl}}/images/9.png)
+
 
 
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
  
 ![11.png]({{site.baseurl}}/images/11.png)
+
   
  
  Click on the blue button _Save_ when done.  
