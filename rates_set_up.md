@@ -274,6 +274,7 @@ As for rooms, rates cannot be completely erased from the system; however, you ca
  
 ![45.png]({{site.baseurl}}/images/45.png)
 
+
 ##**Rate Priority**  
 
 If you are building different rates for the same room type, you may want to control what is the default rate that comes up when an agent is making a reservation.
