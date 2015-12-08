@@ -1,10 +1,13 @@
 ---
 title: Users
-tags: [formatting]
-keywords: users, user levels, user restrictions, shifts.
-last_updated: November 23rd, 2015
-summary: "Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme."
+tags: 
+  - formatting
+keywords: "users, user levels, user restrictions, shifts."
+last_updated: "November 23rd, 2015"
+summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+published: true
 ---
+
 
 #**Users**
 
@@ -16,31 +19,38 @@ Creating different access levels for users may be necessary to protect certain s
 
  - In the Admin Settings, click on the blue link **User Levels** under section _Users_:  
  
- ![1.png]({{site.baseurl}}/images/1.png)  
+![1.png]({{site.baseurl}}/images/1.png)
+
  
  - Your system comes with four defaulted, common access levels, that you can edit before creating new ones:
  
- ![2.png]({{site.baseurl}}/images/2.png)    
+![2.png]({{site.baseurl}}/images/2.png)
+
  
  - To **Edit** a User Level, click on the blue link _Edit_ on the right hand side of any level:  
  
- ![4.png]({{site.baseurl}}/images/4.png)  
+ ![4.png]({{site.baseurl}}/images/4.png)
+ 
  
  - Select all of the areas that you want accessible for the User Level you are editing. In the example below, I am editing the _All Access_ level and I am checking all boxes. This means that users I list under this level will have access to all of the checked areas of the system:  
  
- ![3.png]({{site.baseurl}}/images/3.png)  
+![3.png]({{site.baseurl}}/images/3.png)
+
  
 The tags next to the check boxes refer to the tabs that appear on the top of your Tape Chart:  
 
-![7.png]({{site.baseurl}}/images/7.png)  
+![7.png]({{site.baseurl}}/images/7.png)
+  
 
  - To **Add** a User Level, click on the blue button _Add a New User Level_:  
  
- ![8.png]({{site.baseurl}}/images/8.png)  
+![8.png]({{site.baseurl}}/images/8.png)
+ 
  
  - Give a name for the new User Level and check all the applicable boxes. Whene done, click on the blue button _Save Changes_:  
  
- ![9.png]({{site.baseurl}}/images/9.png)  
+![9.png]({{site.baseurl}}/images/9.png)
+
  
  **Edit Permissions for a User Level**
  
@@ -48,25 +58,30 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - In the User Level List, click on the blue link _Permissions_:  
  
- ![10.png]({{site.baseurl}}/images/10.png)  
+![10.png]({{site.baseurl}}/images/10.png)
+  
  
  - Select all the actions you want to enable for the level, by checking the boxes next to each tag. The latter describes the kind of action you can enable/disable:  
  
- ![11.png]({{site.baseurl}}/images/11.png)  
+![11.png]({{site.baseurl}}/images/11.png)
+ 
  
  - Once done, click on the blue button _Save Changes_ at the bottom of the page:  
  
- ![13.png]({{site.baseurl}}/images/13.png)  
+![13.png]({{site.baseurl}}/images/13.png)
+
  
  You can also duplicate a User Level, if you need to create a similar one by the one you just edited, by clicking on the blue button _Save and Duplicate User Level_.  
  
  - To **Delete** User Levels, select the box on the right hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
  
- ![14.png]({{site.baseurl}}/images/14.png)  
+![14.png]({{site.baseurl}}/images/14.png)
+
  
  - To **Deactivate** a User Level, simply uncheck the box on the right hand side of the User Levels List, under column _Status_:  
  
- ![15.png]({{site.baseurl}}/images/15.png)  
+![15.png]({{site.baseurl}}/images/15.png)
+
  
  
  **Create Users** 
@@ -145,16 +160,3 @@ Different users will be able to join the same shift upon log in. However, for au
 To close a shift, click on the drop down menu next to the user's name on the top right of the Frontdesk Screen:  
 
 ![31.png]({{site.baseurl}}/images/31.png)
-
-
-
-
-
-
-
-
-
- 
- 
-
- 
