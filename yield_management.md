@@ -39,7 +39,8 @@ Let us start by defining what rules you want the system to follow.
   
   - Choose your conditions by selecting the relevant choices from the scroll down menus:  
   
-  ![64.png]({{site.baseurl}}/images/64.png)  
+![64.png]({{site.baseurl}}/images/64.png)
+ 
   
   In the example above, I have set up a rule so that if my availability is more than 80% for the date range I have selected, the system will automatically decrease the price of 20%.  
   
