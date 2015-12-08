@@ -173,13 +173,15 @@ We have now come to the point of building your hotel's room types: as we underst
  
  - Select whether this room type has to have an OBA. The OBA (**O**ver**b**ooking **A**llowance) will enable the room type to receive more bookings than the posted availability: you can decide how many overbookings you wish to allow by placing a numeric value in the box that appears when you check the box _OBA_:  
  
-  ![31.png]({{site.baseurl}}/images/31.png)
+![31.png]({{site.baseurl}}/images/31.png)
+
 
 **Note**: we advise to keep this box unchecked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support team at support@frontdeskanywhere.com  
 
  - Finally, you can constraint the room type and make it visible only to certain user levels: simply uncheck the box of the levels for which the room should _not_ have be visible:  
 
-![32.png]({{site.baseurl}}/images/32.png)  
+![32.png]({{site.baseurl}}/images/32.png)
+
 
 If you need more information on _User Levels_, click here.  
 
@@ -187,19 +189,23 @@ If you need more information on _User Levels_, click here.
 
  - Go back to the Room Types List (Admin Settings - Room Types) and click on the blue link _Images_ on the right hand side of the relevant room type: 
  
-  ![45.png]({{site.baseurl}}/images/45.png)  
+![45.png]({{site.baseurl}}/images/45.png)
+
   
   - To upload a picture, click on the Blue Button _Upload Photos_:  
   
-  ![46.png]({{site.baseurl}}/images/46.png)  
+![46.png]({{site.baseurl}}/images/46.png)
+
   
   - You can upload more than one picture, and decide the order in which they are going to appear by setting the right priority at the bottom of any uploaded picture:  
   
-  ![47.png]({{site.baseurl}}/images/47.png)  
+![47.png]({{site.baseurl}}/images/47.png)
+
   
   - Once you have set up the priority, click on the green button _Save Image Priority_:  
   
-  ![48.png]({{site.baseurl}}/images/48.png)
+![48.png]({{site.baseurl}}/images/48.png)
+
 
 ##**Rooms**  
 
