@@ -72,7 +72,13 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
 - You will need to fill in all information. Begin by giving the rule an easily recognizable title, and if applicable, a short description. From the scroll down menu _Housekeeping Status_, select the housekeeping status you want your rooms to have, after the rule has run:  
 
-![](6.png]({{site.baseurl}}/images/6.png)
+![](6.png]({{site.baseurl}}/images/6.png)  
+
+- By clicking on the right circle box, select whether you want the rule to be triggered by changes in the Room Status, or whether you want the rule to run on nightly basis: in the latter case, the rule will run automatically every night.  
+You can also choose the rule to be triggered by a specific event (check-in/out day) or by days of the week: in the latter case you will need to specify what day/s of the week you want the rule to run, by clicking on the check-boxes:  
+
+![](7.png]({{site.baseurl}}/images/7.png)
+
 
 
  
