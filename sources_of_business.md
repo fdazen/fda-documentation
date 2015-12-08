@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
 #**Sources of Business**  
 
 Sources of Business track the origin of reservations. You can report on these in order to find out where people come to know about your property, or to check the production level for each channel.  
@@ -24,8 +25,9 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  ###1. **Create your Source Categories** 
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
- 
+
 ![1.png]({{site.baseurl}}/images/1.png)
+
 
  
  - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
