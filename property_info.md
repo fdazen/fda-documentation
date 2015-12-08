@@ -22,6 +22,7 @@ As the name suggests, this section is dedicated to information about your compan
 
  - Click on the blue button _Upload Logo_ to upload one from your computer:  
 
+![66.png]({{site.baseurl}}/images/66.png)
 
 
 Your Company Logo will appear in all system communication to your guests!  
