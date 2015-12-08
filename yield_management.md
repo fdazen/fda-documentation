@@ -61,7 +61,8 @@ Let us start by defining what rules you want the system to follow.
 
  - If you wish to remove a condition, click on the blue button _Remove_ on the right side of the relevant rule:  
  
- ![68.png]({{site.baseurl}}/images/68.png)  
+![68.png]({{site.baseurl}}/images/68.png)
+ 
  
  To **DEACTIVATE** a Yield Management Rule, un-check the box under the column _Status_ for the relevant rule"  
  
