@@ -68,7 +68,12 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
 - To **Add** an Housekeeping Rule, click on the blue button _Add_ at the bottom of the rule list:  
 
-![](5.png]({{site.baseurl}}/images/5.png)
+![](5.png]({{site.baseurl}}/images/5.png)  
+
+- You will need to fill in all information. Begin by giving the rule an easily recognizable title, and if applicable, a short description. From the scroll down menu _Housekeeping Status_, select the housekeeping status you want your rooms to have, after the rule has run:  
+
+![](6.png]({{site.baseurl}}/images/6.png)
+
 
  
  
