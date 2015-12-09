@@ -40,6 +40,6 @@ p > img {
   background: transparent !important; }
 
 .post-content img {
-  margin-bottom: 6em; }
+  margin-bottom: 6em !important; }
 
 /*# sourceMappingURL=fda-custom.css.map */
