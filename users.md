@@ -37,7 +37,7 @@ Creating different access levels for the system may be necessary to protect cert
 
  
  
- - Select all of the areas that you want accessible for the User Level you are editing. In the example below, I am editing the _All Access_ level and I am checking all boxes. This means that users I list under this level will have access to all of the checked areas of the system:  
+ - Select all of the areas that you want accessible for the User Level you are editing. In the example below, I am editing the _All Access_ level to include all areas of the system, thus I am checking all boxes. This means that users I list under this level will have a comprehensive access to the system:  
  
 ![3c.png]({{site.baseurl}}/images/3c.png)
 
