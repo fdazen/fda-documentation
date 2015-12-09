@@ -69,7 +69,7 @@ Let us start by defining what rules you want the system to follow.
 ![69.png]({{site.baseurl}}/images/69.png)
 
 
-To **EDIT** a rule, click on the blue link _Edit_ on the right hand side of the rule list:  
+To **EDIT** a rule, click on the blue link _Edit_ oin the rule list panel:  
 
 ![70.png]({{site.baseurl}}/images/70.png)
  
