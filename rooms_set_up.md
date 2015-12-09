@@ -48,7 +48,7 @@ Let's start by set up the number of floors in your property. This is important a
  
 The same small window will pop-up: edit the name and click on the button _Save_ when done.  
 
- - **DEACTIVATE**: To deactivate a floor, uncheck the box under the column _Status_ for the relevant row:  
+ - To **DEACTIVATE** a floor, un-check the box under column _Status_ for the relevant row:  
 
 ![13.png]({{site.baseurl}}/images/13.png)
 
