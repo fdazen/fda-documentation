@@ -52,6 +52,7 @@ Frontdesk Anywhere allows you to set up additional charges that may be applicabl
 
 
 
+
 ##**Add-Ons Operations**  
 
 You can **DEACTIVATE** an Add-On by un-checking the box under column _Status_ on the right side of the Add-On List:  
