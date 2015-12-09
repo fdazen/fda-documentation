@@ -335,6 +335,7 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 
 
 
-- For each room type, insert the number of rooms that you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
+- For each room type, insert the number of rooms you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
-![54.png]({{site.baseurl}}/images/54.png)
+![54g.png]({{site.baseurl}}/images/54g.png)
+
