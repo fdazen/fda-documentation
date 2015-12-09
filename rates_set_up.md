@@ -59,6 +59,7 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 ![7.png]({{site.baseurl}}/images/7.png)
 
 
+
 As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system. 
 
 
@@ -81,17 +82,20 @@ Although the system comes with a couple of rates already built-in, it will be go
  
 ![8.png]({{site.baseurl}}/images/8.png)
 
+
  
  - You are now in the heart of a rate configuration, and you will see different information to fill in. Let's start by placing a name for your new rate, next to the tag _Rate Code_, and a brief description of the rate:  
  
 ![9.png]({{site.baseurl}}/images/9.png)
+
   
  
  If you are using the Frontdesk Anywhere booking engine, you will see the description show up underneath the name of the rate, when a guest is trying to make reservation online: for this reason, we advise to keep the description simple.
  
  - Check the box _Active_ if you want the rate to be enabled upon creation, and check the box _Allow Override_ if you want to enable the possibility to edit the rate on a reservation basis. Also, check the boxes for all the rate's applicable taxes:  
  
- ![10.png]({{site.baseurl}}/images/10.png)
+![10.png]({{site.baseurl}}/images/10.png)
+
 
  
 If you choose to check the _Allow Override_ box, the rate will become editable on the reservation folio. This means that the _Edit Rate_ link will become clickable.  
@@ -99,11 +103,13 @@ If you choose to check the _Allow Override_ box, the rate will become editable o
 ![11.png]({{site.baseurl}}/images/11.png)
 
 
+
 For more information on how to edit a rate on a per reservation basis, click here.  
 
 - Specify the type of rate you are creating by selecting the right option in the scroll down menu, next to the tag _Rate Type_:  
 
 ![12.png]({{site.baseurl}}/images/12.png)
+
 
 
 If you choose the option _Nightly_ rate, the value you will insert will be considered as the nightly price.  
