@@ -56,7 +56,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
  
  
- - Give a name for the new User Level and check all the applicable boxes. Whene done, click on the blue button _Save Changes_:  
+ - Give a name for the new User Level and check all the applicable boxes. When done, click on the blue button _Save Changes_:  
  
 ![9c.png]({{site.baseurl}}/images/9c.png)
 
