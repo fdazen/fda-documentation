@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
  
 
 #**Rate Add-Ons**  
@@ -70,4 +71,3 @@ To **ERASE** an Add-On, select it by checking the box on the left hand side of t
 To **EDIT** an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
 
 ![59e.png]({{site.baseurl}}/images/59e.png)
-
