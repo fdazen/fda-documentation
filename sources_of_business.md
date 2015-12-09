@@ -20,7 +20,7 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
   
   
   
-**Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These Sources come with the reservation _file_ that interfaces with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_. Since they come from external sources, you won't need to create them, as the system will automatically pick up the source tag along with the respective channel from where they are sent, upon receipt of the first reservation.
+**Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These Sources come with the reservation _file_ that interfaces with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_ or _Expedies_. As these items come from external sources you won't need to create them, but only organize them into _Sources of Business Categories_.
   
   
   
