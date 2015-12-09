@@ -64,7 +64,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  **Edit Permissions for a User Level**
  
- Now that you have created your User Levels, you can go more in depth and edit access permissions permissions within each level.
+ Now that you have created your User Levels, you can go more in depth and edit access permissions within each level.
  
  - In the User Level List, click on the blue link _Permissions_:  
  
