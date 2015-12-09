@@ -108,6 +108,7 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
 ![8.png]({{site.baseurl}}/images/8.png)
 
+
   
 ##**3. Room Classes**
 
@@ -119,9 +120,11 @@ A room class is a general concept referring to any extra organisazional level yo
 ![16.png]({{site.baseurl}}/images/16.png)
 
 
+
  - You can create a new class by clicking on the blue button _Add a Class_ and a small window will pop up: type in the name of the class you wish to create and click on the blue button _Save_
  
 ![18.png]({{site.baseurl}}/images/18.png)
+
 
  
  ##**Room Classes Operations**   
@@ -130,11 +133,14 @@ A room class is a general concept referring to any extra organisazional level yo
  
 ![19.png]({{site.baseurl}}/images/19.png)
 
+
+
  Insert the updated name and click on the button _Save_  
  
  - **DELETE**: check the box on the left side of the class you wish to erase, and click on the blue button _Delete Selected Class_:  
  
 ![20.png]({{site.baseurl}}/images/20.png)
+
 
  
  - **DEACTIVATE**: uncheck the box under column _Status_ relevant to the class you wish to make inactive:  
