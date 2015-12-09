@@ -90,19 +90,23 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 - Click on the blue link **Credit Card types** under section _Accounting_:  
 
-![12.png]({{site.baseurl}}/images/12.png)  
+![12f.png]({{site.baseurl}}/images/12f.png)
+  
 
 - You will see a list of all active credit card types that by default comes with your account:  
 
-![13.png]({{site.baseurl}}/images/13.png)  
+![13f.png]({{site.baseurl}}/images/13f.png)
+ 
 
 - To **Add** a credit card type, click on the blue button _Add a Card Type_: a new row will appear with an editable text box; insert the name for your card type and click on the blue button _Save Changes_:  
 
-![14.png]({{site.baseurl}}/images/14.png)  
+![14f.png]({{site.baseurl}}/images/14f.png)
+
 
 - To **Deactivate** a credit card type, uncheck the box under column status on the right hand side of the type you want to make inactive:  
 
-![16.png]({{site.baseurl}}/images/16.png)  
+![16f.png]({{site.baseurl}}/images/16f.png)
+
 
 ##**Payment Processing**  
 
@@ -112,19 +116,23 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 - In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
 
-![17.png]({{site.baseurl}}/images/17.png)  
+![17f.png]({{site.baseurl}}/images/17f.png)
+
 
 - To add your Payment Gateway, click on the blue button _Add Payment Gateway_:  
 
-![19.png]({{site.baseurl}}/images/19.png)
+![19f.png]({{site.baseurl}}/images/19f.png)
+
 
 - Choose your gateway by looking it up among the ones in the list. Note that they are listed in alphabetic order! In my example below, I am chooseing Authorize.net:
 
-![20.png]({{site.baseurl}}/images/20.png)  
+![20f.png]({{site.baseurl}}/images/20f.png)
+
 
 - Scroll all the way down and go to the bottom of the page: name the gateway by editing the _Payment Gateway Label_ textbox. When done, enter the username and password for the gateway.
 
-![21.png]({{site.baseurl}}/images/21.png)  
+![21f.png]({{site.baseurl}}/images/21f.png)
+
 
 **Note**: the username and password should be provided to you by your Payment Gateway company.  
 
