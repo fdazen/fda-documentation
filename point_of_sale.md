@@ -24,7 +24,7 @@ Start by creating your POS Points.
 ![555.png]({{site.baseurl}}/images/555.png)
 
 
-- You will see the list of POS Points: the system comes with one default one, and you can start by editing this before creating new ones:  
+- You will see the list of POS Points: the system comes with a default one, and you can start by editing this before creating new ones:  
 
 ![2.png]({{site.baseurl}}/images/2.png)
 
