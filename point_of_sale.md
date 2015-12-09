@@ -11,6 +11,7 @@ published: true
 
 
 
+
 #**POINT OF SALE**
 
 If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section. POS products are organized around POS Points and POS Categories. You can think of a POS Point as being, for example, a ‘restaurant’ or a ‘coffee shop’, a POS Category as being ‘food’ or ‘beverages’, and a POS Item as being ‘walnuts’ or ‘coffee’.  
@@ -24,31 +25,29 @@ Start by creating your POS Points.
 ![555.png]({{site.baseurl}}/images/555.png)
 
 
-- You will see the list of POS Points: the system comes with a default one, and you can start by editing this before creating new ones:  
+- You will see the list of POS Points: the system comes with a default one, and you can start by editing this before creating new ones: to do this click on the blue button _Edit POS Point_! 
 
-![2.png]({{site.baseurl}}/images/2.png)
-
-
- - Click on the blue link _Edit_ on the right hand side of the panel:  
- 
-![3.png]({{site.baseurl}}/images/3.png)
+![3h.png]({{site.baseurl}}/images/3h.png)
 
  
  - Edit the name in the textbox and click on the blue button _Edit POS Point_:  
  
-![4.png]({{site.baseurl}}/images/4.png)
+![4h.png]({{site.baseurl}}/images/4h.png)
+
  
  
  - To **Add** a POS Point, click on the blue button _Add a POS Point_:  
  
-![5.png]({{site.baseurl}}/images/5.png)
+![5h.png]({{site.baseurl}}/images/5h.png)
 
  
  The process will be the same as editing one.  
- 
+
+
  - To **Deactivate** a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
  
-![12.png]({{site.baseurl}}/images/12.png)
+![12h.png]({{site.baseurl}}/images/12h.png)
+
 
  
  - Your POS Point will be accessible via the POS tab on top of your Tape Chart:  
