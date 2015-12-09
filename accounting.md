@@ -232,7 +232,8 @@ Your active Discount Reasons will appear on each reserved folio, under section _
 
 Scroll down the menu with the tag _Select Adjustment Reason_:  
 
-![37.png]({{site.baseurl}}/images/37.png)  
+![37f.png]({{site.baseurl}}/images/37f.png)
+ 
 
 
 ##**Discount Reasons: Department Options**  
