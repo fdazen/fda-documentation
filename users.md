@@ -117,7 +117,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 
 
-- As mentioned above, it is not currenlty possible to create a user directly from your account, and for this reason the name, last name and username of each user is not editable; if you need to make any amendments to those fields, please contact our Support Team at support@frontdeskanywhere.com.
+- As mentioned above, it is currently not possible to create a user directly from your account, and for this reason the name, last name and username of each user is not editable; if you need to make any amendments to those fields, please contact our Support Team at support@frontdeskanywhere.com.
 Select the right access level by using the scroll down menu next to the tag _User Type_:  
 
 ![18c.png]({{site.baseurl}}/images/18c.png)
