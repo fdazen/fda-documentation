@@ -236,6 +236,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  - It will show in red, if instead you are going below your base rate:  
  
 ![36.png]({{site.baseurl}}/images/36.png)
+
  
  
  - In order to see what was the rate set up in your Rate Class, just hover the mouse over the boxes:  
@@ -246,15 +247,18 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
 ![38.png]({{site.baseurl}}/images/38.png)
 
+
  
  -You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
  
 ![39.png]({{site.baseurl}}/images/39.png)
 
 
+
 - If your rate is applied to different room types, you will have a row for each of those types, so that you can easily edit them:  
 
 ![40.png]({{site.baseurl}}/images/40.png)
+
 
 
 - If the rate you are viewing has a derived rate linked to it, the latter will automatically change accordingly any time that the Master rate is changed,:  
