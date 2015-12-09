@@ -40,7 +40,6 @@ Let's start by set up the number of floors in your property. This is important a
  
  **NOTE**: you can either number your floors (1,2,3, etc.) or name them (First, Second, etc).  
  
-###**Floor Operations**   
 
  - **EDIT**: To edit a floor, click on the blue link _Edit_ in the relevant row:
 
