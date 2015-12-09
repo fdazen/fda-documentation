@@ -283,7 +283,8 @@ If you wish to create room numbers, place the prefix for your rooms and the from
 
 Complete the rest of the information by selecting the right option from the scroll down menu and click on the blue button _Save_:  
 
-![42.png]({{site.baseurl}}/images/42.png)
+![42g.png]({{site.baseurl}}/images/42g.png)
+
   
 
  - As mentioned above, rooms cannot be erased but they can be made inactive. Inactive rooms won't appear in your account anywhere. To make a room inactive, uncheck the box under the _Status_ column for the relevant row:  
