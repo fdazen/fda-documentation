@@ -10,6 +10,7 @@ published: true
 
 
 
+
 #**Sources of Business**  
 
 Sources of Business track the origin of reservations. You can report on these in order to find out where people come to know about your property, or to check the production level for each channel.  
@@ -26,18 +27,21 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
 
-![1.png]({{site.baseurl}}/images/1.png)
+![1d.png]({{site.baseurl}}/images/1d.png)
+
 
 
  
  - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
  
-![2.png]({{site.baseurl}}/images/2.png)
+![2d.png]({{site.baseurl}}/images/2d.png)
+
 
  
   - Click on the blue button _Add Source of Business Category_:  
   
-![7.png]({{site.baseurl}}/images/7.png)
+![7d.png]({{site.baseurl}}/images/7d.png)
+
 
   
   - Enter the name for your Category, and give it a brief description if you want. Once done, click on the grey button _Save_ on the right hand side of the screen:
@@ -58,7 +62,8 @@ Each reservation that automatically arrives to your PMS comes with a _source tag
  
   - Click on the blue button _Add Source of Business Rule_:  
   
-  ![10.png]({{site.baseurl}}/images/10.png)
+![10d.png]({{site.baseurl}}/images/10d.png)
+
 
   
   - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _FDX2_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
