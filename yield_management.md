@@ -84,7 +84,7 @@ Once the Yield Management Rules are created, you will need to specify how often 
 ![80.png]({{site.baseurl}}/images/80.png)
 
  
- - Using the scroll down menu, select the right time frame among the ones available:  
+ - Using the scroll down menu, select the right time frame among the ones available, and click on the blue button _Save_ when finished:  
  
 ![71255.png]({{site.baseurl}}/images/71255.png)
 
