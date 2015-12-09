@@ -66,29 +66,34 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - In the User Level List, click on the blue link _Permissions_:  
  
-![10.png]({{site.baseurl}}/images/10.png)
+![10c.png]({{site.baseurl}}/images/10c.png)
+
   
  
  - Select all the actions you want to enable for the level, by checking the boxes next to each tag. The latter describes the kind of action you can enable/disable:  
  
-![11.png]({{site.baseurl}}/images/11.png)
+![11c.png]({{site.baseurl}}/images/11c.png)
+
  
  
  - Once done, click on the blue button _Save Changes_ at the bottom of the page:  
  
-![13.png]({{site.baseurl}}/images/13.png)
+![13c.png]({{site.baseurl}}/images/13c.png)
+
 
  
  You can also duplicate a User Level, if you need to create a similar one by the one you just edited, by clicking on the blue button _Save and Duplicate User Level_.  
  
  - To **Delete** User Levels, select the box on the right hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
  
-![14.png]({{site.baseurl}}/images/14.png)
+![14c.png]({{site.baseurl}}/images/14c.png)
+
 
  
  - To **Deactivate** a User Level, simply uncheck the box on the right hand side of the User Levels List, under column _Status_:  
  
-![15.png]({{site.baseurl}}/images/15.png)
+ ![15c.png]({{site.baseurl}}/images/15c.png)
+
 
  
  
