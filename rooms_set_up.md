@@ -202,11 +202,12 @@ We have now come to the point where you need to build your hotel's room types: a
 
 
 
-**Note**: we advise to keep this box unchecked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support team at support@frontdeskanywhere.com  
+**Note**: we advise to keep this box un-checked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support Team at support@frontdeskanywhere.com  
 
- - Finally, you can constraint the room type and make it visible only to certain user levels: simply uncheck the box of the levels for which the room should _not_ have be visible:  
+ - Finally, you can constraint the room type and make it visible only to certain user levels: simply un-check the box of the levels for which the room should _not_ be visible:  
 
-![32.png]({{site.baseurl}}/images/32.png)
+![32g.png]({{site.baseurl}}/images/32g.png)
+
 
 
 If you need more information on _User Levels_, click here.  
