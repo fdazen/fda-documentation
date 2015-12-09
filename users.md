@@ -153,7 +153,7 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 
 
-**Shifts**
+##**Shifts**
 
 Setting up shifts is a useful tool for auditing and for checking operations that have been processed on a particular shift. You can also run reports for a particular shift to track back user activity!   
 
