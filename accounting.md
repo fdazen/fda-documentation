@@ -148,7 +148,8 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 - All is left to do is enable the gateway on both/either the Frontdesk area and/or your Booking Engine. If the gateway is enabled on Frontdesk, you will be able to charge cards directly from the folios; making it active on the booking engine will enable automatic card charges when a guest finalizes a booking on your website:  
 
-![22.png]({{site.baseurl}}/images/22.png)  
+![22f.png]({{site.baseurl}}/images/22f.png)
+
 
 Remember to set up how you want to collect payments on your Booking Engine by setting up rules in section _OBOE_.
 
@@ -158,7 +159,8 @@ As a security measure Frontdesk Anywhere enables you to erase, on a regular basi
 
  - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
  
- ![24.png]({{site.baseurl}}/images/24.png)  
+![24f.png]({{site.baseurl}}/images/24f.png)
+
  
  - Edit the textbox with a number by keeping in mind that all credit card stored for more than the time frame you set, will be automatically erased. Click _Save_ when finished:
  
