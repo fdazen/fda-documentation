@@ -34,6 +34,7 @@ published: true
 
 
 
+
  - You will be given the option to add any of the newly created Add-Ons directly in any reservation folio:  
  
 ![53g.png]({{site.baseurl}}/images/53g.png)
