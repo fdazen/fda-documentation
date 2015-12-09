@@ -27,7 +27,7 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 **Source of Business Category**: although we have no control over what Source Items get sent to us, we do provide you with a tool via wich you can rename and order them. By creating Source Categories you will be able to control how the Source Items appear in your reservation folios. For example, if Expedia sends _EQC_, you can re-name it by creating the Category _Expedia_: the latter will show up on both reservation folios and reports.
   
   
-**Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system will operate.  
+**Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system operates.  
 
 
  ##1. **Create your Source Categories** 
