@@ -114,8 +114,8 @@ Before creating your rooms, you will need to configure the amenities that are av
   
 ##**3. Room Classes**
 
-A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as buildings and easily check for availability.  
-**Note**: a class is different from a room _type_. If you do not need classes and types suffice, then you can skip to the section Room Types
+A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability.  
+**Note**: a class is different from a room _type_. If you do not need classes and types suffice, you can skip to the section _Room Types_
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
