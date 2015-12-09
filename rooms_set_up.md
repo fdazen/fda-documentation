@@ -54,7 +54,7 @@ The same small window will pop-up: edit the name and click on the button _Save_ 
 
   
 
-- **DELETE**: Select the floor you want to delete by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
+- To **DELETE** a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
 
 ![14.png]({{site.baseurl}}/images/14.png)
 
