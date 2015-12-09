@@ -174,17 +174,20 @@ We have now come to the point where you need to build your hotel's room types: a
  
  - From the _Room Alias_ drop down menu select whether the room type should be considered as different from a 'room': if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
 
-![27.png]({{site.baseurl}}/images/27.png)
+![27g.png]({{site.baseurl}}/images/27g.png)
+
  
 
  - Choose whether your room is to be gender-based: choosing _yes_ will prompt the system to have you choose what gender you want to default the room to:  
  
-![28.png]({{site.baseurl}}/images/28.png)
+![28g.png]({{site.baseurl}}/images/28g.png)
+
 
  
  - Select the maximum and default occupancy, and select the amenities applicable to this type of room: you will see two small panels, one called _Available Amenities_ and another called _Selected Amenities_, with two arrows in the middle:  
  
-![29.png]({{site.baseurl}}/images/29.png)
+![29g.png]({{site.baseurl}}/images/29g.png)
+
 
  
  Select the amenities you wish to apply to this room type by selecting them among the available ones and by using the arrows to move them from one panel to another: the one under panel _Selected Amenities_ will be the one showing up in the system:  
