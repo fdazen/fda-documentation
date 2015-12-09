@@ -261,9 +261,11 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
 
+
 - If the rate you are viewing has a derived rate linked to it, the latter will automatically change accordingly any time that the Master rate is changed,:  
 
 ![41.png]({{site.baseurl}}/images/41.png)
+
 
 
 - If you do not wish the derived rate to be changed, you can un-check the box with the tag _Apply to Derived Rates_:  
@@ -271,9 +273,11 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 ![42.png]({{site.baseurl}}/images/42.png)
 
 
+
 - If your the derived rate is applied to different room types, note that the rate will change only for those Derived Rates applied to the same room type as the Master Rate; if you want it to apply to all room types, then check the box next to the tag _APply to All Room Types_:  
 
 ![44.png]({{site.baseurl}}/images/44.png)
+
 
 
  ##**Deriving a Rate**  
@@ -284,10 +288,12 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
 ![28.png]({{site.baseurl}}/images/28.png)
 
+
  
  - Type in a name for the new rate and a new description, and select the type of adjustment you want to make:  
  
 ![29.png]({{site.baseurl}}/images/29.png)
+
  
  
  You can either discount a rate or increase it (_Premium_), and you can select whether the adjustment has to be a percentage or a fixed value over the Master Rate.  
@@ -296,10 +302,12 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
 ![30.png]({{site.baseurl}}/images/30.png)
 
+
  
  - If you go back to the _Rate Class_ List, you will notice that the derived rate appears in that list marked with a capital, bold **D** and an arrow. The latter points to the Derived Rate's Master Rate:  
  
 ![31.png]({{site.baseurl}}/images/31.png)
+
 
  
 ##**Making a Rate Inactive**
