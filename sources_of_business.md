@@ -81,7 +81,7 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 Here is a quick overview of what each channel means:  
 
  **FRONTDESK** for reservations manually entered on your Tape Chart.  
- **OBOE** for those coming from your **O**nline **BO**oking **E**ngine.  
+ **OBOE** for those coming from your **O**nline **B**ooking **E**ngine.  
  **INNLINK** for those reservation coming from Innlink.  
  **FDX2** for those coming from your channel manager.  
  **BDC** for those reservations coming via the Booking.com direct connection.  
