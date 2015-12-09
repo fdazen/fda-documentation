@@ -317,6 +317,7 @@ As for rooms, rates cannot be completely erased from the system; however, you ca
 ![45.png]({{site.baseurl}}/images/45.png)
 
 
+
 ##**Rate Priority**  
 
 If you are building different rates for the same room type, you may want to control what is the default rate that comes up when an agent is making a reservation.
@@ -324,6 +325,7 @@ If you are building different rates for the same room type, you may want to cont
 When you open a folio, all applicable rates for the room type appear in the scroll down menu on the right hand side of the panel:  
 
 ![81.png]({{site.baseurl}}/images/81.png)
+
 
 
 Unless you order your rates, they will appear randomly in the folio: for example, in the picture above my AAA rate shows up before the BAR rate.
