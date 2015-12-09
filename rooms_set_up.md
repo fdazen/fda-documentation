@@ -192,7 +192,8 @@ We have now come to the point where you need to build your hotel's room types: a
  
  To select the amenities applicable to this room type, select them among the available ones and use the arrows to move them from one panel to another: the ones under panel _Selected Amenities_ will be the one showing up in the system:  
  
-![30.png]({{site.baseurl}}/images/30.png)
+![30g.png]({{site.baseurl}}/images/30g.png)
+
 
  
  - Select whether this room type has to have an OBA. The OBA (**O**ver**b**ooking **A**llowance) will enable the room type to receive more bookings than the posted availability: you can decide how many overbookings you wish to allow by placing a numeric value in the box that appears when you check the box _OBA_:  
