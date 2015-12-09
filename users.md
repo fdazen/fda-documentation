@@ -107,7 +107,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  **Apply User Levels**  
  
- - All of your system users appear in the Users List. In the Admin Settings, click on the blue link **Users** under section _Users_:  
+ - All of your system users appear in the _Users_ list. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
 ![16c.png]({{site.baseurl}}/images/16c.png)
 
@@ -132,7 +132,7 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 
 
-- Click on the blue link _Save User_ at the bottom of the screen:  
+- Click on the blue link _Save User_ at the bottom of the screen, when finished:  
 
 ![20c.png]({{site.baseurl}}/images/20c.png)
 
