@@ -96,7 +96,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 
 
   
-  - To add a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
+  - To **ADD** a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
   
 ![6.png]({{site.baseurl}}/images/6.png)
 
@@ -106,7 +106,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 ![7_001.png]({{site.baseurl}}/images/7_001.png)
   
   
-  - To deactivate an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
+  - To **DEACTIVATE** an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
   
 ![8.png]({{site.baseurl}}/images/8.png)
 
