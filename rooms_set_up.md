@@ -241,14 +241,16 @@ You can now load in the system all of the rooms at your property, and organize t
 
 - In the Admin Settings, click on the blue link **Rooms** under section _Rooms_:  
 
-![33.png]({{site.baseurl}}/images/33.png)
+![33g.png]({{site.baseurl}}/images/33g.png)
 
 
-Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to _Edit_ the existing rooms before creating new ones, as rooms cannot be erased once created but only deactivated. Hence, once you click on _Rooms_ , you will be presented with a list of existing rooms.  
+
+Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to edit the existing rooms before creating new ones, as rooms **cannot be erased** once created but only deactivated. Hence once you click on _Rooms_ , you will be presented with a list of existing rooms.  
 
  - To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
 
-![34.png]({{site.baseurl}}/images/34.png)
+![34g.png]({{site.baseurl}}/images/34g.png)
+
 
 
  - Insert the room name or number, the type it belongs to, the floor and the class. Once done, you can click on the blue button _Save_:  
