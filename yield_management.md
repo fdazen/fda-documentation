@@ -4,9 +4,10 @@ tags:
   - formatting
 keywords: "yield management, yield rules, yield settings"
 last_updated: "November 18th, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+summary: "Learn how to have your system perform automatic rate change based on your occupancy level!"
 published: true
 ---
+
 
 
 
