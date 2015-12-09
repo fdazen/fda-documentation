@@ -108,53 +108,62 @@ After creating your POS Points and Categories, you can finally proceed to set up
 
  - In the Admin Settings, click on the link **Products** under section _POS_:  
  
-![14.png]({{site.baseurl}}/images/14.png)
+![14h.png]({{site.baseurl}}/images/14h.png)
+
 
  
  - Click on the blue button _Add a POS Product_:  
  
-![15.png]({{site.baseurl}}/images/15.png)
+![15h.png]({{site.baseurl}}/images/15h.png)
 
  
  - You will need to fill in all information. Enter the name and the code for the product you are creating (these can be the same), and select the Pos Point where the item belongs by selecting the right option from the scroll down menu:  
  
-![16.png]({{site.baseurl}}/images/16.png)
+![16h.png]({{site.baseurl}}/images/16h.png)
+
 
  
  - Once a Pos Point is chosen, the options in the scroll down menu _Pos Category_ will update to show what categories are actually linked to the Pos Point you chose:  
  
-![17.png]({{site.baseurl}}/images/17.png)
+![17h.png]({{site.baseurl}}/images/17h.png)
+
 
  
  - Complete all information by assigning the right  _Revenue Label_ to the item, the price and check the box for any tax you want to apply. Once done, click on the blue button _Save POS Product_:  
  
-![18.png]({{site.baseurl}}/images/18.png)
+![18h.png]({{site.baseurl}}/images/18h.png)
+
  
  - To **Deactivate** a POS product, just uncheck the box under column _Status_:  
  
-![19.png]({{site.baseurl}}/images/19.png)
+![19h.png]({{site.baseurl}}/images/19h.png)
+
  
  
  - To **Delete** a POS Product, select it by checking the box on the left hand side of its name and click on the blue button _Delete Selected POS Product_:  
  
-![20.png]({{site.baseurl}}/images/20.png)
+![20h.png]({{site.baseurl}}/images/20h.png)
+
  
  
  - To **Edit** a POS Product, click on the blue link _Edit_ on the right hand side of any product:  
  
-![21.png]({{site.baseurl}}/images/21.png)
+![21h.png]({{site.baseurl}}/images/21h.png)
+
 
 
 The procedure is the same as adding a new one!
 
 - You can also add pictures to your POS items, if you choose to add these products on your OBE. Click on the blue link _Images_ on the right hand side of any product:  
 
-![22.png]({{site.baseurl}}/images/22.png)
+![22h.png]({{site.baseurl}}/images/22h.png)
+
 
 
 - Click on the blue button _Upload Image_ and choose an image to add:  
 
-![23.png]({{site.baseurl}}/images/23.png)
+![23h.png]({{site.baseurl}}/images/23h.png)
+
  
 
 
@@ -162,7 +171,8 @@ The procedure is the same as adding a new one!
 
 - Add a POS product charge from any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
 
-![24.png]({{site.baseurl}}/images/24.png)
+![24h.png]({{site.baseurl}}/images/24h.png)
+
 
 
  - You can also operate on POS products without them having to be added to a specific room reservation, by clicking on the tab _Point of Sale_ on the top of your Tape Chart:  
@@ -172,9 +182,11 @@ The procedure is the same as adding a new one!
  
  - All active POS products will appear as a list in the tab: you can click on the green button _New_ to add items:  
  
-![28.png]({{site.baseurl}}/images/28.png)
+![28h.png]({{site.baseurl}}/images/28h.png)
+
 
  
  - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
 
-![29.png]({{site.baseurl}}/images/29.png)
+![29h.png]({{site.baseurl}}/images/29h.png)
+
