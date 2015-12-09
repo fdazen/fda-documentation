@@ -72,6 +72,7 @@ Let us start by defining what rules you want the system to follow.
 To **EDIT** a rule, click on the blue link _Edit_ oin the rule list panel:  
 
 ![70.png]({{site.baseurl}}/images/70.png)
+
  
 
 ##**Yield Management Settings**  
