@@ -4,7 +4,7 @@ tags:
   - formatting
 keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
 last_updated: "November 17th, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+summary: "Sources of Business help you track the origin of your reservations. Learn how to set them up in your account before starting to receive reservations in your system!"
 published: true
 ---
 
