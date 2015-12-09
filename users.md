@@ -99,7 +99,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
  
  
- **Create Users** 
+ ##**Create Users** 
  
  It is currently not possible to create users directly within your account: if you wish to create a new user, please contact our Support Team at support@frontdeskanywhere.com! 
  
