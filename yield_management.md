@@ -64,7 +64,7 @@ Let us start by defining what rules you want the system to follow.
 ![68.png]({{site.baseurl}}/images/68.png)
  
  
- To **DEACTIVATE** a Yield Management Rule, un-check the box under the column _Status_ for the relevant rule"  
+ To **DEACTIVATE** a Yield Management Rule, go back to the rule list and un-check the box under the column _Status_ on the right hand side of the rule you want to make inactive: 
  
 ![69.png]({{site.baseurl}}/images/69.png)
 
