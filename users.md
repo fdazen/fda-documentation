@@ -47,6 +47,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 ![7c.png]({{site.baseurl}}/images/7c.png)
 
+
   
 
  - To **Add** a User Level, click on the blue button _Add a New User Level_:  
