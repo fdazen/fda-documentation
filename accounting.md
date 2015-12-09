@@ -208,14 +208,14 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 ![32f.png]({{site.baseurl}}/images/32f.png)
 
  
- - To **Delete** a Discount Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Discount Reason_:  
+ - To **DELETE** a Discount Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Discount Reason_:  
  
 ![33f.png]({{site.baseurl}}/images/33f.png)
 
  
  **Note**: make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.   
 
-- You can **Un-delete** a previously deleted Discount Reason: on the top right hand side, select 'Deleted' from the scroll down menu with the written 'Active.  
+- You can **UN-DELETE** a previously deleted Discount Reason: on the top right hand side, select 'Deleted' from the scroll down menu with the written 'Active.  
 
 ![34.png]({{site.baseurl}}/images/34.png)  
 
