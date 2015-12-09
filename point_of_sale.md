@@ -4,9 +4,10 @@ tags:
   - formatting
 keywords: "labels, buttons, bootstrap, api methods"
 last_updated: "November 24th, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section."
 published: true
 ---
+
 
 
 
@@ -171,4 +172,3 @@ The procedure is the same as adding a new one!
  - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
 
 ![29.png]({{site.baseurl}}/images/29.png)
-
