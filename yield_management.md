@@ -31,7 +31,7 @@ Let us start by defining what rules you want the system to follow.
 ![61.png]({{site.baseurl}}/images/61.png)
 
   
-  - Type in a name for the rule, and select the date range for which you want to apply the rule:  
+  - Type in a name for the rule, and select the date range for which you want the rule to apply:  
   
   ![62.png]({{site.baseurl}}/images/62.png)
 
