@@ -36,7 +36,7 @@ Let us start by defining what rules you want the system to follow.
   ![62.png]({{site.baseurl}}/images/62.png)
 
   
-  **NOTE**: Choosing '1' as a starting day does not mean that the Yield Manager will run on any current day, but on the following one. We currently do not support yielding on day '0'.
+  **NOTE**: Choosing '1' as a starting day **does not** mean that the Yield Manager will run on the current day, but on the following one. We currently do not support same-day yielding.
   
   - Choose your conditions by selecting the relevant choices from the scroll down menus:  
   
