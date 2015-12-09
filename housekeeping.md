@@ -11,6 +11,7 @@ published: true
 
 
 
+
 #**Housekeeping**  
 
 The Housekeeping section in your Frontdesk Anywhere helps you set up certain rules to govern the change in housekeeping status for each room at your property. This is necessary, in turn, to define what your Housekeeping Team will need to: in other words, you will be able to define in what occasions the system should report a certain room to be 'dirty' or 'clean', thus making it easier for the housekeepers to know what action is required of them!
@@ -21,11 +22,12 @@ Housekeeping Statuses serve to indicate whether a certain room needs attention f
 
   - In the Admin Settings, click on the blue link **Housekeeping Statuses** under section _Housekeeping_:  
   
-  ![1.png]({{site.baseurl}}/images/1.png)  
+![1a.png]({{site.baseurl}}/images/1a.png)
+
   
   - You will see a list of available Housekeeping Statuses:  
   
-  ![2.png]({{site.baseurl}}/images/2.png)  
+![2a.png]({{site.baseurl}}/images/2a.png)
 
 Here is a breakdown of what they mean:  
 
@@ -47,11 +49,13 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
  - In the Admin Settings, click on the blue link **Housekeeping Rules**, under section _Housekeeping_:  
  
- ![3.png]({{site.baseurl}}/images/3.png)  
+![3a.png]({{site.baseurl}}/images/3a.png)
+ 
  
  - Your Frontdesk Anywhere comes with some very common default rules that define how your Housekeeping Statuses are to change:  
  
- ![4.png]({{site.baseurl}}/images/4.png)  
+![4a.png]({{site.baseurl}}/images/4a.png)
+
  
  - Before trying to create a new rule, let us examine what each default rule does:  
  
@@ -100,7 +104,3 @@ You can also choose the rule to be triggered by a specific event (check-in/out d
  You will see your Housekeeping Rules and Statuses in action by going in the _Housekeeping_ tab on top of your Tape Chart:  
  
 ![12.png]({{site.baseurl}}/images/12.png)
-
-
-
-
