@@ -180,11 +180,13 @@ You can check the number of your invoices with a simple click!
 
  - Click on the link **Invoices** under section _Accounting_:  
  
- ![28.png]({{site.baseurl}}/images/28.png)  
+![28f.png]({{site.baseurl}}/images/28f.png)
+
  
   - The number of your Invoices will show at the center of the panel:  
   
-  ![29.png]({{site.baseurl}}/images/29.png)
+![29f.png]({{site.baseurl}}/images/29f.png)
+
   
   
   ##**Discount Reasons**
