@@ -26,7 +26,7 @@ published: true
 ![51e.png]({{site.baseurl}}/images/51e.png)
 
  
- - Fill in all information: place the name (_Charge Title_), the price and the applicable tax/es, and select whether the charge is to be applied on a nightly or a reservation basis. For reporting purposes, select the right _Revenue Label_ from the scroll down menu, and click on the blue button _Save_ when done:  
+ - Fill in all information: place the name (_Charge Title_), the price and the applicable tax/es, and select whether the charge is to be applied on a nightly or a reservation basis. For reporting purposes, select the right _Revenue Label_ from the scroll down menu and click on the blue button _Save_ when done:  
  
 
 ![52e.png]({{site.baseurl}}/images/52e.png)
@@ -53,10 +53,7 @@ published: true
 
 
 
-
-##**Add-Ons Operations**  
-
-You can **DEACTIVATE** an Add-On by un-checking the box under column _Status_ on the right side of the Add-On List:  
+- To **DEACTIVATE** an Add-On, simply un-check the box under column _Status_ on the right side of the Add-On List:  
 
 ![57e.png]({{site.baseurl}}/images/57e.png)
 
