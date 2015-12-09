@@ -163,14 +163,16 @@ We have now come to the point where you need to build your hotel's room types: a
  
  - To create a new room type, click on the blue button _Add a Room Type_:  
  
- ![24.png]({{site.baseurl}}/images/24.png)  
- 
- - Fill up the fields with the requested infromation: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
- 
-![26.png]({{site.baseurl}}/images/26.png)
+![24g.png]({{site.baseurl}}/images/24g.png)
 
  
- - Continue by filling in all information: from the _Room Alias_ drop down menu select whether the room type should be considered as different from a room: if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
+ - Fill up the fields with the requested information: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
+ 
+![26g.png]({{site.baseurl}}/images/26g.png)
+
+
+ 
+ - From the _Room Alias_ drop down menu select whether the room type should be considered as different from a 'room': if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
 
 ![27.png]({{site.baseurl}}/images/27.png)
  
