@@ -54,7 +54,7 @@ Let us start by defining what rules you want the system to follow.
   
 ![66.png]({{site.baseurl}}/images/66.png)
   
-  It is important to understand that the availability value you place in the conditions is defined by what room types/rates the rule appiied to: in the example below, the occupancy conditions _80 %_ and _10%_ refer to the Run of House availability level; if I had chosen one room type, they would only refer to that specific room type:  
+  It is important to understand that the availability value you place in the conditions is defined by what room types/rates the rule appiied to: in the example below, the occupancy conditions _80 %_ and _10%_ refer to the Run of House availability level; if I had chosen one room type, they would have only referred to that specific room type:  
   
 ![67.png]({{site.baseurl}}/images/67.png)
 
