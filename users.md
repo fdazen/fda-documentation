@@ -84,15 +84,15 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 
  
- You can also duplicate a User Level, if you need to create a similar one by the one you just edited, by clicking on the blue button _Save and Duplicate User Level_.  
+ You can also duplicate a User Level, if you need to create a similar one to the level you just edited: simply click on the blue button _Save and Duplicate User Level_.  
  
- - To **Delete** User Levels, select the box on the right hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
+ - To **Delete** User Levels, select the box on the left hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
  
 ![14c.png]({{site.baseurl}}/images/14c.png)
 
 
  
- - To **Deactivate** a User Level, simply uncheck the box on the right hand side of the User Levels List, under column _Status_:  
+ - To **Deactivate** a User Level, simply un-check the box on the right hand side of the User Levels List, under column _Status_:  
  
  ![15c.png]({{site.baseurl}}/images/15c.png)
 
