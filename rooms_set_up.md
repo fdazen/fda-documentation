@@ -329,11 +329,12 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 ![52.png]({{site.baseurl}}/images/52.png)
  
 
-- You will see a list of all your room types, and three columns: the **Real** column shows the real availability for each type, meaning hte number of rooms actually created and listed under a type; the **OBA** column shows the number of rooms you have set up in the Overbooking Allowance; the **Total** column shows the sum between the Real and the OBA column. In the example below, no OBAh has been set up, hence the number of Real rooms is equal to the number of Total rooms:  
+- You will see a list of all your room types, and three columns: the **Real** column shows the real availability for each type, meaning the number of rooms actually created and listed under a type; the **OBA** column shows the number of rooms you have set up in the Overbooking Allowance; the **Total** column shows the sum between the Real and the OBA column. In the example below, no OBA has been set up, hence the number of Real rooms is equal to the number of Total rooms:  
 
-![53.png]({{site.baseurl}}/images/53.png)
+![53g.png]({{site.baseurl}}/images/53g.png)
 
 
-- For each room type, insert in each box the number of rooms that you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
+
+- For each room type, insert the number of rooms that you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
 ![54.png]({{site.baseurl}}/images/54.png)
