@@ -308,15 +308,17 @@ Complete the rest of the information by selecting the right option from the scro
  
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
-![49.png]({{site.baseurl}}/images/49.png)
+![49g.png]({{site.baseurl}}/images/49g.png)
+
  
  
  - You will see a list of all your newly created room types, each one with an editable box on the right hand side. Insert a numeric value in each box, according to the progressive order you want your room types to show up on the Tape Chart and click on the blue button _Save_:  
  
-![50.png]({{site.baseurl}}/images/50.png)
+![50g.png]({{site.baseurl}}/images/50g.png)
 
 
-**Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system: this will ensure a proper refresh of the room order.  
+
+**Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order.  
 
 ##**Published Rooms**  
 
