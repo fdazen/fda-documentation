@@ -126,6 +126,7 @@ Keep in mind that if you create a multiple nights rate, the latter will not show
 
 **Note**: If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement:  
 
+![14.png]({{site.baseurl}}/images/14.png)
 
  
 
@@ -135,10 +136,11 @@ However, note that differently from the Multiple Nights Rate, the value you plac
  
 ![15.png]({{site.baseurl}}/images/15.png)
 
+
  
  - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
- 
+
 ![16.png]({{site.baseurl}}/images/16.png)
 
 
@@ -147,12 +149,14 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 ![17.png]({{site.baseurl}}/images/17.png)
 
 
+
 You can add additional charges in the relevant boxes, if applicable. In the example above the base rate will be $100, there is no extra charge for the second occupant, but an extra $10 for any additional person and $5 for any child.
 Click on the button _Save_ when done.
 
  -  You will now see your Season Period saved:  
  
 ![18.png]({{site.baseurl}}/images/18.png)
+
 
  
 The three icons that appear under the column _Action_ are used to visualize/edit the season period, cancel it and duplicate it. Hovering on the icon will also explain to you what each one does:  
