@@ -38,7 +38,8 @@ During the intial system set-up it is important for you to configure the right c
 
 Activating the security deposit will enable you to record payments as deposits rather than payments proper. When deposits are enabled, there will be track of them in each reservation folio:  
 
-![3.png]({{site.baseurl}}/images/3.png)  
+![3f.png]({{site.baseurl}}/images/3f.png)
+
 
 ##**Fiscal Year**  
 
@@ -46,11 +47,13 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 - Click on the blue link **Fiscal Year** under section _Accounting_:  
 
-![5.png]({{site.baseurl}}/images/5.png)  
+![5f.png]({{site.baseurl}}/images/5f.png)
+
 
  - Select the month and the year of your fiscal year by following the format below: your current fiscal year is also displayed, in case you forgot!  
  
- ![6.png]({{site.baseurl}}/images/6.png)  
+![6f.png]({{site.baseurl}}/images/6f.png)
+
  
  ##**Pay Types**  
  
@@ -58,23 +61,28 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  - In the Admin Settings, click on the blue link **Pay Types** under section _Accounting_:  
  
- ![7.png]({{site.baseurl}}/images/7.png)  
+ ![7f.png]({{site.baseurl}}/images/7f.png)
+
  
  - You will see a list of all the defaulted pay types enabled for your account:  
  
- ![8.png]({{site.baseurl}}/images/8.png)  
+![8f.png]({{site.baseurl}}/images/8f.png)
+
  
  - To **Add** a Pay Type, click on the blue button _Add a Pay Type_:  
  
- ![9.png]({{site.baseurl}}/images/9.png)  
+![9f.png]({{site.baseurl}}/images/9f.png)
+
  
  - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add. Click on the button _Save_ when finished: 
  
- ![10.png]({{site.baseurl}}/images/10.png)  
+![10f.png]({{site.baseurl}}/images/10f.png)
+
  
  - To **Delete** a Pay Type, select it by checking the box on its left side and click on the blue button _Delete Selected Pay Types_:  
  
- ![11.png]({{site.baseurl}}/images/11.png)
+![11f.png]({{site.baseurl}}/images/11f.png)
+
 
 ##**Credit Card Types**
 
