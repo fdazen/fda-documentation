@@ -39,4 +39,7 @@ p > img {
 .dropdown.open > a {
   background: transparent !important; }
 
+.post-content img {
+  margin-bottom: 6em; }
+
 /*# sourceMappingURL=fda-custom.css.map */
