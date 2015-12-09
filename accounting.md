@@ -309,11 +309,13 @@ You can create Department options for the discount reasons you created, to make 
   
   - To **Edit** a Label, click on the blue link _Edit_ on the right hand side of any label: the text in the panel will become editable, so you can amend the label name. When done, click on the blue button _Save Changes_:  
   
-  ![![55.png]({{site.baseurl}}/images/55.png)  
+![55f.png]({{site.baseurl}}/images/55f.png)
+
   
   You Revenue Labels will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Label:   
   
-  ![65.png]({{site.baseurl}}/images/65.png)
+![65f.png]({{site.baseurl}}/images/65f.png)
+
 
 
 
@@ -323,7 +325,8 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 -  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
 
-![60.png]({{site.baseurl}}/images/60.png)  
+![60f.png]({{site.baseurl}}/images/60f.png)
+
 
 - Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account. To add a new Category, click on the blue link _Add Category_:  
 
