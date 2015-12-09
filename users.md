@@ -2,11 +2,12 @@
 title: Users
 tags: 
   - formatting
-keywords: "users, user levels, user restrictions, shifts."
+keywords: "users, user levels, user restrictions, shifts, permissions."
 last_updated: "November 23rd, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+summary: Learn how to create different system access level for your users.
 published: true
 ---
+
 
 
 
@@ -201,4 +202,3 @@ Different users will be able to join the same shift upon log in. However, for au
 To close a shift, click on the drop down menu next to the user's name on the top right of the Frontdesk Screen:  
 
 ![31c.png]({{site.baseurl}}/images/31c.png)
-
