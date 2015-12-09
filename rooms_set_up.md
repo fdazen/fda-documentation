@@ -209,10 +209,7 @@ We have now come to the point where you need to build your hotel's room types: a
 ![32g.png]({{site.baseurl}}/images/32g.png)
 
 
-
-If you need more information on _User Levels_, click here.  
-
-**Load Room Type Pictures**  
+##**Load Room Type Pictures**  
 
  - Go back to the Room Types List (Admin Settings - Room Types) and click on the blue link _Images_ on the right hand side of the relevant room type: 
  
