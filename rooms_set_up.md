@@ -108,6 +108,7 @@ Let's start by creating the amenities that are available in your rooms. Make sur
   
 ![8.png]({{site.baseurl}}/images/8.png)
 
+
   
 ##**3. Room Classes**
 
