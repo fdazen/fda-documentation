@@ -4,9 +4,10 @@ tags:
   - formatting
 keywords: "property info, logo, time zone, default guest settings, default guest county, guest settings, company info"
 last_updated: "November 25th, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+summary: This section is dedicated to information about your company and how guest information are displayed in your system.
 published: true
 ---
+
 
 
 #**Property Info**  
