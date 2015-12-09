@@ -14,7 +14,6 @@ published: true
 
 #**Rate Add-Ons**  
 
-Frontdesk Anywhere allows you to set up additional charges that may be applicable at certain times for certain guests: for example, you can set up a fixed fee for late check-outs, parking, and so on.  
 
  - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
 
