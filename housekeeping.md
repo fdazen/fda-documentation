@@ -73,34 +73,42 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
 - To **Add** an Housekeeping Rule, click on the blue button _Add_ at the bottom of the rule list:  
 
-![5.png]({{site.baseurl}}/images/5.png)  
+![5a.png]({{site.baseurl}}/images/5a.png)
+
 
 - You will need to fill in all information. Begin by giving the rule an easily recognizable title, and if applicable, a short description. From the scroll down menu _Housekeeping Status_, select the housekeeping status you want your rooms to have, after the rule has run:  
 
-![6.png]({{site.baseurl}}/images/6.png)  
+![6a.png]({{site.baseurl}}/images/6a.png)
+
 
 - By clicking on the right circle box, select whether you want the rule to be triggered by changes in the Room Status, or whether you want the rule to run on nightly basis: in the latter case, the rule will run automatically every night.  
 You can also choose the rule to be triggered by a specific event (check-in/out day) or by days of the week: in the latter case you will need to specify what day/s of the week you want the rule to run, by clicking on the check-boxes:  
 
-![7.png]({{site.baseurl}}/images/7.png)  
+![7a.png]({{site.baseurl}}/images/7a.png)
+
 
  - Choose the folio status where the rule is to apply:  
  
- ![8.png]({{site.baseurl}}/images/8.png)  
+![8a.png]({{site.baseurl}}/images/8a.png)
+
  
  - In the  _Stay Interval_ editable box, select the interval you want the rule to run for (interval of 2 days or 3 days, etc.); also, choose whether you want the rule to repeat on a regular basis by checking the box under _Repeat_:  
  
- ![9.png]({{site.baseurl}}/images/9.png)  
+![9a.png]({{site.baseurl}}/images/9a.png)
+
  
  - From the scroll down menu, select whether you want the rule to have a lower or higher priority, by choosing the right option:  
  
- ![10.png]({{site.baseurl}}/images/10.png)  
+![10a.png]({{site.baseurl}}/images/10a.png)
+
  
  - Finally, choose whether the rule is to be applied to all reservations or whether you want to manually apply the rule in each reservation folio; place the priority the rule should have, check the _Statu_ box to make it active, and click on the blue button _Save_ when finished:  
  
- ![11.png]({{site.baseurl}}/images/11.png)  
+![11a.png]({{site.baseurl}}/images/11a.png)
+
  
  
  You will see your Housekeeping Rules and Statuses in action by going in the _Housekeeping_ tab on top of your Tape Chart:  
  
-![12.png]({{site.baseurl}}/images/12.png)
+![12a.png]({{site.baseurl}}/images/12a.png)
+
