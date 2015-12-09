@@ -304,7 +304,7 @@ Complete the rest of the information by selecting the right option from the scro
  
  ##**Order Room Types**  
  
- You can decide the order in which your room types are displayed on your Tape Chart with just one click, rather than having them organized in random order.  
+ You can decide the order in which your room types are displayed on your Tape Chart with just one click.  
  
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
