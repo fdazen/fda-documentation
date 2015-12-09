@@ -45,7 +45,7 @@ Let us start by defining what rules you want the system to follow.
   
   In the example above, I have set up a rule so that if my availability is more than 80% for the date range I have selected, the system will automatically decrease the price of 20%.  
   
-  - You will be able to place different rules, so long as they are not conflicting with one another. For this reason, we advise to keep these rules as straightforward as possible:  
+  - You will be able to place different rules and also different conditions within the same rule, so long as they are not conflicting with one another. For this reason, we advise to keep these rules as straightforward as possible:  
   
 ![65.png]({{site.baseurl}}/images/65.png)
   
