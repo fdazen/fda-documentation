@@ -77,7 +77,7 @@ To **EDIT** a rule, click on the blue link _Edit_ oin the rule list panel:
 
 ##**Yield Management Settings**  
 
-Once the Yield Management Rules are created, you will need to specify how often you want the system to perform the rate change.  
+Once the Yield Management Rules are created, you will need to specify how often you want the system to check and apply those rules.  
 
  - Click on the link **Yield Management Settings** under section _Rates_:  
  
