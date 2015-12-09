@@ -41,7 +41,7 @@ Let's start by set up the number of floors in your property. This is important a
  **NOTE**: you can either number your floors (1,2,3, etc.) or name them (First, Second, etc).  
  
 
- - To **EDIT** a floor, click on the blue link _Edit_ in the relevant row:
+ - To **EDIT** a floor, click on the blue link _Edit_ on the relevant row:
 
 ![12.png]({{site.baseurl}}/images/12.png)
 
