@@ -59,7 +59,7 @@ published: true
 
 
 
-To **ERASE** an Add-On, select it by checking the box on the left hand side of the relevant item and click on the blue button _Delete Selected Add-Ons_:  
+ - To **Delete** an Add-On, select it by checking the box on its left side and click on the blue button _Delete Selected Add-Ons_:  
 
 ![58e.png]({{site.baseurl}}/images/58e.png)
 
