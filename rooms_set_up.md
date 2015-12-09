@@ -4,9 +4,10 @@ tags:
   - formatting
 keywords: "rooms, amenities, classes, room types, order rooms"
 last_updated: "November 16, 2015"
-summary: hotel room structure set up
+summary: "Learn how to set up your rooms in Frontdesk Anywhere!"
 published: true
 ---
+
 
 
 
