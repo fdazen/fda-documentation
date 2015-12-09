@@ -72,7 +72,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
   
  
- - Select all the actions you want to enable for the level, by checking the boxes next to each tag. The latter describes the kind of action you can enable/disable:  
+ - Select all the actions you want to enable for users in that level, by checking the boxes next to each tag. The latter describes the kind of action you can enable/disable:  
  
 ![11c.png]({{site.baseurl}}/images/11c.png)
 
