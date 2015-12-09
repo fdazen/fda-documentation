@@ -189,7 +189,7 @@ You can check the number of your invoices with a simple click!
 
   
   
-  ##**Discount Reasons**
+ ## **Discount Reasons**
 
 You may want to set up a list of reasons for those discounts that your hotel gives out regularly. Setting them up on your Frontdesk Anywhere account allows you to keep track of the reasons why discounts are given.  
 
