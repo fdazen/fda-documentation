@@ -130,19 +130,22 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 - Click on the blue link _Save User_ at the bottom of the screen:  
 
-![20.png]({{site.baseurl}}/images/20.png)
+![20c.png]({{site.baseurl}}/images/20c.png)
+
 
 
 - To **Deactivate** a user, un-check the box under column _Status_ on the right hand side of any user:  
 
-![21.png]({{site.baseurl}}/images/21.png)
+![21c.png]({{site.baseurl}}/images/21c.png)
+
 
 
 **Note**: it is currently not possible to delete a user! However, if a user has been made inactive there will be no chance of them accessing the system.
 
 - If you have a lot of users, you might find it useful to filter them by level. You can do that by using the scroll down menu on the top right hand side of the screen:  
 
-![22.png]({{site.baseurl}}/images/22.png)
+![22c.png]({{site.baseurl}}/images/22c.png)
+
 
 
 
