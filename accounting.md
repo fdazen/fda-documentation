@@ -264,19 +264,24 @@ You can create Department options for the discount reasons you created, to make 
  
  - You can make active those Department Options that have been previously deleted. Select the option _Delete_ from the scroll down menu on the right hand side of the Department Option panel:  
 
-![42.png]({{site.baseurl}}/images/42.png)  
+![42f.png]({{site.baseurl}}/images/42f.png)
+ 
 
  - Select it by checking the box on the left hand side of the item and click on the blue button _UnDelete Selected Department_:  
  
- ![43.png]({{site.baseurl}}/images/43.png)  
+![43f.png]({{site.baseurl}}/images/43f.png)
+
  
  You will be able to find and select your active Discount Department Options in any reservation folio, under section _Adjustment_:  
  
- ![44.png]({{site.baseurl}}/images/44.png)  
+![44f.png]({{site.baseurl}}/images/44f.png)
+
  
  Click on the scroll down menu _Select Department_ to choose the right option:  
  
- ![49.png]({{site.baseurl}}/images/49.png)  
+![49f.png]({{site.baseurl}}/images/49f.png)
+
+
  
  
  ##**Revenue Account Labels**  
