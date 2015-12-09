@@ -28,7 +28,8 @@ Frontdesk Anywhere allows you to set up additional charges that may be applicabl
  
  - Fill in all information: place the name (_Charge Title_), the price and the applicable tax/es, and select whether the charge is to be applied on a nightly or a reservation basis. For reporting purposes, select the right _Revenue Label_ from the scroll down menu, and click on the blue button _Save_ when done:  
  
-![53e.png]({{site.baseurl}}/images/53.png)
+![53e.png]({{site.baseurl}}/images/53e.png)
+
 
 
  - You will be given the option to add any of the newly created Add-Ons directly in any reservation folio:  
