@@ -34,31 +34,37 @@ Frontdesk Anywhere allows you to set up additional charges that may be applicabl
 
  - You will be given the option to add any of the newly created Add-Ons directly in any reservation folio:  
  
-![52e.png]({{site.baseurl}}/images/52.png)
+![52e.png]({{site.baseurl}}/images/52e.png)
+
 
  
  - If you click on the link, another window will appear; use the scroll down menu to select the right charge among the ones you have created: 
 
-![54e.png]({{site.baseurl}}/images/54.png)
+![54e.png]({{site.baseurl}}/images/54e.png)
+
 
 
 - You can change the amount to charge and the quantity by amending the appropriate fields. When ready, click on the button _Save_: 
 
-![56e.png]({{site.baseurl}}/images/56.png)
+![56e.png]({{site.baseurl}}/images/56e.png)
+
 
 
 ##**Add-Ons Operations**  
 
 You can **DEACTIVATE** an Add-On by un-checking the box under column _Status_ on the right side of the Add-On List:  
 
-![57e.png]({{site.baseurl}}/images/57.png)
+![57e.png]({{site.baseurl}}/images/57e.png)
+
 
 
 To **ERASE** an Add-On, select it by checking the box on the left hand side of the relevant item and click on the blue button _Delete Selected Add-Ons_:  
 
-![58e.png]({{site.baseurl}}/images/58.png)
+![58e.png]({{site.baseurl}}/images/58e.png)
+
 
 
 To **EDIT** an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
 
-![59e.png]({{site.baseurl}}/images/59.png)
+![59e.png]({{site.baseurl}}/images/59e.png)
+
