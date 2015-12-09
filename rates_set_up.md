@@ -197,10 +197,12 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  
 ![24.png]({{site.baseurl}}/images/24.png)
 
+
  
  - You will now need to amend all the information that is different from the rate you are duplicating from: commonly these are _Rate Code_, _Rate Description_, vlaue in each _Season Period_ and _Room Type_ applied:  
  
 ![26.png]({{site.baseurl}}/images/26.png)
+
 
 
 ##**Daily Rate Grid**  
@@ -210,6 +212,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  - In the _Rate Classes_, click on the blue link **View** on the right hand side of any rate:  
 
 ![32.png]({{site.baseurl}}/images/32.png)
+
 
 
  - You will see a daily breakdown of the rate you have set up in the corresponding Rate Class:  
