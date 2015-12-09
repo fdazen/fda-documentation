@@ -155,42 +155,50 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
  - In the Admin Settings, click on the link **Shifts** under section _Users_:  
  
-![23.png]({{site.baseurl}}/images/23.png)
+![23c.png]({{site.baseurl}}/images/23c.png)
+
 
 
 - To start using shifts, you will need to change the Auditing Method from _Single Shift_ to _Multiple Shifts_, by using the scroll down menu:  
 
-![24.png]({{site.baseurl}}/images/24.png)
+![24c.png]({{site.baseurl}}/images/24c.png)
+
 
 
 - A list of all default shifts will appear: before creating new ones, you can edit the existing ones. Click on the blue link _Edit_ on the right hand side of the screen:  
 
-![26.png]({{site.baseurl}}/images/26.png)
+![26c.png]({{site.baseurl}}/images/26c.png)
+
  
 
 - Edit the name in the _Shift Title_ text box and when finished, click on the blue button _Save Shift_:  
 
-![27.png]({{site.baseurl}}/images/27.png)
+![27c.png]({{site.baseurl}}/images/27c.png)
+
 
 
 - To add a new shift, click on the button _Add Shift_: 
 
-![28.png]({{site.baseurl}}/images/28.png)
+![28c.png]({{site.baseurl}}/images/28c.png)
+
   
 
 The process is the same as editing one!  
 
 - To **Deactivate** a shift, simply un-check the box under the column _Status_ on the right hand side of the screen:  
 
-![29.png]({{site.baseurl}}/images/29.png)
+![29c.png]({{site.baseurl}}/images/29c.png)
+
 
 
 Once shifts are created, users will be prompted to select a shift at the time when they log in in Frontdesk Anywhere:  
 
-![30.png]({{site.baseurl}}/images/30.png)
+![30c.png]({{site.baseurl}}/images/30c.png)
+
  
 
 Different users will be able to join the same shift upon log in. However, for auditing purposes it is important that shifts are not left open when they are supposed to be closed.
 To close a shift, click on the drop down menu next to the user's name on the top right of the Frontdesk Screen:  
 
-![31.png]({{site.baseurl}}/images/31.png)
+![31c.png]({{site.baseurl}}/images/31c.png)
+
