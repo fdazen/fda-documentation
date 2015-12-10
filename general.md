@@ -137,31 +137,38 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 - In the Admin Settings, click on the link **Markets** under section _General_:  
 
+![67r.png]({{site.baseurl}}/images/67r.png)
 
 
 - Your account comes with some of the most commonly used Markets:  
 
-![](68.png]({{site.baseurl}}/images/68.png)
+![68r.png]({{site.baseurl}}/images/68r.png)
+
 
 - To add a Market, click on the blue button _Add Market_ and place the right name in the field. When done, click on the blue button _Save Market_:  
 
-![](72.png]({{site.baseurl}}/images/72.png)  
+![72r.png]({{site.baseurl}}/images/72r.png)
+
 
 - To edit a Market, click on the link _Edit_ on the right hand side of the Markets List:  
 
-![](76.png]({{site.baseurl}}/images/76.png)  
+![76r.png]({{site.baseurl}}/images/76r.png)
+ 
 
 - To make a Market inactive, uncheck the relevant box under column _Status_:  
 
-![][77.png]({{site.baseurl}}/images/77.png)  
+![77r.png]({{site.baseurl}}/images/77r.png)
+
 
 - To erase a Market, select it by using the checkbox on the left hand side and click on the blue button _Delete Selected Market_:  
 
-![](78.png]({{site.baseurl}}/images/78.png)  
+![78r.png]({{site.baseurl}}/images/78r.png)
+
 
 - All active Markets will appear on the left side of any reservation folio:  
 
-![](79.png]({{site.baseurl}}/images/79.png)
+![79r.png]({{site.baseurl}}/images/79r.png)
+
 
 
 ##**Guest Information and Reservation Information Custom Fields**  
