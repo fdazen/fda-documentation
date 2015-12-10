@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
 #**General**  
 
 The _General_ section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  
@@ -20,23 +21,28 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
 
  - In the Admin Settings click on the link **Languages** under section _General_:  
  
- ![](40.png]({{site.baseurl}}/images/40.png)
+![40r.png]({{site.baseurl}}/images/40r.png)
+
 
  - You will see that English, Spanish and French are already loaded in the system: you can select which of these you want to have as default for your Online Booking Engine and for your system by checking the relevant boxes:  
  
- ![](41.png]({{site.baseurl}}/images/41.png)  
+![41r.png]({{site.baseurl}}/images/41r.png)
+
  
  - You can also add different languages for some of the items in the system; to do this, click on the blue button _Add a Language_ and fill in all the fields with the appropriate translation:   
  
- ![](42.png]({{site.baseurl}}/images/42.png)  
+![42r.png]({{site.baseurl}}/images/42r.png)
+ 
  
  - When finished, click on the blue button _Save Language_ at the bottom of the page:  
  
- ![](43.png]({{site.baseurl}}/images/43.png)  
+![43r.png]({{site.baseurl}}/images/43r.png)
+ 
  
  **NOTE** Making a certain language the default one does not mean that all users will have the same language upon log-in. Each user can choose a different language for the same account and they can set this up on the _Preferences_ area:  
  
- ![](45.png]({{site.baseurl}}/images/45.png)
+![45r.png]({{site.baseurl}}/images/45r.png)
+
  
  Setting up a default language only means that all _new_ users will see the system in that language upon their first log-in.   
 
@@ -277,12 +283,3 @@ From time to time it might happen that you will need to update your Tape Chart: 
  - To run the Tape Chart, click on the blue button _Run Tape Chart_:  
  
  ![](111.png]({{site.baseurl}}/images/111.png)
-
-
-
-
-
-  
-
-
-
