@@ -201,29 +201,35 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
  
  - For any field, select whether the field is required by checking/unchecking the box under column _Required_:  
 
-![](85.png]({{site.baseurl}}/images/85.png)  
+![85r.png]({{site.baseurl}}/images/85r.png)
+
 
 When you mark a field as **Required**, the system will force agents to insert the information into that field before they are able to create/operate on a folio.  
 
  - To add a Custom Field, click on the blue button _Add Custom Field_ at the bottom of the page:  
  
- ![](86.png]({{site.baseurl}}/images/86.png)  
+![86r.png]({{site.baseurl}}/images/86r.png)
+ 
  
  - Insert the name in the first box and choose what _type_ of field you want to create by picking the irght choice form the scrll down menu:  
  
- ![](89.png]({{site.baseurl}}/images/89.png)  
+![89r.png]({{site.baseurl}}/images/89r.png)
+
  
  A **TEXT** option will create an editable field like the following: 
  
- ![](91.png]({{site.baseurl}}/images/91.png)
+![91r.png]({{site.baseurl}}/images/91r.png)
+
 
  A **SELECT** option will create a scroll down menu with different options for the agent to select, like this one:  
  
- ![](92.png]({{site.baseurl}}/images/92.png)
+![92r.png]({{site.baseurl}}/images/92r.png)
+
  
  If you choose to create one, save it and then add those options by clicking on the blue link _Add Option_:  
  
- ![](90.png]({{site.baseurl}}/images/90.png)  
+![90r.png]({{site.baseurl}}/images/90r.png)
+
  
  Insert your options and click on the button _Save_.
  
