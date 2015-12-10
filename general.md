@@ -235,19 +235,23 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  A **MULTISELECT** option will create a scroll down menu where multiple options can be chosen, like the following one:  
  
- ![](95.png]({{site.baseurl}}/images/95.png)  
+![95r.png]({{site.baseurl}}/images/95r.png)
+
  
  If you want to create one, save it and then add the options by clicking on the blue link _Add Option_:  
  
- ![](94.png]({{site.baseurl}}/images/94.png)    
+![94r.png]({{site.baseurl}}/images/94r.png)
+
  
  A **TEXT AREA** will create a comment box in the folio guest profile:  
  
- ![](96.png]({{site.baseurl}}/images/96.png)  
+![96r.png]({{site.baseurl}}/images/96r.png)
+
  
   - As mentioned above, you can create information for Guests, but also for Travel Agents and Company profiles. To create fields for the latter, select your option form the scroll down menu that appears on top of the _Guest Profile Custom Fields_ list:  
   
-  ![](97.png]({{site.baseurl}}/images/97.png)  
+![97r.png]({{site.baseurl}}/images/97r.png)
+
   
   - The _Reservation Information: Custom Fields_ link works the same as the _Guest Information: Custom Fields_ one.  
 
