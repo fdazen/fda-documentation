@@ -262,27 +262,33 @@ When you mark a field as **Required**, the system will force agents to insert th
 
  - In the Admin Settings, click on the blue link **Display Colors** under section _General_: 
  
- ![](98.png]({{site.baseurl}}/images/98.png)  
+![98r.png]({{site.baseurl}}/images/98r.png)
+
  
  - You will have a list of all the reservation and room status with the respective default colors:  
  
- ![](99.png]({{site.baseurl}}/images/99.png)  
+![99r.png]({{site.baseurl}}/images/99r.png)
+ 
  
  - To change the color for any of these statuses, click on the colored field with the color code:  
  
- ![](100.png]({{site.baseurl}}/images/100.png)  
+![100r.png]({{site.baseurl}}/images/100r.png)
+
  
  - Choose the colo you want by moving the arrows up or down on the color scale:  
  
- ![](101.png]({{site.baseurl}}/images/101.png)  
+![101r.png]({{site.baseurl}}/images/101r.png)
+
  
  - Select your choice by clicking on the colored disc on the bottom right side of the small color panel:  
  
- ![](102.png]({{site.baseurl}}/images/102.png)  
+![102r.png]({{site.baseurl}}/images/102r.png)
+
  
  - You can add more colors by clicking on the blue button **Add** next to the tag _Front Desk User Defined Colors_:  
  
- ![](103.png]({{site.baseurl}}/images/103.png)  
+![103r.png]({{site.baseurl}}/images/103r.png)
+
  
  - To remove one color, just click on the blue button _Remove_ on the right hand side of any custom status:  
 
