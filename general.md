@@ -98,27 +98,33 @@ You configure all the Identification Types that are accepted at your property in
 
 - In the Admin Settings, click on the link **Identification Types** under section _General_:  
 
+![60r.png]({{site.baseurl}}/images/60r.png)
 
 
 - Your account comes with some defaulted identification types. To create a new identification type, click on the blue button _Add Identification Type_ at the bottom of the page: 
 
-![](71.png]({{site.baseurl}}/images/71.png)  
+![71r.png]({{site.baseurl}}/images/71r.png)
+
 
 - Insert the name for the new identification type, and click on the blue button _Save Identification Type_ when done:  
 
-![](62.png]({{site.baseurl}}/images/62.png)
+![62r.png]({{site.baseurl}}/images/62r.png)
+
 
 - To edit an Identification Type, click on the blue link _Edit_ on the right hand side of the Identification Types List:  
 
-![](63.png]({{site.baseurl}}/images/63.png)  
+![63r.png]({{site.baseurl}}/images/63r.png)
+
 
 - You can make an existing Identification Type inactive by unchecking the box under the column _Status_:  
 
-![](64.png]({{site.baseurl}}/images/64.png)  
+![64r.png]({{site.baseurl}}/images/64r.png)
+
 
 - To permanently erase an Identification Type, select it by using the check box on the left hand side of the list and click on the blue button _Delete Selected Identification Types_:  
 
-![](65.png]({{site.baseurl}}/images/65.png)  
+![65r.png]({{site.baseurl}}/images/65r.png)
+ 
 
 - All active Identification Types will appear in the central section of each reservation folio:  
 
