@@ -128,7 +128,7 @@ You configure all the Identification Types that are accepted at your property in
 
 - All active Identification Types will appear in the central section of each reservation folio:  
 
-![](66.png]({{site.baseurl}}/images/66.png)  
+
 
 ##**Markets**  
 
