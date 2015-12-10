@@ -301,15 +301,18 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 - In the Admin Settings, click on the link **Alerts** under section _General_:  
 
-![](106+.png]({{site.baseurl}}/images/106+.png)  
+![106r.png]({{site.baseurl}}/images/106r.png)
+
 
 - You will see a list of possible warnings that can be enabled in the system:  
 
-![](107.png]({{site.baseurl}}/images/107.png)  
+![107r.png]({{site.baseurl}}/images/107r.png)
+
 
 - For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; if you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_:  
 
-![](108.png]({{site.baseurl}}/images/108.png)  
+![108r.png]({{site.baseurl}}/images/108r.png)
+ 
 
 ##**Tape Chart**  
 
@@ -317,12 +320,15 @@ From time to time it might happen that you will need to update your Tape Chart: 
 
  - In the Admin Settings, click on the link **Tape Chart**, under section _General_:  
  
- ![](109.png]({{site.baseurl}}/images/109.png)  
+![109r.png]({{site.baseurl}}/images/109r.png)
+ 
  
  - The screen will show you when the Tape Chart was run last:  
  
- ![](110.png]({{site.baseurl}}/images/110.png)  
+![110r.png]({{site.baseurl}}/images/110r.png)
+
  
  - To run the Tape Chart, click on the blue button _Run Tape Chart_:  
  
- ![](111.png]({{site.baseurl}}/images/111.png)
+![111r.png]({{site.baseurl}}/images/111r.png)
+
