@@ -53,35 +53,43 @@ Create your guest's modes of arrival to keep track of how they come to your prop
 
  - In the Admin Settings, click on the link **Modes of Arrival** under section _General_:  
  
- ![](46.png]({{site.baseurl}}/images/46.png)  
+![46r.png]({{site.baseurl}}/images/46r.png)
+
  
  - The system comes with a few Modes of Arrival defaulted in the system:  
  
- ![](47.png]({{site.baseurl}}/images/47.png)  
+![47r.png]({{site.baseurl}}/images/47r.png)
+
  
  - If some of these arrival modes do not apply to your property, you can either deactivate them by un-checking the box under column _Status_:  
  
- ![](48.png]({{site.baseurl}}/images/48.png)  
+![48r.png]({{site.baseurl}}/images/48r.png)
+
  
 or you can erase them by selecting the check box on the left hand side of any Modes of Arrival, and by clicking on the blue button _Delete Selected Modes of Arrival_:  
 
-![](49.png]({{site.baseurl}}/images/49.png)
+![49r.png]({{site.baseurl}}/images/49r.png)
+
 
 - To create new Modes of Arrival, click on the blue button _Add Mode of Arrival_:  
 
-![](50.png]({{site.baseurl}}/images/50.png)  
+![50r.png]({{site.baseurl}}/images/50r.png)
+ 
 
 - Insert the name for the new Mode of Arrival and click on the blue button _Save Mode of Arrival_:  
 
-![](51.png]({{site.baseurl}}/images/51.png)  
+![51r.png]({{site.baseurl}}/images/51r.png)
+
 
 - You can also edit a Mode of Arrival by clicking on the blue link _Edit_ on the right hand side of the Mode of Arrival list:  
 
-![](53.png]({{site.baseurl}}/images/53.png)  
+![53r.png]({{site.baseurl}}/images/53r.png)
+
 
 - All Modes of Arrival show up in each reservation folio on the left hand side of the screen:  
 
-![](54.png]({{site.baseurl}}/images/54.png)
+![54r.png]({{site.baseurl}}/images/54r.png)
+
 
 
 ##**Identification Type**  
