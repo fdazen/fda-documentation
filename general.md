@@ -175,7 +175,8 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 Frontdesk Anywhere allows you to personalize the number and type of fields you want to have in your reservation folios. Before starting, let us look at a reservation folio:  
 
-![](![80.png]({{site.baseurl}}/images/80.png)  
+![80r.png]({{site.baseurl}}/images/80r.png)
+
 
 You will notice that the folio is made out of three columns: the first one contains general information about the reservation, the middle one has fields regarding information about profiles. A profile can be a Guest, a Travel Agent or a Company.
 
@@ -183,15 +184,18 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
 
  - In the Admin Settings, click on the link _Guest Information: Custom Fields_:  
  
- ![](81.png]({{site.baseurl}}/images/81.png)  
+![81r.png]({{site.baseurl}}/images/81r.png)
+ 
  
  - You will see a list of all the current active fields in your folios:  
  
- ![](83.png]({{site.baseurl}}/images/83.png)  
+![83r.png]({{site.baseurl}}/images/83r.png)
+
  
  - For each field, select whether you want it active or not by checking/unchecking the box under column _Status_:  
  
- ![](84.png]({{site.baseurl}}/images/84.png)  
+![84r.png]({{site.baseurl}}/images/84r.png)
+
  
  **Note**: it is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it **Inactive**.  
  
