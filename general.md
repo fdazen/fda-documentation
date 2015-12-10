@@ -292,7 +292,8 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  - To remove one color, just click on the blue button _Remove_ on the right hand side of any custom status:  
 
-![](104.png]({{site.baseurl}}/images/104.png)  
+![104r.png]({{site.baseurl}}/images/104r.png)
+
 
 ##**Alerts**
 
