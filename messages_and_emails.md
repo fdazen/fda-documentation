@@ -15,31 +15,38 @@ Through Guest Messages you are able to set up all those information about your p
 
  - In the Admin Settings, click on the link **Guest Messages** under section _General_:  
  
- ![1.png]({{site.baseurl}}/images/1.png)  
+![1r.png]({{site.baseurl}}/images/1r.png)
+
  
  - You will see different panels, each one editable and with a title on the top that should give you some guidance on what sort of information you should type in the editable box:  
  
- ![2.png]({{site.baseurl}}/images/2.png)  
+![2r.png]({{site.baseurl}}/images/2r.png)
+
  
  - The first one is the _Invoice Message_: this is a message that will appear in each of your property invoices:    
  
- ![3.png]({{site.baseurl}}/images/3.png)  
+![3r.png]({{site.baseurl}}/images/3r.png)
+
  
  - Proceed to edit the _Terms and Conditons_ message: the latter will show up on your Online Booking Engine, and your confirmation email:  
  
- ![4.png]({{site.baseurl}}/images/4.png)  
+![4r.png]({{site.baseurl}}/images/4r.png)
+
  
  - The third message will be the _Room Cancellation_ message: as the text in the box says, this will appear both on your Booking Engine and in your cancellation email:  
  
- ![5.png]({{site.baseurl}}/images/5.png)  
+![5r.png]({{site.baseurl}}/images/5r.png)
+
  
  - Finally, edit your _Guest Receipt_ and your _Registration Card_ messages:  
  
- ![7.png]({{site.baseurl}}/images/7.png)  
+![7r.png]({{site.baseurl}}/images/7r.png)
+
  
  - When finished, scroll at the bottom of the page and click on the blue button _Save_:  
  
- ![8.png]({{site.baseurl}}/images/8.png)  
+![8r.png]({{site.baseurl}}/images/8r.png)
+
  
  ##**Email Templates**  
 
