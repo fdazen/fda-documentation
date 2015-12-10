@@ -54,45 +54,55 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
  - In the Admin Settings, click on the blue link **Email Templates** under section _General_:  
  
- ![9.png]({{site.baseurl}}/images/9.png)  
+
+![9r.png]({{site.baseurl}}/images/9r.png)
  
  - You will see a list of all the types of templates that the system offers: the name of each template appears on the top left hand side of each message panel.
  
- ![11.png]({{site.baseurl}}/images/11.png)  
+![11r.png]({{site.baseurl}}/images/11r.png)
+
  
  - Under each section you will see one disabled template already listed: these templates are only used as a guidance, and they are non-editable:  
  
- ![12.png]({{site.baseurl}}/images/12.png)
+![12r.png]({{site.baseurl}}/images/12r.png)
+
 
  - To create a new template, click on the button _New template_ on the top left hand side of the screen:  
  
- ![13.png]({{site.baseurl}}/images/13.png)  
+![13r.png]({{site.baseurl}}/images/13r.png)
+
  
  - Select the template you want to create by clicking on the right option in the scroll down menu:  
  
- ![14.png]({{site.baseurl}}/images/14.png)
+![14r.png]({{site.baseurl}}/images/14r.png)
+
  
  - Give a name to the template and click on the blue button _Create and Edit_:  
  
- ![15.png]({{site.baseurl}}/images/15.png)
+![15r.png]({{site.baseurl}}/images/15r.png)
+
  
  - The template you have just created will appear as the first template in the apposite panel:  
  
- ![16.png]({{site.baseurl}}/images/16.png)
+![16r.png]({{site.baseurl}}/images/16r.png)
+
  
  - Once the template has been created, it also needs to be enabled. Click on the yellow button _Edit_ on the right hand side of the newly created template:  
  
- ![17.png]({{site.baseurl}}/images/17.png)
+![17r.png]({{site.baseurl}}/images/17r.png)
+
  
  - Enable the template by checking the box next to the tag _Template Enabled_:  
  
- ![18.png]({{site.baseurl}}/images/18.png)
+![18r.png]({{site.baseurl}}/images/18r.png)
+
  
  - Select where you want the template to apply and appear, by checking the right boxes under the written _System Section Filters_:  
  
- ![19.png]({{site.baseurl}}/images/19.png)  
+![19r.png]({{site.baseurl}}/images/19r.png)
+
  
-Here is a quick breakdown of what ach box means:  
+Here is a quick breakdown of what each box means:  
 
 If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
  
