@@ -1,4 +1,3 @@
-
 ---
 title: Guest Messages and Emails
 tags: [formatting]
