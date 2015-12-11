@@ -60,32 +60,20 @@ entries:
       version: all
       print: true
       items:
-        - title: General
-          url: /general.html
-          audience: writers, designers
-          platform: all
-          product: all
-          version: all
-        - title: Yield Management
-          url: /yield_management.html
+
+        - title: Property Info
+          url: /property_info.html
           audience: writers, designers
           platform: all
           product: all
           version: all
 
-        - title: Users
-          url: /users.html
+        - title: Accounting
+          url: /accounting.html
           audience: writers, designers
           platform: all
           product: all
-          version: all
-
-        - title: Sources of Business
-          url: /sources_of_business.html
-          audience: writers, designers
-          platform: all
-          product: all
-          version: all
+          version: all 
 
         - title: Rooms Set Up
           url: /rooms_set_up.html
@@ -101,15 +89,15 @@ entries:
           product: all
           version: all
 
-        - title: Rate Add Ons
-          url: /rate_add_ons.html
+        - title: Yield Management
+          url: /yield_management.html
           audience: writers, designers
           platform: all
           product: all
           version: all
 
-        - title: Property Info
-          url: /property_info.html
+        - title: Rate Add Ons
+          url: /rate_add_ons.html
           audience: writers, designers
           platform: all
           product: all
@@ -122,6 +110,13 @@ entries:
           product: all
           version: all
 
+        - title: Users
+          url: /users.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
         - title: Guest Messages and Emails
           url: /messages_and_emails.html
           audience: writers, designers
@@ -129,12 +124,19 @@ entries:
           product: all
           version: all 
 
-        - title: Accounting
-          url: /accounting.html
+        - title: Sources of Business
+          url: /sources_of_business.html
           audience: writers, designers
           platform: all
           product: all
-          version: all 
+          version: all
+
+        - title: General
+          url: /general.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
 
         - title: Housekeeping
           url: /housekeeping.html
