@@ -138,12 +138,12 @@ As mentioned above, all charges are transferred to one reservation folio. This d
 ![17g.png]({{site.baseurl}}/images/17g.png)
 
 
-**Folio to Transfer Charges to**: from the scroll down menu, sleect what folio is to receive the charges:   
+**Folio to Transfer Charges to**: from the scroll down menu, select what folio is to receive the charges:   
 
 ![18g.png]({{site.baseurl}}/images/18g.png)
 
 
-**Percentage to Be Paid**: insert the percentage you wish to transfer from the selected folios:   
+**Percentage to Be Paid**: insert the charges percentage you wish to transfer from the selected folios:   
 
 ![20g.png]({{site.baseurl}}/images/20g.png)
 
