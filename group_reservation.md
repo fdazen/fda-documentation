@@ -131,11 +131,13 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 **Percentage to Be Paid**: insert the percentage you wish to transfer from the selected folios:   
 
-![20.png]({{site.baseurl}}/images/20.png)   
+![20g.png]({{site.baseurl}}/images/20g.png)
+
 
 - Click on the button _Save_ to save your work. You will be prompted to choose whether to override the existing rule (_Rule Set 1_), or to simply save the new rule:   
 
-![21.png]({{site.baseurl}}/images/21.png)   
+![21g.png]({{site.baseurl}}/images/21g.png)
+  
 
 Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.  
 
