@@ -171,7 +171,7 @@ You can transfer charges to any Guest or Company profile. This is a step-by-step
 ![30g.png]({{site.baseurl}}/images/30g.png)
 
 
- 4. In the payments panel, click on the scroll down menu _Uninvoiced Transactions_ and select all charges you wish yo transfer:  
+ 4. In the payments panel, click on the scroll down menu _Uninvoiced Transactions_ and select all charges you wish to transfer:  
  
 ![31g.png]({{site.baseurl}}/images/31g.png)
 
