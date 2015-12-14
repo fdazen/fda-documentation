@@ -85,7 +85,8 @@ Choose:
 **Block / DNR** if you want to take the rooms out of your current inventory   
 
 - If you choose to hold rooms, you will be given two options:   
-![11.png]({{site.baseurl}}/images/11.png)   
+![11g.png]({{site.baseurl}}/images/11g.png)
+
 
 If you select a _Manual Release_ for the rooms, the rooms will stay in a Hold status until you manually change the status within the Group Folio.   
 
@@ -93,7 +94,8 @@ If you select _Automatic Release_ you will need to choose a certain date from th
 
 ##**Step 5. Removing a room from the Room Queue**   
 - If you made a mistake and reserved too many rooms, you can remove the extra ones by clicking on the button _Remove_:‘Remove’:   
-![12.png]({{site.baseurl}}/images/12.png)   
+![12g.png]({{site.baseurl}}/images/12g.png)
+  
 
 - Select the number of rooms you wish to remove and click on the blue button **Save**.   
 
