@@ -38,17 +38,20 @@ When you choose a room type, the scroll down menus with the tags _Rates_ and _No
 - If you wish to customize the rate for the group, you can  do this by clicking on the blue link **Edit Rate**, next to the _Rate_ scroll down menu.
 You will have two options: you can either edit the daily rate by clicking on the circle box _Daily Price Edit_:   
  
-![5.png]({{site.baseurl}}/images/5.png)   
+![5g.png]({{site.baseurl}}/images/5g.png)
+
  
 or you can click on the circle box _Fixed Price Edit_ to change the total rate for each room:   
  
-![6.png]({{site.baseurl}}/images/6.png)
+![6g.png]({{site.baseurl}}/images/6g.png)
+
      
 Click on the yellow button **Update** to save your changes.   
  
    - Choose how you want to assign rooms for this group.   
    You will have three options:    
-![7.png]({{site.baseurl}}/images/7.png)   
+![7g.png]({{site.baseurl}}/images/7g.png)
+   
 
 **Auto Assign** will have the system automatically assign the rooms among the ones available.   
 **Unassign** will create the group without any room assignment.   
