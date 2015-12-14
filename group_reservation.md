@@ -180,23 +180,28 @@ From the group folio, you are able to perform bulk operations, like change the s
 ###**BULK UPDATES**
 - In the Group Folio, click on the tab _Details_:   
 
-![22.png]({{site.baseurl}}/images/22.png)   
+![22g.png]({{site.baseurl}}/images/22g.png)
+
 
 - Depending on the current status of the group reservation, there will be different actions you are able to perform. Those available operations are displayed on the top of the folio list:   
 
-![24.png]({{site.baseurl}}/images/24.png)   
+![24g.png]({{site.baseurl}}/images/24g.png)
+
 
 In the example, the current folios status is _Reserved_; hence the available operations are _Check-in_ and _No-Show_ (if the group's arrival is today's date), and _Cancel_. If the current status of the folio was _Hold_, then there would also be a _Reserved_ option, if the current status was _Checked-in_, then a _Check-out_ option would be there, and so on.   
 
 - To perform a bulk operation, select the folios by checking the boxes on the left side, and click on the operation you would like to perform:   
 
-![25.png]({{site.baseurl}}/images/25.png)  
+![25g.png]({{site.baseurl}}/images/25g.png)
+
+  
 
 ###**EDIT/CHANGE SINGLE RESERVATION FOLIO**  
 
 - If you want to assign names to the single reservations that are part of the group, you can click on the button _Edit_ on the right hand side of each folio:  
 
-![26.png]({{site.baseurl}}/images/26.png)  
+![26g.png]({{site.baseurl}}/images/26g.png)
+
 
 - If you want to change an existing guest (i.e. substitute an existing guest profile), then click on the button _Change_ on the right hand side of a folio.  
 
@@ -206,4 +211,5 @@ You can easily access each of the folios that are part of a group directly from 
 
 - To access a reservation that is part of a group, click on the reservation number on the left hand side of each folio:  
 
-![27_1.png]({{site.baseurl}}/images/27_1.png)
+
+
