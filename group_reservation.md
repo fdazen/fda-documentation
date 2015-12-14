@@ -211,5 +211,6 @@ You can easily access each of the folios that are part of a group directly from 
 
 - To access a reservation that is part of a group, click on the reservation number on the left hand side of each folio:  
 
+![27g.png]({{site.baseurl}}/images/27g.png)
 
 
