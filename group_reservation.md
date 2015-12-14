@@ -128,12 +128,12 @@ Group Rules are used to set up group payments: you can decide to transfer charge
 ![14g.png]({{site.baseurl}}/images/14g.png)
  
 
-As mentioned above, all charges are transferred to the first reservation folio. This default rule is called _Rule Set 1_, and the specific settings are displayed below it:   
+As mentioned above, all charges are transferred to one reservation folio. This default rule is called _Rule Set 1_, and the specific settings are displayed and explained below:   
 
 ![16g.png]({{site.baseurl}}/images/16g.png)
 
 
-**Folio(s) to Transfer Charges From**: the option _All Folios_ is selected in the default rule, meaning that charges from all the group reservation folios will be transferred. Unchecking the box will enable you to select the charges of those folio(s) you want to transfer:   
+**Folio(s) to Transfer Charges From**: the option _All Folios_ is selected in the default rule, meaning that all charges from the single reservation that are part of the group will be transferred. Un-checking the box will enable you to select the charges of those folio(s) you want to transfer:   
 
 ![17g.png]({{site.baseurl}}/images/17g.png)
 
