@@ -61,11 +61,13 @@ Select your option and click on the blue button **Add Rooms**.
 
 ##**Step 3. Manual Assignment (skip to Step 4 if not applicable)**   
 - If you chose the Manual Assignment option, the following panel will pop-up:   
-![8.png]({{site.baseurl}}/images/8.png)   
+![8g.png]({{site.baseurl}}/images/8g.png)
+
 
 Make your choice and click on the button **Select** when done:   
 
-![9.png]({{site.baseurl}}/images/9.png)   
+![9g.png]({{site.baseurl}}/images/9g.png)
+  
 
 Click on the blue button **Add Rooms*.   
 
@@ -73,7 +75,8 @@ Click on the blue button **Add Rooms*.
 
 - Once the rooms are added, there will appear a brief summary of the group details: you will now need to choose the group reservation status.   
 
-![10.png]({{site.baseurl}}/images/10.png)   
+![10g.png]({{site.baseurl}}/images/10g.png)
+
 
 Choose:   
 
