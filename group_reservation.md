@@ -108,21 +108,26 @@ When ready, you can click on the button **Next** to go to the next step.
 Group Rules are used to set up group payments: you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group chargestogether, and so on. When a group is created, all charges are by default transferred to one reservation folio, which represents the group's leader. If you want to distribute charges differently, you will need to modify the Group Rules.   
 
 - Open your group reservation:   
-![13.png]({{site.baseurl}}/images/13.png)   
+![13g.png]({{site.baseurl}}/images/13g.png)
+
 
 - Click on **Group Rules** on the top of the panel:   
-![14.png]({{site.baseurl}}/images/14.png)   
+![14g.png]({{site.baseurl}}/images/14g.png)
+ 
 
 As mentioned above, all charges are transferred to the first reservation folio. This default rule is called _Rule Set 1_, and the specific settings are displayed below it:   
-![16.png]({{site.baseurl}}/images/16.png)   
+![16g.png]({{site.baseurl}}/images/16g.png)
+
 
 **Folio(s) to Transfer Charges From**: the option _All Folios_ is selected in the default rule, meaning that charges from all the group reservation folios will be transferred. Unchecking the box will enable you to select the charges of those folio(s) you want to transfer:   
 
-![17.png]({{site.baseurl}}/images/17.png)   
+![17g.png]({{site.baseurl}}/images/17g.png)
+
 
 **Folio to Transfer Charges to**: from the scroll down menu, sleect what folio is to receive the charges:   
 
-![18.png]({{site.baseurl}}/images/18.png)   
+![18g.png]({{site.baseurl}}/images/18g.png)
+
 
 **Percentage to Be Paid**: insert the percentage you wish to transfer from the selected folios:   
 
