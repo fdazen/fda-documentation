@@ -145,33 +145,33 @@ entries:
           product: all
           version: all      
 
-    - title: Tape Chart
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      print: true
-      items:
-        - title: Sidebar navigation
-          url: /doc_sidebar_navigation.html
-          audience: writers, designers
-          platform: all
-          product: all
-          version: all
+    # - title: Tape Chart
+    #   audience: writers, designers
+    #   platform: all
+    #   product: all
+    #   version: all
+    #   print: true
+    #   items:
+    #     - title: Sidebar navigation
+    #       url: /doc_sidebar_navigation.html
+    #       audience: writers, designers
+    #       platform: all
+    #       product: all
+    #       version: all
 
-        - title: Top navigation
-          url: /doc_top_navigation.html
-          audience: writers, designers
-          platform: all
-          product: all
-          version: all
+    #     - title: Top navigation
+    #       url: /doc_top_navigation.html
+    #       audience: writers, designers
+    #       platform: all
+    #       product: all
+    #       version: all
 
-        - title: Tags
-          url: /doc_tags.html
-          audience: writers, designers
-          platform: all
-          product: all
-          version: all
+    #     - title: Tags
+    #       url: /doc_tags.html
+    #       audience: writers, designers
+    #       platform: all
+    #       product: all
+    #       version: all
     # Keeping commented out for now for reference on sub-sub nav items - Dec. 11 2015
     # - title: Formatting
     #   audience: writers, designers
