@@ -10,7 +10,7 @@ published: true
 
 
 
-#** MULTIPLE ROOMS RESERVATION ** 
+#**MULTIPLE ROOMS RESERVATION** 
 Creating a multiple rooms reservation for small or large groups is easy in Frontdesk Anywhere: from only one panel you are able to streamline the reservation process, manage booking status, set up payment rules and print/send group messages.       
 ##**Step 1. New Group**      
   - Begin by clicking on the blue button _NEW GROUP_ on top of your Tape Chart:   
