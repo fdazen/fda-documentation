@@ -9,11 +9,12 @@ published: true
 ---
 
 
+
   
 
 #**Rates**
 
-This section covers everything you need to know about rates set-up, taxes, fees and add-ons. We will start with tax and fee creation before going into the different ways you can reproduce your rate structure into Frontdesk Anywhere.  
+This section covers everything you need to know about rates set-up, taxes, fees and add-ons. We will start with tax and fee creation before going on to explain the different ways you can reproduce your rate structure in your Frontdesk Anywhere account.  
 
 
 ##**Taxes and Fees**
