@@ -22,7 +22,12 @@ You can display the hotel's real time availability in different ways: on top of 
 
 Clicking on any of those tabs will bring your Tape Chart to show availability for the time lenght of your choice. In the example below, I have chose to show all availability for 15 days:  
 
-![2h.png]({{site.baseurl}}/images/2h.png)
+![2h.png]({{site.baseurl}}/images/2h.png)  
+
+
+
+
+
 
 
 
