@@ -18,5 +18,12 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 You can display the hotel's real time availability in different ways: on top of the Tape Chart, you will notice five different clickable tabs, each with a different time lenght:  
 
-![1h.png]({{site.baseurl}}/images/1h.png)
+![1h.png]({{site.baseurl}}/images/1h.png)  
+
+Clicking on any of those tabs will bring your Tape Chart to show availability for the time lenght of your choice. In the example below, I have chose to show all availability for 15 days:  
+
+![2h.png]({{site.baseurl}}/images/2h.png)
+
+
+
 
