@@ -22,6 +22,7 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 ![1h.png]({{site.baseurl}}/images/1h.png)   
 
 
+
  - Clicking on any of those tabs will bring your Tape Chart to show availability for the time lenght of your choice. In the example below, I have chosen to show all availability for 15 days:  
 
 
