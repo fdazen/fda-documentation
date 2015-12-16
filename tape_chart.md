@@ -7,7 +7,9 @@ summary: "The Tape Chart is a fundamental tool of your Frontdesk Anywhere accoun
 overview of your current availability and rates, it allows you to make, modify and cancel reservations in a fast and easy way, it offers a quick guest look up."
 ---
 
+
 #**Tape Chart**  
+
 
 The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offers an overview of the property's current availability and rates and it allows you to make, modify, cancel and look up reservations in a fast and easy way. The Tape Chart will be a starting point for most front desk users, and there are a lot of ways to personalize it: here is a brief rundown of its functionalities!  
 
