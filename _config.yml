@@ -33,7 +33,7 @@ host: 127.0.0.1
 feedback_email: support@frontdeskanywhere.com
 sidebar_accordion: true
 markdown: redcarpet
-print: false
+print: true
 theme_file: theme-green.css
 # only use suffix if you need to force index.html to display
 # suffix: index.html
