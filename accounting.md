@@ -1,7 +1,6 @@
 ---
 title: Accounting
-tags: 
-  - formatting
+tags: [accounting]
 keywords: "reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories, security deposit"
 last_updated: "November 25th, 2015"
 summary: The Accounting section is about all of those settings that have to do payments and accounting.
