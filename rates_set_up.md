@@ -1,7 +1,6 @@
 ---
 title: Rates Set Up
-tags: 
-  - formatting
+tags: [rate set up]
 keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
 last_updated: "November 17th, 2015"
 summary: "This section covers everything you need to know about rates set-up, taxes, fees and add-ons. We will start with tax and fee creation before going into the different ways you can reproduce your rate structure into Frontdesk Anywhere."

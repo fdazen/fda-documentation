@@ -1,6 +1,6 @@
 ---
 title: Tape Chart
-tags: [tape-chart]
+tags: [tape chart]
 keywords: tape chart, availability, display, view by,
 last_updated: December 15, 2015
 summary: "The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offers an

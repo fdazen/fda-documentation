@@ -1,7 +1,6 @@
 ---
 title: Sources of Business
-tags: 
-  - formatting
+tags: [sources]
 keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
 last_updated: "November 17th, 2015"
 summary: "Sources of Business help you track the origin of your reservations. Learn how to set them up in your account before starting to receive reservations in your system!"

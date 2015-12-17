@@ -1,7 +1,6 @@
 ---
 title: Users
-tags: 
-  - formatting
+tags: [users]
 keywords: "users, user levels, user restrictions, shifts, permissions."
 last_updated: "November 23rd, 2015"
 summary: Learn how to create different system access level for your users.

@@ -1,7 +1,6 @@
 ---
 title: Yield Management
-tags: 
-  - formatting
+tags: [yield management]
 keywords: "yield management, yield rules, yield settings"
 last_updated: "November 18th, 2015"
 summary: "Learn how to have your system perform automatic rate change based on your occupancy level!"

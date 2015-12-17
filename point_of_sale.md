@@ -1,7 +1,6 @@
 ---
 title: Point of Sale
-tags: 
-  - formatting
+tags: [POS]
 keywords: "labels, buttons, bootstrap, api methods"
 last_updated: "November 24th, 2015"
 summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section."
