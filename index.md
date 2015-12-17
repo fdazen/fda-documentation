@@ -33,10 +33,14 @@ To get started, see these three topics:
 2. Rate Set Up
 3. Users
 
+{% comment %}
+
 ## PDF Download 
 
 If you would like to download this help file as a PDF, you can do it from here. 
 
-<!-- <a target="_blank" class="noCrossRef" href="doc_{{site.audience}}_pdf.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a> -->
+<a target="_blank" class="noCrossRef" href="doc_{{site.audience}}_pdf.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
 
 The PDF contains a timestamp in the header indicating when it was last generated. If you download a PDF, keep in mind that it may go out of date quickly. Always compare your PDF timestamp against the online help timestamp (which you can find in the footer).
+
+{% endcomment %}
