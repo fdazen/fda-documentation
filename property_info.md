@@ -1,7 +1,7 @@
 ---
 title: Property Info
 tags: 
-  - formatting
+  - property info, -company info
 keywords: "property info, logo, time zone, default guest settings, default guest county, guest settings, company info"
 last_updated: "November 25th, 2015"
 summary: This section is dedicated to information about your company and how guest information are displayed in your system.
