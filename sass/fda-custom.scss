@@ -61,11 +61,11 @@ $fda-system-font:		  "Open Sans", Helvetica, Arial, sans-serif !default;
 	   color: rgba(0,0,0,0.7);
 	}
 
-	:-moz-placeholder { /* Firefox 18- */
+	:-moz-placeholder { 
 	   color: rgba(0,0,0,0.7);  
 	}
 
-	::-moz-placeholder {  /* Firefox 19+ */
+	::-moz-placeholder { 
 	   color: rgba(0,0,0,0.7);  
 	}
 
@@ -96,8 +96,8 @@ p > img{
 // scroll top element
 .scroll-top{
 	position: fixed;
-	bottom: 0;
-	right: 0;
+	bottom: 10px;
+	right: 10px;
 	visibility: hidden;
 	opacity: 0;
 	padding: 12px;
@@ -107,6 +107,10 @@ p > img{
 	-webkit-transition: opacity .3s 0s, visibility 0s .3s;
 	-moz-transition: opacity .3s 0s, visibility 0s .3s;
 	transition: opacity .3s 0s, visibility 0s .3s;
+	&:hover{
+		text-decoration: none;
+		background: lighten(#347DBE, 20);
+	}
 
 	&.is-visible{
 		visibility: visible;
