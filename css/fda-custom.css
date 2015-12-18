@@ -55,7 +55,8 @@ p > img {
   transition: opacity .3s 0s, visibility 0s .3s; }
   .scroll-top:hover {
     text-decoration: none;
-    background: #7dafdb; }
+    background: #7dafdb;
+    color: #fff; }
   .scroll-top.is-visible {
     visibility: visible;
     opacity: 1; }

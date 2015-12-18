@@ -110,6 +110,7 @@ p > img{
 	&:hover{
 		text-decoration: none;
 		background: lighten(#347DBE, 20);
+		color: #fff;
 	}
 
 	&.is-visible{
