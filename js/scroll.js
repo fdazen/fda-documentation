@@ -6,13 +6,13 @@ jQuery(document).ready(function($){
 		//duration of the top scrolling animation (in ms)
 		scroll_top_duration = 700,
 		//grab the "back to top" link
-		$back_to_top = $('.cd-top');
+		$back_to_top = $('.scroll-top');
 
 	//hide or show the "back to top" link
 	$(window).scroll(function(){
-		( $(this).scrollTop() > offset ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+		( $(this).scrollTop() > offset ) ? $back_to_top.addClass('is-visible') : $back_to_top.removeClass('is-visible fade-out');
 		if( $(this).scrollTop() > offset_opacity ) { 
-			$back_to_top.addClass('cd-fade-out');
+			$back_to_top.addClass('fade-out');
 		}
 	});
 

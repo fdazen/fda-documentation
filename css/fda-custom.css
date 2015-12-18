@@ -45,6 +45,20 @@ p > img {
 .scroll-top {
   position: fixed;
   bottom: 0;
-  right: 0; }
+  right: 0;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: opacity .3s 0s, visibility 0s .3s;
+  -moz-transition: opacity .3s 0s, visibility 0s .3s;
+  transition: opacity .3s 0s, visibility 0s .3s; }
+  .scroll-top.is-visible {
+    visibility: visible;
+    opacity: 1; }
+  .scroll-top.fade-out {
+    opacity: .5; }
+  .scroll-top.is-visible, .scroll-top.fade-out {
+    -webkit-transition: opacity .3s 0s, visibility 0s 0s;
+    -moz-transition: opacity .3s 0s, visibility 0s 0s;
+    transition: opacity .3s 0s, visibility 0s 0s; }
 
 /*# sourceMappingURL=fda-custom.css.map */
