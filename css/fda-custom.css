@@ -39,6 +39,8 @@ p > img {
 
 .post-content img {
   margin-bottom: 6em !important; }
+.post-content p {
+  color: rgba(0, 0, 0, 0.7); }
 
 .scroll-top {
   position: fixed;
