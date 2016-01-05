@@ -1,10 +1,13 @@
 ---
 title: Build arguments
-tags: [publishing]
-keywords: building, serving, serve, build
-last_updated: August 12, 2015
+tags: 
+  - publishing
+keywords: "building, serving, serve, build"
+last_updated: "August 12, 2015"
 summary: "When you have a single sourcing project, you use more advanced arguments when you're building or serving your Jekyll sites. These arguments specify a particular configuration file and may build on other configuration files."
+published: true
 ---
+
 
 
 ## How to build Jekyll sites
@@ -16,6 +19,9 @@ jekyll build
 ```
 
 To build the site and view it in a live server so that Jekyll rebuilds that site each time you make a change, use the `serve` command:
+
+![Pasted_Image_10_4_15__12_48_PM.png]({{site.baseurl}}/images/Pasted_Image_10_4_15__12_48_PM.png)
+
 
 ```
 jekyll serve
@@ -58,7 +64,3 @@ kill -9 $(ps aux | grep '[j]ekyll' | awk '{print $2}')
 I created a profile in iTerm that stores this command. Here's what the iTerm settings look like:
 
 ![iTerm profile settings to kill all Jekyll](images/killalljekyll.png)
-
-
-
-
