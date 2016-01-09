@@ -201,6 +201,20 @@ entries:
           product: all
           version: all
 
+    - title: Internet Booking Engine
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: General
+          url: /IBE_general.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
     # Keeping commented out for now for reference on sub-sub nav items - Dec. 11 2015
     # - title: Formatting
     #   audience: writers, designers
