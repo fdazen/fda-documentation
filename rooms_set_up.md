@@ -244,12 +244,15 @@ We have now come to the point where you need to build your hotel's room types: a
   - You can upload more than one picture, and decide the order in which they are going to appear by setting the right priority at the bottom of any uploaded picture:  
   
 
+![Room_types_12.png]({{site.baseurl}}/images/Room_types_12.png)
 
 
   
   - Once you have set up the priority, click on the green button _Save Image Priority_:  
   
-![48g.png]({{site.baseurl}}/images/48g.png)
+  
+![Room_types_13.png]({{site.baseurl}}/images/Room_types_13.png)
+
 
 
 
