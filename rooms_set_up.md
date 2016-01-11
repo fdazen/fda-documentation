@@ -77,36 +77,34 @@ Before creating your rooms, you will need to configure the amenities that are av
 
   - In the Admin Settings, click on the link **Room Amenities**:
   
-![1.png]({{site.baseurl}}/images/1.png)
+![Room_amenities_1.png]({{site.baseurl}}/images/Room_amenities_1.png)
 
 
   
   - You will see a list of some defaulted amenities.
  
-![3.png]({{site.baseurl}}/images/3.png)
+![Room_amenities_2.png]({{site.baseurl}}/images/Room_amenities_2.png)
+
 
   
-  - Before creating new ones, you can first edit those that you do not need, as this will make your account cleaner. For example, if you do not offer a laundry service in any of the rooms, but you offer a complimentary bathrobe, just edit the laundry service and turn it into a bathrobe. To do this, click on the blue link _Edit_ on the right row:
+  - Before creating new ones, you can first edit those that you won't need, as this will make your account cleaner. For example, if you do not offer a laundry service in any of the rooms, but you offer a complimentary bathrobe, just edit the laundry service and turn it into a bathrobe. To do this, click on the blue link _Edit_ on the right row:
   
 
-![4.png]({{site.baseurl}}/images/4.png)
-
+![Room_amenities_3.png]({{site.baseurl}}/images/Room_amenities_3.png)
 
     
   - Edit the name in the _Amenity Title_ field, and click on **Save** when done.
   
-![5.png]({{site.baseurl}}/images/5.png)
-
+![Room_amenities_4.png]({{site.baseurl}}/images/Room_amenities_4.png)
 
   
   - To **ADD** a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
   
-![6.png]({{site.baseurl}}/images/6.png)
-
+![Room_amenities_5.png]({{site.baseurl}}/images/Room_amenities_5.png)
 
   
   
-![7_001.png]({{site.baseurl}}/images/7_001.png)
+
   
   
   - To **DEACTIVATE** an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
