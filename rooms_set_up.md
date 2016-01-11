@@ -12,6 +12,7 @@ published: true
 
 
 
+
   
 #**Rooms Set Up**   
 
@@ -24,14 +25,13 @@ Let's start by set up the number of floors in your property. This is important a
 
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
-![9999999.png]({{site.baseurl}}/images/9999999.png)
-
+![Floors_1.png]({{site.baseurl}}/images/Floors_1.png)
 
 
 
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
  
-![11.png]({{site.baseurl}}/images/11.png)
+![Floors_2.png]({{site.baseurl}}/images/Floors_2.png)
 
   
  
@@ -43,27 +43,30 @@ Let's start by set up the number of floors in your property. This is important a
 
  - To **EDIT** a floor, click on the blue link _Edit_ on the relevant row:
 
-![12.png]({{site.baseurl}}/images/12.png)
+![Floors_3.png]({{site.baseurl}}/images/Floors_3.png)
+
 
  
 The same small window will pop-up: edit the name and click on the button _Save_ when done.  
 
  - To **DEACTIVATE** a floor, un-check the box under column _Status_ for the relevant row:  
 
-![13.png]({{site.baseurl}}/images/13.png)
+![Floors_4.png]({{site.baseurl}}/images/Floors_4.png)
 
-  
+
+ 
 
 - To **DELETE** a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
 
-![14.png]({{site.baseurl}}/images/14.png)
+![Floors_5.png]({{site.baseurl}}/images/Floors_5.png)
 
 
 
 
 - **HOW TO USE FLOORS**: When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ to visualize your rooms grouped by floors.
 
-![15.png]({{site.baseurl}}/images/15.png)
+![Floors_6.png]({{site.baseurl}}/images/Floors_6.png)
+
 
 
 
@@ -338,4 +341,3 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 - For each room type, insert the number of rooms you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
 ![54g.png]({{site.baseurl}}/images/54g.png)
-
