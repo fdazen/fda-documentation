@@ -13,7 +13,15 @@ published: true
 
 #**Internet Booking Engine Customization**  
 
-Testing.
+Frontdesk Anywhere enables properties to offer a real-time online booking on their website. Oboe is the name for the Frontdesk Anywhere “Online BOoking Engine”. Configuring the booking engine is fast, simple and user friendly. Oboe 3.5 offers a wide variety of customization, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
+
+Your account booking engine can be accessed using the below URL:
+
+https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX/
+
+Replace XXXXXXX with your Frontdesk Anywhere account number.
+
+This guide covers the set-up of Oboe 3.5 and selling POS products on your website.
 
 ##**Currency**  
 
