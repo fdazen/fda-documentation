@@ -11,9 +11,9 @@ published: true
 
 
 
-#**Accounting**  
+#**Internet Booking Engine Customization**  
 
-The Accounting section is about all of those settings that have to do payments and accounting. From here you can set up currency and accepted pay types and credit card types, number invoices, set up discount reasons and most importantly configure your Revenue Labels and Categories around which your reports are organized.  
+Testing.
 
 ##**Currency**  
 
