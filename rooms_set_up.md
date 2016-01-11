@@ -208,40 +208,42 @@ We have now come to the point where you need to build your hotel's room types: a
  
  To select the amenities applicable to this room type, select them among the available ones and use the arrows to move them from one panel to another: the ones under panel _Selected Amenities_ will be the one showing up in the system:  
  
-![30g.png]({{site.baseurl}}/images/30g.png)
+![Room_types_7.png]({{site.baseurl}}/images/Room_types_7.png)
 
 
  
  - Select whether this room type has to have an OBA. The OBA (**O**ver**b**ooking **A**llowance) will enable the room type to receive more bookings than the posted availability: you can decide how many overbookings you wish to allow by placing a numeric value in the box that appears when you check the box _OBA_:  
  
-![31g.png]({{site.baseurl}}/images/31g.png)
+![Room_types_8.png]({{site.baseurl}}/images/Room_types_8.png)
 
 
 
 **Note**: we advise to keep this box un-checked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support Team at support@frontdeskanywhere.com  
 
+
  - Finally, you can constraint the room type and make it visible only to certain user levels: simply un-check the box of the levels for which the room should _not_ be visible:  
 
-![32g.png]({{site.baseurl}}/images/32g.png)
+![Room_types_9.png]({{site.baseurl}}/images/Room_types_9.png)
+
 
 
 ##**Load Room Type Pictures**  
 
  - Go back to the Room Types List (Admin Settings - Room Types) and click on the blue link _Images_ on the right hand side of the relevant room type: 
  
-![45g.png]({{site.baseurl}}/images/45g.png)
+![Room_types_10.png]({{site.baseurl}}/images/Room_types_10.png)
 
 
   
   - To upload a picture, click on the blue button _Upload Photos_:  
   
-![46g.png]({{site.baseurl}}/images/46g.png)
+![Room_types_11.png]({{site.baseurl}}/images/Room_types_11.png)
 
 
   
   - You can upload more than one picture, and decide the order in which they are going to appear by setting the right priority at the bottom of any uploaded picture:  
   
-![47g.png]({{site.baseurl}}/images/47g.png)
+
 
 
   
@@ -263,7 +265,7 @@ You can now load in the system all of the rooms at your property, and organize t
 
 Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to edit the existing rooms before creating new ones, as rooms **cannot be erased** once created but only deactivated. Hence once you click on _Rooms_ , you will be presented with a list of existing rooms.  
 
- - To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
+- To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
 
 ![34g.png]({{site.baseurl}}/images/34g.png)
 
