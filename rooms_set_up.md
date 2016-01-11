@@ -118,36 +118,42 @@ Before creating your rooms, you will need to configure the amenities that are av
 ##**3. Room Classes**
 
 A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability.  
+
+
 **Note**: a class is different from a room _type_. If you do not need classes and types suffice, you can skip to the next section _Room Types_
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
-![16.png]({{site.baseurl}}/images/16.png)
+![Room_classes_1.png]({{site.baseurl}}/images/Room_classes_1.png)
+
 
 
 
  - You can create a new class by clicking on the blue button _Add a Class_ and a small window will pop up: type in the name of the class you wish to create and click on the blue button _Save_
  
-![18.png]({{site.baseurl}}/images/18.png)
+![Room_classes_2.png]({{site.baseurl}}/images/Room_classes_2.png)
 
 
 
  - To **EDIT** a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
  
-![19.png]({{site.baseurl}}/images/19.png)
+![Room_classes_3.png]({{site.baseurl}}/images/Room_classes_3.png)
+
 
  Insert the updated name and click on the button _Save_     
  
  
  - To **DELETE** a class, check the box on the left side of the class you wish to erase, and click on the blue button _Delete Selected Class_:  
  
-![20.png]({{site.baseurl}}/images/20.png)
+![Room_classes_4.png]({{site.baseurl}}/images/Room_classes_4.png)
+
 
 
  
  - To **DEACTIVATE** a class, un-check the box under column _Status_ relevant to the class you wish to make inactive:  
  
-![21.png]({{site.baseurl}}/images/21.png)
+![Room_classes_5.png]({{site.baseurl}}/images/Room_classes_5.png)
+
 
 
  **HOW TO USE CLASSES**: When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Class_ in order to have your rooms grouped by classes:  
