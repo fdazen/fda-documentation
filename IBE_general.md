@@ -1,9 +1,9 @@
 ---
 title: Internet Booking Engine
-tags: [internet booking engine, IBE]
-keywords: "internet booking engine, IBE"
-last_updated: "January 8th, 2016"
-summary: The Internet Booking Engine section is about how to customize the Internet Booking Engine (IBE).
+tags: [internet booking engine, IBE, online booking engine]
+keywords: "internet booking engine, IBE, online booking engine"
+last_updated: "January 11th, 2016"
+summary: This section describes how to customize the Internet Booking Engine (IBE).
 published: true
 ---
 
@@ -13,7 +13,7 @@ published: true
 
 #**Internet Booking Engine Customization**  
 
-Frontdesk Anywhere enables properties to offer a real-time online booking on their website. IBE is the name for the Frontdesk Anywhere “Internet Booking Engine”. Configuring the booking engine is fast, simple and user friendly. Oboe 3.5 offers a wide variety of customization, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
+Frontdesk Anywhere enables properties to offer real-time online booking on their website. IBE is the name for the Frontdesk Anywhere “Internet Booking Engine”. Configuring the booking engine is fast, simple and user friendly. IBE 3.5 offers a wide variety of customization, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
 
 Your account's booking engine can be accessed using the below URL:
 
@@ -21,28 +21,28 @@ https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX
 
 Replace XXXXXXX with your Frontdesk Anywhere account number.
 
-This guide covers the set-up of Oboe 3.5 and selling POS products on your website.
+This guide covers the set-up of IBE 3.5 and selling POS products on your website.
 
-##**Oboe Customization**  
+##**IBE Customization**  
 
 **Access:** Only the Administrator can access your property administration control panel. After logging in, the Administrator will see an “Admin Settings” tab at the top of the screen. Clicking on this tab will open the Control Panel where all of the property’s settings are managed.
 
 Here they will find a list of the main settings that need to be configured in order to begin using the Frontdesk Anywhere booking engine.
 
 
-##**Oboe Options**  
+##**IBE Options**  
 
-Under the Oboe section you can configure various attributes of your booking engine
+Under the IBE section you can configure various attributes of your booking engine
 
-**Stay Restrictions:** Stay Restrictions can now be accessed via the Rates section. Set special stay restrictions for your online booking guests. Typically, this is used for minimum night stays but can also advertise promotions. Simply enter a start and end date for the period and a message to your guests. Note - The previously used ‘Special Periods’ section does not apply to Oboe 3 and above.
+**Stay Restrictions:** Stay Restrictions can now be accessed via the Rates section. Set special stay restrictions for your online booking guests. Typically, this is used for minimum night stays but can also advertise promotions. Simply enter a start and end date for the period and a message to your guests. Note - The previously used ‘Special Periods’ section does not apply to IBE 3 and above.
 
-**Close Out Periods:** Use the ‘Stay Restrictions’ option under the Rates tab to close out the dates that people can book rooms for your property online. These close out periods may be for as little as one night or for several months at a time. Create a period by selecting a date range and select the room type(s) to close for that period. An optional description for your reference may be added. Use stay restrictions. Note -The Close Out Periods option under the Oboe tab does not apply to Oboe versions 3 and above.
+**Close Out Periods:** Use the ‘Stay Restrictions’ option under the Rates tab to close out the dates that people can book rooms for your property online. These close out periods may be for as little as one night or for several months at a time. Create a period by selecting a date range and select the room type(s) to close for that period. An optional description for your reference may be added. Use stay restrictions. Note -The Close Out Periods option under the IBE tab does not apply to IBE versions 3 and above.
 
 **Guest Requests:** Set-up pre-defined options that you want to offer your guests. Options appear as check boxes that can be selected. Selected options conveniently appear as notes in the guest folio.
 
 **Source of Business:** Allow your guests to tell you how they became aware of your property. This list is a sub-set of the master Sources of Business list you created in the General section. This feature can be selected as a requirement or for booking or simply left as a non required option.
 
-**Oboe Confirmation Type:**
+**IBE Confirmation Type:**
 **Confirmation Type:** Choose your booking confirmation as either Email or Credit Card. With either selection the email is required but you can choose to omit the requirement of providing a credit card so the guest is not charged immediately. The email only option is not supported if Credit Card Processing is enabled for your account.
 
 **Assign Room Logic:**
@@ -51,30 +51,30 @@ Split Bookings: Enable this feature to sell down to the last room available by 
 
 **Advanced Booking Period:** Set how many months in advance you allow your inventory to be available online for sale. Values between 2 and 36 months are allowed.
 
-**Upsell Items:** Offer items in your POS inventory to be sold at time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. Oboe 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
+**Upsell Items:** Offer items in your POS inventory to be sold at time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. IBE 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
 
 **Advanced Options:** Use this to add in Google Analytics codes as other customizations.
-The promo code field only shows if there are valid promotion codes. You can choose to always hide the promo code field. The only color that is applicable to Oboe 3.5 is the button color (this also changes the calendar color to match). You can now add a background image to the initial booking page allowing for enhanced personalization.
+The promo code field only shows if there are valid promotion codes. You can choose to always hide the promo code field. The only color that is applicable to IBE 3.5 is the button color (this also changes the calendar color to match). You can now add a background image to the initial booking page allowing for enhanced personalization.
 
 
 ##**Other Options**
 
-Additional settings that are used by Oboe can be found in other areas of the Admin Settings.
+Additional settings that are used by IBE can be found in other areas of the Admin Settings.
 
-**Contact Details:** In order to create the best appearance, you should upload a company logo for Oboe 3.5.Note - Any logo used should have a white background color.
+**Contact Details:** In order to create the best appearance, you should upload a company logo for IBE 3.5.Note - Any logo used should have a white background color.
 
-**Edit Room type:** You may add as many images to Oboe as you like and they will display in a gallery. The is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG. You may also change the ‘room alias’. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. Oboe will replace the word ‘room’ with the chosen the room alias in oboe.
+**Edit Room type:** You may add as many images to IBE as you like and they will display in a gallery. The is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG. You may also change the ‘room alias’. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. IBE will replace the word ‘room’ with the chosen the room alias in IBE.
 
-**Publish Rooms:** This feature closes out or “protects” a room type from being booked by Oboe and the OTA/GDS services.
+**Publish Rooms:** This feature closes out or “protects” a room type from being booked by IBE and the OTA/GDS services.
 A value of 0 will free sell all available rooms each night.
 A value equal to the total number of rooms in a room type will close it from being sold online.
 A value in between 0 and the total for a room type will stop selling that room type when your room availability is down to the number entered.
 
-**Categories:** Define the categories that will be displayed on Oboe for POS items.
+**Categories:** Define the categories that will be displayed on IBE for POS items.
 
-**POS Product:** Any POS item that will be included in Oboe should be accompanied by an image that illustrates the item for sale. You must keep POS item descriptions under 255 characters long.
+**POS Product:** Any POS item that will be included in IBE should be accompanied by an image that illustrates the item for sale. You must keep POS item descriptions under 255 characters long.
 
-**Payment Processing:** Under Accounting the Payment Processing settings can be set. With Oboe you can set any payment rules required at time of booking such as:
+**Payment Processing:** Under Accounting the Payment Processing settings can be set. With IBE you can set any payment rules required at time of booking such as:
 
 - Authorize Card: The card is authorized for $1 but not charged.
 
@@ -86,7 +86,7 @@ A value in between 0 and the total for a room type will stop selling that room t
 
 You can set-up a second payment rule that will be used instead of the primary rule when the booking occurs within a set number of days prior to arrival. For example, the primary rule is used during most occasions but the secondary rule is used when the booking is made within the set number of days prior to arrival (say 7 days prior to arrival).
 
-**Guest Messages:** Oboe uses three of the guest messages during the booking process.
+**Guest Messages:** IBE uses three of the guest messages during the booking process.
 
 - **Invoice message:** shown to the guest on the booking page, confirmation page and sent in the confirmation email
 
@@ -95,37 +95,37 @@ You can set-up a second payment rule that will be used instead of the primary ru
 - **Terms & Conditions:** Shown in a separate window that the guest must click on a link to open. Guests must check a box stating they agree to the terms prior to the booking being made.
 
 
-##**Publishing the Oboe Site**  
+##**Publishing the IBE Site**  
 
-Publishing your Oboe site is easy to do and requires very little HTML skills. We offer Oboe 3 in a responsive format that will automatically adjust the width down to 320 pixels.  Oboe 3’s responsiveness works well for mobile devices and embedding into websites ensuring a smooth booking process no matter what the platform.
+Publishing your IBE site is easy to do and requires very little HTML skills. We offer IBE 3 in a responsive format that will automatically adjust the width down to 320 pixels.  IBE 3’s responsiveness works well for mobile devices and embedding into websites ensuring a smooth booking process no matter what the platform.
 
-There are two easy ways to add Oboe to your site:
+There are two easy ways to add IBE to your site:
 
-- **Button link (recommended):** Place a link on your website that takes people directly to your Oboe page.  Since the link is responsive, the booking engine will be optimized for a variety of mobile devices. This is the recommended option as guests will have the optimal booking experience through using a button link.
+- **Button link (recommended):** Place a link on your website that takes people directly to your IBE page.  Since the link is responsive, the booking engine will be optimized for a variety of mobile devices. This is the recommended option as guests will have the optimal booking experience through using a button link.
 
-- **Iframe:** You can embed your Oboe page within your website using an iframe. There are many tutorials online to show you how to do this. Your webmaster can do this is in just a matter of a few minutes.
+- **Iframe:** You can embed your IBE page within your website using an iframe. There are many tutorials online to show you how to do this. Your webmaster can do this is in just a matter of a few minutes.
 
-Below is an example iframe code for embedding Oboe on your website. Replace the XXXXXXX in the URL with your account ID.
+Below is an example iframe code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
 
 <iframe src="https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX/"style="border: none;" frameborder="0" width="100%" height="700px" scrolling="no"></iframe>
 
 Be sure to place the link to your booking page prominently on every page of your site!
 
 **SSL Features**
-Your Oboe booking engine is protected by SSL encryption, which means you and your guests’ data is secure during transmission. If you use an embedded iframe, your guests will not be aware that their data is protected. You may wish to purchase an SSL certificate for your website so that these guests have even further reassurance that their information is safe.
+Your IBE booking engine is protected by SSL encryption, which means you and your guests’ data is secure during transmission. If you use an embedded iframe, your guests will not be aware that their data is protected. You may wish to purchase an SSL certificate for your website so that these guests have even further reassurance that their information is safe.
 
 **Promo Codes**
-Oboe 3 features a powerful promo code function that may be used for promotional rates or group specific negotiated rates. Setting up a promo code is a two-step process.
+IBE 3 features a powerful promo code function that may be used for promotional rates or group specific negotiated rates. Setting up a promo code is a two-step process.
 
-First, set-up the rate for your promotion, tag it as available on the Oboe channel. Tagging the rate as a Promo Rate will hide it from general availability. If this is left unchecked, the rate will be searchable by anyone coming to the site.
+First, set-up the rate for your promotion, tag it as available on the IBE channel. Tagging the rate as a Promo Rate will hide it from general availability. If this is left unchecked, the rate will be searchable by anyone coming to the site.
 
 Second, go to the Promo Code List in the Rates drop down and select Add a Promo code. Enter the promo code (not case sensitive, no spaces), descriptive name for your reference and the start and end sale dates and finally tag the rates to be shown when the promo code is entered.
 
 The start and end sale dates lets you offer your promotions only during a set period which does not need to coincide with the stay/rate availability dates. For example, you can offer an “EarlyBird” discount for people researching in the month of March for a stay in August. The promo code would be invalid if used in any other month and the person would see the normal rates available during that time.
 
-##**Oboe Booking Link Parameters**
+##**IBE Booking Link Parameters**
 
-There are several parameters that can be used with Oboe in order to give a more customized experience to your guests. Used in conjunction with a calendar picker booking widget this enables you to provide a highly customized experience for your users. With the link parameters you can:
+There are several parameters that can be used with IBE in order to give a more customized experience to your guests. Used in conjunction with a calendar picker booking widget this enables you to provide a highly customized experience for your users. With the link parameters you can:
 
 - Display only desired room types for a given promotion
 
@@ -135,11 +135,11 @@ There are several parameters that can be used with Oboe in order to give a more 
 
 - Display the rates and associated rooms tied to a promo code
 
-- Define a specific source, for example if you embed Oboe on your Facebook Business page
+- Define a specific source, for example if you embed IBE on your Facebook Business page
 
-**Oboe Link Parameter**
+**IBE Link Parameter**
 
-Oboe uses the following URL parameters to restrict the results offered to the user.
+IBE uses the following URL parameters to restrict the results offered to the user.
 
 rt=    Shows only the room type(s) selected. Use commas to separate multiple room types.
 rate=    Shows only the rate(s) selected. Use commas to separate multiple rates.
