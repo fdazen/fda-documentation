@@ -169,35 +169,40 @@ We have now come to the point where you need to build your hotel's room types: a
 
  - Start by clicking on the link **Room Types** under section _Rooms_ in the Admin Settings:  
  
-![25.png]({{site.baseurl}}/images/25.png)
+![Room_types_1.png]({{site.baseurl}}/images/Room_types_1.png)
+
 
  
  - To create a new room type, click on the blue button _Add a Room Type_:  
  
-![24g.png]({{site.baseurl}}/images/24g.png)
+![Room_types_2.png]({{site.baseurl}}/images/Room_types_2.png)
+
 
  
  - Fill up the fields with the requested information: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
  
-![26g.png]({{site.baseurl}}/images/26g.png)
+![Room_types_3.png]({{site.baseurl}}/images/Room_types_3.png)
+
 
 
  
  - From the _Room Alias_ drop down menu select whether the room type should be considered as different from a 'room': if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
 
-![27g.png]({{site.baseurl}}/images/27g.png)
+![Room_types_4.png]({{site.baseurl}}/images/Room_types_4.png)
+
 
  
 
  - Choose whether your room is to be gender-based: choosing _yes_ will prompt the system to have you choose what gender you want to default the room to:  
  
-![28g.png]({{site.baseurl}}/images/28g.png)
+![Room_types_5.png]({{site.baseurl}}/images/Room_types_5.png)
+
 
 
  
  - Select the maximum and default occupancy, and select the amenities applicable to this type of room: you will see two small panels, one called _Available Amenities_ and another called _Selected Amenities_, with two arrows in the middle:  
  
-![29g.png]({{site.baseurl}}/images/29g.png)
+![Room_types_6.png]({{site.baseurl}}/images/Room_types_6.png)
 
 
  
