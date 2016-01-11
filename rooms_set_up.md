@@ -312,7 +312,8 @@ Complete the rest of the information by selecting the right option from the scro
 
  - As mentioned above, rooms cannot be erased but they can be made inactive. Inactive rooms won't appear in your account anywhere. To make a room inactive, un-check the box under the _Status_ column for the relevant row:  
  
-![43g.png]({{site.baseurl}}/images/43g.png)
+
+![Rooms_9.png]({{site.baseurl}}/images/Rooms_9.png)
 
 
  
@@ -321,7 +322,8 @@ Complete the rest of the information by selecting the right option from the scro
  - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specific room:  
  
 
-![44g.png]({{site.baseurl}}/images/44g.png)
+![Rooms_10.png]({{site.baseurl}}/images/Rooms_10.png)
+
 
  
  
@@ -331,19 +333,21 @@ Complete the rest of the information by selecting the right option from the scro
  
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
-![49g.png]({{site.baseurl}}/images/49g.png)
+![Order_Rooms_1.png]({{site.baseurl}}/images/Order_Rooms_1.png)
 
  
  
  - You will see a list of all your newly created room types, each one with an editable box on the right hand side. Insert a numeric value in each box, according to the progressive order you want your room types to show up on the Tape Chart and click on the blue button _Save_:  
  
-![50g.png]({{site.baseurl}}/images/50g.png)
+![Order_Rooms_2.png]({{site.baseurl}}/images/Order_Rooms_2.png)
 
 
 
 **Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order.  
 
+
 ##**Published Rooms**  
+
 
 Frontdesk Anywhere allows you to take some rooms off all channels while still enabling you to operate on those rooms on the internal side. This can be handy when you do not want to advertise all of your availability, but prefer keeping a certain number of rooms for yourself or for internal purposes only.  
 
