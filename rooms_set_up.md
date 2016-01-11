@@ -262,7 +262,8 @@ You can now load in the system all of the rooms at your property, and organize t
 
 - In the Admin Settings, click on the blue link **Rooms** under section _Rooms_:  
 
-![33g.png]({{site.baseurl}}/images/33g.png)
+![Rooms_1.png]({{site.baseurl}}/images/Rooms_1.png)
+
 
 
 
@@ -270,42 +271,43 @@ Your Frontdesk Anywhere account comes with a few rooms already built, and we adv
 
 - To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
 
-![34g.png]({{site.baseurl}}/images/34g.png)
+![Rooms_2.png]({{site.baseurl}}/images/Rooms_2.png)
 
 
 
  - Insert the room name or number, the type it belongs to, the floor and the class. Once done, you can click on the blue button _Save_:  
  
-![35g.png]({{site.baseurl}}/images/35g.png)
+![Rooms_3.png]({{site.baseurl}}/images/Rooms_3.png)
 
 
  
  - To create a new room, scroll down the list of rooms and click on the button _Add a Room_ and follow the instructions above:  
  
-![37g.png]({{site.baseurl}}/images/37g.png)
+![Rooms_4.png]({{site.baseurl}}/images/Rooms_4.png)
+
 
  
  - You can also create multiple rooms at a time: click on the button _Add Multiple Room_ on the bottom of the page:  
  
-![38g.png]({{site.baseurl}}/images/38g.png)
-
+![Rooms_5.png]({{site.baseurl}}/images/Rooms_5.png)
 
  
 Depending on whether you wish to enter room names or room numbers, select the right circle box so to be able to make the right fields editable. If you want to insert different room names, make sure to only place a coma as a separator between the names:  
 
-![40g.png]({{site.baseurl}}/images/40g.png)
+![Rooms_6.png]({{site.baseurl}}/images/Rooms_6.png)
+
 
 
 If you wish to create room numbers, place the prefix for your rooms and the from/to number value in the boxes, as in the example below:  
 
-![41g.png]({{site.baseurl}}/images/41g.png)
+
+![Rooms_7.png]({{site.baseurl}}/images/Rooms_7.png)
 
 
 
 Complete the rest of the information by selecting the right option from the scroll down menu and click on the blue button _Save_:  
 
-![42g.png]({{site.baseurl}}/images/42g.png)
-
+![Rooms_8.png]({{site.baseurl}}/images/Rooms_8.png)
   
 
  - As mentioned above, rooms cannot be erased but they can be made inactive. Inactive rooms won't appear in your account anywhere. To make a room inactive, un-check the box under the _Status_ column for the relevant row:  
