@@ -13,349 +13,148 @@ published: true
 
 #**Internet Booking Engine Customization**  
 
-Frontdesk Anywhere enables properties to offer a real-time online booking on their website. Oboe is the name for the Frontdesk Anywhere “Online BOoking Engine”. Configuring the booking engine is fast, simple and user friendly. Oboe 3.5 offers a wide variety of customization, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
+Frontdesk Anywhere enables properties to offer a real-time online booking on their website. IBE is the name for the Frontdesk Anywhere “Internet Booking Engine”. Configuring the booking engine is fast, simple and user friendly. Oboe 3.5 offers a wide variety of customization, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
 
-Your account booking engine can be accessed using the below URL:
+Your account's booking engine can be accessed using the below URL:
 
-https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX/
+https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX
 
 Replace XXXXXXX with your Frontdesk Anywhere account number.
 
 This guide covers the set-up of Oboe 3.5 and selling POS products on your website.
 
-##**Currency**  
+##**Oboe Customization**  
 
-During the intial system set-up it is important for you to configure the right currency, as this will be displayed in all guest communications and if applicable, on OBE.  
+**Access:** Only the Administrator can access your property administration control panel. After logging in, the Administrator will see an “Admin Settings” tab at the top of the screen. Clicking on this tab will open the Control Panel where all of the property’s settings are managed.
 
-- Click on the blue link **Currency** under section _Accounting_:
+Here they will find a list of the main settings that need to be configured in order to begin using the Frontdesk Anywhere booking engine.
 
-![1f.png]({{site.baseurl}}/images/1f.png)
- 
 
-- Select the right currency among the ones available in the scroll down menu:  
+##**Oboe Options**  
 
-![2f.png]({{site.baseurl}}/images/2f.png)
+Under the Oboe section you can configure various attributes of your booking engine
 
+**Stay Restrictions:** Stay Restrictions can now be accessed via the Rates section. Set special stay restrictions for your online booking guests. Typically, this is used for minimum night stays but can also advertise promotions. Simply enter a start and end date for the period and a message to your guests. Note - The previously used ‘Special Periods’ section does not apply to Oboe 3 and above.
 
-**Note**: if your currency is not listed in the drop down menu, please contact our Support Team at support@frontdeskanywhere.com and ask them to have the currency added to your account!  
+**Close Out Periods:** Use the ‘Stay Restrictions’ option under the Rates tab to close out the dates that people can book rooms for your property online. These close out periods may be for as little as one night or for several months at a time. Create a period by selecting a date range and select the room type(s) to close for that period. An optional description for your reference may be added. Use stay restrictions. Note -The Close Out Periods option under the Oboe tab does not apply to Oboe versions 3 and above.
 
- - Choose whether to enable security deposits on your reservation folios by clicking on the relevant circle box.
+**Guest Requests:** Set-up pre-defined options that you want to offer your guests. Options appear as check boxes that can be selected. Selected options conveniently appear as notes in the guest folio.
 
-![4f.png]({{site.baseurl}}/images/4f.png)
+**Source of Business:** Allow your guests to tell you how they became aware of your property. This list is a sub-set of the master Sources of Business list you created in the General section. This feature can be selected as a requirement or for booking or simply left as a non required option.
 
+**Oboe Confirmation Type:**
+**Confirmation Type:** Choose your booking confirmation as either Email or Credit Card. With either selection the email is required but you can choose to omit the requirement of providing a credit card so the guest is not charged immediately. The email only option is not supported if Credit Card Processing is enabled for your account.
 
-Activating the security deposit will enable you to record payments as deposits rather than payments proper. When deposits are enabled, there will be track of them in each reservation folio:  
+**Assign Room Logic:**
+**Assign Rooms:** Set whether web bookings are saved with a room assigned or as unassigned.
+Split Bookings: Enable this feature to sell down to the last room available by splitting reservations if single a room is not available for the entire duration. Disabling this feature will prevent splits but will prevent booking even though there is some room available at the property.
 
-![3f.png]({{site.baseurl}}/images/3f.png)
+**Advanced Booking Period:** Set how many months in advance you allow your inventory to be available online for sale. Values between 2 and 36 months are allowed.
 
+**Upsell Items:** Offer items in your POS inventory to be sold at time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. Oboe 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
 
-##**Fiscal Year**  
+**Advanced Options:** Use this to add in Google Analytics codes as other customizations.
+The promo code field only shows if there are valid promotion codes. You can choose to always hide the promo code field. The only color that is applicable to Oboe 3.5 is the button color (this also changes the calendar color to match). You can now add a background image to the initial booking page allowing for enhanced personalization.
 
-Each property has a different starting date for their Fiscal Year, depending on applicable governmental laws: for this reason we advise you to set this up during the intial configuration of your account.  
 
-- Click on the blue link **Fiscal Year** under section _Accounting_:  
+##**Other Options**
 
-![5f.png]({{site.baseurl}}/images/5f.png)
+Additional settings that are used by Oboe can be found in other areas of the Admin Settings.
 
+**Contact Details:** In order to create the best appearance, you should upload a company logo for Oboe 3.5.Note - Any logo used should have a white background color.
 
- - Select the month and the year of your fiscal year by following the format below: your current fiscal year is also displayed, in case you forgot!  
- 
-![6f.png]({{site.baseurl}}/images/6f.png)
+**Edit Room type:** You may add as many images to Oboe as you like and they will display in a gallery. The is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG. You may also change the ‘room alias’. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. Oboe will replace the word ‘room’ with the chosen the room alias in oboe.
 
- 
- ## **Pay Types**  
- 
- Selecting the pay types that are accepted at your property is important to avoid the margin of human error of your front desk staff when they collect payments, it is also good when auditing and run reports!  
- 
- - In the Admin Settings, click on the blue link **Pay Types** under section _Accounting_:  
- 
- ![7f.png]({{site.baseurl}}/images/7f.png)
+**Publish Rooms:** This feature closes out or “protects” a room type from being booked by Oboe and the OTA/GDS services.
+A value of 0 will free sell all available rooms each night.
+A value equal to the total number of rooms in a room type will close it from being sold online.
+A value in between 0 and the total for a room type will stop selling that room type when your room availability is down to the number entered.
 
- 
- - You will see a list of all the defaulted pay types enabled for your account:  
- 
-![8f.png]({{site.baseurl}}/images/8f.png)
+**Categories:** Define the categories that will be displayed on Oboe for POS items.
 
- 
- - To **Add** a Pay Type, click on the blue button _Add a Pay Type_:  
- 
-![9f.png]({{site.baseurl}}/images/9f.png)
+**POS Product:** Any POS item that will be included in Oboe should be accompanied by an image that illustrates the item for sale. You must keep POS item descriptions under 255 characters long.
 
- 
- - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add. Click on the button _Save_ when finished: 
- 
-![10f.png]({{site.baseurl}}/images/10f.png)
+**Payment Processing:** Under Accounting the Payment Processing settings can be set. With Oboe you can set any payment rules required at time of booking such as:
 
- 
- - To **Delete** a Pay Type, select it by checking the box on its left side and click on the blue button _Delete Selected Pay Types_:  
- 
-![11f.png]({{site.baseurl}}/images/11f.png)
+- Authorize Card: The card is authorized for $1 but not charged.
 
+- Collect payment on first night rent: percentage value or flat amount
 
-##**Credit Card Types**
+- Collect payment on entire stay: percentage
 
-Along with Pay Types you can also configure all credit cards accepted at your property. Note that all accepted cards will show on your booking engine as available payment methods for your guests, and it is for this reason important to have them up to date.
+- Collect the greater of the two options
 
-- Click on the blue link **Credit Card Types** under section _Accounting_:  
+You can set-up a second payment rule that will be used instead of the primary rule when the booking occurs within a set number of days prior to arrival. For example, the primary rule is used during most occasions but the secondary rule is used when the booking is made within the set number of days prior to arrival (say 7 days prior to arrival).
 
-![12f.png]({{site.baseurl}}/images/12f.png)
-  
+**Guest Messages:** Oboe uses three of the guest messages during the booking process.
 
-- You will see a list of all active credit card types that by default comes with your account:  
+- **Invoice message:** shown to the guest on the booking page, confirmation page and sent in the confirmation email
 
-![13f.png]({{site.baseurl}}/images/13f.png)
- 
+- **Cancellation Policy:** shown to the guest on the booking and confirmation pages.
 
-- To **Add** a credit card type, click on the blue button _Add a Card Type_: a new row will appear with an editable text box; insert the name for your card type and click on the blue button _Save Changes_:  
+- **Terms & Conditions:** Shown in a separate window that the guest must click on a link to open. Guests must check a box stating they agree to the terms prior to the booking being made.
 
-![14f.png]({{site.baseurl}}/images/14f.png)
 
+##**Publishing the Oboe Site**  
 
-- To **Deactivate** a credit card type, uncheck the box under column status on the right hand side of the type you want to make inactive:  
+Publishing your Oboe site is easy to do and requires very little HTML skills. We offer Oboe 3 in a responsive format that will automatically adjust the width down to 320 pixels.  Oboe 3’s responsiveness works well for mobile devices and embedding into websites ensuring a smooth booking process no matter what the platform.
 
-![16f.png]({{site.baseurl}}/images/16f.png)
+There are two easy ways to add Oboe to your site:
 
+- **Button link (recommended):** Place a link on your website that takes people directly to your Oboe page.  Since the link is responsive, the booking engine will be optimized for a variety of mobile devices. This is the recommended option as guests will have the optimal booking experience through using a button link.
 
-##**Payment Processing**  
+- **Iframe:** You can embed your Oboe page within your website using an iframe. There are many tutorials online to show you how to do this. Your webmaster can do this is in just a matter of a few minutes.
 
-Frontdesk Anywhere allows you to integrate with many secure payment gateways that will make charging a guest's card much faster and your check-in process much easier! 
+Below is an example iframe code for embedding Oboe on your website. Replace the XXXXXXX in the URL with your account ID.
 
-**Note**: before starting, you will need to make sure to have enabled this feature in the system. Ask your Account Manager about it!
+<iframe src="https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX/"style="border: none;" frameborder="0" width="100%" height="700px" scrolling="no"></iframe>
 
-- In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
+Be sure to place the link to your booking page prominently on every page of your site!
 
-![17f.png]({{site.baseurl}}/images/17f.png)
+**SSL Features**
+Your Oboe booking engine is protected by SSL encryption, which means you and your guests’ data is secure during transmission. If you use an embedded iframe, your guests will not be aware that their data is protected. You may wish to purchase an SSL certificate for your website so that these guests have even further reassurance that their information is safe.
 
+**Promo Codes**
+Oboe 3 features a powerful promo code function that may be used for promotional rates or group specific negotiated rates. Setting up a promo code is a two-step process.
 
-- To add your Payment Gateway, click on the blue button _Add Payment Gateway_:  
+First, set-up the rate for your promotion, tag it as available on the Oboe channel. Tagging the rate as a Promo Rate will hide it from general availability. If this is left unchecked, the rate will be searchable by anyone coming to the site.
 
-![19f.png]({{site.baseurl}}/images/19f.png)
+Second, go to the Promo Code List in the Rates drop down and select Add a Promo code. Enter the promo code (not case sensitive, no spaces), descriptive name for your reference and the start and end sale dates and finally tag the rates to be shown when the promo code is entered.
 
+The start and end sale dates lets you offer your promotions only during a set period which does not need to coincide with the stay/rate availability dates. For example, you can offer an “EarlyBird” discount for people researching in the month of March for a stay in August. The promo code would be invalid if used in any other month and the person would see the normal rates available during that time.
 
-- Choose your gateway among the ones in the list. Note that they are listed in alphabetic order! In my example below, I am choosing Authorize.net:
+##**Oboe Booking Link Parameters**
 
-![20f.png]({{site.baseurl}}/images/20f.png)
+There are several parameters that can be used with Oboe in order to give a more customized experience to your guests. Used in conjunction with a calendar picker booking widget this enables you to provide a highly customized experience for your users. With the link parameters you can:
 
+- Display only desired room types for a given promotion
 
-- Scroll all the way down and go to the bottom of the page: name the gateway by editing the _Payment Gateway Label_ textbox. When done, enter the username and password for the gateway.
+- Display only the rate available for a promotion
 
-![21f.png]({{site.baseurl}}/images/21f.png)
+- Bypass the calendar page and skip to the available rooms
 
+- Display the rates and associated rooms tied to a promo code
 
-**Note**: the username and password should be provided to you by your Payment Gateway company.  
+- Define a specific source, for example if you embed Oboe on your Facebook Business page
 
-- When done, click on the blue button _Add Gateway_:  
+**Oboe Link Parameter**
 
-![22f.png]({{site.baseurl}}/images/22f.png)
+Oboe uses the following URL parameters to restrict the results offered to the user.
 
+rt=    Shows only the room type(s) selected. Use commas to separate multiple room types.
+rate=    Shows only the rate(s) selected. Use commas to separate multiple rates.
+checkin=    Use for the arrival date. Format is YYYY-MM-DD
+checkout=    Use for the departure date. Format is YYYY-MM-DD
+promocode=    Pass the promo code entered by the user
+source=    Use the source name. The source will automatically be entered into the folio
 
-- You will now be able to see the payment gateway:  
+**Example Link**
 
-![23f.png]({{site.baseurl}}/images/23f.png)
- 
+https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX index.php?rt=1,2,3,4&rate=285,286&checkin=2012-12-14&checkout=2012-12-15&promocode=test&source=facebook
 
-- All is left to do is enable the gateway on both/either the Frontdesk area and/or your Booking Engine. If the gateway is enabled on Frontdesk, you will be able to charge cards directly from the folios; making it active on the booking engine will enable automatic card charges when a guest finalizes a booking on your website:  
+When the guest is sent to the above link for your property it will take them directly to the available rooms page and show only rates 285 and 286 for room types 1, 2,3 and 4 for the night of December 14, 2011. The source on the reserved folio will automatically be set to facebook.
 
-![22f.png]({{site.baseurl}}/images/22f.png)
+Only the checkin and checkout parameters must be used together. The other options may be excluded or used separately as desired.
 
 
-Remember to set up how you want to collect payments on your Booking Engine by setting up rules in section _OBOE_.
-
-##**Credit Card Purge**
-
-As a security measure Frontdesk Anywhere enables you to erase, on a regular basis, the details of your guests’ credit card stored in your account.  
-
- - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
- 
-![24f.png]({{site.baseurl}}/images/24f.png)
-
- 
- - Edit the textbox with a number by keeping in mind that all credit card stored for more than the time frame you set, will be automatically erased. Click _Save_ when finished:
- 
-![26f.png]({{site.baseurl}}/images/26f.png)
-
-
-- The system will run once a day and erase all credit card information stored in the system, for the time frame you set up: if you wish to manually do this process, click on the blue button _Purge Credit Card Numbers_:  
-
-![27f.png]({{site.baseurl}}/images/27f.png)
-
-
-
-##**Invoices**
-
-You can check the number of your invoices with a simple click!
-
- - Click on the link **Invoices** under section _Accounting_:  
- 
-![28f.png]({{site.baseurl}}/images/28f.png)
-
- 
-  - The number of your Invoices will show at the center of the panel:  
-  
-![29f.png]({{site.baseurl}}/images/29f.png)
-
-  
-  
- ## **Discount Reasons**
-
-You may want to set up a list of reasons for those discounts that your hotel gives out regularly. Setting them up on your Frontdesk Anywhere account allows you to keep track of the reasons why discounts are given.  
-
-- In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
- 
-![30f.png]({{site.baseurl}}/images/30f.png)
-
- 
- - Click on the blue button _Add a Discount Reason_:  
-  
-![31f.png]({{site.baseurl}}/images/31f.png)
-
-  
- - There will appear two editable fields: place the Discount Reason Code and the associated Discount Reasons. The first will appear in each folio as an option to select for a discount! Once ready, click on the blue button _Save Changes_ when finished:  
- 
-![32f.png]({{site.baseurl}}/images/32f.png)
-
- 
- - To **DELETE** a Discount Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Discount Reason_:  
- 
-![33f.png]({{site.baseurl}}/images/33f.png)
-
- 
- **Note**: make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.   
-
-- You can **UN-DELETE** a previously deleted Discount Reason: on the top right hand side, select 'Deleted' from the scroll down menu with the written 'Active.  
-
-![34f.png]({{site.baseurl}}/images/34f.png)
-
-
-- Select the Discount Reason you want to re-activate by checking the box on the left hand side of the panel; then click on the blue button _Undelete Selected Discount Reason_:  
-
-![35f.png]({{site.baseurl}}/images/35f.png)
-
-
-Your active Discount Reasons will appear on each reserved folio, under section _Adjustment_:  
-
-![36f.png]({{site.baseurl}}/images/36f.png)
-
-
-Scroll down the menu with the tag _Select Adjustment Reason_:  
-
-![37f.png]({{site.baseurl}}/images/37f.png)
- 
-
-
-##**Discount Reasons: Department Options**  
-
-You can create Department options for the discount reasons you created, to make sure that all your discounts are approved and listed under the right department!  
-
- - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
- 
-![38f.png]({{site.baseurl}}/images/38f.png)
-
- 
- - To add a Department, click on the blue link _Add Department_:  
-
-![39f.png]({{site.baseurl}}/images/39f.png)
-
-
-- Insert the Department Code and the name of the Department: the first will appear in each reservation folio as an option to select. Click on the blue button _Save_ when finished:  
-
-![40f.png]({{site.baseurl}}/images/40f.png)
-
-
- - To **Delete** a Discount Department, select it by checking the box on the left hand side and click on the blue button _Delete Selected Department_:  
- 
-![41f.png]({{site.baseurl}}/images/41f.png)
-
- 
-  **Note**: make sure that you have at least one Department Option built in your account, as the system won't allow you to erase all of them.   
- 
- - You can make active those Department Options that have been previously deleted. Select the option _Delete_ from the scroll down menu on the right hand side of the Department Option panel:  
-
-![42f.png]({{site.baseurl}}/images/42f.png)
- 
-
- - Select it by checking the box on the left hand side of the item and click on the blue button _UnDelete Selected Department_:  
- 
-![43f.png]({{site.baseurl}}/images/43f.png)
-
- 
- You will be able to find and select your active Discount Department Options in any reservation folio, under section _Adjustment_:  
- 
-![44f.png]({{site.baseurl}}/images/44f.png)
-
- 
- Click on the scroll down menu _Select Department_ to choose the right option:  
- 
-![49f.png]({{site.baseurl}}/images/49f.png)
-
-
- 
- 
- ##**Revenue Account Labels**  
- 
- Revenue Account Labels are customizable tags that will help you organizing your reports. Thanks to these Labels you can group together similar items you are selling at your property (where _item_ is understood here as anything that produces revenue), and have a much better overview of where your earnings come from.  
- 
- - In the Admin Settings, click on the blue link **Revenue Account Labels**:  
- 
-![50f.png]({{site.baseurl}}/images/50f.png)
-
- 
- - You will notice that your account comes with four default labels which are commonly used by hotels.  To add a new Label, click on the blue link _Add Label_:  
- 
-![51f.png]({{site.baseurl}}/images/51f.png)
- 
- 
- - Another editable row will appear; insert the name for the new label, and click on the blue button _Save Changes_:  
- 
-![53f.png]({{site.baseurl}}/images/53f.png)
- 
-  - To **Deactivate** a Revenue Label, simply uncheck the relevant box under section _Status_:  
-  
-![54f.png]({{site.baseurl}}/images/54f.png)
-
-  
-  - To **Edit** a Label, click on the blue link _Edit_ on the right hand side of any label: the text in the panel will become editable, so you can amend the label name. When done, click on the blue button _Save Changes_:  
-  
-![55f.png]({{site.baseurl}}/images/55f.png)
-
-  
-  You Revenue Labels will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Label:   
-  
-![65f.png]({{site.baseurl}}/images/65f.png)
-
-
-
-
-##**Revenue Account Categories**  
-
-Revenue Account Categories are used to group together Revenue Account Lables. This will offer you yet another organizational level!
-
--  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
-
-![60f.png]({{site.baseurl}}/images/60f.png)
-
-
-- Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account. To add a new Category, click on the blue link _Add Category_:  
-
-![57f.png]({{site.baseurl}}/images/57f.png)
- 
-
-- You will see appearing a new editable row; insert the name for the new category, and click on the blue button _Save Changes_:
-
-![56f.png]({{site.baseurl}}/images/56f.png)
-
-
-- To **Deactivate** a Revenue Category, simply uncheck the relevant box under section _Status_: 
-
-![62f.png]({{site.baseurl}}/images/62f.png)
-
-
-- To **Edit** a Category, click on the blue link _Edit_ on the right hand side of any row: the text in the panel will become editable, so you can amend the category name. When done, click on the blue button _Save Changes_:  
-
-![63f.png]({{site.baseurl}}/images/63f.png)
-
-
-You Revenue Categories will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Category:  
-
-![56f.png]({{site.baseurl}}/images/56f.png)
 
