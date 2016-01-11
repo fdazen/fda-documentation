@@ -103,13 +103,15 @@ Before creating your rooms, you will need to configure the amenities that are av
 ![Room_amenities_5.png]({{site.baseurl}}/images/Room_amenities_5.png)
 
   
-  
+![Room_amenities_6.png]({{site.baseurl}}/images/Room_amenities_6.png)
+
 
   
   
   - To **DEACTIVATE** an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
   
-![8.png]({{site.baseurl}}/images/8.png)
+![Room_amenities_7.png]({{site.baseurl}}/images/Room_amenities_7.png)
+
 
 
   
