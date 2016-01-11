@@ -158,10 +158,12 @@ A room class is a general concept referring to any extra organizational level yo
 
  **HOW TO USE CLASSES**: When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Class_ in order to have your rooms grouped by classes:  
  
-![24.png]({{site.baseurl}}/images/24.png)
+![Room_classes_6.png]({{site.baseurl}}/images/Room_classes_6.png)
+
 
 
 ##**Room Types**   
+
 
 We have now come to the point where you need to build your hotel's room types: as we understand it, a room 'type' is defined by the occupancy level, its position in the bulding and the type of amenities it offers. For example, common room types are 'King', 'Queen', 'Twin', and so on.  
 
