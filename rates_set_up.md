@@ -60,7 +60,8 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
  - **Deactivate**: to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
-![7.png]({{site.baseurl}}/images/7.png)
+![Tax_6.png]({{site.baseurl}}/images/Tax_6.png)
+
 
 
 
@@ -84,13 +85,15 @@ Although the system comes with a couple of rates already built-in, it will be go
 
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
  
-![8.png]({{site.baseurl}}/images/8.png)
+![Taxes_7.png]({{site.baseurl}}/images/Taxes_7.png)
+
 
 
  
  - You are now in the heart of a rate configuration, and you will see different information to fill in. Let's start by placing a name for your new rate, next to the tag _Rate Code_, and a brief description of the rate:  
  
-![9.png]({{site.baseurl}}/images/9.png)
+
+![Taxes_8.png]({{site.baseurl}}/images/Taxes_8.png)
 
   
  
