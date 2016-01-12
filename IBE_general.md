@@ -57,20 +57,29 @@ Enable split IBE bookings: Enable this feature to sell down to the last room av
 
 **Upsell Items:** Offer items in your POS inventory to be sold at time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. IBE 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
 
-**Advanced Options:** There are many different advanced options that may be configured. 
+**Advanced Options:** There are many different advanced options that may be configured.
+
 - Background Image: Upload an image to use as the background for IBE (JPEG only).
+
 - Background Image Options: Decide whether to display the background image only on the first page of IBE or throughout the whole booking process (default is first page only).
+
 - Promo Code Field: If for some reason you would like to disable all promo codes, you can choose to hide the option here. Otherwise IBE will display the promo code field if there are any valid promo codes.
+
 - Google Analytics ID: Use this to add in your Google Analytics ID to enable Google Analytics tracking on IBE.
+
 - Button Color: Choose the color for buttons as well as the calendar in IBE. Customers usually match or find a complemetary color to their logo color.
 
 **Payment Collection Rules**
 For Payment Collection Rules to work, make sure that you already have a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) for IBE. Also make sure that your confirmation type is set to 'Credit Card'.
 
 You may choose one option from the following four radio boxes:
+
 - Collect First Night Rent: for this option you must choose either a percentage of the first night's rent or a fixed amount.
+
 - Collect Sum of Entire Stay: for this option you must choose the percentage value (usually 100).
+
 - Collect Higher Amount From Options Above: selecting this option will choose whichever total amount is higher from the above options. Make sure that the above percent or fixed fields are filled out properly.
+
 - Authorize Only: This will authorize the credit card for $1.00 to make sure it is a valid credit card, but will not actually charge the customer.
 
 You may also choose the time period within which the rule will be activated as well as create multiple rules. For example, you may wish to create one rule which collects 100% of the entire stay that is enforced only if the arrival date is within one week of the booking date and a second rule which simply authorizes the card for bookings farther than a week away.
