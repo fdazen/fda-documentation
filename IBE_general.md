@@ -100,18 +100,6 @@ A value in between 0 and the total for a room type will stop selling that room t
 
 **POS Product:** Any POS item that will be included in IBE should be accompanied by an image that illustrates the item for sale. You must keep POS item descriptions under 255 characters long.
 
-**Payment Processing:** Under Accounting the Payment Processing settings can be set. With IBE you can set any payment rules required at time of booking such as:
-
-- Authorize Card: The card is authorized for $1 but not charged.
-
-- Collect payment on first night rent: percentage value or flat amount
-
-- Collect payment on entire stay: percentage
-
-- Collect the greater of the two options
-
-You can set-up a second payment rule that will be used instead of the primary rule when the booking occurs within a set number of days prior to arrival. For example, the primary rule is used during most occasions but the secondary rule is used when the booking is made within the set number of days prior to arrival (say 7 days prior to arrival).
-
 **Guest Messages:** IBE uses three of the guest messages during the booking process.
 
 - **Invoice message:** shown to the guest on the booking page, confirmation page and sent in the confirmation email
