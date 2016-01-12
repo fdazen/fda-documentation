@@ -131,9 +131,9 @@ There are two easy ways to add IBE to your site:
 - **Iframe:** You can embed your IBE page within your website using an iframe. There are many tutorials online to show you how to do this. Your webmaster can do this is in just a matter of a few minutes. We do NOT recommend iframes for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site.
 
 Below is an example iframe code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
-'''html
+```html
 	<iframe src="https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX/"style="border: none;" frameborder="0" width="100%" height="700px" scrolling="no"></iframe>
-'''
+```
 
 Be sure to place the link to your booking page prominently on every page of your site!
 
