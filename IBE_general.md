@@ -132,7 +132,7 @@ There are two easy ways to add IBE to your site:
 
 Below is an example iframe code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
 
-<iframe src="https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX/"style="border: none;" frameborder="0" width="100%" height="700px" scrolling="no"></iframe>
+	<pre><iframe src="https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX/"style="border: none;" frameborder="0" width="100%" height="700px" scrolling="no"></iframe></pre>
 
 Be sure to place the link to your booking page prominently on every page of your site!
 
