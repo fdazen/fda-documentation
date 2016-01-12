@@ -84,8 +84,9 @@ The **Daily Rate Grid** is where you can view and perform adjustments on the rat
 Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
 
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
- 
-![Taxes_7.png]({{site.baseurl}}/images/Taxes_7.png)
+
+
+![Rate_Classes_1.png]({{site.baseurl}}/images/Rate_Classes_1.png)
 
 
 
@@ -93,7 +94,8 @@ Although the system comes with a couple of rates already built-in, it will be go
  - You are now in the heart of a rate configuration, and you will see different information to fill in. Let's start by placing a name for your new rate, next to the tag _Rate Code_, and a brief description of the rate:  
  
 
-![Taxes_8.png]({{site.baseurl}}/images/Taxes_8.png)
+![Rate_Classes_2.png]({{site.baseurl}}/images/Rate_Classes_2.png)
+
 
   
  
@@ -101,7 +103,8 @@ Although the system comes with a couple of rates already built-in, it will be go
  
  - Check the box _Active_ if you want the rate to be enabled upon creation, and check the box _Allow Override_ if you want to enable the possibility to edit the rate on a reservation basis. Also, check the boxes for all the rate's applicable taxes:  
  
-![10.png]({{site.baseurl}}/images/10.png)
+
+![Rate_Classes_3.png]({{site.baseurl}}/images/Rate_Classes_3.png)
 
 
  
