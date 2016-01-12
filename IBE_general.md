@@ -92,7 +92,7 @@ These rules are only checked once at the time the booking is made. For instance,
 
 Additional settings that are used by IBE can be found in other areas of the Admin Settings.
 
-**Contact Details:** (under 'Property Info') In order to create the best appearance, you should upload a company logo for IBE 3.5.Note - Any logo used should have a white background color and be in JPEG format.
+**Contact Details:** (under 'Property Info') In order to create the best appearance, you should upload a company logo for IBE 3.5. Note - Any logo used should have a white background color and be in JPEG format.
 
 **Room Types:** (under 'Rooms') You may add as many images to IBE as you like and they will display in a gallery. This is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG.
 
@@ -158,12 +158,17 @@ There are several parameters that can be used with IBE in order to give a more c
 
 IBE uses the following URL parameters to restrict the results offered to the user.
 
-rt=    Shows only the room type(s) selected. Use commas to separate multiple room types.
-rate=    Shows only the rate(s) selected. Use commas to separate multiple rates.
-checkin=    Use for the arrival date. Format is YYYY-MM-DD
-checkout=    Use for the departure date. Format is YYYY-MM-DD
-promocode=    Pass the promo code entered by the user
-source=    Use the source name. The source will automatically be entered into the folio
+rt= Shows only the room type(s) selected. Use commas to separate multiple room types.
+
+rate= Shows only the rate(s) selected. Use commas to separate multiple rates.
+
+checkin= Use for the arrival date. Format is YYYY-MM-DD
+
+checkout= Use for the departure date. Format is YYYY-MM-DD
+
+promocode= Pass the promo code entered by the user
+
+source= Use the source name. The source will automatically be entered into the folio
 
 **Example Link**
 
