@@ -13,7 +13,7 @@ published: true
 
 #**Internet Booking Engine Customization**  
 
-Frontdesk Anywhere enables properties to offer real-time online booking on their website. IBE is the name for the Frontdesk Anywhere 'Internet Booking Engine'. Configuring the booking engine is fast, simple and user friendly. IBE 3.5 offers a wide variety of customization, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
+Frontdesk Anywhere enables properties to offer real-time commissionless online bookings on their website through IBE. IBE is the name for the Frontdesk Anywhere 'Internet Booking Engine'. Configuring the booking engine is fast, simple and user friendly. IBE 3.5 offers a wide variety of customizations, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
 
 Your account's booking engine can be accessed using the below URL:
 
@@ -34,28 +34,28 @@ Here they will find a list of the main settings that need to be configured in or
 
 Under the 'IBE' section you can configure various attributes of your booking engine
 
-**Promo Codes**
-IBE features a powerful promo code function that may be used for promotional rates or group specific negotiated rates. Setting up a promo code is a two-step process.
+**Promo Codes:**
+IBE features a powerful promo code function that may be used for promotional rates or group specific negotiated rates. Setting up a promo code is a three-step process.
 
 First, [set-up the rate](http://docs.frontdeskanywhere.net/build/rates_set_up.html) for your promotion, making sure to tag it as available on the IBE channel.
 
-Second, go to the 'Promo Code List' in the 'IBE' drop down and select 'Add a Promo Code'. Enter the promo code (not case sensitive, no spaces), descriptive name for your reference and the start and end sale dates and finally tag the rates to be shown when the promo code is entered.
+Second, go to the 'Promo Code List' in the 'IBE' drop down and select 'Add a Promo Code'. Enter the promo code (not case sensitive, no spaces), descriptive name for your reference and the start and end sale dates and finally tag the rate(s) which you created in the first step.
 
 The start and end sale dates lets you offer your promotions only during a set period which does not need to coincide with the stay/rate availability dates. For example, you can offer an “EarlyBird” discount for people researching in the month of March for a stay in August. The promo code would be invalid if used in any other month and the person would see the normal rates available during that time.
 
 Third, go back to the edit screens for the rates you just tagged. Scroll down towards the bottom and you will now see a checkbox allowing you to hide this rate from general availability unless the customer enters the promo code. If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code.
 
-**Guest Requests:** Set-up pre-defined options that you want to offer your guests. Options appear as check boxes that can be selected. Selected options conveniently appear as notes in the guest folio's comments section.
+**Guest Requests:** Set-up pre-defined options that you want to offer your guests. Options appear as check boxes that can be selected on IBE by the customer. Selected options conveniently appear as notes in the guest folio's comments section.
 
 **Confirmation Type:** Choose your booking confirmation as either Email or Credit Card. With either selection the email is required but you can choose to omit the requirement of providing a credit card so the guest is not charged immediately. The email only option is not supported if Credit Card Processing is enabled for your account.
 
 **Assign Room Logic:** 
 Assign rooms to IBE bookings: Set whether web bookings are saved with a room assigned or as unassigned.
-Enable split IBE bookings: Enable this feature to sell down to the last room available by splitting reservations if a single room is not available for the entire duration. Disabling this feature will prevent splits but will also prevent booking even though there is still availability at the property.
+Enable split IBE bookings: Enable this feature to sell down to the last room available by splitting reservations if a single room is not available for the entire duration. Disabling this feature will prevent splits but will also prevent bookings even though there may still be availability at the property.
 
 **Advanced Booking Period:** Set how many months in advance you allow your inventory to be available online for sale. Values between 2 and 36 months are allowed.
 
-**Upsell Items:** Offer items in your POS inventory to be sold at time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. IBE 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
+**Upsell Items:** Offer items in your POS inventory to be sold at the time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. IBE 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
 
 **Advanced Options:** There are many different advanced options that may be configured.
 
@@ -63,11 +63,11 @@ Enable split IBE bookings: Enable this feature to sell down to the last room av
 
 - Background Image Options: Decide whether to display the background image only on the first page of IBE or throughout the whole booking process (default is first page only).
 
-- Promo Code Field: If for some reason you would like to disable all promo codes, you can choose to hide the option here. Otherwise IBE will display the promo code field if there are any valid promo codes.
+- Promo Code Field: If for some reason you would like to disable all promo codes, you can choose to hide the field here. Otherwise IBE will display the promo code field if there are any valid promo codes.
 
 - Google Analytics ID: Use this to add in your Google Analytics ID to enable Google Analytics tracking on IBE.
 
-- Button Color: Choose the color for buttons as well as the calendar in IBE. Customers usually match or find a complemetary color to their logo color.
+- Button Color: Choose the color for buttons as well as the calendar in IBE. Customers usually match or find a complementary color to their logo color.
 
 **Payment Collection Rules**
 For Payment Collection Rules to work, make sure that you already have a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) for IBE. Also make sure that your confirmation type is set to 'Credit Card'.
@@ -92,24 +92,26 @@ These rules are only checked once at the time the booking is made. For instance,
 
 Additional settings that are used by IBE can be found in other areas of the Admin Settings.
 
-**Contact Details:** In order to create the best appearance, you should upload a company logo for IBE 3.5.Note - Any logo used should have a white background color.
+**Contact Details:** (under 'Property Info') In order to create the best appearance, you should upload a company logo for IBE 3.5.Note - Any logo used should have a white background color and be in JPEG format.
 
-**Edit Room type:** You may add as many images to IBE as you like and they will display in a gallery. The is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG. You may also change the ‘room alias’. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. IBE will replace the word ‘room’ with the chosen the room alias in IBE.
+**Room Types:** (under 'Rooms') You may add as many images to IBE as you like and they will display in a gallery. This is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG.
 
-**Stay Restrictions:** Stay Restrictions can now be accessed via the Rates section. Set special stay restrictions for your online booking guests. Typically, this is used for minimum night stays but can also advertise promotions. Simply enter a start and end date for the period and a message to your guests. Note - The previously used ‘Special Periods’ section does not apply to IBE 3 and above.
+You may also change the ‘room alias’. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. IBE will replace the word ‘room’ with the chosen room alias in IBE. Be aware that the title, description, max occupancy, default occupancy, and selected amenities are all displayed by IBE.
 
-**Close Out Periods:** Use the ‘Stay Restrictions’ option under the Rates tab to close out the dates that people can book rooms for your property online. These close out periods may be for as little as one night or for several months at a time. Create a period by selecting a date range and select the room type(s) to close for that period. An optional description for your reference may be added. Use stay restrictions. Note -The Close Out Periods option under the IBE tab does not apply to IBE versions 3 and above.
+**Stay Restrictions:** (under 'Rates') Set special stay restrictions for your online booking guests. Typically, this is used for minimum night stays but can also advertise promotions. Simply enter a start and end date for the period and a message to your guests.
 
-**Publish Rooms:** This feature closes out or “protects” a room type from being booked by IBE and the OTA/GDS services.
+**Close Out Periods:** Use the ‘Stay Restrictions’ option under the Rates tab to close out the dates that people can book rooms for your property online. These close out periods may be for as little as one night or for several months at a time. Create a period by selecting a date range and select the room type(s) to close for that period. An optional description for your reference may be added.
+
+**Published Rooms:** (under 'Rooms') This feature closes out or “protects” a room type from being booked by IBE and the OTA/GDS services.
 A value of 0 will free sell all available rooms each night.
 A value equal to the total number of rooms in a room type will close it from being sold online.
 A value in between 0 and the total for a room type will stop selling that room type when your room availability is down to the number entered.
 
-**Categories:** Define the categories that will be displayed on IBE for POS items.
+**Categories:** (under POS) Define the categories that will be displayed on IBE for POS items. Only categories that have POS items that are assigned to be shown on IBE will be displayed.
 
-**POS Product:** Any POS item that will be included in IBE should be accompanied by an image that illustrates the item for sale. You must keep POS item descriptions under 255 characters long.
+**Products:** (under POS) Any POS item that will be included in IBE should be accompanied by an image that illustrates the item for sale. You must keep POS item descriptions under 255 characters long.
 
-**Guest Messages:** IBE uses three of the guest messages during the booking process.
+**Guest Messages:** (under 'General') IBE uses three of the guest messages during the booking process.
 
 - **Invoice message:** shown to the guest on the booking page, confirmation page and sent in the confirmation email
 
@@ -120,13 +122,13 @@ A value in between 0 and the total for a room type will stop selling that room t
 
 ##**Publishing the IBE Site**  
 
-Publishing your IBE site is easy to do and requires very little HTML skills. We offer IBE 3 in a responsive format that will automatically adjust the width down to 320 pixels.  IBE 3’s responsiveness works well for mobile devices and embedding into websites ensuring a smooth booking process no matter what the platform.
+Publishing your IBE site is easy to do and requires very little HTML skills. We offer IBE 3.5 in a responsive format that will automatically adjust the width down to 320 pixels.  IBE’s responsiveness works well for mobile devices and embedding into websites ensuring a smooth booking process no matter what the platform.
 
 There are two easy ways to add IBE to your site:
 
 - **Button link (recommended):** Place a link on your website that takes people directly to your IBE page.  Since the link is responsive, the booking engine will be optimized for a variety of mobile devices. This is the recommended option as guests will have the optimal booking experience through using a button link.
 
-- **Iframe:** You can embed your IBE page within your website using an iframe. There are many tutorials online to show you how to do this. Your webmaster can do this is in just a matter of a few minutes.
+- **Iframe:** You can embed your IBE page within your website using an iframe. There are many tutorials online to show you how to do this. Your webmaster can do this is in just a matter of a few minutes. We do NOT recommend iframes for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site.
 
 Below is an example iframe code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
 
@@ -164,9 +166,9 @@ source=    Use the source name. The source will automatically be entered int
 
 **Example Link**
 
-https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX index.php?rt=1,2,3,4&rate=285,286&checkin=2012-12-14&checkout=2012-12-15&promocode=test&source=facebook
+https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX?rt=1,2,3,4&rate=285,286&checkin=2012-12-14&checkout=2012-12-15&promocode=test&source=facebook
 
-When the guest is sent to the above link for your property it will take them directly to the available rooms page and show only rates 285 and 286 for room types 1, 2,3 and 4 for the night of December 14, 2011. The source on the reserved folio will automatically be set to facebook.
+When the guest is sent to the above link for your property it will take them directly to the available rooms page and show only rates 285 and 286 for room types 1, 2, 3 and 4 for the night of December 14, 2012. The source on the reserved folio will automatically be set to facebook.
 
 Only the checkin and checkout parameters must be used together. The other options may be excluded or used separately as desired.
 
