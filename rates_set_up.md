@@ -257,48 +257,57 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
  - Once you amend and save the rate, you will see that the adjusted rate appears ina different color; the rate will be green if you are going over the rate set up in the Rate Class:  
  
-![35.png]({{site.baseurl}}/images/35.png)
+![Rate_Classes_21.png]({{site.baseurl}}/images/Rate_Classes_21.png)
+
 
 
  
  - It will show in red, if instead you are going below your base rate:  
  
-![36.png]({{site.baseurl}}/images/36.png)
+ 
+![Rate_Classes_22.png]({{site.baseurl}}/images/Rate_Classes_22.png)
+
 
  
  
  - In order to see what was the rate set up in your Rate Class, just hover the mouse over the boxes:  
  
-![37.png]({{site.baseurl}}/images/37.png)
+![Rate_Classes_23.png]({{site.baseurl}}/images/Rate_Classes_23.png)
+
 
  - Use the scroll down calendar to move across dates:  
  
-![38.png]({{site.baseurl}}/images/38.png)
+![Rate_Classes_24.png]({{site.baseurl}}/images/Rate_Classes_24.png)
+
 
 
  
  -You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
  
-![39.png]({{site.baseurl}}/images/39.png)
+![Rate_Classes_25.png]({{site.baseurl}}/images/Rate_Classes_25.png)
+
 
 
 
 - If your rate is applied to different room types, you will have a row for each of those types, so that you can easily edit them:  
 
-![40.png]({{site.baseurl}}/images/40.png)
+![Rate_Classes_26.png]({{site.baseurl}}/images/Rate_Classes_26.png)
+
 
 
 
 
 - If the rate you are viewing has a derived rate linked to it, the latter will automatically change accordingly any time that the Master rate is changed,:  
 
-![41.png]({{site.baseurl}}/images/41.png)
+![Rate_Classes_27.png]({{site.baseurl}}/images/Rate_Classes_27.png)
+
 
 
 
 - If you do not wish the derived rate to be changed, you can un-check the box with the tag _Apply to Derived Rates_:  
 
-![42.png]({{site.baseurl}}/images/42.png)
+![Rate_Classes_28.png]({{site.baseurl}}/images/Rate_Classes_28.png)
+
 
 
 
