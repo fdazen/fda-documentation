@@ -311,9 +311,10 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
 
-- If your the derived rate is applied to different room types, note that the rate will change only for those Derived Rates applied to the same room type as the Master Rate; if you want it to apply to all room types, then check the box next to the tag _APply to All Room Types_:  
+- If your the derived rate is applied to different room types, note that the rate will change only for those Derived Rates applied to the same room type as the Master Rate; if you want it to apply to all room types, then check the box next to the tag _Apply to All Room Types_:  
 
-![44.png]({{site.baseurl}}/images/44.png)
+![Rate_Classes_29.png]({{site.baseurl}}/images/Rate_Classes_29.png)
+
 
 
 
