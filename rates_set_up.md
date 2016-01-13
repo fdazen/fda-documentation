@@ -202,11 +202,12 @@ The three icons that appear under the column _Action_ are used to visualize/edit
  
  - Finally, you will need to choose what are the room types to which the rate will be applied to, and the channels on which it will be available:  
  
-![23.png]({{site.baseurl}}/images/23.png)
+![Rate_Classes_15.png]({{site.baseurl}}/images/Rate_Classes_15.png)
 
 
 
-You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _OBOE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
+
+You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _IBE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
  
  - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
  
@@ -214,15 +215,18 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  
  Duplicating a rate will come handy when you are trying to set up different rates for different room types. We are starting from the idea that although the value of the rate will be different, your Season Periods will probably be the same: a High Season, for example, is defined by the starting/ending date. Hence, instead of having to re-build all Season periods for each of your room type, you can duplicate an existing Rate Class with all its Season Periods, and simply place a different value in it!
  
- - In the _Rate Classes_, click on the button **Duplicate** on the right hand side of the relevant rate:  
+ - In the _Rate Classes_, click on the button **Duplicate** on the right hand side of the relevant rate: 
  
-![24.png]({{site.baseurl}}/images/24.png)
+ 
+![Rate_Classes_16.png]({{site.baseurl}}/images/Rate_Classes_16.png)
+
 
 
  
  - You will now need to amend all the information that is different from the rate you are duplicating from: commonly these are _Rate Code_, _Rate Description_, vlaue in each _Season Period_ and _Room Type_ applied:  
  
-![26.png]({{site.baseurl}}/images/26.png)
+![Rate_Classes_17.png]({{site.baseurl}}/images/Rate_Classes_17.png)
+
 
 
 
