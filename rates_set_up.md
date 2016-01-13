@@ -11,6 +11,7 @@ published: true
 
 
 
+
   
 
 #**Rates**
@@ -110,7 +111,8 @@ Although the system comes with a couple of rates already built-in, it will be go
  
 If you choose to check the _Allow Override_ box, the rate will become editable on the reservation folio. This means that the _Edit Rate_ link will become clickable.  
 
-![11.png]({{site.baseurl}}/images/11.png)
+
+![Rate_Classes_4.png]({{site.baseurl}}/images/Rate_Classes_4.png)
 
 
 
@@ -118,7 +120,7 @@ For more information on how to edit a rate on a per reservation basis, click her
 
 - Specify the type of rate you are creating by selecting the right option in the scroll down menu, next to the tag _Rate Type_:  
 
-![12.png]({{site.baseurl}}/images/12.png)
+![Rate_Classes_5.png]({{site.baseurl}}/images/Rate_Classes_5.png)
 
 
 
@@ -128,7 +130,8 @@ If you choose the option _Multiple Nights_, you will need to specify how many ni
 
 In the example below I am creating a weekly rate: 
 
-![13.png]({{site.baseurl}}/images/13.png)
+![Rate_Classes_6.png]({{site.baseurl}}/images/Rate_Classes_6.png)
+
 
  
 
@@ -136,7 +139,8 @@ Keep in mind that if you create a multiple nights rate, the latter will not show
 
 **Note**: If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement:  
 
-![14.png]({{site.baseurl}}/images/14.png)
+![Rate_Classes_7.png]({{site.baseurl}}/images/Rate_Classes_7.png)
+
 
  
 
@@ -144,7 +148,8 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 
  - Select the right Revenue Label in the drop down menu next to the tag _Revenue Label_:  
  
-![15.png]({{site.baseurl}}/images/15.png)
+![Rate_Classes_8.png]({{site.baseurl}}/images/Rate_Classes_8.png)
+
 
 
  
