@@ -156,12 +156,14 @@ However, note that differently from the Multiple Nights Rate, the value you plac
  - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
 
-![16.png]({{site.baseurl}}/images/16.png)
+![Rate_Classes_9.png]({{site.baseurl}}/images/Rate_Classes_9.png)
+
 
 
  - Insert all information requested: use the scroll down calendars to select the starting and ending date for the rate, place a description if necessary, select the days of the week you want the value to be valid for, and finally place the value for the rate in the first box:  
  
-![17.png]({{site.baseurl}}/images/17.png)
+![Rate_Classes_10.png]({{site.baseurl}}/images/Rate_Classes_10.png)
+
 
 
 
@@ -170,27 +172,31 @@ Click on the button _Save_ when done.
 
  -  You will now see your Season Period saved:  
  
-![18.png]({{site.baseurl}}/images/18.png)
+![Rate_Classes_11.png]({{site.baseurl}}/images/Rate_Classes_11.png)
+
 
 
  
 The three icons that appear under the column _Action_ are used to visualize/edit the season period, cancel it and duplicate it. Hovering on the icon will also explain to you what each one does:  
 
-![20.png]({{site.baseurl}}/images/20.png)
+![Rate_Classes_12.png]({{site.baseurl}}/images/Rate_Classes_12.png)
+
 
 
 
  - Duplicating a season period comes handy when you are building a weekend rate that is different from the weekly one: indeed, the starting/ending date for the season period will be the same, what is different is the value and the days of the week to which the rate applies. Hence, click on the icon to duplicate the season period and amend the relevant fields:  
  
-![21.png]({{site.baseurl}}/images/21.png)
+![Rate_Classes_13.png]({{site.baseurl}}/images/Rate_Classes_13.png)
+
 
 
  
  Click on _Save Period As Duplicate_ when finished.
  
- - You can continue to create more Season Periods by clicking on the button _Add New_:  
+ - You can continue to create more Season Periods by clicking on the button _Add Period_:  
  
-![22.png]({{site.baseurl}}/images/22.png)
+![Rate_Classes_14.png]({{site.baseurl}}/images/Rate_Classes_14.png)
+
 
   
  
