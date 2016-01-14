@@ -171,7 +171,7 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 
 
-Remember to set up how you want to collect payments on your Booking Engine by setting up rules in section _OBOE_.
+Remember to set up how you want to collect payments on your Booking Engine by setting up rules in section _IBE_.
 
 
 ##**Credit Card Purge**
