@@ -190,12 +190,14 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 - To erase a Market, select it by using the checkbox on the left hand side and click on the blue button _Delete Selected Market_:  
 
-![78r.png]({{site.baseurl}}/images/78r.png)
+![General_26.png]({{site.baseurl}}/images/General_26.png)
+
 
 
 - All active Markets will appear on the left side of any reservation folio:  
 
-![79r.png]({{site.baseurl}}/images/79r.png)
+![General_27.png]({{site.baseurl}}/images/General_27.png)
+
 
 
 
