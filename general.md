@@ -262,24 +262,28 @@ When you mark a field as **Required**, the system will force agents to insert th
 
  A **SELECT** option will create a scroll down menu with different options for the agent to select, like this one:  
  
-![92r.png]({{site.baseurl}}/images/92r.png)
+![General_36.png]({{site.baseurl}}/images/General_36.png)
+
 
  
  If you choose to create one, save it and then add those options by clicking on the blue link _Add Option_:  
  
-![90r.png]({{site.baseurl}}/images/90r.png)
+![General_37.png]({{site.baseurl}}/images/General_37.png)
+
 
  
  Insert your options and click on the button _Save_.
  
  A **MULTISELECT** option will create a scroll down menu where multiple options can be chosen, like the following one:  
  
-![95r.png]({{site.baseurl}}/images/95r.png)
+![General_38.png]({{site.baseurl}}/images/General_38.png)
+
 
  
  If you want to create one, save it and then add the options by clicking on the blue link _Add Option_:  
  
-![94r.png]({{site.baseurl}}/images/94r.png)
+![General_39.png]({{site.baseurl}}/images/General_39.png)
+
 
  
  A **TEXT AREA** will create a comment box in the folio guest profile:  
