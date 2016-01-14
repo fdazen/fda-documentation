@@ -88,7 +88,8 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
  
  
- - Once done, click on the blue button _Save Changes_ at the bottom of the page:  
+ - Once done, click on the blue button _Save Changes_ at the bottom of the page: 
+ 
  
 ![Users_10.png]({{site.baseurl}}/images/Users_10.png)
 
@@ -99,13 +100,15 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - To **Delete** User Levels, select the box on the left hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
  
-![14c.png]({{site.baseurl}}/images/14c.png)
+![Users_11.png]({{site.baseurl}}/images/Users_11.png)
+
 
 
  
  - To **Deactivate** a User Level, simply un-check the box on the right hand side of the User Levels List, under column _Status_:  
  
- ![15c.png]({{site.baseurl}}/images/15c.png)
+![Users_12.png]({{site.baseurl}}/images/Users_12.png)
+
 
 
  
