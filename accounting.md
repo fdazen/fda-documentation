@@ -356,12 +356,14 @@ You can create Department options for the discount reasons you created, to make 
   
   - To **Edit** a Label, click on the blue link _Edit_ on the right hand side of any label: the text in the panel will become editable, so you can amend the label name. When done, click on the blue button _Save Changes_:  
   
-![55f.png]({{site.baseurl}}/images/55f.png)
+![Accounting_47.png]({{site.baseurl}}/images/Accounting_47.png)
+
 
   
   You Revenue Labels will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Label:   
   
-![65f.png]({{site.baseurl}}/images/65f.png)
+![Accounting_48.png]({{site.baseurl}}/images/Accounting_48.png)
+
 
 
 
