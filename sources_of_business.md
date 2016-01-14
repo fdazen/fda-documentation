@@ -79,9 +79,10 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 
 
   
-  - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _FDX2_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
+  - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _Siteminder_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
   
 ![Sources_7.png]({{site.baseurl}}/images/Sources_7.png)
+
 
 
 
@@ -92,9 +93,7 @@ Here is a quick overview of what each channel means:
  **SITEMINDER** for those coming from your channel manager.  
  
 
-Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced:  
-
-![Sources_8.png]({{site.baseurl}}/images/Sources_8.png)
+Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced.
 
 
 
