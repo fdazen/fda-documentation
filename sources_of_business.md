@@ -74,13 +74,15 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
  
   - Click on the blue button _Add Source of Business Rule_:  
   
-![10d.png]({{site.baseurl}}/images/10d.png)
+
+![Sources_6.png]({{site.baseurl}}/images/Sources_6.png)
 
 
   
   - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _FDX2_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
   
-  ![203.png]({{site.baseurl}}/images/203.png)
+![Sources_7.png]({{site.baseurl}}/images/Sources_7.png)
+
 
 
 Here is a quick overview of what each channel means:  
