@@ -1,11 +1,13 @@
 ---
 title: General
-tags: [general]
+tags: 
+  - general
 keywords: "languages, modes of arrival, identification types, sources of business, markets, display colors, guest information, reservation information, custom fields, alerts, tape chart."
 last_updated: "November 19th, 2015"
 summary: "The _General_ section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones."
 published: true
 ---
+
 
 
 
@@ -20,27 +22,33 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
 
  - In the Admin Settings click on the link **Languages** under section _General_:  
  
-![40r.png]({{site.baseurl}}/images/40r.png)
+![General_1.png]({{site.baseurl}}/images/General_1.png)
+
 
 
  - You will see that English, Spanish and French are already loaded in the system: you can select which of these you want to have as default for your Online Booking Engine and for your system by checking the relevant boxes:  
  
-![41r.png]({{site.baseurl}}/images/41r.png)
+![General_2.png]({{site.baseurl}}/images/General_2.png)
+
 
  
  - You can also add different languages for some of the items in the system; to do this, click on the blue button _Add a Language_ and fill in all the fields with the appropriate translation:   
  
-![42r.png]({{site.baseurl}}/images/42r.png)
+![General_3.png]({{site.baseurl}}/images/General_3.png)
+
  
  
  - When finished, click on the blue button _Save Language_ at the bottom of the page:  
  
-![43r.png]({{site.baseurl}}/images/43r.png)
+ 
+![General_4.png]({{site.baseurl}}/images/General_4.png)
+
  
  
  **NOTE** Making a certain language the default one does not mean that all users will have the same language upon log-in. Each user can choose a different language for the same account and they can set this up on the _Preferences_ area:  
  
-![45r.png]({{site.baseurl}}/images/45r.png)
+![General_5.png]({{site.baseurl}}/images/General_5.png)
+
 
  
  Setting up a default language only means that all _new_ users will see the system in that language upon their first log-in.   
@@ -330,4 +338,3 @@ From time to time it might happen that you will need to update your Tape Chart: 
  - To run the Tape Chart, click on the blue button _Run Tape Chart_:  
  
 ![111r.png]({{site.baseurl}}/images/111r.png)
-
