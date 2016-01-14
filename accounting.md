@@ -149,17 +149,14 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 
 
-- Scroll all the way down and go to the bottom of the page: name the gateway by editing the _Payment Gateway Label_ textbox. When done, enter the username and password for the gateway.
+- Scroll all the way down and go to the bottom of the page: name the gateway by editing the _Payment Gateway Label_ textbox. Enter the username and password for the gateway and click on the blue button _Add Gateway_:
+
 
 ![Accounting_19.png]({{site.baseurl}}/images/Accounting_19.png)
 
 
 
 **Note**: the username and password should be provided to you by your Payment Gateway company.  
-
-- When done, click on the blue button _Add Gateway_:  
-
-![22f.png]({{site.baseurl}}/images/22f.png)
 
 
 - You will now be able to see the payment gateway:  
