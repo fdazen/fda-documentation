@@ -324,13 +324,15 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
  - In the _Rate Class_ list, click on the blue link **Derive** under column _Action_:  
  
-![28.png]({{site.baseurl}}/images/28.png)
+![Rate_Classes_30.png]({{site.baseurl}}/images/Rate_Classes_30.png)
+
 
 
  
  - Type in a name for the new rate and a new description, and select the type of adjustment you want to make:  
  
-![29.png]({{site.baseurl}}/images/29.png)
+![Rate_Classes_31.png]({{site.baseurl}}/images/Rate_Classes_31.png)
+
 
  
  
@@ -338,7 +340,8 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
  - Select the rooms to which the rate is to be applied and the channels and click on the blue button _Save_ when finished:  
  
-![30.png]({{site.baseurl}}/images/30.png)
+![Rate_Classes_32.png]({{site.baseurl}}/images/Rate_Classes_32.png)
+
 
 
  
