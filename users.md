@@ -138,25 +138,28 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 - As mentioned above, it is currently not possible to create a user directly from your account, and for this reason the name, last name and username of each user is not editable; if you need to make any amendments to those fields, please contact our Support Team at support@frontdeskanywhere.com.
 Select the right access level by using the scroll down menu next to the tag _User Type_:  
 
-![18c.png]({{site.baseurl}}/images/18c.png)
+![Users_15.png]({{site.baseurl}}/images/Users_15.png)
+
 
 
 
 - Choose the default view for the user, by selecting a choice from the drop down menu next to the tag _Default View_:  
 
-![19c.png]({{site.baseurl}}/images/19c.png)
+![Users_16.png]({{site.baseurl}}/images/Users_16.png)
+
 
 
 
 - Click on the blue link _Save User_ at the bottom of the screen, when finished:  
 
-![20c.png]({{site.baseurl}}/images/20c.png)
+![Users_17.png]({{site.baseurl}}/images/Users_17.png)
 
 
 
 - To **Deactivate** a user, un-check the box under column _Status_ on the right hand side of any user:  
 
-![21c.png]({{site.baseurl}}/images/21c.png)
+![Users_18.png]({{site.baseurl}}/images/Users_18.png)
+
 
 
 
@@ -164,7 +167,8 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 - If you have a lot of users, you might find it useful to filter them by level. You can do that by using the scroll down menu on the top right hand side of the screen:  
 
-![22c.png]({{site.baseurl}}/images/22c.png)
+![Users_19.png]({{site.baseurl}}/images/Users_19.png)
+
 
 
 
