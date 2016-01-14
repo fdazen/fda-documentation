@@ -138,17 +138,20 @@ You configure all the Identification Types that are accepted at your property in
 
 - You can make an existing Identification Type inactive by unchecking the box under the column _Status_:  
 
-![64r.png]({{site.baseurl}}/images/64r.png)
+![General_18.png]({{site.baseurl}}/images/General_18.png)
+
 
 
 - To permanently erase an Identification Type, select it by using the check box on the left hand side of the list and click on the blue button _Delete Selected Identification Types_:  
 
-![65r.png]({{site.baseurl}}/images/65r.png)
+![General_19.png]({{site.baseurl}}/images/General_19.png)
+
  
 
 - All active Identification Types will appear in the central section of each reservation folio:  
 
-![66r.png]({{site.baseurl}}/images/66r.png)
+![General_20.png]({{site.baseurl}}/images/General_20.png)
+
 
 
 ##**Markets**  
