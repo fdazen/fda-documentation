@@ -1,11 +1,13 @@
 ---
 title: Users
-tags: [users]
+tags: 
+  - users
 keywords: "users, user levels, user restrictions, shifts, permissions."
 last_updated: "November 23rd, 2015"
 summary: Learn how to create different system access level for your users.
 published: true
 ---
+
 
 
 
@@ -20,31 +22,36 @@ Creating different access levels for the system may be necessary to protect cert
 
  - In the Admin Settings, click on the blue link **User Levels** under section _Users_:  
  
-![1c.png]({{site.baseurl}}/images/1c.png)
+![Users_1.png]({{site.baseurl}}/images/Users_1.png)
+
 
 
  
  - Your system comes with four defaulted, common access levels, that you can edit before creating new ones:
  
-![2c.png]({{site.baseurl}}/images/2c.png)
+![Users_2.png]({{site.baseurl}}/images/Users_2.png)
+
 
 
  
  - To **Edit** a User Level, click on the blue link _Edit_ on the right hand side of any level:  
  
-![4c.png]({{site.baseurl}}/images/4c.png)
+![Users_3.png]({{site.baseurl}}/images/Users_3.png)
+
 
  
  
  - Select all of the areas that you want accessible for the User Level you are editing. In the example below, I am editing the _All Access_ level to include all areas of the system, thus I am checking all boxes. This means that users I list under this level will have a comprehensive access to the system:  
  
-![3c.png]({{site.baseurl}}/images/3c.png)
+![Users_4.png]({{site.baseurl}}/images/Users_4.png)
+
 
 
  
 The tags next to the check boxes refer to the tabs that appear on the top of your Tape Chart:  
 
-![7c.png]({{site.baseurl}}/images/7c.png)
+![Users_5.png]({{site.baseurl}}/images/Users_5.png)
+
 
 
   
