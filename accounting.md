@@ -121,7 +121,8 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 - To **Deactivate** a credit card type, uncheck the box under column status on the right hand side of the type you want to make inactive:  
 
-![16f.png]({{site.baseurl}}/images/16f.png)
+![Accounting_15.png]({{site.baseurl}}/images/Accounting_15.png)
+
 
 
 ##**Payment Processing**  
@@ -132,22 +133,26 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 - In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
 
-![17f.png]({{site.baseurl}}/images/17f.png)
+![Accounting_16.png]({{site.baseurl}}/images/Accounting_16.png)
+
 
 
 - To add your Payment Gateway, click on the blue button _Add Payment Gateway_:  
 
-![19f.png]({{site.baseurl}}/images/19f.png)
+![Accounting_17.png]({{site.baseurl}}/images/Accounting_17.png)
+
 
 
 - Choose your gateway among the ones in the list. Note that they are listed in alphabetic order! In my example below, I am choosing Authorize.net:
 
-![20f.png]({{site.baseurl}}/images/20f.png)
+![Accounting_18.png]({{site.baseurl}}/images/Accounting_18.png)
+
 
 
 - Scroll all the way down and go to the bottom of the page: name the gateway by editing the _Payment Gateway Label_ textbox. When done, enter the username and password for the gateway.
 
-![21f.png]({{site.baseurl}}/images/21f.png)
+![Accounting_19.png]({{site.baseurl}}/images/Accounting_19.png)
+
 
 
 **Note**: the username and password should be provided to you by your Payment Gateway company.  
