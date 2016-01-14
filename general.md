@@ -60,27 +60,32 @@ Create your guest's modes of arrival to keep track of how they come to your prop
 
  - In the Admin Settings, click on the link **Modes of Arrival** under section _General_:  
  
-![46r.png]({{site.baseurl}}/images/46r.png)
+![General_6.png]({{site.baseurl}}/images/General_6.png)
+
 
  
  - The system comes with a few Modes of Arrival defaulted in the system:  
  
-![47r.png]({{site.baseurl}}/images/47r.png)
+![General_7.png]({{site.baseurl}}/images/General_7.png)
+
 
  
  - If some of these arrival modes do not apply to your property, you can either deactivate them by un-checking the box under column _Status_:  
  
-![48r.png]({{site.baseurl}}/images/48r.png)
+![General_8.png]({{site.baseurl}}/images/General_8.png)
+
 
  
 or you can erase them by selecting the check box on the left hand side of any Modes of Arrival, and by clicking on the blue button _Delete Selected Modes of Arrival_:  
 
-![49r.png]({{site.baseurl}}/images/49r.png)
+![General_9.png]({{site.baseurl}}/images/General_9.png)
+
 
 
 - To create new Modes of Arrival, click on the blue button _Add Mode of Arrival_:  
 
-![50r.png]({{site.baseurl}}/images/50r.png)
+![General_10.png]({{site.baseurl}}/images/General_10.png)
+
  
 
 - Insert the name for the new Mode of Arrival and click on the blue button _Save Mode of Arrival_:  
