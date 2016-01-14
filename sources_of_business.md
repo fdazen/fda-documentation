@@ -88,11 +88,9 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 Here is a quick overview of what each channel means:  
 
  **FRONTDESK** for reservations manually entered on your Tape Chart.  
- **OBOE** for those coming from your **O**nline **B**ooking **E**ngine.  
- **INNLINK** for those reservation coming from Innlink.  
- **FDX2** for those coming from your channel manager.  
- **BDC** for those reservations coming via the Booking.com direct connection.  
- **EXPEDIA** for those coming via the Expedia direct connection.  
+ **IBE** for those coming from your **I**nternet **B**ooking **E**ngine.  
+ **SITEMINDER** for those coming from your channel manager.  
+ 
 
 Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced:  
 
