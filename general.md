@@ -205,6 +205,7 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 Frontdesk Anywhere allows you to personalize the number and type of fields you want to have in your reservation folios. Before starting, let us look at a reservation folio:  
 
+
 ![General_28.png]({{site.baseurl}}/images/General_28.png)
 
 
@@ -221,26 +222,30 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
  
  - You will see a list of all the current active fields in your folios:  
  
-![83r.png]({{site.baseurl}}/images/83r.png)
+![General_30.png]({{site.baseurl}}/images/General_30.png)
+
 
  
  - For each field, select whether you want it active or not by checking/unchecking the box under column _Status_:  
  
-![84r.png]({{site.baseurl}}/images/84r.png)
+![General_31.png]({{site.baseurl}}/images/General_31.png)
+
 
  
  **Note**: it is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it **Inactive**.  
  
  - For any field, select whether the field is required by checking/unchecking the box under column _Required_:  
 
-![85r.png]({{site.baseurl}}/images/85r.png)
+![General_32.png]({{site.baseurl}}/images/General_32.png)
+
 
 
 When you mark a field as **Required**, the system will force agents to insert the information into that field before they are able to create/operate on a folio.  
 
  - To add a Custom Field, click on the blue button _Add Custom Field_ at the bottom of the page:  
  
-![86r.png]({{site.baseurl}}/images/86r.png)
+![General_33.png]({{site.baseurl}}/images/General_33.png)
+
  
  
  - Insert the name in the first box and choose what _type_ of field you want to create by picking the irght choice form the scrll down menu:  
