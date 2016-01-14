@@ -58,13 +58,15 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
  - To **Add** a User Level, click on the blue button _Add a New User Level_:  
  
-![8c.png]({{site.baseurl}}/images/8c.png)
+![Users_6.png]({{site.baseurl}}/images/Users_6.png)
+
 
  
  
  - Give a name for the new User Level and check all the applicable boxes. When done, click on the blue button _Save Changes_:  
  
-![9c.png]({{site.baseurl}}/images/9c.png)
+![Users_7.png]({{site.baseurl}}/images/Users_7.png)
+
 
 
  
