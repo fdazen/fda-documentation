@@ -367,19 +367,21 @@ You can create Department options for the discount reasons you created, to make 
 
 
 
-
 ##**Revenue Account Categories**  
+
 
 Revenue Account Categories are used to group together Revenue Account Lables. This will offer you yet another organizational level!
 
 -  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
 
-![60f.png]({{site.baseurl}}/images/60f.png)
+![Accounting_49.png]({{site.baseurl}}/images/Accounting_49.png)
+
 
 
 - Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account. To add a new Category, click on the blue link _Add Category_:  
 
-![57f.png]({{site.baseurl}}/images/57f.png)
+![Accounting_50.png]({{site.baseurl}}/images/Accounting_50.png)
+
  
 
 - You will see appearing a new editable row; insert the name for the new category, and click on the blue button _Save Changes_:
