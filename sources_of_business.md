@@ -94,7 +94,8 @@ Here is a quick overview of what each channel means:
 
 Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced:  
 
-![204.png]({{site.baseurl}}/images/204.png)
+![Sources_8.png]({{site.baseurl}}/images/Sources_8.png)
+
 
 
 This means that when setting up your Sources Rules and deciding what channel to choose from the drop down menu, make sure to look at the Source Identifier's channel, as they will **need to be the same**. This is because the rule will need to recognize not only the source tag sent by the channel, but also the channel from which the tag has been sent.
