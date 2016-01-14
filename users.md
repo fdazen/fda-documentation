@@ -76,19 +76,22 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - In the User Level List, click on the blue link _Permissions_:  
  
-![10c.png]({{site.baseurl}}/images/10c.png)
+![Users_8.png]({{site.baseurl}}/images/Users_8.png)
+
 
   
  
  - Select all the actions you want to enable for users in that level, by checking the boxes next to each tag. The latter describes the kind of action you can enable/disable:  
  
-![11c.png]({{site.baseurl}}/images/11c.png)
+![Users_9.png]({{site.baseurl}}/images/Users_9.png)
+
 
  
  
  - Once done, click on the blue button _Save Changes_ at the bottom of the page:  
  
-![13c.png]({{site.baseurl}}/images/13c.png)
+![Users_10.png]({{site.baseurl}}/images/Users_10.png)
+
 
 
  
