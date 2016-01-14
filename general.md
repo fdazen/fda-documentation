@@ -307,22 +307,26 @@ When you mark a field as **Required**, the system will force agents to insert th
 
  - In the Admin Settings, click on the blue link **Display Colors** under section _General_: 
  
-![98r.png]({{site.baseurl}}/images/98r.png)
+![General_42.png]({{site.baseurl}}/images/General_42.png)
+
 
  
  - You will have a list of all the reservation and room status with the respective default colors:  
  
-![99r.png]({{site.baseurl}}/images/99r.png)
+![General_43.png]({{site.baseurl}}/images/General_43.png)
+
  
  
  - To change the color for any of these statuses, click on the colored field with the color code:  
  
-![100r.png]({{site.baseurl}}/images/100r.png)
+![General_44.png]({{site.baseurl}}/images/General_44.png)
+
 
  
  - Choose the colo you want by moving the arrows up or down on the color scale:  
  
-![101r.png]({{site.baseurl}}/images/101r.png)
+![General_45.png]({{site.baseurl}}/images/General_45.png)
+
 
  
  - Select your choice by clicking on the colored disc on the bottom right side of the small color panel:  
