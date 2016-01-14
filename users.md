@@ -186,25 +186,29 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
 - To start using shifts, you will need to change the Auditing Method from _Single Shift_ to _Multiple Shifts_, by using the scroll down menu:  
 
-![24c.png]({{site.baseurl}}/images/24c.png)
+![Users_21.png]({{site.baseurl}}/images/Users_21.png)
+
 
 
 
 - A list of all default shifts will appear: before creating new ones, you can edit the existing ones. Click on the blue link _Edit_ on the right hand side of the screen:  
 
-![26c.png]({{site.baseurl}}/images/26c.png)
+![Users_22.png]({{site.baseurl}}/images/Users_22.png)
+
 
  
 
 - Edit the name in the _Shift Title_ text box and when finished, click on the blue button _Save Shift_:  
 
-![27c.png]({{site.baseurl}}/images/27c.png)
+![Users_23.png]({{site.baseurl}}/images/Users_23.png)
+
 
 
 
 - To add a new shift, click on the button _Add Shift_: 
 
-![28c.png]({{site.baseurl}}/images/28c.png)
+![Users_24.png]({{site.baseurl}}/images/Users_24.png)
+
 
   
 
