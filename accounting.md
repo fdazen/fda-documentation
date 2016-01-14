@@ -422,7 +422,17 @@ The Revenue Account Manager helps you associating the irght Revenue Label and Ca
 
 - On the left hand side, you will see a column with all the items that you have created in the system, and that you are currently selling. For each of those, choose the right Label and Category by looking up the right option in the scroll down menus:  
 
+
 ![Accounting_56.png]({{site.baseurl}}/images/Accounting_56.png)
 
+
+- Note that the column that describes what kind of item it is, is not editable: it just serves as a reminder of what type of item it is!   
+
+![Accounting_57.png]({{site.baseurl}}/images/Accounting_57.png)
+
+
+- When finished, click on the button _Save Labels_:   
+
+![Accounting_58.png]({{site.baseurl}}/images/Accounting_58.png)
 
 
