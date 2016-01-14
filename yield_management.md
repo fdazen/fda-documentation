@@ -45,33 +45,39 @@ Let us start by defining what rules you want the system to follow.
   
   - Choose your conditions by selecting the relevant choices from the scroll down menus:  
   
-![64.png]({{site.baseurl}}/images/64.png)
+![Yield_4.png]({{site.baseurl}}/images/Yield_4.png)
+
  
   
   In the example above, I have set up a rule so that if my availability is more than 80% for the date range I have selected, the system will automatically decrease the price of 20%.  
   
   - You will be able to place different rules and also different conditions within the same rule, so long as they are not conflicting with one another. For this reason, we advise to keep these rules as straightforward as possible:  
   
-![65.png]({{site.baseurl}}/images/65.png)
+![Yield_5.png]({{site.baseurl}}/images/Yield_5.png)
+
   
   
   - Once you set up your conditions, you will need to define the room types and the rates that are to be subject to those rules: check the appropriate boxes, as in the picture below. Note that you will need to use the option _Select All_ if you want the conditions to take into account a Run of House rather than a certain room type:  
   
-![66.png]({{site.baseurl}}/images/66.png)
+![Yield_6.png]({{site.baseurl}}/images/Yield_6.png)
+
   
   It is important to understand that the availability value you place in the conditions is defined by what room types/rates the rule appiied to: in the example below, the occupancy conditions _80 %_ and _10%_ refer to the Run of House availability level; if I had chosen one room type, they would have only referred to that specific room type:  
   
-![67.png]({{site.baseurl}}/images/67.png)
+![Yield_7.png]({{site.baseurl}}/images/Yield_7.png)
+
 
 
  - If you wish to remove a condition, click on the blue button _Remove_ on the right side:  
  
-![68.png]({{site.baseurl}}/images/68.png)
+![Yield_8.png]({{site.baseurl}}/images/Yield_8.png)
+
  
  
  To **DEACTIVATE** a Yield Management Rule, go back to the rule list and un-check the box under the column _Status_ on the right hand side of the rule you want to make inactive: 
  
-![69.png]({{site.baseurl}}/images/69.png)
+![Yield_9.png]({{site.baseurl}}/images/Yield_9.png)
+
 
 
 To **EDIT** a rule, click on the blue link _Edit_ oin the rule list panel:  
