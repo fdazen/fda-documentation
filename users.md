@@ -179,7 +179,8 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
  - In the Admin Settings, click on the link **Shifts** under section _Users_:  
  
-![23c.png]({{site.baseurl}}/images/23c.png)
+![Users_20.png]({{site.baseurl}}/images/Users_20.png)
+
 
 
 
