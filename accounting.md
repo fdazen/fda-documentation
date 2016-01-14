@@ -333,21 +333,25 @@ You can create Department options for the discount reasons you created, to make 
  
  - In the Admin Settings, click on the blue link **Revenue Account Labels**:  
  
-![50f.png]({{site.baseurl}}/images/50f.png)
+![Accounting_43.png]({{site.baseurl}}/images/Accounting_43.png)
+
 
  
  - You will notice that your account comes with four default labels which are commonly used by hotels.  To add a new Label, click on the blue link _Add Label_:  
  
-![51f.png]({{site.baseurl}}/images/51f.png)
+![Accounting_44.png]({{site.baseurl}}/images/Accounting_44.png)
+
  
  
  - Another editable row will appear; insert the name for the new label, and click on the blue button _Save Changes_:  
  
-![53f.png]({{site.baseurl}}/images/53f.png)
+![Accounting_45.png]({{site.baseurl}}/images/Accounting_45.png)
+
  
   - To **Deactivate** a Revenue Label, simply uncheck the relevant box under section _Status_:  
   
-![54f.png]({{site.baseurl}}/images/54f.png)
+![Accounting_46.png]({{site.baseurl}}/images/Accounting_46.png)
+
 
   
   - To **Edit** a Label, click on the blue link _Edit_ on the right hand side of any label: the text in the panel will become editable, so you can amend the label name. When done, click on the blue button _Save Changes_:  
