@@ -132,6 +132,7 @@ A room class is a general concept referring to any extra organizational level yo
 
 
 
+
  - You can create a new class by clicking on the blue button _Add a Class_ and a small window will pop up: type in the name of the class you wish to create and click on the blue button _Save_
  
 ![Room_classes_2.png]({{site.baseurl}}/images/Room_classes_2.png)
