@@ -247,22 +247,26 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 - You can **UN-DELETE** a previously deleted Discount Reason: on the top right hand side, select 'Deleted' from the scroll down menu with the written 'Active.  
 
-![34f.png]({{site.baseurl}}/images/34f.png)
+![Accounting_31.png]({{site.baseurl}}/images/Accounting_31.png)
+
 
 
 - Select the Discount Reason you want to re-activate by checking the box on the left hand side of the panel; then click on the blue button _Undelete Selected Discount Reason_:  
 
-![35f.png]({{site.baseurl}}/images/35f.png)
+![Accounting_32.png]({{site.baseurl}}/images/Accounting_32.png)
+
 
 
 Your active Discount Reasons will appear on each reserved folio, under section _Adjustment_:  
 
-![36f.png]({{site.baseurl}}/images/36f.png)
+![Accounting_33.png]({{site.baseurl}}/images/Accounting_33.png)
+
 
 
 Scroll down the menu with the tag _Select Adjustment Reason_:  
 
-![37f.png]({{site.baseurl}}/images/37f.png)
+![Accounting_34.png]({{site.baseurl}}/images/Accounting_34.png)
+
  
 
 
