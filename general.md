@@ -288,12 +288,14 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  A **TEXT AREA** will create a comment box in the folio guest profile:  
  
-![96r.png]({{site.baseurl}}/images/96r.png)
+![General_40.png]({{site.baseurl}}/images/General_40.png)
+
 
  
   - As mentioned above, you can create information for Guests, but also for Travel Agents and Company profiles. To create fields for the latter, select your option form the scroll down menu that appears on top of the _Guest Profile Custom Fields_ list:  
   
-![97r.png]({{site.baseurl}}/images/97r.png)
+![General_41.png]({{site.baseurl}}/images/General_41.png)
+
 
   
   - The _Reservation Information: Custom Fields_ link works the same as the _Guest Information: Custom Fields_ one.  
