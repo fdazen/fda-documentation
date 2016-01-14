@@ -113,22 +113,27 @@ You configure all the Identification Types that are accepted at your property in
 
 - In the Admin Settings, click on the link **Identification Types** under section _General_:  
 
-![60r.png]({{site.baseurl}}/images/60r.png)
+![General_14.png]({{site.baseurl}}/images/General_14.png)
+
 
 
 - Your account comes with some defaulted identification types. To create a new identification type, click on the blue button _Add Identification Type_ at the bottom of the page: 
 
-![71r.png]({{site.baseurl}}/images/71r.png)
+![General_15.png]({{site.baseurl}}/images/General_15.png)
+
+
 
 
 - Insert the name for the new identification type, and click on the blue button _Save Identification Type_ when done:  
 
-![62r.png]({{site.baseurl}}/images/62r.png)
+![General_16.png]({{site.baseurl}}/images/General_16.png)
 
 
-- To edit an Identification Type, click on the blue link _Edit_ on the right hand side of the Identification Types List:  
 
-![63r.png]({{site.baseurl}}/images/63r.png)
+- To **EDIT** an Identification Type, click on the blue link _Edit_ on the right hand side of the Identification Types List:  
+
+![General_17.png]({{site.baseurl}}/images/General_17.png)
+
 
 
 - You can make an existing Identification Type inactive by unchecking the box under the column _Status_:  
