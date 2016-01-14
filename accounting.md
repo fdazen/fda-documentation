@@ -43,7 +43,8 @@ During the intial system set-up it is important for you to configure the right c
 
 Activating the security deposit will enable you to record payments as deposits rather than payments proper. When deposits are enabled, there will be track of them in each reservation folio:  
 
-![3f.png]({{site.baseurl}}/images/3f.png)
+![Accounting_4.png]({{site.baseurl}}/images/Accounting_4.png)
+
 
 
 ##**Fiscal Year**  
@@ -52,12 +53,14 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 - Click on the blue link **Fiscal Year** under section _Accounting_:  
 
-![5f.png]({{site.baseurl}}/images/5f.png)
+![Accounting_5.png]({{site.baseurl}}/images/Accounting_5.png)
+
 
 
  - Select the month and the year of your fiscal year by following the format below: your current fiscal year is also displayed, in case you forgot!  
  
-![6f.png]({{site.baseurl}}/images/6f.png)
+![Accounting_6.png]({{site.baseurl}}/images/Accounting_6.png)
+
 
  
  ## **Pay Types**  
