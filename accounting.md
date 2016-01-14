@@ -276,22 +276,27 @@ You can create Department options for the discount reasons you created, to make 
 
  - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
  
-![38f.png]({{site.baseurl}}/images/38f.png)
+![Accounting_35.png]({{site.baseurl}}/images/Accounting_35.png)
+
 
  
  - To add a Department, click on the blue link _Add Department_:  
+ 
 
-![39f.png]({{site.baseurl}}/images/39f.png)
+![Accounting_36.png]({{site.baseurl}}/images/Accounting_36.png)
 
 
 - Insert the Department Code and the name of the Department: the first will appear in each reservation folio as an option to select. Click on the blue button _Save_ when finished:  
 
-![40f.png]({{site.baseurl}}/images/40f.png)
+![Accounting_37.png]({{site.baseurl}}/images/Accounting_37.png)
+
+
 
 
  - To **Delete** a Discount Department, select it by checking the box on the left hand side and click on the blue button _Delete Selected Department_:  
  
-![41f.png]({{site.baseurl}}/images/41f.png)
+![Accounting_38.png]({{site.baseurl}}/images/Accounting_38.png)
+
 
  
   **Note**: make sure that you have at least one Department Option built in your account, as the system won't allow you to erase all of them.   
