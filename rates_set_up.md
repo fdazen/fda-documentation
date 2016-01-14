@@ -27,6 +27,7 @@ This section covers everything you need to know about rates set-up, taxes, fees 
 
 
 
+
 You will see a list of the existing taxes in the system: your Frontdesk Anywhere comes with three default taxes. At the moment although it is possible to deactivate a tax, it is not possible to erase it: hence, we advise to edit the existing ones, before creating new ones, as this will help keep your account cleaner.
 
  - To edit a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
@@ -343,6 +344,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  - Select the rooms to which the rate is to be applied and the channels and click on the blue button _Save_ when finished:  
  
 ![Rate_Classes_32.png]({{site.baseurl}}/images/Rate_Classes_32.png)
+
 
 
 
