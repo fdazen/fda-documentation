@@ -103,17 +103,20 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 - Click on the blue link **Credit Card Types** under section _Accounting_:  
 
-![12f.png]({{site.baseurl}}/images/12f.png)
+![Accounting_12.png]({{site.baseurl}}/images/Accounting_12.png)
+
   
 
 - You will see a list of all active credit card types that by default comes with your account:  
 
-![13f.png]({{site.baseurl}}/images/13f.png)
+![Accounting_13.png]({{site.baseurl}}/images/Accounting_13.png)
+
  
 
 - To **Add** a credit card type, click on the blue button _Add a Card Type_: a new row will appear with an editable text box; insert the name for your card type and click on the blue button _Save Changes_:  
 
-![14f.png]({{site.baseurl}}/images/14f.png)
+![Accounting_14.png]({{site.baseurl}}/images/Accounting_14.png)
+
 
 
 - To **Deactivate** a credit card type, uncheck the box under column status on the right hand side of the type you want to make inactive:  
