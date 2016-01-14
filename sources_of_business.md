@@ -1,11 +1,13 @@
 ---
 title: Sources of Business
-tags: [sources]
+tags: 
+  - sources
 keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
 last_updated: "November 17th, 2015"
 summary: "Sources of Business help you track the origin of your reservations. Learn how to set them up in your account before starting to receive reservations in your system!"
 published: true
 ---
+
 
 
 
@@ -33,32 +35,36 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
 
-![1d.png]({{site.baseurl}}/images/1d.png)
+![Sources_1.png]({{site.baseurl}}/images/Sources_1.png)
+
 
 
 
  
  - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
  
-![2d.png]({{site.baseurl}}/images/2d.png)
+![Sources_2.png]({{site.baseurl}}/images/Sources_2.png)
+
 
 
  
   - Click on the blue button _Add Source of Business Category_:  
   
-![7d.png]({{site.baseurl}}/images/7d.png)
+![Sources_3.png]({{site.baseurl}}/images/Sources_3.png)
+
 
 
   
   - Enter the name for your Category, and give it a brief description if you want. Once done, click on the grey button _Save_ on the right hand side of the screen:
   
-  ![201.png]({{site.baseurl}}/images/201.png)  
+![Sources_4.png]({{site.baseurl}}/images/Sources_4.png)
+
   
   - Repeat for all Sources you have.
   
  The Categories will show up in each reservation folios under the scroll down menu _Source_, on the right hand side of each folio:  
  
- ![202.png]({{site.baseurl}}/images/202.png)
+![Sources_5.png]({{site.baseurl}}/images/Sources_5.png)
  
  
  ##2. **Create your Source of Business Rules**  
