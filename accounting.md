@@ -173,23 +173,28 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 Remember to set up how you want to collect payments on your Booking Engine by setting up rules in section _OBOE_.
 
+
 ##**Credit Card Purge**
+
 
 As a security measure Frontdesk Anywhere enables you to erase, on a regular basis, the details of your guests’ credit card stored in your account.  
 
  - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
  
-![24f.png]({{site.baseurl}}/images/24f.png)
+![Accounting_22.png]({{site.baseurl}}/images/Accounting_22.png)
+
 
  
  - Edit the textbox with a number by keeping in mind that all credit card stored for more than the time frame you set, will be automatically erased. Click _Save_ when finished:
  
-![26f.png]({{site.baseurl}}/images/26f.png)
+![Accounting_23.png]({{site.baseurl}}/images/Accounting_23.png)
+
 
 
 - The system will run once a day and erase all credit card information stored in the system, for the time frame you set up: if you wish to manually do this process, click on the blue button _Purge Credit Card Numbers_:  
 
-![27f.png]({{site.baseurl}}/images/27f.png)
+![Accounting_24.png]({{site.baseurl}}/images/Accounting_24.png)
+
 
 
 
