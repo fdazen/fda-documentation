@@ -205,7 +205,8 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 Frontdesk Anywhere allows you to personalize the number and type of fields you want to have in your reservation folios. Before starting, let us look at a reservation folio:  
 
-![80r.png]({{site.baseurl}}/images/80r.png)
+![General_28.png]({{site.baseurl}}/images/General_28.png)
+
 
 
 You will notice that the folio is made out of three columns: the first one contains general information about the reservation, the middle one has fields regarding information about profiles. A profile can be a Guest, a Travel Agent or a Company.
@@ -214,7 +215,8 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
 
  - In the Admin Settings, click on the link _Guest Information: Custom Fields_:  
  
-![81r.png]({{site.baseurl}}/images/81r.png)
+![General_29.png]({{site.baseurl}}/images/General_29.png)
+
  
  
  - You will see a list of all the current active fields in your folios:  
