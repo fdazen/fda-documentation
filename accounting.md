@@ -405,4 +405,5 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 You Revenue Categories will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Category:  
 
-![56f.png]({{site.baseurl}}/images/56f.png)
+![Accounting_54.png]({{site.baseurl}}/images/Accounting_54.png)
+
