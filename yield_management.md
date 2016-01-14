@@ -82,7 +82,8 @@ Let us start by defining what rules you want the system to follow.
 
 To **EDIT** a rule, click on the blue link _Edit_ oin the rule list panel:  
 
-![70.png]({{site.baseurl}}/images/70.png)
+![Yield_10.png]({{site.baseurl}}/images/Yield_10.png)
+
 
  
 
@@ -92,12 +93,14 @@ Once the Yield Management Rules are created, you will need to specify how often 
 
  - Click on the link **Yield Management Settings** under section _Rates_:  
  
-![80.png]({{site.baseurl}}/images/80.png)
+![Yield_11.png]({{site.baseurl}}/images/Yield_11.png)
+
 
  
  - Using the scroll down menu, select the right time frame among the ones available, and click on the blue button _Save_ when finished:  
  
-![71255.png]({{site.baseurl}}/images/71255.png)
+![Yield_12.png]({{site.baseurl}}/images/Yield_12.png)
+
 
 
 
@@ -108,17 +111,20 @@ The time frame you choose in the Yield Management Settings will ensure that the 
 
  - To manually run the Yield Manager, click on link _Yield Management Rules_:  
  
-![72.png]({{site.baseurl}}/images/72.png)
+![Yield_1.png]({{site.baseurl}}/images/Yield_1.png)
+
 
  
  - Click on the blue button _Run Yield Management_:  
  
-![73.png]({{site.baseurl}}/images/73.png)
+![Yield_13.png]({{site.baseurl}}/images/Yield_13.png)
+
 
  
  - To see rate changes being effective, you will need to go into the _Daily Rate Grid_: you will be able to notice the rate changes, as the latter will appear in a different color from the Base Rate.  
  
-![74.png]({{site.baseurl}}/images/74.png)
+![Yield_14.png]({{site.baseurl}}/images/Yield_14.png)
+
   
  
  **NOTE**: the Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!
