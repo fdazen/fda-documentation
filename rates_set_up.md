@@ -347,7 +347,8 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
  - If you go back to the _Rate Class_ List, you will notice that the derived rate appears in that list marked with a capital, bold **D** and an arrow. The latter points to the Derived Rate's Master Rate:  
  
-![31.png]({{site.baseurl}}/images/31.png)
+![Rate_Classes_33.png]({{site.baseurl}}/images/Rate_Classes_33.png)
+
 
 
  
@@ -355,7 +356,8 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
 As for rooms, rates cannot be completely erased from the system; however, you can make them inactive by unchecking the box under the column _Status_ for any row:  
  
-![45.png]({{site.baseurl}}/images/45.png)
+![Rate_Classes_34.png]({{site.baseurl}}/images/Rate_Classes_34.png)
+
 
 
 
@@ -365,7 +367,8 @@ If you are building different rates for the same room type, you may want to cont
 
 When you open a folio, all applicable rates for the room type appear in the scroll down menu on the right hand side of the panel:  
 
-![81.png]({{site.baseurl}}/images/81.png)
+![Rate_Classes_35.png]({{site.baseurl}}/images/Rate_Classes_35.png)
+
 
 
 
