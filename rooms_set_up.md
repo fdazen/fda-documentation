@@ -79,7 +79,8 @@ Before creating your rooms, you will need to configure the amenities that are av
 
   - In the Admin Settings, click on the link **Room Amenities**:
   
-![Room_amenities_1.png]({{site.baseurl}}/images/Room_amenities_1.png)
+![Room_amenities_1 (2).png]({{site.baseurl}}/images/Room_amenities_1 (2).png)
+
 
 
   
