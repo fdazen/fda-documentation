@@ -337,12 +337,14 @@ When you mark a field as **Required**, the system will force agents to insert th
  
  - You can add more colors by clicking on the blue button **Add** next to the tag _Front Desk User Defined Colors_:  
  
-![103r.png]({{site.baseurl}}/images/103r.png)
+![General_47.png]({{site.baseurl}}/images/General_47.png)
+
 
  
  - To remove one color, just click on the blue button _Remove_ on the right hand side of any custom status:  
 
-![104r.png]({{site.baseurl}}/images/104r.png)
+![General_48.png]({{site.baseurl}}/images/General_48.png)
+
 
 
 ##**Alerts**
