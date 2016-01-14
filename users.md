@@ -216,17 +216,19 @@ The process is the same as editing one!
 
 - To **Deactivate** a shift, simply un-check the box under the column _Status_ on the right hand side of the screen:  
 
-![29c.png]({{site.baseurl}}/images/29c.png)
+![Users_25.png]({{site.baseurl}}/images/Users_25.png)
+
 
 
 
 Once shifts are created, users will be prompted to select a shift at the time when they log in in Frontdesk Anywhere:  
 
-![30c.png]({{site.baseurl}}/images/30c.png)
+![Users_26.png]({{site.baseurl}}/images/Users_26.png)
+
 
  
 
 Different users will be able to join the same shift upon log in. However, for auditing purposes it is important that shifts are not left open when they are supposed to be closed.
 To close a shift, click on the drop down menu next to the user's name on the top right of the Frontdesk Screen:  
 
-![31c.png]({{site.baseurl}}/images/31c.png)
+![Users_27.png]({{site.baseurl}}/images/Users_27.png)
