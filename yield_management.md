@@ -1,11 +1,13 @@
 ---
 title: Yield Management
-tags: [yield management]
+tags: 
+  - yield management
 keywords: "yield management, yield rules, yield settings"
 last_updated: "November 18th, 2015"
 summary: "Learn how to have your system perform automatic rate change based on your occupancy level!"
 published: true
 ---
+
 
 
 
@@ -23,17 +25,20 @@ Let us start by defining what rules you want the system to follow.
 
   - Click on the blue link **Yield Managament Rules** under section _Rates_:  
   
-  ![60.png]({{site.baseurl}}/images/60.png)
+![Yield_1.png]({{site.baseurl}}/images/Yield_1.png)
+
 
   
   - You will notice that your account comes with a few rules already embedded. Click on the blue button _New_ to create your own rule:  
   
-![61.png]({{site.baseurl}}/images/61.png)
+![Yield_2.png]({{site.baseurl}}/images/Yield_2.png)
+
 
   
   - Type in a name for the rule, and select the date range for which you want the rule to apply:  
   
-  ![62.png]({{site.baseurl}}/images/62.png)
+![Yield_3.png]({{site.baseurl}}/images/Yield_3.png)
+
 
   
   **NOTE**: Choosing '1' as a starting day **does not** mean that the Yield Manager will run on the current day, but on the following one. We currently do not support same-day yielding.
