@@ -407,3 +407,22 @@ You Revenue Categories will appear as filters in some of your Reports. Below is 
 
 ![Accounting_54.png]({{site.baseurl}}/images/Accounting_54.png)
 
+
+##**Revenue Account Manager**  
+
+
+The Revenue Account Manager helps you associating the irght Revenue Label and Category to whatever item you are selling at your property. If you have taken care to set up your account by associating the right Category and Label to each item, you will see all ifnormation displayed correctly in this page. If you have not, this page will help you make the right association in a quick and easy way!   
+
+
+-  In the Admin Settings, click on the blue link **Revenue Account Manager**, under section _Accounting_:    
+
+
+![Accounting_55.png]({{site.baseurl}}/images/Accounting_55.png)
+
+
+- On the left hand side, you will see a column with all the items that you have created in the system, and that you are currently selling. For each of those, choose the right Label and Category by looking up the right option in the scroll down menus:  
+
+![Accounting_56.png]({{site.baseurl}}/images/Accounting_56.png)
+
+
+
