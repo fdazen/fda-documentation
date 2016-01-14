@@ -160,27 +160,32 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 - In the Admin Settings, click on the link **Markets** under section _General_:  
 
-![67r.png]({{site.baseurl}}/images/67r.png)
+![General_21.png]({{site.baseurl}}/images/General_21.png)
+
 
 
 - Your account comes with some of the most commonly used Markets:  
 
-![68r.png]({{site.baseurl}}/images/68r.png)
+![General_22.png]({{site.baseurl}}/images/General_22.png)
+
 
 
 - To add a Market, click on the blue button _Add Market_ and place the right name in the field. When done, click on the blue button _Save Market_:  
 
-![72r.png]({{site.baseurl}}/images/72r.png)
+![General_23.png]({{site.baseurl}}/images/General_23.png)
+
 
 
 - To edit a Market, click on the link _Edit_ on the right hand side of the Markets List:  
 
-![76r.png]({{site.baseurl}}/images/76r.png)
+![General_24.png]({{site.baseurl}}/images/General_24.png)
+
  
 
 - To make a Market inactive, uncheck the relevant box under column _Status_:  
 
-![77r.png]({{site.baseurl}}/images/77r.png)
+![General_25.png]({{site.baseurl}}/images/General_25.png)
+
 
 
 - To erase a Market, select it by using the checkbox on the left hand side and click on the blue button _Delete Selected Market_:  
