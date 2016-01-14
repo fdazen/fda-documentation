@@ -353,17 +353,20 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 - In the Admin Settings, click on the link **Alerts** under section _General_:  
 
-![106r.png]({{site.baseurl}}/images/106r.png)
+![General_49.png]({{site.baseurl}}/images/General_49.png)
+
 
 
 - You will see a list of possible warnings that can be enabled in the system:  
 
-![107r.png]({{site.baseurl}}/images/107r.png)
+![General_50.png]({{site.baseurl}}/images/General_50.png)
+
 
 
 - For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; if you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_:  
 
-![108r.png]({{site.baseurl}}/images/108r.png)
+![General_51.png]({{site.baseurl}}/images/General_51.png)
+
  
 
 ##**Tape Chart**  
