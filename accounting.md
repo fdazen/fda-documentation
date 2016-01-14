@@ -1,11 +1,13 @@
 ---
 title: Accounting
-tags: [accounting]
+tags: 
+  - accounting
 keywords: "reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories, security deposit"
 last_updated: "November 25th, 2015"
 summary: The Accounting section is about all of those settings that have to do payments and accounting.
 published: true
 ---
+
 
 
 
@@ -21,19 +23,22 @@ During the intial system set-up it is important for you to configure the right c
 
 - Click on the blue link **Currency** under section _Accounting_:
 
-![1f.png]({{site.baseurl}}/images/1f.png)
+![Accounting_1.png]({{site.baseurl}}/images/Accounting_1.png)
+
  
 
 - Select the right currency among the ones available in the scroll down menu:  
 
-![2f.png]({{site.baseurl}}/images/2f.png)
+![Accounting_2.png]({{site.baseurl}}/images/Accounting_2.png)
+
 
 
 **Note**: if your currency is not listed in the drop down menu, please contact our Support Team at support@frontdeskanywhere.com and ask them to have the currency added to your account!  
 
  - Choose whether to enable security deposits on your reservation folios by clicking on the relevant circle box.
 
-![4f.png]({{site.baseurl}}/images/4f.png)
+![Accounting_3.png]({{site.baseurl}}/images/Accounting_3.png)
+
 
 
 Activating the security deposit will enable you to record payments as deposits rather than payments proper. When deposits are enabled, there will be track of them in each reservation folio:  
@@ -350,4 +355,3 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 You Revenue Categories will appear as filters in some of your Reports. Below is an example of a report you can organize by Revenue Category:  
 
 ![56f.png]({{site.baseurl}}/images/56f.png)
-
