@@ -227,17 +227,20 @@ You may want to set up a list of reasons for those discounts that your hotel giv
  
  - Click on the blue button _Add a Discount Reason_:  
   
-![31f.png]({{site.baseurl}}/images/31f.png)
+![Accounting_28.png]({{site.baseurl}}/images/Accounting_28.png)
+
 
   
  - There will appear two editable fields: place the Discount Reason Code and the associated Discount Reasons. The first will appear in each folio as an option to select for a discount! Once ready, click on the blue button _Save Changes_ when finished:  
  
-![32f.png]({{site.baseurl}}/images/32f.png)
+![Accounting_29.png]({{site.baseurl}}/images/Accounting_29.png)
+
 
  
  - To **DELETE** a Discount Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Discount Reason_:  
  
-![33f.png]({{site.baseurl}}/images/33f.png)
+![Accounting_30.png]({{site.baseurl}}/images/Accounting_30.png)
+
 
  
  **Note**: make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.   
