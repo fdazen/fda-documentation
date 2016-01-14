@@ -90,17 +90,20 @@ or you can erase them by selecting the check box on the left hand side of any Mo
 
 - Insert the name for the new Mode of Arrival and click on the blue button _Save Mode of Arrival_:  
 
-![51r.png]({{site.baseurl}}/images/51r.png)
+![General_11.png]({{site.baseurl}}/images/General_11.png)
+
 
 
 - You can also edit a Mode of Arrival by clicking on the blue link _Edit_ on the right hand side of the Mode of Arrival list:  
 
-![53r.png]({{site.baseurl}}/images/53r.png)
+![General_12.png]({{site.baseurl}}/images/General_12.png)
+
 
 
 - All Modes of Arrival show up in each reservation folio on the left hand side of the screen:  
 
-![54r.png]({{site.baseurl}}/images/54r.png)
+![General_13.png]({{site.baseurl}}/images/General_13.png)
+
 
 
 
