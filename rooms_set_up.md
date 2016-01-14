@@ -13,6 +13,7 @@ published: true
 
 
 
+
   
 #**Rooms Set Up**   
 
@@ -26,6 +27,7 @@ Let's start by set up the number of floors in your property. This is important a
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
 ![Floors_1.png]({{site.baseurl}}/images/Floors_1.png)
+
 
 
 
@@ -367,4 +369,3 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 - For each room type, insert the number of rooms you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
 ![Published_Rooms_3.png]({{site.baseurl}}/images/Published_Rooms_3.png)
-
