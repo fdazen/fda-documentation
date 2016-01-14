@@ -69,27 +69,32 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  - In the Admin Settings, click on the blue link **Pay Types** under section _Accounting_:  
  
- ![7f.png]({{site.baseurl}}/images/7f.png)
+![Accounting_7.png]({{site.baseurl}}/images/Accounting_7.png)
+
 
  
  - You will see a list of all the defaulted pay types enabled for your account:  
  
-![8f.png]({{site.baseurl}}/images/8f.png)
+![Accounting_8.png]({{site.baseurl}}/images/Accounting_8.png)
+
 
  
  - To **Add** a Pay Type, click on the blue button _Add a Pay Type_:  
  
-![9f.png]({{site.baseurl}}/images/9f.png)
+![Accounting_9.png]({{site.baseurl}}/images/Accounting_9.png)
+
 
  
  - A new row will appear along with an editable text box where you will need to insert the name of the new type of payment you want to add. Click on the button _Save_ when finished: 
  
-![10f.png]({{site.baseurl}}/images/10f.png)
+![Accounting_10.png]({{site.baseurl}}/images/Accounting_10.png)
+
 
  
  - To **Delete** a Pay Type, select it by checking the box on its left side and click on the blue button _Delete Selected Pay Types_:  
  
-![11f.png]({{site.baseurl}}/images/11f.png)
+![Accounting_11.png]({{site.baseurl}}/images/Accounting_11.png)
+
 
 
 ##**Credit Card Types**
