@@ -94,6 +94,7 @@ Some examples:
 
 
 
-- Some customers may have issues where Additional Revenue shows up on reports as something like “Incidental” or “Not defined”. This is because they have not set up revenue categories/labels correctly. To fix this, they have to create the labels and/or categories as required in v2 and then apply them to charges. This will not automatically fix historical data. If they want labels and categories applied to historical data then you will have to ask either me or Shane to ‘resync their transactions’.
+3. You might incur into an issue where add-ons/POS items shows up on reports as _Incidental_ or _Not defined_. This will only happen if the right Revenue Labels/Categories have not been correctly set up. Look up section _Accounting_ of this manual to learn how to do that.
+Note, however, that this will not automatically fix past data, and for this reason we strongly recommend to set those up before inserting any reservation in your account. If you did not do that, and wish to apply newly created labels/categories to historical data then please notify us by sending an email to _help@frontdeskanywhere.com_ and ask to resync your transactions.
 
 - One thing that <span style="color:red;">**should not**</span> be done in V2 is renaming charges and labels/categories. If a customer wants a different charge name or label then they should deactivate the old one and create a new label. Renaming them will break the link between charges and labels/categories and cause labels and categories to be sent as ‘Not Defined’.
