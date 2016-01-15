@@ -12,9 +12,12 @@ published: true
 
 
 #**Operation Reports**
-   
+     
+       
+       
 The Operation Reports include all those reports that are mostly important for Front Desk daily operational tasks. These include:  
-
+  
+  
  - **Arrivals: Detailed Report (ARR)**  
  - **Departures Report (DEP)**  
  - **Detailed Availability (DA)**  
@@ -23,12 +26,13 @@ The Operation Reports include all those reports that are mostly important for Fr
  - **Guests In House (GIH)**  
  - **House Count Report (HCR)**  
  - **Housekeeping Status Report (HSR)**  
- 
+  
+  
  
 
-##**ARRIVALS: Detailed Report (ARR)**
+##**Arrivals: Detailed Report (ARR)**
 
-- This report will display all reservations meeting the specified criteria for the selected date range. One of the benefits of using this report is that it allows the flexibility of selecting a range of arrival dates or a range of stay dates.
+The Arrivals Detailed Report displays all reservations that meets the specified criteria for the selected date range. One of the benefits of using this report is that it allows the flexibility of selecting a range of arrival dates or a range of stay dates.
 
 - This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
 
