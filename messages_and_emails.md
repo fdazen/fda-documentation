@@ -1,11 +1,14 @@
 ---
 title: Guest Messages and Emails
-tags: [guest msg, guest email]
+tags: 
+  - guest msg
+  - guest email
 keywords: "guest messages, emails, automated emails, email rules, confirmation email, invoice, templates, email templates"
 last_updated: "November 19th, 2015"
 summary: "The Guest Messages are messages that will appear in some areas of your Frontdesk Anywhere Online Booking Engine (for example Terms and Conditons) and on your Email Templates. You can think of them as _snippet_ messages that will then be applied to all communications you will set up to have with your guests.  "
 published: true
 ---
+
 
 
 ##**Guest Messages**  
@@ -14,37 +17,44 @@ Through Guest Messages you are able to set up all those information about your p
 
  - In the Admin Settings, click on the link **Guest Messages** under section _General_:  
  
-![1r.png]({{site.baseurl}}/images/1r.png)
+![Guest_Messages_1.png]({{site.baseurl}}/images/Guest_Messages_1.png)
+
 
  
  - You will see different panels, each one editable and with a title on the top that should give you some guidance on what sort of information you should type in the editable box:  
  
-![2r.png]({{site.baseurl}}/images/2r.png)
+![Guest_Messages_2.png]({{site.baseurl}}/images/Guest_Messages_2.png)
+
 
  
  - The first one is the _Invoice Message_: this is a message that will appear in each of your property invoices:    
  
-![3r.png]({{site.baseurl}}/images/3r.png)
+![Guest_Messages_3.png]({{site.baseurl}}/images/Guest_Messages_3.png)
+
 
  
  - Proceed to edit the _Terms and Conditons_ message: the latter will show up on your Online Booking Engine, and your confirmation email:  
  
-![4r.png]({{site.baseurl}}/images/4r.png)
+![Guest_Messages_4.png]({{site.baseurl}}/images/Guest_Messages_4.png)
+
 
  
  - The third message will be the _Room Cancellation_ message: as the text in the box says, this will appear both on your Booking Engine and in your cancellation email:  
  
-![5r.png]({{site.baseurl}}/images/5r.png)
+![Guest_Messages_5.png]({{site.baseurl}}/images/Guest_Messages_5.png)
+
 
  
  - Finally, edit your _Guest Receipt_ and your _Registration Card_ messages:  
  
-![7r.png]({{site.baseurl}}/images/7r.png)
+![Guest_Messages_6.png]({{site.baseurl}}/images/Guest_Messages_6.png)
+
 
  
  - When finished, scroll at the bottom of the page and click on the blue button _Save_:  
  
-![8r.png]({{site.baseurl}}/images/8r.png)
+![Guest_Messages_7.png]({{site.baseurl}}/images/Guest_Messages_7.png)
+
 
  
  ##**Email Templates**  
@@ -192,4 +202,3 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
  - When finished, click on the blue button _Add Rule_ at the bottom of the page:  
  
 ![35r.png]({{site.baseurl}}/images/35r.png)
-
