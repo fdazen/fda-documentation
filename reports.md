@@ -23,6 +23,9 @@ We will also describe the potential benefits that each report brings to a hotel 
 Our reports are located in the _Analytics_ tab, accessible from the top of your Tape Chart:  
 
 
+![Reports_general_1.png]({{site.baseurl}}/images/Reports_general_1.png)
+
+
 
 
 ##**Report List**
