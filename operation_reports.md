@@ -11,7 +11,9 @@ published: true
 
 
 
-Operation Reports include all those reports that are mostly important for Front Desk daily operational tasks. These include:  
+#**Operation Reports**
+   
+The Operation Reports include all those reports that are mostly important for Front Desk daily operational tasks. These include:  
 
  - **Arrivals: Detailed Report (ARR)**  
  - **Departures Report (DEP)**  
@@ -24,7 +26,7 @@ Operation Reports include all those reports that are mostly important for Front 
  
  
 
-##**Arrivals: Detailed Report (ARR)**
+##**ARRIVALS: Detailed Report (ARR)**
 
 - This report will display all reservations meeting the specified criteria for the selected date range. One of the benefits of using this report is that it allows the flexibility of selecting a range of arrival dates or a range of stay dates.
 
