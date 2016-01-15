@@ -201,22 +201,26 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
 
  - In the Admin Settings, click on the link **Email Rules** under section _General_:  
  
-![31r.png]({{site.baseurl}}/images/31r.png)
+![Guest_Messages_28.png]({{site.baseurl}}/images/Guest_Messages_28.png)
+
 
  
  - Start by clicking on the blue button _Add Rule_:  
  
-![32r.png]({{site.baseurl}}/images/32r.png)
+![Guest_Messages_29.png]({{site.baseurl}}/images/Guest_Messages_29.png)
+
 
  
  - Fill in all the information: place a title, and select the right options from the scroll down menus:  
  
-![33r.png]({{site.baseurl}}/images/33r.png)
+![Guest_Messages_30.png]({{site.baseurl}}/images/Guest_Messages_30.png)
+
 
  
   - Select the email template you want to send among the ones you have previously created. You will also need to select what room type and rates you want to enable for this rule:  
   
-![34r.png]({{site.baseurl}}/images/34r.png)
+![Guest_Messages_31.png]({{site.baseurl}}/images/Guest_Messages_31.png)
+
 
 
  - When finished, click on the blue button _Add Rule_ at the bottom of the page:  
