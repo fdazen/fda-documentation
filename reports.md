@@ -49,7 +49,12 @@ Our reports are located in the _Analytics_ tab, accessible from the top of your 
 - Room Revenue Breakdown Report (RRB)
 - Total Revenue Breakdown Report (TRB)
 - Trial Balance Report (TB)
-- Trial Balance With Range Report (TBWR)
+- Trial Balance With Range Report (TBWR)  
+
+
+##**Before Starting**  
+
+Our reports are organized around _Revenue Account Labels_ and _Revenue Account Categories_. Before inserting any information in your system, you should set those up in your account. To learn how to do this, go to section **Admin Settings** and check out the _Accounting_ section.
 
 ##**Important Things to Note**
 
