@@ -131,22 +131,26 @@ If you check the box _Invoices_, your template will show up in any reservation f
  
 If you check the box _POS_, the template will show up as a Receipt in the _Point of Sale_ area of your PMS:  
 
-![21r.png]({{site.baseurl}}/images/21r.png)
+![Guest_Messages_19.png]({{site.baseurl}}/images/Guest_Messages_19.png)
+
 
 
 If the box _Group Messages_ is checked, the newly create template will appear in any Group Folio, at the bottom:  
 
-![22r.png]({{site.baseurl}}/images/22r.png)
+![Guest_Messages_20.png]({{site.baseurl}}/images/Guest_Messages_20.png)
+
 
  
  If you check the box _Reservation Messages_, the template will appear on the bottom left side of each reservation folio:  
  
-![23r.png]({{site.baseurl}}/images/23r.png)
+![Guest_Messages_21.png]({{site.baseurl}}/images/Guest_Messages_21.png)
+
 
  
  Finally, if you check on the _Profile Documents_, the template will show in the _Profiles_ area:  
  
-![24r.png]({{site.baseurl}}/images/24r.png)
+![Guest_Messages_22.png]({{site.baseurl}}/images/Guest_Messages_22.png)
+
 
  
  - When finished, click on the button _Save_ at the bottom of the screen.
