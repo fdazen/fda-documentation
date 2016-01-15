@@ -1,18 +1,22 @@
 ---
 title: Reports
-tags: [Reports]
-keywords: "reports"
+tags: 
+  - Reports
+keywords: reports
 last_updated: "December 29th, 2015"
-summary: Explanations, tips and tricks for the FDA Analytics Work Area.
+summary: "Explanations, tips and tricks for the FDA Analytics Work Area."
 published: true
 ---
 
 
+
 #**Reports** 
 
-The purpose of this set of pages is to describe what each report does and how it works, potential benefits of each report to a hotel user and outline some troubleshooting techniques for end users.
+In this section, we will guide you through all the reports that are available on your account. You can find here a brief description of what each report does and how it works, so as to facilitate your information search.   
+We will also describe the potential benefits that each report brings to a hotel user and we will also outline some easy troubleshooting tecniques for end users.
 
-{{site.data.alerts.important}} As of December 2015 there is approximately a 30 minute delay between changes made to a folio and those changes being reflected on the reports. This is because the reporting database is on a separate server and it syncs once every 30 minutes. {{site.data.alerts.end}}
+
+{{site.data.alerts.important}} As of December 2015 there is approximately a 30 minute delay between changes made to a folio and those changes being reflected on the reports. Our report database is located on a separate server that syncs once every 30 minutes. {{site.data.alerts.end}}
 
 ##**Report List**
 - Additional Revenue Breakdown Report (ARB)
