@@ -13,6 +13,7 @@ published: true
 
 
 
+
   
 
 #**Yield Management**  
@@ -127,4 +128,4 @@ The time frame you choose in the Yield Management Settings will ensure that the 
 
   
  
- **NOTE**: the Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!
+**IMPORTANT!** The Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!
