@@ -99,29 +99,34 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  - The template you have just created will appear as the first template in the apposite panel:  
  
-![16r.png]({{site.baseurl}}/images/16r.png)
+![Guest_Messages_14.png]({{site.baseurl}}/images/Guest_Messages_14.png)
+
 
  
  - Once the template has been created, it also needs to be enabled. Click on the yellow button _Edit_ on the right hand side of the newly created template:  
  
-![17r.png]({{site.baseurl}}/images/17r.png)
+![Guest_Messages_15.png]({{site.baseurl}}/images/Guest_Messages_15.png)
+
 
  
  - Enable the template by checking the box next to the tag _Template Enabled_:  
  
-![18r.png]({{site.baseurl}}/images/18r.png)
+![Guest_Messages_16.png]({{site.baseurl}}/images/Guest_Messages_16.png)
+
 
  
  - Select where you want the template to apply and appear, by checking the right boxes under the written _System Section Filters_:  
  
-![19r.png]({{site.baseurl}}/images/19r.png)
+![Guest_Messages_17.png]({{site.baseurl}}/images/Guest_Messages_17.png)
+
 
  
 Here is a quick breakdown of what each box means:  
 
 If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
  
-![20r.png]({{site.baseurl}}/images/20r.png)
+![Guest_Messages_18.png]({{site.baseurl}}/images/Guest_Messages_18.png)
+
 
  
 If you check the box _POS_, the template will show up as a Receipt in the _Point of Sale_ area of your PMS:  
