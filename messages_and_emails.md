@@ -75,22 +75,26 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
  - Under each section you will see one disabled template already listed: these templates are only used as a guidance, and they are non-editable:  
  
-![12r.png]({{site.baseurl}}/images/12r.png)
+![Guest_Messages_10.png]({{site.baseurl}}/images/Guest_Messages_10.png)
+
 
 
  - To create a new template, click on the button _New template_ on the top left hand side of the screen:  
  
-![13r.png]({{site.baseurl}}/images/13r.png)
+![Guest_Messages_11.png]({{site.baseurl}}/images/Guest_Messages_11.png)
+
 
  
  - Select the template you want to create by clicking on the right option in the scroll down menu:  
  
-![14r.png]({{site.baseurl}}/images/14r.png)
+![Guest_Messages_12.png]({{site.baseurl}}/images/Guest_Messages_12.png)
+
 
  
  - Give a name to the template and click on the blue button _Create and Edit_:  
  
-![15r.png]({{site.baseurl}}/images/15r.png)
+![Guest_Messages_13.png]({{site.baseurl}}/images/Guest_Messages_13.png)
+
 
  
  - The template you have just created will appear as the first template in the apposite panel:  
