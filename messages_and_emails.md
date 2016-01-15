@@ -164,27 +164,32 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 
  - In the Admin Settings, click on the link **Automated Emails** under section _General_:  
  
-![25r.png]({{site.baseurl}}/images/25r.png)
+![Guest_Messages_23.png]({{site.baseurl}}/images/Guest_Messages_23.png)
+
 
  
  - The first column _Folio Status Action_ defines what change in the status of any reservation folio will trigger the automatic email
 
-![26r.png]({{site.baseurl}}/images/26r.png)
+![Guest_Messages_24.png]({{site.baseurl}}/images/Guest_Messages_24.png)
+
  
  
  - Under column _Automated E-mail Status_ check the box corresponding to the action you want the system to perform. In the example below I am choosing to have the system to send an automatic email any time a reservation is created:  
  
-![28r.png]({{site.baseurl}}/images/28r.png)
+![Guest_Messages_25.png]({{site.baseurl}}/images/Guest_Messages_25.png)
+
   
- 
+
  - Select what email template you want to use by choosing one in the scroll down menu: 
 
-![29r.png]({{site.baseurl}}/images/29r.png)
+![Guest_Messages_26.png]({{site.baseurl}}/images/Guest_Messages_26.png)
+
 
 
  - When finished, click on the blue button _Save_ at the bottom of the page:  
  
-![30r.png]({{site.baseurl}}/images/30r.png)
+![Guest_Messages_27.png]({{site.baseurl}}/images/Guest_Messages_27.png)
+
 
  
 
