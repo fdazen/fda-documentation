@@ -1,11 +1,28 @@
 ---
 title: Operation Reports
-tags: [Reports, Operations]
-keywords: "reports"
+tags: 
+  - Reports
+  - Operations
+keywords: reports
 last_updated: "December 29th, 2015"
 summary: FDA Operational Reports.
 published: true
 ---
+
+
+
+Operation Reports include all those reports that are mostly important for Front Desk daily operational tasks. These include:  
+
+ - **Arrivals: Detailed Report (ARR)**  
+ - **Departures Report (DEP)**  
+ - **Detailed Availability (DA)**  
+ - **Guest List (GL)**  
+ - **Guest Overnight By Country Of Origin (GON)**  
+ - **Guests In House (GIH)**  
+ - **House Count Report (HCR)**  
+ - **Housekeeping Status Report (HSR)**  
+ 
+ 
 
 ##**Arrivals: Detailed Report (ARR)**
 
