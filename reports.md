@@ -12,6 +12,7 @@ published: true
 
 #**Reports** 
 
+
 In this section, we will guide you through all the reports that are available on your account. You can find here a brief description of what each report does and how it works, so as to facilitate your information search.   
 We will also describe the potential benefits that each report brings to a hotel user and we will also outline some easy troubleshooting tecniques for end users.
 
@@ -28,6 +29,8 @@ Our reports are located in the _Analytics_ tab, accessible from the top of your 
 
 ##**Report List**  
 
+    
+    
 - Additional Revenue Breakdown Report (ARB)
 - Adjustments Report (ADJ)
 - Arrivals: Detailed Report (ARR)
@@ -52,9 +55,12 @@ Our reports are located in the _Analytics_ tab, accessible from the top of your 
 - Trial Balance With Range Report (TBWR)  
 
 
+
 ##**Before Starting**  
 
+
 Our reports are organized around _Revenue Account Labels_ and _Revenue Account Categories_. Before inserting any information in your system, you should set those up in your account. To learn how to do this, go to section **Admin Settings** in this manual and check out the _Accounting_ section.
+ 
  
  
 ##**Important Things to Note**
