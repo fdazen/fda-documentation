@@ -70,8 +70,10 @@ Our reports are organized around _Revenue Account Labels_ and _Revenue Account C
 
 - In the **Manager’s Report** there appear columns _Day_, _Period TD_ (ie Month TD) and _Year TD_.
 
-**Day**: it is the date entered in the Run For Date field among the filters. 
-**Period TD**: period that goes from the start of the current month up to and including the _Run For Date_ date.
+**Day**: it is the date entered in the Run For Date field among the filters.  
+
+**Period TD**: period that goes from the start of the current month up to and including the _Run For Date_ date.   
+
 **Year TD** = period that goes from the beginning of the Fiscal Year up to and including _Run For Date_ date. 
 
 However, if the starting date of the Fiscal Year is equal to the Run For Date date, then all 3 columns will be equal. 
