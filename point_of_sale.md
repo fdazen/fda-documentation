@@ -151,27 +151,31 @@ After creating your POS Points and Categories, you can finally proceed to set up
  
  - To **Deactivate** a POS product, just uncheck the box under column _Status_:  
  
-![19h.png]({{site.baseurl}}/images/19h.png)
+
+![Pos_18.png]({{site.baseurl}}/images/Pos_18.png)
 
  
  
  - To **Delete** a POS Product, select it by checking the box on the left hand side of its name and click on the blue button _Delete Selected POS Product_:  
  
-![20h.png]({{site.baseurl}}/images/20h.png)
+![Pos_19.png]({{site.baseurl}}/images/Pos_19.png)
+
 
  
  
  - To **Edit** a POS Product, click on the blue link _Edit_ on the right hand side of any product:  
  
-![21h.png]({{site.baseurl}}/images/21h.png)
+![Pos_20.png]({{site.baseurl}}/images/Pos_20.png)
+
 
 
 
 The procedure is the same as adding a new one!
 
-- You can also add pictures to your POS items, if you choose to add these products on your OBE. Click on the blue link _Images_ on the right hand side of any product:  
+- You can also add pictures to your POS items, if you choose to add these products on your IBE. Click on the blue link _Images_ on the right hand side of any product:  
 
-![22h.png]({{site.baseurl}}/images/22h.png)
+![Pos_21.png]({{site.baseurl}}/images/Pos_21.png)
+
 
 
 
