@@ -66,27 +66,33 @@ Our reports are organized around _Revenue Account Labels_ and _Revenue Account C
 
 - There is <span style="color:red;">**no link**</span> between payments and the charges to which they are applied. Although the payments are linked to the folios, they are not connected to a _specific_ charge on that folio. 
 
-- Similarly, revenue is counted on the night it is consumed - i.e. if there’s a reservation that is made today for  six months in the future, that revenue will show up on reports 6 months down the line. 
+- Revenue is counted on the night it is consumed - i.e. if there’s a reservation that is made today for six months in the future, that revenue will show up on reports that will be run for that time frame, and not today.
 
-- <p>The Manager’s Report Day, Period TD (ie Month TD) and Year TD columns. <br />
-Day = the date entered in the Run For Date field <br />
-Period TD = from the start of the current month up to and including the Run For Date date <br />
-Year TD = from the Fiscal Year Start up to and including Run For Date <br />
-However, if Fiscal Year Start = Run For Date then all 3 columns will be equal. <br />
-The Period TD column counts values from the 1st day of the month selected in the Run For Date up to and including the Run For Date date. <br />
-Some examples: <br />
-	- If I run the report with a Fiscal Year Start of 2015-01-01 and a Run For Date of 2015-06-25 we have... <br />
-	Day = 2015-06-25 <br />
-	Period TD = 2015-06-01 -> 2015-06-25 <br />
-	Year TD = 2015-01-01 -> 2015-06-25 <br />
-	- **Be careful though**, if the following parameters are selected:
-	Fiscal Year Start of 2015-05-04 <br />
-	Run For Date of 2015-05-25 <br />
-	Then we have: <br />
-	Day = 2015-05-25 <br />
-	Period TD = 2015-05-04 -> 2015-05-25 <br />
-	Year TD = 2015-05-04 -> 2015-05-25 - In this case then the Period TD = Year TD <br />
-</p>
+- In the **Manager’s Report** there appear columns _Day_, _Period TD_ (ie Month TD) and _Year TD_.
+
+**Day**: it is the date entered in the Run For Date field among the filters. 
+**Period TD**: period that goes from the start of the current month up to and including the _Run For Date_ date.
+**Year TD** = period that goes from the beginning of the Fiscal Year up to and including _Run For Date_ date. 
+
+However, if the starting date of the Fiscal Year is equal to the Run For Date date, then all 3 columns will be equal. 
+
+Some examples:  
+
+1. If you run the report with a Fiscal Year Start of 2015-01-01 and a Run For Date of 2015-06-25, assuming we are in June, the results will be:
+    
+	**Day** = 2015-06-25 
+	**Period TD** = from 2015-06-01 to 2015-06-25 
+	**Year TD** = from 2015-01-01 to 2015-06-25
+    
+2. **Be careful though**, if the Fiscal Tear Start date is 2015-05-04 and the Run For Date is 2015-05-25, the Period TD won't be starting from the beginning of the month, but the beginning of the Fiscal Year:
+
+	**Day** = 2015-05-25 
+	**Period TD** = 2015-05-04 -> 2015-05-25 
+	**Year TD** = 2015-05-04 -> 2015-05-25 
+    
+ In this case then the Period TD is equal to the Year TD.
+
+
 
 - Some customers may have issues where Additional Revenue shows up on reports as something like “Incidental” or “Not defined”. This is because they have not set up revenue categories/labels correctly. To fix this, they have to create the labels and/or categories as required in v2 and then apply them to charges. This will not automatically fix historical data. If they want labels and categories applied to historical data then you will have to ask either me or Shane to ‘resync their transactions’.
 
