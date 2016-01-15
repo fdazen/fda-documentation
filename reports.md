@@ -54,11 +54,13 @@ Our reports are located in the _Analytics_ tab, accessible from the top of your 
 
 ##**Before Starting**  
 
-Our reports are organized around _Revenue Account Labels_ and _Revenue Account Categories_. Before inserting any information in your system, you should set those up in your account. To learn how to do this, go to section **Admin Settings** and check out the _Accounting_ section.
-
+Our reports are organized around _Revenue Account Labels_ and _Revenue Account Categories_. Before inserting any information in your system, you should set those up in your account. To learn how to do this, go to section **Admin Settings** in this manual and check out the _Accounting_ section.
+ 
+ 
 ##**Important Things to Note**
-
-- Both Additional Revenue and Payments are <span style="color:red;">**independent**</span> of Room Type and Folio Status. What this means is that there is currently no link in the reporting system between an Add-on/POS Item and the Room Type or Folio Status. So for e.g. on the LSR, **all** Additional Revenue will be included every time regardless of the Room Types, Folio Statuses and Sources/Markets selected. The same thing goes for the DBA - **all** Additional Revenue and Payments (Settlements) are returned regardless of Folio Statuses selected.
+  
+  
+- Both additional revenue and payments are <span style="color:red;">**independent**</span> of room type and folio status, that is, there is currently no link in the reporting system between an add-on/POS item and Room Type or Folio Status. For example, on the Lodging Statistics Report, **all** additional revenue will be included every time, regardless of the Room Types, Folio Statuses and Sources/Markets selected. The same thing goes for the Daily Balancing Audit Report - **all** additional revenue and payments (Settlements) are returned regardless of Folio Statuses selected.
 
 - In V2 there is <span style="color:red;">**no link**</span> between payments and the charges they are applied to. There is nothing to say that this payment of $X was made against a guest’s restaurant bill but this payment of $Y was for their night’s stay.
 
