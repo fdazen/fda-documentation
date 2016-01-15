@@ -1,11 +1,13 @@
 ---
 title: Point of Sale
-tags: [POS]
+tags: 
+  - POS
 keywords: "labels, buttons, bootstrap, api methods"
 last_updated: "November 24th, 2015"
 summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section."
 published: true
 ---
+
 
 
 
@@ -21,23 +23,27 @@ Start by creating your POS Points.
 
 - In the Admin Settings, click on the link **POS Point** link under section _POS_:
 
-![555.png]({{site.baseurl}}/images/555.png)
+![Pos_1.png]({{site.baseurl}}/images/Pos_1.png)
+
 
 
 - You will see the list of POS Points: the system comes with a default one, and you can start by editing this before creating new ones: to do this click on the blue button _Edit POS Point_! 
 
-![3h.png]({{site.baseurl}}/images/3h.png)
+![Pos_2.png]({{site.baseurl}}/images/Pos_2.png)
+
 
  
  - Edit the name in the textbox and click on the blue button _Edit POS Point_:  
  
-![4h.png]({{site.baseurl}}/images/4h.png)
+![Pos_3.png]({{site.baseurl}}/images/Pos_3.png)
+
 
  
  
  - To **Add** a POS Point, click on the blue button _Add a POS Point_:  
  
-![5h.png]({{site.baseurl}}/images/5h.png)
+![Pos_4.png]({{site.baseurl}}/images/Pos_4.png)
+
 
  
  The process will be the same as editing one.  
@@ -188,4 +194,3 @@ The procedure is the same as adding a new one!
  - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
 
 ![29h.png]({{site.baseurl}}/images/29h.png)
-
