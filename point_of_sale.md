@@ -191,21 +191,25 @@ The procedure is the same as adding a new one!
 
 - Add a POS product charge from any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
 
-![24h.png]({{site.baseurl}}/images/24h.png)
+![Pos_23.png]({{site.baseurl}}/images/Pos_23.png)
+
 
 
 
  - You can also operate on POS products without them having to be added to a specific room reservation, by clicking on the tab _Point of Sale_ on the top of your Tape Chart:  
  
-![26.png]({{site.baseurl}}/images/26.png)
+![Pos_24.png]({{site.baseurl}}/images/Pos_24.png)
+
 
  
  - All active POS products will appear as a list in the tab: you can click on the green button _New_ to add items:  
  
-![28h.png]({{site.baseurl}}/images/28h.png)
+![Pos_25.png]({{site.baseurl}}/images/Pos_25.png)
+
 
 
  
  - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
 
-![29h.png]({{site.baseurl}}/images/29h.png)
+![Pos_26.png]({{site.baseurl}}/images/Pos_26.png)
+
