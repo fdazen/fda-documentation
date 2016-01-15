@@ -18,7 +18,6 @@ We will also describe the potential benefits that each report brings to a hotel 
 
 {{site.data.alerts.important}} As of December 2015 there is approximately a 30 minute delay between changes made to a folio and those changes being reflected on the reports. Our report database is located on a separate server that syncs once every 30 minutes. {{site.data.alerts.end}}
 
-##**Report List**  
 
 Our reports are located in the _Analytics_ tab, accessible from the top of your Tape Chart:  
 
@@ -27,9 +26,8 @@ Our reports are located in the _Analytics_ tab, accessible from the top of your 
 
 
 
+##**Report List**  
 
-
-##**Report List**
 - Additional Revenue Breakdown Report (ARB)
 - Adjustments Report (ADJ)
 - Arrivals: Detailed Report (ARR)
