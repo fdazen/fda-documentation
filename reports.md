@@ -63,7 +63,7 @@ Our reports are organized around _Revenue Account Labels_ and _Revenue Account C
  
  
  
-##**Important Things to Note**
+##**Important Things to Know**
   
   
 1. Payments are entered into the system **today**. There’s nothing that allows you to enter a payment today and post it in 6 month’s time or on the guest's check-in date.  
