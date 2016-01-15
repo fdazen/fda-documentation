@@ -28,6 +28,7 @@ Our reports are located in the _Analytics_ tab, accessible from the top of your 
 
 
 
+
 ##**Report List**
 - Additional Revenue Breakdown Report (ARB)
 - Adjustments Report (ADJ)
