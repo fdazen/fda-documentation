@@ -64,11 +64,13 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  - In the Admin Settings, click on the blue link **Email Templates** under section _General_:  
  
 
-![9r.png]({{site.baseurl}}/images/9r.png)
+![Guest_Messages_8.png]({{site.baseurl}}/images/Guest_Messages_8.png)
+
  
  - You will see a list of all the types of templates that the system offers: the name of each template appears on the top left hand side of each message panel.
  
-![11r.png]({{site.baseurl}}/images/11r.png)
+![Guest_Messages_9.png]({{site.baseurl}}/images/Guest_Messages_9.png)
+
 
  
  - Under each section you will see one disabled template already listed: these templates are only used as a guidance, and they are non-editable:  
