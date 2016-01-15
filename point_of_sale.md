@@ -121,30 +121,32 @@ After creating your POS Points and Categories, you can finally proceed to set up
 
  - In the Admin Settings, click on the link **Products** under section _POS_:  
  
-![14h.png]({{site.baseurl}}/images/14h.png)
+![Pos_13.png]({{site.baseurl}}/images/Pos_13.png)
 
 
  
  - Click on the blue button _Add a POS Product_:  
  
-![15h.png]({{site.baseurl}}/images/15h.png)
+![Pos_14.png]({{site.baseurl}}/images/Pos_14.png)
+
 
  
  - You will need to fill in all information. Enter the name and the code for the product you are creating (these can be the same), and select the Pos Point where the item belongs by selecting the right option from the scroll down menu:  
  
-![16h.png]({{site.baseurl}}/images/16h.png)
+![Pos_15.png]({{site.baseurl}}/images/Pos_15.png)
+
 
 
  
  - Once a Pos Point is chosen, the options in the scroll down menu _Pos Category_ will update to show what categories are actually linked to the Pos Point you chose:  
  
-![17h.png]({{site.baseurl}}/images/17h.png)
+![Pos_16.png]({{site.baseurl}}/images/Pos_16.png)
 
 
  
  - Complete all information by assigning the right  _Revenue Label_ to the item, the price and check the box for any tax you want to apply. Once done, click on the blue button _Save POS Product_:  
  
-![18h.png]({{site.baseurl}}/images/18h.png)
+![Pos_17.png]({{site.baseurl}}/images/Pos_17.png)
 
  
  - To **Deactivate** a POS product, just uncheck the box under column _Status_:  
