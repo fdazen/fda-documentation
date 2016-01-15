@@ -181,7 +181,8 @@ The procedure is the same as adding a new one!
 
 - Click on the blue button _Upload Image_ and choose an image to add:  
 
-![23h.png]({{site.baseurl}}/images/23h.png)
+![Pos_22.png]({{site.baseurl}}/images/Pos_22.png)
+
 
  
 
