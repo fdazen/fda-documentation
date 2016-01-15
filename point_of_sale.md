@@ -70,19 +70,22 @@ Start by creating your POS Points.
  
  - In the Admin Settings, click on the link **Categories**, under section _POS_:  
  
-![6h.png]({{site.baseurl}}/images/6h.png)
+![Pos_7.png]({{site.baseurl}}/images/Pos_7.png)
+
 
 
  
  - You will see a list of all your POS Categories: one category comes as default, and you can edit this before proceeding to create new ones! Click on the blue link _Edit_ on the right hand side of the panel:  
  
-![7h.png]({{site.baseurl}}/images/7h.png)
+![Pos_8.png]({{site.baseurl}}/images/Pos_8.png)
+
 
 
  
  - Change the Category Title and apply the category to POS Point where it belongs, by using the scroll down menu next to the tag _POS Point_:  
  
-![8h.png]({{site.baseurl}}/images/8h.png)
+![Pos_9.png]({{site.baseurl}}/images/Pos_9.png)
+
 
 
 
@@ -90,7 +93,8 @@ Click on the blue button _Edit POS Category_ when done.
 
 - To **Add** a POS Category, click on the button _Add a POS Category_:  
 
-![9h.png]({{site.baseurl}}/images/9h.png)
+![Pos_10.png]({{site.baseurl}}/images/Pos_10.png)
+
 
 
 
@@ -98,13 +102,15 @@ The process is the same as editing one.
 
 - To **Deactivate** a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
 
-![10h.png]({{site.baseurl}}/images/10h.png)
+![Pos_11.png]({{site.baseurl}}/images/Pos_11.png)
+
 
 
 
 - To **Delete** a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
 
-![11h.png]({{site.baseurl}}/images/11h.png)
+![Pos_12.png]({{site.baseurl}}/images/Pos_12.png)
+
 
 
 
