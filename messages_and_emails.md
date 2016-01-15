@@ -224,5 +224,6 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
 
 
  - When finished, click on the blue button _Add Rule_ at the bottom of the page:  
- 
-![35r.png]({{site.baseurl}}/images/35r.png)
+
+![Guest_Messages_32.png]({{site.baseurl}}/images/Guest_Messages_32.png)
+
