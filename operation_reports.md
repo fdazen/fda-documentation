@@ -42,28 +42,54 @@ The _Arrivals Detailed Report_ displays all reservations that meet the defined c
 - Choose your filters and click on the blue button _Run Report_:    
 
 
-The report will offer you a daily breakdown of all reservations. Note that you may export the report in many different formats: choose the right one by selecting it in the scroll down menu with the tag _Download Report As_:  
+The report will offer you a daily breakdown of all reservations. 
+
+
+
+
+
+##**Field Legend**  
+
+
+
+
+**Name**: Guest name and last name.  
+**Source/Market**: it shows the Source Category and the Market associated with the reservation listed.  
+**Group Folio Number/Reservation Number**: Reservation and Group Reservation folio number.   
+**Room Type/Room Number**: Room type and room number where reservation resides.  
+**Check-in/Check-out Date**: Reservation arrival and departure date.  
+**Adults/Children**: Number of adults and children as they appear in the reservation folio.   
+**Folio Status**: It displays the status of the reservation.  
+**Total Rent/Pay mth**: It shows the total lodging charges and the payment method used (if a deposit has been applied).  
+**Deposit**: It shows the amount of deposit paid by the guest.  
+**Balance**: It shows the remaining, actual balance for the guest.  
+
+
+
+
+
+You may export the report in many different formats: choose the right one by selecting it in the scroll down menu with the tag _Download Report As_:  
 
    
 
 
+##**Departures Report (DEP)**   
+
+
+
+The _Departures Report_ lists all of the reservation due to check-out for a particular date. It can be sorted alphabetically or by room number. This report will come useful to understand the volume of departures for a selected date or date range.   
 
 
 
 
-##**Departures Report (DEP)**
 
-- The Departures Report lists all departure rooms scheduled for a specified date. Can be sorted Alphabetically or by Room Number.
 
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
 
 ##**Detailed Availability (DA)**
 
-- The Detailed Availability Report displays availability based on room types for a specified date range. The report can reflect either Availability or Occupancy.
-
-- This report is basically a display of the Tape Chart that shows either Occupancy or Availability and can be filtered by Room Type.
-
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
+The _Detailed Availability Report_ shows information about availability based on room types. You can choose to display results according to Occupancy or Vacancy, thus making it easy to foresee when demand is increasing/decreasing.
+   
+   
 
 ##**Guest List (GL)**
 - Lists the guests who Arrived, Departed and/or were a Stayover for a specified date range.
@@ -72,7 +98,6 @@ The report will offer you a daily breakdown of all reservations. Note that you m
 
 - If Additional Guests are selected then the Primary Guest is displayed in bold text.
 
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
 
 ##**Guest Overnight By Country Of Origin (GON)**
 
