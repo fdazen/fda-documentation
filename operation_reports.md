@@ -33,9 +33,23 @@ The Operation Reports include all those reports that are mostly important for Fr
 ##**Arrivals: Detailed Report (ARR)**
   
   
-The _Arrivals Detailed Report_ displays all reservations that meet all the specified for the a certain date range. One of the main benefits of this report is that it allows you to have consolidated information for all reservations that meet the criteria specified in the report's filter.
+The _Arrivals Detailed Report_ displays all reservations that meet the defined criteria for the a certain date range. One of the main benefits of this report is that it allows you to have consolidated information for those reservations appearing in the report's results, for example your guest's first and last name, the folio number and the group folio number, in case the reservation is part of a group; it also shows reservation and payment details.
+  
+ - Click on the link _Arrivals Detailed Report_, in the Reports' List:  
+ 
+ 
+  
+- Choose your filters and click on the blue button _Run Report_:    
 
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
+
+The report will offer you a daily breakdown of all reservations. Note that you may export the report in many different formats: choose the right one by selecting it in the scroll down menu with the tag _Download Report As_:  
+
+   
+
+
+
+
+
 
 ##**Departures Report (DEP)**
 
