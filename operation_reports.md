@@ -31,8 +31,9 @@ The Operation Reports include all those reports that are mostly important for Fr
  
 
 ##**Arrivals: Detailed Report (ARR)**
-
-The Arrivals Detailed Report displays all reservations that meets the specified criteria for the selected date range. One of the benefits of using this report is that it allows the flexibility of selecting a range of arrival dates or a range of stay dates.
+  
+  
+The _Arrivals Detailed Report_ displays all reservations that meet all the specified for the a certain date range. One of the main benefits of this report is that it allows you to have consolidated information for all reservations that meet the criteria specified in the report's filter.
 
 - This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
 
