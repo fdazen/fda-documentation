@@ -10,8 +10,6 @@ published: true
 
 
 
-#**Reports** 
-
 
 In this section, we will guide you through all the reports that are available on your account. You can find here a brief description of what each report does and how it works, so as to facilitate your information search.   
 We will also describe the potential benefits that each report brings to a hotel user and we will also outline some easy troubleshooting tecniques for end users.
@@ -107,4 +105,4 @@ Some examples:
 7. You might incur into an issue where add-ons/POS items shows up on reports as _Incidental_ or _Not defined_. This will only happen if the right Revenue Labels/Categories have not been correctly set up. Look up section _Accounting_ of this manual to learn how to do that.
 Note, however, that this will not automatically fix past data, and for this reason we strongly recommend to set those up before inserting any reservation in your account. If you did not do that, and wish to apply newly created labels/categories to historical data then please notify us by sending an email to _help@frontdeskanywhere.com_ and ask to resync your transactions.
 
-8. We strongly discourage renaming Revenue Account Labels and Categories, in order to avoid situations in which report results will show up with the tag _Not Defined_. If you wish to substitute old Labels/Categories, please deactivate them and create new ones. 
+8. We strongly discourage renaming Revenue Account Labels and Categories, in order to avoid situations in which report results will show up with the tag _Not Defined_. If you wish to substitute old Labels/Categories, please deactivate them and create new ones.
