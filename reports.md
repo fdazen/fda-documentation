@@ -92,11 +92,11 @@ Some examples:
     
 	**Year TD** = from 2015-01-01 to 2015-06-25  
     
- **Be careful though**, if the Fiscal Tear Start date is 2015-05-04 and the Run For Date is 2015-05-25, the Period TD won't be starting from the beginning of the month, but the beginning of the Fiscal Year:
+ **Note**: if the Fiscal Tear Start date is 2015-05-04 and the Run For Date is 2015-05-25, the Period TD won't be starting from the beginning of the month, but the beginning of the Fiscal Year:
 
-	**Day** = 2015-05-25 
-	**Period TD** = 2015-05-04 -> 2015-05-25 
-	**Year TD** = 2015-05-04 -> 2015-05-25 
+**Day** = 2015-05-25 
+**Period TD** = 2015-05-04 -> 2015-05-25 
+**Year TD** = 2015-05-04 -> 2015-05-25 
     
  In this case then the Period TD is equal to the Year TD.
 
