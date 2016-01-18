@@ -50,8 +50,12 @@ The _Arrivals Detailed Report_ displays all reservations that meet all criteria 
 
 ![Operational_reports_2.png]({{site.baseurl}}/images/Operational_reports_2.png)
 
+   
 
-The report will offer you a daily breakdown of all reservations. 
+The report will offer you a daily breakdown of all reservations.    
+    
+![Operational_reports_3.png]({{site.baseurl}}/images/Operational_reports_3.png)
+    
 
 
 
