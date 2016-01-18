@@ -51,7 +51,7 @@ The report will offer you a daily breakdown of all reservations.
 
 
 
-##**Field Legend**  
+###**Field Legend**  
 
 
 
