@@ -52,7 +52,7 @@ The _Arrivals Detailed Report_ displays all reservations that meet all criteria 
 
    
 
-The report will offer you a daily breakdown of all reservations.    
+The report will offer you a daily breakdown of all reservations. Here is an example:    
     
 ![Operational_reports_3.png]({{site.baseurl}}/images/Operational_reports_3.png)
     
@@ -94,7 +94,7 @@ You may export the report in many different formats: choose the right one by sel
 
 
 
-The _Departures Report_ lists all of the reservation due to check-out for a particular date. It can be sorted alphabetically or by room number. This report will come useful to understand the volume of departures for a selected date or date range.   
+The _Departures Report_ displays all of those reservations that are due to check-out a particular date/date range. It can be sorted alphabetically or by room number. This report will come useful to understand the volume of departures for a selected date or date range.   
 
 
 
