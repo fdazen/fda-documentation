@@ -11,6 +11,7 @@ published: true
 
 
 
+
 #**Operation Reports**
      
        
@@ -31,11 +32,13 @@ The Operation Reports include all those reports that are mostly important for Fr
  
 
 ##**Arrivals: Detailed Report (ARR)**
+     
+     
   
+The _Arrivals Detailed Report_ displays all reservations that meet the defined criteria for the a certain date range. One of the main benefits of this report is that it allows you to have consolidated information for those reservations appearing in the report's results, for example your guest's first and last name, the folio number and the group folio number, in case the reservation is part of a group; it also shows reservation and payment details.   
+
   
-The _Arrivals Detailed Report_ displays all reservations that meet the defined criteria for the a certain date range. One of the main benefits of this report is that it allows you to have consolidated information for those reservations appearing in the report's results, for example your guest's first and last name, the folio number and the group folio number, in case the reservation is part of a group; it also shows reservation and payment details.
-  
- - Click on the link _Arrivals Detailed Report_, in the Reports' List:  
+- Click on the link _Arrivals Detailed Report_, in the Reports' List:  
  
  
   
