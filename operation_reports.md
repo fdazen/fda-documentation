@@ -94,7 +94,7 @@ You may export the report in many different formats: choose the right one by sel
 
 
 
-The _Departures Report_ displays all of those reservations that are due to check-out a particular date/date range. It can be sorted alphabetically or by room number. This report will come useful to understand the volume of departures for a selected date or date range.   
+The _Departures Report_ displays all of those reservations that are due to check-out a particular date/date range. It can be sorted alphabetically by guests' last names, or by room number. There are other information on this report that could come handy, as the reservation status at the time the report is run, or the number of rooms a guest is currently occupying. This report will come useful to understand the volume of departures for a selected date or date range.   
 
 
 
