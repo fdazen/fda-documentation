@@ -98,6 +98,11 @@ The _Departures Report_ displays all of those reservations that are due to check
 
 
 - From the report list, click on the blue link _Departures Report_:  
+   
+![Operational_reports_5.png]({{site.baseurl}}/images/Operational_reports_5.png)
+   
+    
+    
 
 
 
