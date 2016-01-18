@@ -81,7 +81,11 @@ The report will offer you a daily breakdown of all reservations.
 
 
 
-You may export the report in many different formats: choose the right one by selecting it in the scroll down menu with the tag _Download Report As_:  
+You may export the report in many different formats: choose the right one by selecting it in the scroll down menu with the tag _Download Report As_:    
+
+   
+![Operational_reports_4.png]({{site.baseurl}}/images/Operational_reports_4.png)
+   
 
    
 
