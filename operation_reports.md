@@ -48,6 +48,9 @@ The _Arrivals Detailed Report_ displays all reservations that meet all criteria 
 - Choose your filters and click on the blue button _Run Report_:    
 
 
+![Operational_reports_2.png]({{site.baseurl}}/images/Operational_reports_2.png)
+
+
 The report will offer you a daily breakdown of all reservations. 
 
 
