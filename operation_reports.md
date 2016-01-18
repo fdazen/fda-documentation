@@ -19,8 +19,8 @@ published: true
 The Operation Reports include all those reports that are mostly important for Front Desk daily operational tasks. These include:  
   
   
- - **Arrivals: Detailed Report (ARR)**  
- - **Departures Report (DEP)**  
+ - **Arrivals: Detailed Report**  
+ - **Departures Report**  
  - **Detailed Availability (DA)**  
  - **Guest List (GL)**  
  - **Guest Overnight By Country Of Origin (GON)**  
@@ -31,7 +31,7 @@ The Operation Reports include all those reports that are mostly important for Fr
   
  
 
-##**Arrivals: Detailed Report (ARR)**
+##**Arrivals: Detailed Report**
      
      
   
