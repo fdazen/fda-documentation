@@ -102,7 +102,10 @@ The _Departures Report_ displays all of those reservations that are due to check
 ![Operational_reports_5.png]({{site.baseurl}}/images/Operational_reports_5.png)
    
     
-    
+- Select all your filters and click on the blue button _Run Report_:  
+
+![Operational_reports_6.png]({{site.baseurl}}/images/Operational_reports_6.png)
+
 
 
 
