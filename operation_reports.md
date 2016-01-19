@@ -96,7 +96,7 @@ You may export the report in many different formats: choose the right one by sel
 The _Departures Report_ displays all of those reservations that are due to check-out a particular date/date range. It can be sorted alphabetically by guests' last names, or by room number. There are other information on this report that could come handy, as the reservation status at the time the report is run, or the number of rooms a guest is currently occupying. This report will come useful to understand the volume of departures for a selected date or date range.   
 
 
-- From the report list, click on the blue link _Departures Report_:  
+- From the report list, click on the link _Departures Report_:  
    
 ![Operational_reports_5.png]({{site.baseurl}}/images/Operational_reports_5.png)
    
@@ -138,7 +138,7 @@ The _Departures Report_ displays all of those reservations that are due to check
 
 The _Detailed Availability Report_ displays the numeric value of your occupancy or vacancy for a determined date range. This report can be run for a specific room type or for multiple ones. This report will come useful when trying to foresee whether the demand is increasing/decreasing.  
    
-- In the reports list, click on the _Detailed Availability_:  
+- In the reports list, click on the _Detailed Availability_ link:  
 
 
 ![Operational_reports_8.png]({{site.baseurl}}/images/Operational_reports_8.png)
@@ -203,12 +203,15 @@ This report displays a list of all guests who have arrived, departed or currentl
 
 ##**Guest Overnight By Country Of Origin**
 
-- Breaks down Bookings, Room Nights and Unique Guests by Country over a user selected date range.
+If you are trying to have a clear understanding of the countries where your guests come from, you will need to run the _Guest Overnight By Country of Origin_ report. You can decide whether to run the report for number of bookings, night or number of guests.   
+
+
+- In the report list, click on the link _Guest Overnight By Country Of Origin_
 
 - Bookings = number of folios <br />
 Room Nights = occupancy <br />
 Unique Guests = number of guests per folio <br />
-PAX = guests/night <br />
+PAX = guests/night 
 
 ##**Guests In House (GIH)**
 
