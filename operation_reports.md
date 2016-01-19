@@ -166,7 +166,13 @@ This report displays a list of all guests who have arrived, departed or currentl
 
 - In the report list, click on the blue link _Guest List_:  
 
-![Operational_reports_11.png]({{site.baseurl}}/images/Operational_reports_11.png)
+![Operational_reports_11.png]({{site.baseurl}}/images/Operational_reports_11.png)  
+
+
+- Select your filters and click on the blue button _Run Report_:  
+
+![Operational_reports_12.png]({{site.baseurl}}/images/Operational_reports_12.png)
+
 
 
 
