@@ -282,7 +282,14 @@ Our _House Count Report_ displays the total number of guests at the property for
    
 - Click on the link _House Count Report_, in the report list:  
 
-![Operational_reports_20.png]({{site.baseurl}}/images/Operational_reports_20.png)
+![Operational_reports_20.png]({{site.baseurl}}/images/Operational_reports_20.png)   
+
+
+- Choose your filters and click on the blue button _Run Report_:  
+
+
+![Operational_reports_21.png]({{site.baseurl}}/images/Operational_reports_21.png)
+
 
 
 
