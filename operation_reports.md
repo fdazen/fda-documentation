@@ -154,7 +154,9 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 ###**Field Legend**   
 
-**Date**
+**Date**: Daily breakdown for the report chosen date range.  
+**Room Type Accronym**: Breakdown of the chosen room types.  
+**Total**: Total numeric value of occupancy/vacancy.
 
 
 
