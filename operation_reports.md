@@ -243,7 +243,14 @@ The _Guests In House_ report displays a list of all current in-house guests for 
 
 - In the report list, click on the link _Guests In House_:  
   
+  
 ![Operational_reports_17.png]({{site.baseurl}}/images/Operational_reports_17.png)
+  
+  
+- Select your filters and click on the blue button _Run Report_:  
+  
+  
+![Operational_reports_18.png]({{site.baseurl}}/images/Operational_reports_18.png)
   
 
 ##**House Count Report (HCR)**
