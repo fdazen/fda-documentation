@@ -127,6 +127,5 @@ The time frame you choose in the Yield Management Settings will ensure that the 
 ![Yield_14.png]({{site.baseurl}}/images/Yield_14.png)
 
 
-{{site.data.alerts.important}} The Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!{{site.data.alerts.end}}  
+{{site.data.alerts.important}} The Yield Manager won't override rates that have been manually changed in the _Daily Rate Grid_, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!{{site.data.alerts.end}}  
  
-**IMPORTANT!** The Yield Manager won't override rates that have been manually changed in the  _Daily Rate Grid_, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!
