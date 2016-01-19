@@ -257,6 +257,24 @@ The _Guests In House_ report displays a list of all current in-house guests for 
 ![Operational_reports_19.png]({{site.baseurl}}/images/Operational_reports_19.png)
    
 
+###**Field Legend**  
+  
+- **Total Guests**: displays the number of total guests currently in-house.  
+- **Name**: Guest's last and first name.  
+- **Room Number**:  Room number assigned to the guest.  
+- **Folio Number**: Reservation folio number associated with the guest.  
+- **Group Folio No**: Group reservation folio number associated with the guest. Note that if the guest is not part of a group booking, this field will remain blank, as in the example above.   
+- **Company/Travel Agent/Source**: Company or Travel Agent associated with the guest's reservation folio.  
+- **Check-In**: Guest's check-in date.  
+- **Check-Out**: Guest's check-out date.  
+- **Room Type**:  Room Type assigned to the guest.
+- **Adults**: Number of adults on the reservation associated with the guest.  
+- **Children**: Number of children on the reservation associated with the guest.  
+- **Revenue**: Lodging Revenue.  
+- **Tax**: Total value of tax applied to the reservation associated with the guest.  
+- **Total**: Sum of the _Revenue_ field and the _Tax_.  
+   
+   
 
 ##**House Count Report (HCR)**
 
