@@ -241,7 +241,10 @@ When done, click on the blue button _Run Report_:
   
 The _Guests In House_ report displays a list of all current in-house guests for any selected date, along with other information about their stay. You can have the results be displayed by room type or alphabetically, by guest's last name.  The report will show both primary and secondary guests: note that the first will appear in bold text.
 
-
+- In the report list, click on the link _Guests In House_:  
+  
+![Operational_reports_17.png]({{site.baseurl}}/images/Operational_reports_17.png)
+  
 
 ##**House Count Report (HCR)**
 
