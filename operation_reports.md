@@ -230,6 +230,10 @@ When done, click on the blue button _Run Report_:
 
 ##**Field Legend**:  
 
+**Date**: It shows the month that include the date range chosen.  
+**Total**: Total number of booking for relevant country.  
+**Undefined**: The _Undefined_ value will appear in case there exist reservations for the selected date range that have no country specified.  
+
 
 ##**Guests In House (GIH)**
 
