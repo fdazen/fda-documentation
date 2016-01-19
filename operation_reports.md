@@ -222,11 +222,14 @@ When done, click on the blue button _Run Report_:
 ![Operational_reports_15.png]({{site.baseurl}}/images/Operational_reports_15.png)
 
 
+- Here is an example of the report:  
 
-- Bookings = number of folios <br />
-Room Nights = occupancy <br />
-Unique Guests = number of guests per folio <br />
-PAX = guests/night 
+
+![Operational_reports_16.png]({{site.baseurl}}/images/Operational_reports_16.png)
+  
+
+##**Field Legend**:  
+
 
 ##**Guests In House (GIH)**
 
