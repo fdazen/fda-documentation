@@ -291,6 +291,9 @@ Our _House Count Report_ displays the total number of guests at the property for
 ![Operational_reports_21.png]({{site.baseurl}}/images/Operational_reports_21.png)
 
 
+- Here is an example of this report:  
+
+![Operational_reports_22.png]({{site.baseurl}}/images/Operational_reports_22.png)
 
 
 
