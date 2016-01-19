@@ -206,7 +206,10 @@ This report displays a list of all guests who have arrived, departed or currentl
 If you are trying to have a clear understanding of the countries where your guests come from, you will need to run the _Guest Overnight By Country of Origin_ report. You can decide whether to run the report for number of bookings, night or number of guests.   
 
 
-- In the report list, click on the link _Guest Overnight By Country Of Origin_
+- In the report list, click on the link _Guest Overnight By Country Of Origin_:  
+
+![Operational_reports_14.png]({{site.baseurl}}/images/Operational_reports_14.png)
+
 
 - Bookings = number of folios <br />
 Room Nights = occupancy <br />
