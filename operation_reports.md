@@ -296,6 +296,11 @@ Our _House Count Report_ displays the total number of guests at the property for
 ![Operational_reports_22.png]({{site.baseurl}}/images/Operational_reports_22.png)
 
 
+###**Field Legend**    
+
+**Guests**: under _Guests_ the report shows house count value by Guest number, broken down by reservation status. Note that the number of guests reflects what is shown in the field _Adults_ and _Children_ in the reservation folio:  
+
+![Operational_reports_23.png]({{site.baseurl}}/images/Operational_reports_23.png)
 
 
 
