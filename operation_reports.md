@@ -276,7 +276,7 @@ The _Guests In House_ report displays a list of all current in-house guests for 
    
    
 
-##**House Count Report (HCR)**
+##**House Count Report**
 
 - The House Count Report provides a count of both guests and assigned rooms broken down by date and folio status. The guest count is based on the occupancy field in the reservation screen.
 
