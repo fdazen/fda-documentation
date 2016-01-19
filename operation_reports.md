@@ -22,7 +22,7 @@ The Operation Reports include all those reports that are mostly important for Fr
  - **Arrivals: Detailed Report**  
  - **Departures Report**  
  - **Detailed Availability**  
- - **Guest List (GL)**  
+ - **Guest List**  
  - **Guest Overnight By Country Of Origin (GON)**  
  - **Guests In House (GIH)**  
  - **House Count Report (HCR)**  
