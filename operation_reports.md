@@ -236,9 +236,12 @@ When done, click on the blue button _Run Report_:
 **Undefined**: The _Undefined_ value will appear in case there exist reservations for the selected date range that have no country specified.  
 
 
-##**Guests In House (GIH)**
+##**Guests In House**
+  
+  
+The _Guests In House_ report displays a list of all current in-house guests for any selected date, along with other information about their stay. You can have the results be displayed by room type or alphabetically, by guest's last name.  
 
-- The Guests in House by Room Number/Alpha Report displays a variety of information for guests in house and sorts by room number. Change the sort order to display alphabetically by guest last name instead of sequencing by room number.
+
 
 - This report includes both Primary and Additional Guests and Primary Guests are in bold. Adults, Children, Revenue, Tax and Total values are only displayed for the Primary Guest
 
