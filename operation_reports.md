@@ -164,7 +164,7 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 ##**Guest List**   
 
-This report displays a list of all guests who have arrived, departed or currently staying at your property for the selected date range. All guest information is listed here, from their phone details and email address to their email address. You can also have the report showing secondary guests, who will appear next to the primary guests. This report is useful to gather information about your guests which can be used for marketing purposes.  
+This report displays a list of all guests who have arrived, departed or currently staying at your property for the selected date range. All guest information is listed here, from their phone details and email address to their email address. You can also have the report showing secondary guests, who will appear next to the primary guests. The primary guest appears in blod. This report is useful to gather information about your guests which can be used for marketing purposes.  
 
 - In the report list, click on the blue link _Guest List_:  
 
@@ -239,7 +239,7 @@ When done, click on the blue button _Run Report_:
 ##**Guests In House**
   
   
-The _Guests In House_ report displays a list of all current in-house guests for any selected date, along with other information about their stay. You can have the results be displayed by room type or alphabetically, by guest's last name.  
+The _Guests In House_ report displays a list of all current in-house guests for any selected date, along with other information about their stay. You can have the results be displayed by room type or alphabetically, by guest's last name.  The report will show both primary and secondary guests: note that the first will appear in bold text.
 
 
 
