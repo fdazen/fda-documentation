@@ -293,6 +293,9 @@ Our _House Count Report_ displays the total number of guests at the property for
 
 
 
+
+
+
 - The House Count Report provides a count of both guests and assigned rooms broken down by date and folio status. The guest count is based on the occupancy field in the reservation screen.
 
 
