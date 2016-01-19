@@ -152,6 +152,7 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 ![Operational_reports_10.png]({{site.baseurl}}/images/Operational_reports_10.png)
 
+
 ###**Field Legend**   
 
 **Date**: Daily breakdown for the report chosen date range.  
@@ -200,13 +201,7 @@ This report displays a list of all guests who have arrived, departed or currentl
 
 
 
-
-
-
-
-
-
-##**Guest Overnight By Country Of Origin (GON)**
+##**Guest Overnight By Country Of Origin**
 
 - Breaks down Bookings, Room Nights and Unique Guests by Country over a user selected date range.
 
