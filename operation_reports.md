@@ -144,6 +144,9 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 ![Operational_reports_8.png]({{site.baseurl}}/images/Operational_reports_8.png)
 
 
+- Select al your filters and from the filter _Detail Type_ select whether you want the report for occupancy or vacancy. To run the report, click on the blue button _Run Report_:   
+
+![Operational_reports_9.png]({{site.baseurl}}/images/Operational_reports_9.png)
 
    
    
