@@ -21,7 +21,7 @@ The Operation Reports include all those reports that are mostly important for Fr
   
  - **Arrivals: Detailed Report**  
  - **Departures Report**  
- - **Detailed Availability (DA)**  
+ - **Detailed Availability**  
  - **Guest List (GL)**  
  - **Guest Overnight By Country Of Origin (GON)**  
  - **Guests In House (GIH)**  
@@ -116,19 +116,19 @@ The _Departures Report_ displays all of those reservations that are due to check
 
 ###**Field Legend**    
 
-**Name**: Guest last and first name.
-**Room Number**: Room number assigned to the guest.
-**Folio No**: Reservation folio number.
-**Group Folio No**: Group Reservation folio number (if applicable).
-**Company/Travel Agent/Source**: It reminds to the reservation source, and associated company/travel agent.
-**Check-In**: Day of guest's check-in.
-**Check-Out**: Day of guest's check-out.
-**Adults**: Number of adults.
-**Children**: Number of children.
-**Rooms**: Number of rooms assigned to the guest.
-**Nights**: Number of nights reserved.
-**Room Type**: Type of room allocated to the guest (accronym).   
-**Reservation Status**: Status of the reservation at the time the report was run.
+**Name**: Guest last and first name.  
+**Room Number**: Room number assigned to the guest.  
+**Folio No**: Reservation folio number.  
+**Group Folio No**: Group Reservation folio number (if applicable).  
+**Company/Travel Agent/Source**: It reminds to the reservation source, and associated company/travel agent.   
+**Check-In**: Day of guest's check-in.    
+**Check-Out**: Day of guest's check-out.    
+**Adults**: Number of adults.    
+**Children**: Number of children.    
+**Rooms**: Number of rooms assigned to the guest.    
+**Nights**: Number of nights reserved.    
+**Room Type**: Type of room allocated to the guest (accronym).    
+**Reservation Status**: Status of the reservation at the time the report was run.    
 
 
 
@@ -152,7 +152,11 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 ![Operational_reports_10.png]({{site.baseurl}}/images/Operational_reports_10.png)
 
-   
+###**Field Legend**   
+
+**Date**
+
+
 
 ##**Guest List (GL)**
 - Lists the guests who Arrived, Departed and/or were a Stayover for a specified date range.
