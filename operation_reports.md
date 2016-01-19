@@ -27,8 +27,7 @@ The Operation Reports include all those reports that are mostly important for Fr
  - **Guest List**  
  - **Guest Overnight By Country Of Origin**  
  - **Guests In House**  
- - **House Count Report (HCR)**  
- - **Housekeeping Status Report (HSR)**  
+ - **House Count Report**  
   
   
  
@@ -307,10 +306,4 @@ Our _House Count Report_ displays the total number of guests at the property for
 
 
 
-##**Housekeeping Status Report**
 
-- The Housekeeping Status Report displays the status for all activity in every room in the hotel. This report provides details on the Reservations that the Housekeeping department might find useful in scheduling of service.
-
-- Note - Housekeeping Statuses are **not** sent to the Reporting Server yet so this report will only display Reservation Status.
-
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
