@@ -138,7 +138,11 @@ The _Departures Report_ displays all of those reservations that are due to check
 
 The _Detailed Availability Report_ displays the numeric value of your occupancy or vacancy for a determined date range. This report can be run for a specific room type or for multiple ones. This report will come useful when trying to foresee whether the demand is increasing/decreasing.  
    
-- in the reports list, click on the _Detailed Availability_:  
+- In the reports list, click on the _Detailed Availability_:  
+
+
+![Operational_reports_8.png]({{site.baseurl}}/images/Operational_reports_8.png)
+
 
 
    
