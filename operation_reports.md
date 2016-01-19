@@ -243,10 +243,6 @@ The _Guests In House_ report displays a list of all current in-house guests for 
 
 
 
-- This report includes both Primary and Additional Guests and Primary Guests are in bold. Adults, Children, Revenue, Tax and Total values are only displayed for the Primary Guest
-
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
-
 ##**House Count Report (HCR)**
 
 - The House Count Report provides a count of both guests and assigned rooms broken down by date and folio status. The guest count is based on the occupancy field in the reservation screen.
