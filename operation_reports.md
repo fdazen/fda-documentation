@@ -277,14 +277,18 @@ The _Guests In House_ report displays a list of all current in-house guests for 
    
 
 ##**House Count Report**
+  
+Our _House Count Report_ displays the total number of guests at the property for a selected date, per folio reservation status. This means that you can find out how many guests are due to arrive, or that are currently staying at the property. This reports also offers you a count of al the reservations associated with those guests, which you can also filter by reservation status. If you choose to runt he report for multiple Reservation Statuses, the results will broken down by each status; if you choose to run this for multiple days, the report will also break down the results by day. This will ensure you have a good understanding of house count for each status or/and day.
+
+
 
 - The House Count Report provides a count of both guests and assigned rooms broken down by date and folio status. The guest count is based on the occupancy field in the reservation screen.
 
-- It's basically a daily break out of rooms and guests by folio status.
 
-- Confirm this - multiple properties are shown consecutively.
 
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
+
+
+
 
 ##**Housekeeping Status Report (HSR)**
 
