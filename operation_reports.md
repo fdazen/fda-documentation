@@ -160,7 +160,7 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 
 
-##**Guest List (GL)**
+##**Guest List**
 - Lists the guests who Arrived, Departed and/or were a Stayover for a specified date range.
 
 - It's basically the guest contact report from v2 (includes emails etc) but lets you filter for Arrivals/Departures/Stayovers. You can run for multiple stay statuses at once so for the minute this report (with all Arrivals, Departures and Stayovers selected) and the Manager's Report should replace the Night Audit Report in v2.
