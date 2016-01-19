@@ -25,7 +25,7 @@ The Operation Reports include all those reports that are mostly important for Fr
  - **Detailed Availability**  
  - **Guest List**  
  - **Guest Overnight By Country Of Origin**  
- - **Guests In House (GIH)**  
+ - **Guests In House**  
  - **House Count Report (HCR)**  
  - **Housekeeping Status Report (HSR)**  
   
