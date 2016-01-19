@@ -208,7 +208,19 @@ If you are trying to have a clear understanding of the countries where your gues
 
 - In the report list, click on the link _Guest Overnight By Country Of Origin_:  
 
-![Operational_reports_14.png]({{site.baseurl}}/images/Operational_reports_14.png)
+![Operational_reports_14.png]({{site.baseurl}}/images/Operational_reports_14.png)   
+   
+
+- Select your filters. Note that you can run the report so as to show results in the following way:  
+    
+1. _**Bookings**_: this will group values by the number of bookings.   
+2. _**Room Nights**_: results will be grouped by the number of the nights for each booking.  
+3. _**Unique Guests**_: this option will show results for the number of guests from a certain country.  
+
+When done, click on the blue button _Run Report_:  
+
+![Operational_reports_15.png]({{site.baseurl}}/images/Operational_reports_15.png)
+
 
 
 - Bookings = number of folios <br />
