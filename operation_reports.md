@@ -173,6 +173,32 @@ This report displays a list of all guests who have arrived, departed or currentl
 
 
 ![Operational_reports_12.png]({{site.baseurl}}/images/Operational_reports_12.png)
+  
+  
+- Here is an example of this report:  
+
+![Operational_reports_13.png]({{site.baseurl}}/images/Operational_reports_13.png)   
+
+
+###**Field Legend**  
+
+**Folio Number**: Displays the reservation folio number associated with the guest.  
+**Check-In**: Guest's check-in date.  
+**Check-Out**: Guest's check-out date.  
+**Name**: Guest's last name and first name.  
+**Gender**: Display the guest's gender, if specified.  
+**Address**: Shows the address associated with the guest.  
+**City**: Displays the city associated with the guest's address.  
+**State**: Displays the state associated with the guest's address.   
+**Zip Code**: Shows the guest's zip code.  
+**Country**: Displays the name of the country associated with the guest's address.  
+**Phone**: Lists the guest's phone number.  
+**Email**: Displays the guest's email address.   
+
+
+
+
+
 
 
 
