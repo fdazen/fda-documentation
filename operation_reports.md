@@ -307,14 +307,7 @@ Our _House Count Report_ displays the total number of guests at the property for
 
 
 
-
-
-
-
-
-
-
-##**Housekeeping Status Report (HSR)**
+##**Housekeeping Status Report**
 
 - The Housekeeping Status Report displays the status for all activity in every room in the hotel. This report provides details on the Reservations that the Housekeeping department might find useful in scheduling of service.
 
