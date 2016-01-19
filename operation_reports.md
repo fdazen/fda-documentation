@@ -252,6 +252,11 @@ The _Guests In House_ report displays a list of all current in-house guests for 
   
 ![Operational_reports_18.png]({{site.baseurl}}/images/Operational_reports_18.png)
   
+- Here is an example of this report:   
+
+![Operational_reports_19.png]({{site.baseurl}}/images/Operational_reports_19.png)
+   
+
 
 ##**House Count Report (HCR)**
 
