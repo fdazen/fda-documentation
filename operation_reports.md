@@ -148,7 +148,10 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 ![Operational_reports_9.png]({{site.baseurl}}/images/Operational_reports_9.png)
 
-   
+- Here is an example of the report:   
+
+![Operational_reports_10.png]({{site.baseurl}}/images/Operational_reports_10.png)
+
    
 
 ##**Guest List (GL)**
