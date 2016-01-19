@@ -162,12 +162,15 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 ##**Guest List**   
 
-This report displays a list of all guests who have arrived, departed or currently staying at your property for the selected date range.
-- Lists the guests who Arrived, Departed and/or were a Stayover for a specified date
+This report displays a list of all guests who have arrived, departed or currently staying at your property for the selected date range. All guest information is listed here, from their phone details and email address to their email address. You can also have the report showing secondary guests, who will appear next to the primary guests. This report is useful to gather information about your guests which can be used for marketing purposes.  
 
-- It's basically the guest contact report from v2 (includes emails etc) but lets you filter for Arrivals/Departures/Stayovers. You can run for multiple stay statuses at once so for the minute this report (with all Arrivals, Departures and Stayovers selected) and the Manager's Report should replace the Night Audit Report in v2.
+- In the report list, click on the blue link _Guest List_:  
 
-- If Additional Guests are selected then the Primary Guest is displayed in bold text.
+![Operational_reports_11.png]({{site.baseurl}}/images/Operational_reports_11.png)
+
+
+
+
 
 
 ##**Guest Overnight By Country Of Origin (GON)**
