@@ -1,11 +1,36 @@
 ---
 title: Financial Reports
-tags: [Reports, Financial]
-keywords: "reports"
+tags: 
+  - Reports
+  - Financial
+keywords: reports
 last_updated: "December 29th, 2015"
 summary: A description of the financial reports in FDA.
 published: true
 ---
+
+
+
+
+#**Financial Reports**
+     
+       
+       
+The Financial Reports include all those reports that have to do with daily transactions performed at your property, and are mostly important for the Accounting Department. These include:  
+  
+  
+ - **Additional Revenue Report**  
+ - **Adjustments Report**  
+ - **Cashier Report Detail**  
+ - **Daily Balancing Audit Report**  
+ - **Production Report**  
+ - **Production Report By Month**  
+ - **Rate Discrepancy Report** 
+ - **Room Revenue Breakdown Report** 
+ - **Total Revenue Breakdown Report**
+ - **Trial Balance Report**
+ - **Trial Balance With Range Report**
+
 
 ##**Additional Revenue Breakdown (ARB)**
 
@@ -84,7 +109,7 @@ published: true
 
 - There is no guest information on this report yet (only folio numbers)
 
-##**Total Revenue Breakdown Report (TRB)**
+##**Total Revenue Breakdown Report**
 
 - Shows a breakdown of all Revenue and Taxes by Charge Name, Revenue Label or Revenue Category for the date range selected.
 
@@ -103,5 +128,3 @@ published: true
 - Provides a summary of the financial transactions over a date range. Adds the Net Transactions to the previous date's Closing Balance to give the overall Closing Balance from the fiscal year start.
 
 - This report is the same as the Trial Balance Report but the Net Transactions are calculated over a date range instead of a single date (Run For Date).
-
-
