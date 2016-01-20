@@ -100,7 +100,7 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 **Department**: Departement associated with the adjustment. If none has been configured/chosen, then the field will show as a _Not Defined_. 
 **Quantity**:  Number of same-type adjustments performed.  
 **Non-Taxable Revenue**:  value of the adjustment performed on non-taxable revenue. This field will be empty in case you have performed adjustments only on revenue where tax is applied.  
-**
+**Taxable Revenue**: value of the adjustment performed on taxable revenue. This field will be empty in case you have performed adjustments only on revenue where no tax is applied.  
 
 
 
