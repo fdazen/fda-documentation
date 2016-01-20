@@ -39,13 +39,22 @@ This report includes information about posted POS items and Add-Ons. There are a
 {{site.data.alerts.important}} Additional revenue is <span style="color:red;">**independent**</span> of room type and folio status, that is, there is currently no link in the reporting system between an add-on/POS item and Room Type or Folio Status. This means that all additional revenue will be included every time, regardless of the Room Types, Folio Status and Sources/Markets selected. {{site.data.alerts.end}}
 
 
-- In the reports list, click on the link _
+- In the reports list, click on the link _Additional Revenue Breakdown_:  
+
+![Finacial_reports_1.png]({{site.baseurl}}/images/Finacial_reports_1.png)   
+
+- Select your filters. Choose whether you wish to include POS items or/and Add-ons, select whether you want to display results by a particular Revenue Category or/and Label, the user who posted the item, and whether you wish the results to include a folio breakdown. When done, clcik on the blue button _Run Report_:  
 
 
 
-##**Adjustments Report (ADJ)**
 
-- This report shows any adjustments posted within the query range selected. In V2 Adjustments are only accessible after Night Audit has been run on a property whereas in V3 Adjustments have replaced discounts.
+
+
+##**Adjustments Report**
+
+The _Adjustment Report_ gives you a summary of all adjustments made on each folio, for the selected date range. Along with the adjustment amount, it gives information of the Department that has allowed it and the Reason why it has been given out. If you want to keep track of reasons and departments, make sure to configure those in the Admin Settings, section **Accounting**: check out the configuration part of this manual to learn how to! 
+
+This report shows any adjustments posted within the query range selected. In V2 Adjustments are only accessible after Night Audit has been run on a property whereas in V3 Adjustments have replaced discounts.
 
 ##**Cashier Report Detail (CRD)**
 
