@@ -86,8 +86,10 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 
 ![Finacial_reports_5.png]({{site.baseurl}}/images/Finacial_reports_5.png)
 
+- Here is an example of the report:  
 
-   
+![Finacial_reports_6.png]({{site.baseurl}}/images/Finacial_reports_6.png)
+
    
 ##**Cashier Report Detail**   
 
