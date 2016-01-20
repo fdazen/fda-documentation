@@ -55,8 +55,10 @@ This report includes information about posted POS items and Add-Ons. There are a
 The _Adjustment Report_ gives you a summary of all adjustments made on each folio, for the selected date range. Along with the adjustment amount, it gives information of the Department that has allowed it and the Reason why it has been given out. If you want to keep track of reasons and departments, make sure to configure those in the Admin Settings, section **Accounting**: check out the configuration part of this manual to learn how to! 
 
 This report shows any adjustments posted within the query range selected. In V2 Adjustments are only accessible after Night Audit has been run on a property whereas in V3 Adjustments have replaced discounts.
+   
+   
+##**Cashier Report Detail**   
 
-##**Cashier Report Detail (CRD)**
 
 - Lists all Payments posted in the date range selected. Can be configured to filter by user and to show only refunds made if necessary. Payments are broken out by Payment Type and Folio No.
 
