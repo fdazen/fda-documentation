@@ -39,8 +39,8 @@ This report includes information about posted POS items and Add-Ons. There are a
 {{site.data.alerts.important}} Additional revenue is <span style="color:red;">**independent**</span> of room type and folio status, that is, there is currently no link in the reporting system between an add-on/POS item and Room Type or Folio Status. This means that all additional revenue will be included every time, regardless of the Room Types, Folio Status and Sources/Markets selected. {{site.data.alerts.end}}
 
 
+- In the reports list, click on the link _
 
-	Can also display a folio breakdown of charges so the user can see what folio certain charges were applied to. Again, it’s important to remember that Add-on/POS items ignore Folio Status so if the charge is undeleted and posted in the range selected then it will show in the report regardless of the folio status.
 
 
 ##**Adjustments Report (ADJ)**
