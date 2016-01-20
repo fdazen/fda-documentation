@@ -82,6 +82,9 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 
 ![Finacial_reports_4.png]({{site.baseurl}}/images/Finacial_reports_4.png)
 
+- Select the account you wish to run the report for, the date range, and click on the blue button _Run Report_:  
+
+![Finacial_reports_5.png]({{site.baseurl}}/images/Finacial_reports_5.png)
 
 
    
