@@ -34,8 +34,8 @@ The Financial Reports include all those reports that have to do with daily trans
 
 ##**Additional Revenue Breakdown**
 
-- <p>
-	This report shows any add-ons and pos items posted within the query range selected. Has nested filtering - you can filter by Charge Type (Add-on/POS) then by Revenue Category and Revenue Label. Also allows for filtering of charges posted by certain users. This can be handy for hotels wanting to calculate commissions based on upsell items for example.
+This report includes information about posted POS items and Add-Ons.
+	 Has nested filtering - you can filter by Charge Type (Add-on/POS) then by Revenue Category and Revenue Label. Also allows for filtering of charges posted by certain users. This can be handy for hotels wanting to calculate commissions based on upsell items for example.
 
 	Can also display a folio breakdown of charges so the user can see what folio certain charges were applied to. Again, it’s important to remember that Add-on/POS items ignore Folio Status so if the charge is undeleted and posted in the range selected then it will show in the report regardless of the folio status.
 	</p>
