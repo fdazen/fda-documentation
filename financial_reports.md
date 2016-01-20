@@ -34,11 +34,14 @@ The Financial Reports include all those reports that have to do with daily trans
 
 ##**Additional Revenue Breakdown**
 
-This report includes information about posted POS items and Add-Ons.
-	 Has nested filtering - you can filter by Charge Type (Add-on/POS) then by Revenue Category and Revenue Label. Also allows for filtering of charges posted by certain users. This can be handy for hotels wanting to calculate commissions based on upsell items for example.
+This report includes information about posted POS items and Add-Ons. There are a variety of filters that will allow you to choose how you want the results to displayed. This report is useful for many reasons: it allows the Accounting department to follow up with  how many actual extra charges have been sold for a certain date range, and it allows them to include a folio breakdown where you can see where in the system the charges have been posted. As results can also be organized around the user who posted the item, it comes handy if your hotel needs to calculate commission based on upsell items. 
+
+{{site.data.alerts.important}} Additional revenue is <span style="color:red;">**independent**</span> of room type and folio status, that is, there is currently no link in the reporting system between an add-on/POS item and Room Type or Folio Status. This means that all additional revenue will be included every time, regardless of the Room Types, Folio Status and Sources/Markets selected. {{site.data.alerts.end}}
+
+
 
 	Can also display a folio breakdown of charges so the user can see what folio certain charges were applied to. Again, it’s important to remember that Add-on/POS items ignore Folio Status so if the charge is undeleted and posted in the range selected then it will show in the report regardless of the folio status.
-	</p>
+
 
 ##**Adjustments Report (ADJ)**
 
