@@ -89,6 +89,11 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 - Here is an example of the report:  
 
 ![Finacial_reports_6.png]({{site.baseurl}}/images/Finacial_reports_6.png)
+ 
+
+###**Fields Legend**  
+
+
 
    
 ##**Cashier Report Detail**   
