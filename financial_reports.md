@@ -32,7 +32,7 @@ The Financial Reports include all those reports that have to do with daily trans
  - **Trial Balance With Range Report**
 
 
-##**Additional Revenue Breakdown (ARB)**
+##**Additional Revenue Breakdown**
 
 - <p>
 	This report shows any add-ons and pos items posted within the query range selected. Has nested filtering - you can filter by Charge Type (Add-on/POS) then by Revenue Category and Revenue Label. Also allows for filtering of charges posted by certain users. This can be handy for hotels wanting to calculate commissions based on upsell items for example.
