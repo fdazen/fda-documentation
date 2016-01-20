@@ -68,7 +68,9 @@ This report includes information about posted POS items and Add-Ons. There are a
 **Total Revenue**: sum of non-taxable and taxable revenue.
 **Tax name**: list of applied taxes.  
 **Total Taxes**: sum of all applicable taxes.  
-**Total**: sum of Total Revenue and Total taxes.  
+**Total**: sum of Total Revenue and Total taxes.    
+
+{{site.data.alerts.Note}} It might happen that you see the tag _Undefined_ in your results. This simply means that there are Revenue Categories or Labels that have not been assigned to a certain item. Learn how to fix this by going into section **Admin Settings** - **Accounting** of this manual. {{site.data.alerts.end}}
 
 
 ##**Adjustments Report**
