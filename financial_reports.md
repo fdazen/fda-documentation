@@ -53,7 +53,13 @@ This report includes information about posted POS items and Add-Ons. There are a
 ![Finacial_reports_3.png]({{site.baseurl}}/images/Finacial_reports_3.png)
 
 
+###**Fields Legend**  
 
+**Charge Type**: displays the type of Item that has been posted.  
+**Revenue Category**: shows the Revenue Category associated with the item.  
+**Revenue Label**: shows the Revenue Label associated with the item.  
+**Charge Name**: displays the charge name.  
+**
 
 ##**Adjustments Report**
 
