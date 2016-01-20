@@ -59,7 +59,17 @@ This report includes information about posted POS items and Add-Ons. There are a
 **Revenue Category**: shows the Revenue Category associated with the item.  
 **Revenue Label**: shows the Revenue Label associated with the item.  
 **Charge Name**: displays the charge name.  
-**
+**Folio No**: Folio number associated with the charge.  
+**User**: User who posted the charge.  
+**Count**: Number of times the charge has been aplied to that reservation folio.  
+**Avg Price**: Average charge price.  
+**Non-Taxable Revenue**: sum of items where no tax is applied.  
+**Taxable Revenue**: sum of items subject to tax.  
+**Total Revenue**: sum of non-taxable and taxable revenue.
+**Tax name**: list of applied taxes.  
+**Total Taxes**: sum of all applicable taxes.  
+**Total**: sum of Total Revenue and Total taxes.  
+
 
 ##**Adjustments Report**
 
