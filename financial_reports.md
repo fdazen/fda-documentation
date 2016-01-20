@@ -91,7 +91,18 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 ![Finacial_reports_6.png]({{site.baseurl}}/images/Finacial_reports_6.png)
  
 
-###**Fields Legend**  
+###**Fields Legend**    
+
+**Folio No**: Folio hwere the adjustment was performed.  
+**Date&Time**: Time and date when the adjustment was performed.  
+**User**: User who performed the adjustment.  
+**Reason**: Reason associated with the adjustment.  If none has been configured/chosen, then the field will show as a _Not Defined_. 
+**Department**: Departement associated with the adjustment. If none has been configured/chosen, then the field will show as a _Not Defined_. 
+**Quantity**:  Number of same-type adjustments performed.  
+**Non-Taxable Revenue**:  value of the adjustment performed on non-taxable revenue. This field will be empty in case you have performed adjustments only on revenue where tax is applied.  
+**
+
+
 
 
 
