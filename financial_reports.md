@@ -16,7 +16,7 @@ published: true
      
        
        
-The Financial Reports include all those reports that have to do with daily transactions performed at your property, and are mostly important for the Accounting Department. These include:  
+The Financial Reports include all those reports that have to do with daily transactions performed at your property, and they offer a precise understanding of all financial operations. For this reason, these will mostly important to your Accounting Department. These include:  
   
   
  - **Additional Revenue Report**  
