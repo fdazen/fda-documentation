@@ -76,7 +76,12 @@ This report includes information about posted POS items and Add-Ons. There are a
   
 ##**Adjustments Report**
 
-The _Adjustment Report_ gives you a summary of all adjustments made on each folio for a selected date range. Along with the adjustment amount, it gives information of the Department that has allowed it and the reason why it has been given out. If you want to keep track of reasons and departments, make sure to configure those in the Admin Settings, section **Accounting**: check out the configuration part of this manual to learn how to! 
+The _Adjustment Report_ gives you a summary of all adjustments made on each folio for a selected date range. Along with the adjustment amount, it gives information of the Department that has allowed it and the reason why it has been given out. If you want to keep track of reasons and departments, make sure to configure those in the Admin Settings, section **Accounting**: check out the configuration part of this manual to learn how to!   
+
+- In the report list, click on the link _Adjustment Report_:  
+
+![Finacial_reports_4.png]({{site.baseurl}}/images/Finacial_reports_4.png)
+
 
 
    
