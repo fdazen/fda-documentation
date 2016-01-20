@@ -48,6 +48,9 @@ This report includes information about posted POS items and Add-Ons. There are a
 
 ![Finacial_reports_2.png]({{site.baseurl}}/images/Finacial_reports_2.png)
 
+- Here is an exmaple of the report:  
+
+![Finacial_reports_3.png]({{site.baseurl}}/images/Finacial_reports_3.png)
 
 
 
