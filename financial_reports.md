@@ -114,9 +114,9 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 
 {{site.data.alerts.important}}  
-1. Payments are entered into the system **today**. There’s nothing that allows you to enter a payment today and post it in 6 month’s time or on the guest's check-in date.{{site.data.alerts.end}}  
+1. Payments are entered into the system today. There’s nothing that allows you to enter a payment today and post it in 6 month’s time or on the guest's check-in date.{{site.data.alerts.end}}  
 
-{{site.data.alerts.important}}  
+ 
 2. Payments are <span style="color:red;">independent</span> of room type and folio status, that is, there is currently no link in the reporting system between payments and folio statuses selected.{{site.data.alerts.end}}    
 
 3.There is <span style="color:red;">**no link**</span> between payments and the charges to which they are applied. Although the payments are linked to the folios, they are not connected to a _specific_ charge on that folio.  
