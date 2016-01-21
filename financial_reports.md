@@ -205,8 +205,16 @@ The _Production_ Report provides you with information about Occupancy and Revenu
 
 ###**Fields Legend**  
   
-**Source/Market**: Depending on your filter, this field will show the name of the source/market from/for which revenue has been produced. Note that in the example it shows as _Undefined_: this means that the revenue values are showing for all reservation for which a source/market has not been specified.  
-**Occupancy**: Number
+**Source/Market**: Depending on your filter, this field will show the name of the source/market from/for which revenue has been produced. Note that in the example there is an _Undefined_ market: this means that the revenue values are showing for those reservations for which no market has been specified.  
+**Occupancy**: Number of people.  
+**PAX**:  
+**Total Revenue**: total revenue for the selected market and date range.  
+**ADR**: Average Daily Rate.  
+**Occupancy %**: Percentage of occupancy level.  
+**% PAX**: Percentage of people staying at the property for the selected date range.  
+**% of Revenue**: Percentage of total revenue for the selected market and date range.  
+
+
 
 
 
