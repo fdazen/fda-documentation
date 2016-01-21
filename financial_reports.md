@@ -200,6 +200,13 @@ The _Production_ Report provides you with information about Occupancy and Revenu
 - Here is an example of this report:  
 
 ![Finacial_reports_15.png]({{site.baseurl}}/images/Finacial_reports_15.png)
+ 
+
+
+###**Fields Legend**  
+  
+**Source/Market**: Depending on your filter, this field will show the name of the source/market from/for which revenue has been produced. Note that in the example it shows as _Undefined_: this means that the revenue values are showing for all reservation for which a source/market has not been specified.  
+**Occupancy**: Number
 
 
 
