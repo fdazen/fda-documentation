@@ -218,7 +218,7 @@ The _Production_ Report provides you with information about Occupancy and Revenu
 
 
 
-##**Production Report By Month (PRM)**
+##**Production Report By Month**
 
 - A breakdown of the arrivals, rooms occupied or PAX by month and Source/Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.
 
