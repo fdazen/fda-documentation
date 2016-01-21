@@ -138,7 +138,19 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 - Here is an example of the report:  
 
-![Finacial_reports_9.png]({{site.baseurl}}/images/Finacial_reports_9.png)
+![Finacial_reports_9.png]({{site.baseurl}}/images/Finacial_reports_9.png)  
+
+
+###**Fields Legend**  
+
+**Payment Type**: The report is broken down by pay type, which will be listed on the top of the results. In the example above, there are two payment types showing, Cash and Visa.  
+**Payment Date**: Date and time where the payment was posted.  
+**Folio No**: Reservation Folio where the payment was posted.  
+**Processed By**: User who posted the payment.  
+**Amount**: Payment Amount.    
+
+
+
 
 
 
