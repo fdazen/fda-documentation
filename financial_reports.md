@@ -166,7 +166,10 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 
 ![Finacial_reports_11.png]({{site.baseurl}}/images/Finacial_reports_11.png)  
 
-- 
+- Here is an example of the report:  
+
+![Finacial_reports_12.png]({{site.baseurl}}/images/Finacial_reports_12.png)
+
 
 
 
