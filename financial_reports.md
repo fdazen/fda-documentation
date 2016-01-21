@@ -198,7 +198,6 @@ The _Production_ Report provides you with information about Occupancy and Revenu
 
 
 
-- Breaks down Occupancy, PAX and Room Revenue by Source or Market. Also shows how much of the total Occupancy/PAX/Room Revenue the Source or Market is responsible for. It is also possible to filter by Room Types.
 
 ##**Production Report By Month (PRM)**
 
