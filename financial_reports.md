@@ -124,7 +124,10 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 4. Revenue is counted on the night it is consumed - i.e. if there’s a reservation that is made today for six months in the future, that revenue will show up on reports that will be run for that time frame, and not today.{{site.data.alerts.end}}
 
 
-- Lists all Payments posted in the date range selected. Can be configured to filter by user and to show only refunds made if necessary. Payments are broken out by Payment Type and Folio No.
+- In the report list, click on the link _Cashier Report Detail_:  
+
+![Finacial_reports_7.png]({{site.baseurl}}/images/Finacial_reports_7.png)
+
 
 
 
