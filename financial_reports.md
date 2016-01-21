@@ -117,14 +117,14 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 2. Payments are <span style="color:red;">independent</span> of room type and folio status, that is, there is currently no link in the reporting system between payments and folio statuses selected.  
 
-3.There is <span style="color:red;">**no link**</span> between payments and the charges to which they are applied. Although the payments are linked to the folios, they are not connected to a _specific_ charge on that folio. {{site.data.alerts.end}}
+3.There is <span style="color:red;">**no link**</span> between payments and the charges to which they are applied. Although the payments are linked to the folios, they are not connected to a _specific_ charge on that folio.  
+
+4. Revenue is counted on the night it is consumed - i.e. if there’s a reservation that is made today for six months in the future, that revenue will show up on reports that will be run for that time frame, and not today.{{site.data.alerts.end}}
 
 
 - Lists all Payments posted in the date range selected. Can be configured to filter by user and to show only refunds made if necessary. Payments are broken out by Payment Type and Folio No.
 
-- It is important to note that payments are displayed based on the date they’re entered into the system. Payments entered today cannot be counted on a check in that’s 6 months in the future.
 
-- Mention: Time Filter to filter by hour and Security Deposit Breakout for Report (needs new datafeed though)
 
 ##**Daily Balancing Audit Report (DBA)**
 
