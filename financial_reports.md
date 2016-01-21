@@ -197,6 +197,10 @@ The _Production_ Report provides you with information about Occupancy and Revenu
 ![Finacial_reports_14.png]({{site.baseurl}}/images/Finacial_reports_14.png)
 
 
+- Here is an example of this report:  
+
+![Finacial_reports_15.png]({{site.baseurl}}/images/Finacial_reports_15.png)
+
 
 
 ##**Production Report By Month (PRM)**
