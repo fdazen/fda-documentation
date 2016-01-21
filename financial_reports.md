@@ -190,7 +190,12 @@ The _Production_ Report provides you with information about Occupancy and Revenu
 
 - In the report list, click on the link _Production Report_:  
 
-![Finacial_reports_13.png]({{site.baseurl}}/images/Finacial_reports_13.png)
+![Finacial_reports_13.png]({{site.baseurl}}/images/Finacial_reports_13.png)  
+
+- Select your filters and click on the blue button _Run Report_:  
+
+![Finacial_reports_14.png]({{site.baseurl}}/images/Finacial_reports_14.png)
+
 
 
 - Breaks down Occupancy, PAX and Room Revenue by Source or Market. Also shows how much of the total Occupancy/PAX/Room Revenue the Source or Market is responsible for. It is also possible to filter by Room Types.
