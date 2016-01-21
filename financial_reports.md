@@ -110,7 +110,8 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
    
 ##**Cashier Report Detail**   
 
-The _Cashier Report Detail_ will provide you with detailed payment information made on a selected date range. You will have the ability to filter by the user who posted the payment and also to show refunds.  
+The _Cashier Report Detail_ will provide you with detailed payment information made on a selected date range. You will have the ability to filter by the user who posted the payment and also to show refunds. All payments are broken out into Payment Type and reservation Folio number.  
+
 
 {{site.data.alerts.important}}  
 1. Payments are entered into the system **today**. There’s nothing that allows you to enter a payment today and post it in 6 month’s time or on the guest's check-in date.  
