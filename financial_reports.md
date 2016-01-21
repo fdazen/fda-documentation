@@ -162,9 +162,11 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 
 ![Finacial_reports_10.png]({{site.baseurl}}/images/Finacial_reports_10.png)
 
-- Select your filters. As mentioned above, we advise to run it from the beginning of the fiscal year, in order to have precise information:  
+- Select your filters and click on the blue button _Run Report_. As mentioned above, we advise to run it from the beginning of the fiscal year, in order to have precise information:  
 
-![Finacial_reports_11.png]({{site.baseurl}}/images/Finacial_reports_11.png)
+![Finacial_reports_11.png]({{site.baseurl}}/images/Finacial_reports_11.png)  
+
+- 
 
 
 
