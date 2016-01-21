@@ -126,7 +126,13 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 - In the report list, click on the link _Cashier Report Detail_:  
 
-![Finacial_reports_7.png]({{site.baseurl}}/images/Finacial_reports_7.png)
+![Finacial_reports_7.png]({{site.baseurl}}/images/Finacial_reports_7.png)  
+
+
+- Select your filters, and click on the blue button _Run Report_:  
+
+![Finacial_reports_8.png]({{site.baseurl}}/images/Finacial_reports_8.png)
+
 
 
 
