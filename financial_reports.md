@@ -13,6 +13,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -152,24 +153,11 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 
 
+##**Daily Balancing Audit Report**
+
+The _Daily Balancing Audit Report_ provides a breakdown of each folio and compares charges with payments posted, against the fiscal year start date until the date it is run for. This report is really the Trial Balance report but with a folio breakdown
 
 
-
-
-
-
-
-
-
-##**Daily Balancing Audit Report (DBA)**
-
-- Provides a folio level breakdown of every transaction (Room Revenue, Additional Revenue, Settlements) against a folio from the fiscal year start until the date it was run for.
-
-- This report is effectively a folio breakdown of the Trial Balance. It is designed to be run from the first date of the hotel until yesterday. Otherwise numbers may be misleading (especially balances).
-
-- Groups need to be handled better in the datafeed (future project) so folios that are part of groups are a bit confusing at the minute.
-
-- There is no guest information on this report yet (only folio numbers)
 
 ##**Lodging Statistics Report (LSR)**
 
