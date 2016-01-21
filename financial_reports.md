@@ -168,7 +168,22 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 
 - Here is an example of the report:  
 
-![Finacial_reports_12.png]({{site.baseurl}}/images/Finacial_reports_12.png)
+![Finacial_reports_12.png]({{site.baseurl}}/images/Finacial_reports_12.png)  
+
+###**Fields Legend**  
+  
+**Folio No**: Reservation folio Number.  
+**Taxable Revenue**: Sum of all charges subject to tax. Note that if applicable, another column with the sum of all _Non-Taxable Revenue_ will appear.  
+**Total**: Sum of taxable and non-taxable revenue.  
+**Tax**: Name of the tax and corresponding value.  
+**Total**: Total of all tax.
+**Settlement**: Payment value.  
+**Total**: Total sum of all payments applied.  
+**Total Balance**: Displays the value of charges minus the value of settlements.  
+
+
+
+
 
 
 
