@@ -155,7 +155,11 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 ##**Daily Balancing Audit Report**
 
-The _Daily Balancing Audit Report_ provides a breakdown of each folio and compares charges with payments posted, against the fiscal year start date until the date it is run for. This report is really the Trial Balance report but with a folio breakdown
+The _Daily Balancing Audit Report_ provides a breakdown of each folio and compares charges with payments posted, against the fiscal year start date until the date it is run for. This report is really the Trial Balance report but with a folio breakdown, and you can use it to find errors/discrepancies directly in the folio where the charges/settlements have been processed.
+  
+- In the report list, click on the link _Daily Balancing Audit Report_:  
+
+![Finacial_reports_10.png]({{site.baseurl}}/images/Finacial_reports_10.png)
 
 
 
