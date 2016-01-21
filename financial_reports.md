@@ -120,7 +120,7 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 2. Payments are <span style="color:red;">independent</span> of room type and folio status, that is, there is currently no link in the reporting system between payments and folio statuses selected.{{site.data.alerts.end}}    
 
 {{site.data.alerts.important}}
-3.There is <span style="color:red;">**no link**</span> between payments and the charges to which they are applied. Although the payments are linked to the folios, they are not connected to a _specific_ charge on that folio.{{site.data.alerts.end}}   
+3.There is <span style="color:red;">no link</span> between payments and the charges to which they are applied. Although the payments are linked to the folios, they are not connected to a _specific_ charge on that folio.{{site.data.alerts.end}}   
 
 {{site.data.alerts.important}}
 4. Revenue is counted on the night it is consumed - i.e. if there’s a reservation that is made today for six months in the future, that revenue will show up on reports that will be run for that time frame, and not today.{{site.data.alerts.end}}
@@ -137,6 +137,9 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 
 - Here is an example of the report:  
+
+![Finacial_reports_9.png]({{site.baseurl}}/images/Finacial_reports_9.png)
+
 
 
 
