@@ -236,7 +236,12 @@ The _Production Report By Month_ gives you a monthly summary of four different i
 
 When finsihed, click on the blue button _Run Report_:  
 
-![Finacial_reports_17.png]({{site.baseurl}}/images/Finacial_reports_17.png)
+![Finacial_reports_17.png]({{site.baseurl}}/images/Finacial_reports_17.png)  
+
+- Here is an example of this report:  
+
+![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)
+
 
   
 ##**Rate Discrepancy Report (RDR)**
