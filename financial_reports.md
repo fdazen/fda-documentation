@@ -240,7 +240,12 @@ When finsihed, click on the blue button _Run Report_:
 
 - Here is an example of this report:  
 
-![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)
+![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)  
+
+###**Fields Legend**:  
+
+**Market/Source**: lists allmarket/source names associated with the number of reservation shown.  
+**Month**: shows the number of reservation per month. Note that the report will display only months with existing reservation loaded.
 
 
   
