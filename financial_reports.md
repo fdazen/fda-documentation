@@ -251,7 +251,9 @@ When finsihed, click on the blue button _Run Report_:
 **Total**: sum of all reservation for all displayed months.  
 
 
-##**Room Revenue Breakdown Report (RRB)**
+
+
+##**Room Revenue Breakdown Report**
 
 - Gives a Folio-by-Folio breakdown of all Room Revenue that falls in between the date range selected. Revenue is broken out by category (Taxable, Non-Taxable, Tax Exempt) and also by tax label.
 
