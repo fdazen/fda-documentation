@@ -219,8 +219,13 @@ The _Production_ Report provides you with information about Occupancy and Revenu
 
 
 ##**Production Report By Month**
+  
+The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  
 
-- A breakdown of the arrivals, rooms occupied or PAX by month and Source/Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.
+-In the reports list, click on the link _Production Report By Month_:  
+
+![Finacial_reports_16.png]({{site.baseurl}}/images/Finacial_reports_16.png)
+
 
 - Bookings = number of folios <br />
  Room Nights = occupancy <br />
