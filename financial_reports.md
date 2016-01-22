@@ -245,7 +245,10 @@ When finsihed, click on the blue button _Run Report_:
 ###**Fields Legend**:  
 
 **Market/Source**: lists allmarket/source names associated with the number of reservation shown.  
-**Month**: shows the number of reservation per month. Note that the report will display only months with existing reservation loaded.
+**Month**: shows the number of reservation per month. Note that the report will display only months with existing reservation loaded.  
+**Total**: sum of all reservation for all displayed months.  
+
+
 
 
   
