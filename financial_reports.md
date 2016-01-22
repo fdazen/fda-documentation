@@ -16,6 +16,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -169,7 +170,8 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 
 - Here is an example of the report:  
 
-![Finacial_reports_12.png]({{site.baseurl}}/images/Finacial_reports_12.png)  
+![Finacial_reports_12.png]({{site.baseurl}}/images/Finacial_reports_12.png)
+
 
 ###**Fields Legend**  
   
@@ -299,4 +301,3 @@ When finsihed, click on the blue button _Run Report_:
 - This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
 
 - <span style="color:red;">This report is currently hidden from view as there's some disagreement with what it's purporting to show.</span>
-
