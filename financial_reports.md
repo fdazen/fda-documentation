@@ -242,6 +242,7 @@ When finsihed, click on the blue button _Run Report_:
 
 ![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)  
 
+
 ###**Fields Legend**:  
 
 **Market/Source**: lists allmarket/source names associated with the number of reservation shown.  
@@ -250,9 +251,8 @@ When finsihed, click on the blue button _Run Report_:
 
 
 
-
   
-##**Rate Discrepancy Report (RDR)**
+##**Rate Discrepancy Report**
 
 - The Rate Discrepancy Report shows any Folios that have a Price Discrepancy (i.e. the price paid differs from the default price of the rate selected). This report can also be filtered to display discounts only. Price Discrepancy is shown on a nightly basis.
 
