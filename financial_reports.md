@@ -207,7 +207,7 @@ The _Production_ Report provides you with information about Occupancy and Revenu
   
 **Source/Market**: Depending on your filter, this field will show the name of the source/market from/for which revenue has been produced. Note that in the example there is an _Undefined_ market: this means that the revenue values are showing for those reservations for which no market has been specified.  
 **Occupancy**: Number of people.  
-**PAX**:  
+**PAX**:  Number of people per night.
 **Total Revenue**: total revenue for the selected market and date range.  
 **ADR**: Average Daily Rate.  
 **Occupancy %**: Percentage of occupancy level.  
@@ -227,19 +227,18 @@ The _Production Report By Month_ gives you a monthly summary of four different i
 ![Finacial_reports_16.png]({{site.baseurl}}/images/Finacial_reports_16.png)
   
   
-- Choose your filter. You can decide if running the report by:   
+- Choose your filters. You can decide if running the report by:   
 
-1.**Bookings**:number of reservation folios.
+1.**Bookings**: number of reservation folios.
 2.**Occupancy**: room nights.  
 3.**Unique Guests**: number of guests per folio.  
 4. **PAX**: number of guests per night.  
 
+When finsihed, click on the blue button _Run Report_:  
 
-- Bookings = number of folios <br />
- Room Nights = occupancy <br />
- Unique Guests = number of guests per folio <br />
- PAX = guests/night <br />
+![Finacial_reports_17.png]({{site.baseurl}}/images/Finacial_reports_17.png)
 
+  
 ##**Rate Discrepancy Report (RDR)**
 
 - The Rate Discrepancy Report shows any Folios that have a Price Discrepancy (i.e. the price paid differs from the default price of the rate selected). This report can also be filtered to display discounts only. Price Discrepancy is shown on a nightly basis.
