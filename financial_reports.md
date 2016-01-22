@@ -225,6 +225,14 @@ The _Production Report By Month_ gives you a monthly summary of four different i
 -In the reports list, click on the link _Production Report By Month_:  
 
 ![Finacial_reports_16.png]({{site.baseurl}}/images/Finacial_reports_16.png)
+  
+  
+- Choose your filter. You can decide if running the report by:   
+
+1.**Bookings**:number of reservation folios.
+2.**Occupancy**: room nights.  
+3.**Unique Guests**: number of guests per folio.  
+4. **PAX**: number of guests per night.  
 
 
 - Bookings = number of folios <br />
