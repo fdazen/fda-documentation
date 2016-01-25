@@ -17,6 +17,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -248,7 +249,7 @@ When finsihed, click on the blue button _Run Report_:
 
 ###**Fields Legend**:  
 
-**Market/Source**: lists allmarket/source names associated with the number of reservation shown.  
+**Market/Source**: lists all market/source names associated with the number of reservation shown.  
 **Month**: shows the number of reservation per month. Note that the report will display only months with existing reservation loaded.  
 **Total**: sum of all reservation for all displayed months.  
 
@@ -257,9 +258,9 @@ When finsihed, click on the blue button _Run Report_:
 
 ##**Room Revenue Breakdown Report**
 
-- Gives a Folio-by-Folio breakdown of all Room Revenue that falls in between the date range selected. Revenue is broken out by category (Taxable, Non-Taxable, Tax Exempt) and also by tax label.
+The _Room Revenue Breakdown_ report gives you information about Room Revenue broken down  by reservation folio. The Revenue is furthermore grouped by Taxable, Non-Taxable and Tax Exempt category. The report also offers a breakdown by tax label. This is report is useful if you are looking to trace back a particular set of information to a certain reservation folio, but most importantly it offers precise infromation on how much revenue is taxable/non-taxable, and it helps understanding the total amount of each tax for the sleected date range.
 
-- There is no guest information on this report yet (only folio numbers)
+
 
 ##**Total Revenue Breakdown Report**
 
