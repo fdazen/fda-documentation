@@ -1,3 +1,13 @@
+
+tags: 
+  - Reports
+  - Financial
+keywords: reports
+last_updated: "December 29th, 2015"
+summary: A description of the financial reports in FDA.
+ 
+
+
 ##**Production Report By Month**
   
 The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  
