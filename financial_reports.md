@@ -32,7 +32,6 @@ The Financial Reports include all those reports that have to do with daily trans
  - **Daily Balancing Audit Report**  
  - **Production Report**  
  - **Production Report By Month**  
- - **Rate Discrepancy Report** 
  - **Room Revenue Breakdown Report** 
  - **Total Revenue Breakdown Report**
  - **Trial Balance Report**
