@@ -294,10 +294,16 @@ The _Room Revenue Breakdown_ report gives you information about Room Revenue bro
 
 
 
-
 ##**Total Revenue Breakdown Report**
   
-The _Total Revenue Breakdown_ report shows information on all revenue, broken down by Renue Labels or Categories. Differently from the _Room Revenue Breakdown_ report, it includes information about all items for sale at your property, including Add-ons and POS. This report is useful to have precise information on revenue and taxes applicable at your property. Information will be grouped by charge type (Add-on, Lodging, Pos, etc.) and you will also be able to look into the relevant Revenue Category/Label associated with each charge.
+The _Total Revenue Breakdown_ report shows information on all revenue, broken down by Renue Labels or Categories. Differently from the _Room Revenue Breakdown_ report, it includes information about all items for sale at your property, including Add-ons and POS. This report is useful to have precise information on revenue and taxes applicable at your property. Information will be grouped by charge type (Add-on, Lodging, Pos, etc.) and you will also be able to look into the relevant Revenue Category/Label associated with each charge.  
+
+- In the reports list, click on the link _Total Revenue Breakdown Report_:  
+
+![Finacial_reports_22.png]({{site.baseurl}}/images/Finacial_reports_22.png)  
+
+
+
 
 ##**Trial Balance Report (TB)**
 
