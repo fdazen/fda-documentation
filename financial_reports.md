@@ -118,7 +118,18 @@ The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items 
 
 - In the report list, click on the link _Bill Add-On Charges Report_:  
 
-![Finacial_reports_28.png]({{site.baseurl}}/images/Finacial_reports_28.png)
+![Finacial_reports_28.png]({{site.baseurl}}/images/Finacial_reports_28.png)  
+
+- Select your filters and click on the blue button _Run Report_:  
+
+![Finacial_reports_29.png]({{site.baseurl}}/images/Finacial_reports_29.png)
+
+
+- Here is an example of this report:  
+  
+![Finacial_reports_30.png]({{site.baseurl}}/images/Finacial_reports_30.png)
+  
+
 
 
 
