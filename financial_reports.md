@@ -329,17 +329,14 @@ The _Total Revenue Breakdown_ report shows information on all revenue, broken do
 The _Trial Balance Report_ provides a summary of all financial transactions for a specific date, and compares it with information from the beginning of the fiscal year. It displays three important pieces of information: the _Opening Balance_, the _Transaction Net_ and the _Closing Balance_.
 The Opening Balance is the sum of the Total Revenue plus all Taxes minus all Payments, from the beginning of the fiscal year up to the day prior to running the Trial Balance report.
 You will need to choose a date on which to run the Trial Balance: for that selected date, the report will show a summary of all revenue broken down by charge type, all tax and also a summary of all payments recorded for that date, thus giving what we call a Transaction Net.  
-The Transaction Net will then be sum
-med up to the _Opening Balance_, thus giving what we call the _Closing Balance_, which is the resulting balance for the hotel for the beginning of the fiscal year.
+The Transaction Net will then be summed up to the Opening Balance, thus giving what we call the Closing Balance, which is the resulting balance for the hotel for the beginning of the fiscal year. 
+Remember that you will need to manually select the starting date of your Fiscal Year, by choosing the report filters!  
+Note that the Opening Balance should always be identical to the previous date's Closing Balance.
 
 
-- Provides a summary of the financial transactions for a specific date. Adds the Net Transactions to the previous date's Closing Balance to give the overall balance from the Fiscal Year Start.
 
-- i.e. You pick a Fiscal Year Start date and then a date you want to see your revenue, taxes and payments for. The Opening Balance is the total sum of all your revenue and taxes minus payments taken from the Fiscal Year Start until the day BEFORE the Run For Date.
 
-- It then shows the total transactions for the Run For Date (ie all revenue, taxes and payments) and then adds the Net Transactions (ie sum of all transactions) to the Opening Balance to get the Run For Date's Closing Balance.
 
-- The Opening Balance should be identical to the previous date's Closing Balance (ie the Closing Balance for running the report for one day earlier).
 
 ##**Trial Balance With Range Report (TBWR)**
 
