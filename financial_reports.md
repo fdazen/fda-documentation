@@ -324,12 +324,11 @@ The _Total Revenue Breakdown_ report shows information on all revenue, broken do
 
 
 
-
-
-
-
 ##**Trial Balance Report (TB)**
-
+  
+The _Trial Balance Report_ provides a summary of all financial transactions for a specific date. It displays three important information: the _Opening Balance_, the _Transaction Net_ and the _Closing Balance_.
+The Opening Balance is the sum of the Total Revenue and all Taxes minus all Payments, from the beginning of the fiscal year up to the day prior to the run of the Trial Balance report.
+You will need to choose a date for which to run the Trial Balance: for that selected date, the report will show a summary of all revenue broken down by charge type, all tax and also a summary of all payments recorded for that date, thus giving what we call a _Transaction Net_. The Transaction Net will be summed to the _Opening Balance_ 
 - Provides a summary of the financial transactions for a specific date. Adds the Net Transactions to the previous date's Closing Balance to give the overall balance from the Fiscal Year Start.
 
 - i.e. You pick a Fiscal Year Start date and then a date you want to see your revenue, taxes and payments for. The Opening Balance is the total sum of all your revenue and taxes minus payments taken from the Fiscal Year Start until the day BEFORE the Run For Date.
