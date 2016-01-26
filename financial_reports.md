@@ -349,8 +349,9 @@ Note that the Opening Balance should always be identical to the previous date's 
 
 ###**Fields Legend***:  
 
-**Opening Balance**: Total Revenue plus Taxe, minus Payments from the Fiscal Year Start until the day before the Run For Date.  
+**Opening Balance**: Total Revenue plus Taxes, minus Payments from the Fiscal Year Start until the day before the Run For Date.  
 **Revenue and Taxes**: displays a breakdown of Total Revenue, broken down by revenue and applicable taxes.  
+**Payments**: shows the total payments recorded for the selected date and it breaks information down by payment types.
 **Transaction net**: the day’s Net Transactions (Total Revenue plus Total Taxes minus Total Payments).
 **Closing Balance**: Opening Balance plus Transaction Net.  
 
@@ -358,7 +359,7 @@ Note that the Opening Balance should always be identical to the previous date's 
 
 
 
-##**Trial Balance With Range Report (TBWR)**
+##**Trial Balance With Range Report**
 
 - Provides a summary of the financial transactions over a date range. Adds the Net Transactions to the previous date's Closing Balance to give the overall Closing Balance from the fiscal year start.
 
