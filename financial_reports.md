@@ -266,7 +266,11 @@ The _Room Revenue Breakdown_ report gives you information about Room Revenue bro
 
 - Select your filters and click on the blue button _Run Report_ when ready:  
 
-![Finacial_reports_20.png]({{site.baseurl}}/images/Finacial_reports_20.png)
+![Finacial_reports_20.png]({{site.baseurl}}/images/Finacial_reports_20.png)  
+
+-Here is an example of this report:  
+
+
   
 ###**Fields Legend**  
   
