@@ -341,7 +341,10 @@ Note that the Opening Balance should always be identical to the previous date's 
 
 ![Finacial_reports_26.png]({{site.baseurl}}/images/Finacial_reports_26.png)
 
-
+- Here is an example of this report:  
+  
+![Finacial_reports_27.png]({{site.baseurl}}/images/Finacial_reports_27.png)
+  
 
 
 
