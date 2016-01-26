@@ -258,7 +258,12 @@ When finsihed, click on the blue button _Run Report_:
 
 ##**Room Revenue Breakdown Report**
 
-The _Room Revenue Breakdown_ report gives you information about Room Revenue broken down  by reservation folio. The Revenue is furthermore grouped by Taxable, Non-Taxable and Tax Exempt category. The report also offers a breakdown by tax label. This is report is useful if you are looking to trace back a particular set of information to a certain reservation folio, but most importantly it offers precise infromation on how much revenue is taxable/non-taxable, and it helps understanding the total amount of each tax for the sleected date range.
+The _Room Revenue Breakdown_ report gives you information about Room Revenue broken down  by reservation folio. The Revenue is furthermore grouped by Taxable, Non-Taxable and Tax Exempt category. The report also offers a breakdown by tax label. This is report is useful if you are looking to trace back a particular set of information to a certain reservation folio, but most importantly it offers precise infromation on how much revenue is taxable/non-taxable, and it helps understanding the total amount of each tax for the sleected date range.  
+
+- In the reports list, click on the link _Room Revenue Breakdown_:  
+
+![Finacial_reports_19.png]({{site.baseurl}}/images/Finacial_reports_19.png)
+
 
 
 
