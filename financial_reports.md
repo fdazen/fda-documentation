@@ -358,30 +358,11 @@ Note that the Opening Balance should always be identical to the previous date's 
 
 
 
-
 ##**Trial Balance With Range Report**
 
-- Provides a summary of the financial transactions over a date range. Adds the Net Transactions to the previous date's Closing Balance to give the overall Closing Balance from the fiscal year start.
-
-- This report is the same as the Trial Balance Report but the Net Transactions are calculated over a date range instead of a single date (Run For Date).   
-
+The _Trial Balance With Range Report_ provides a summary of all financial trnasaction for a selected date range. This report is the same as the _Trial Balance_, but it offers a date range, rather than a single date (Run for Date).
+For instructions, read the _Trial Balance Report_ section. 
 
 
 
 
-
-
-
-
-
-
-
-
-  
-##**Rate Discrepancy Report**
-
-- The Rate Discrepancy Report shows any Folios that have a Price Discrepancy (i.e. the price paid differs from the default price of the rate selected). This report can also be filtered to display discounts only. Price Discrepancy is shown on a nightly basis.
-
-- This report is on the PostgreSQL DB so accounts will not be added by default. Request "Advanced Reports" if access is necessary (will take some time to sync across)
-
-- <span style="color:red;">This report is currently hidden from view as there's some disagreement with what it's purporting to show.</span>
