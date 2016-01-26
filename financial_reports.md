@@ -335,7 +335,12 @@ Note that the Opening Balance should always be identical to the previous date's 
 
 - In the reports list, click on the link _Trail Balance Report_:  
 
-![Finacial_reports_25.png]({{site.baseurl}}/images/Finacial_reports_25.png)
+![Finacial_reports_25.png]({{site.baseurl}}/images/Finacial_reports_25.png)  
+
+- Select your filters and click on the blue button _Run Report_. Be careful to choose the correct starting date for your Fiscal Year:  
+
+![Finacial_reports_26.png]({{site.baseurl}}/images/Finacial_reports_26.png)
+
 
 
 
