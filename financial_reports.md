@@ -28,6 +28,7 @@ The Financial Reports include all those reports that have to do with daily trans
   
  - **Additional Revenue Report**  
  - **Adjustments Report**  
+ - **Bill Add-on Charges Report**
  - **Cashier Report Detail**  
  - **Daily Balancing Audit Report**  
  - **Production Report**  
@@ -109,6 +110,15 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 **Tax/es**: total amount of tax adjusted.  
 **Total Taxes**: sum of all taxes adjusted.  
 **Total**: total amount of revenue and taxes adjusted.  
+  
+  
+##**Bill Add-On Charges Report**  
+
+The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items posted for a selected date range. This report also displays information about the reservation folios associated with the charge.  
+
+- In the report list, click on the link _Bill Add-On Charges Report_:  
+
+![Finacial_reports_28.png]({{site.baseurl}}/images/Finacial_reports_28.png)
 
 
 
