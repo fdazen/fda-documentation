@@ -354,10 +354,6 @@ Note that the Opening Balance should always be identical to the previous date's 
 **Closing Balance**: Opening Balance plus Transaction Net.  
 
 
-  
-
-
-
 
 
 
