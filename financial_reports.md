@@ -267,6 +267,21 @@ The _Room Revenue Breakdown_ report gives you information about Room Revenue bro
 - Select your filters and click on the blue button _Run Report_ when ready:  
 
 ![Finacial_reports_20.png]({{site.baseurl}}/images/Finacial_reports_20.png)
+  
+###**Fields Legend**  
+  
+**Folio No**: lists the folio number associated with the information shown on the other columns.  
+**Check-In/Check-out Dates**: shows the arrival and departure date associated with the reservation folio.  
+**Source**: displays the name of the source associated with the folio.  
+**Market**: displayes the name of the Market associated with the folio.  
+**Revenue Label**: lists the Revenue Label associated with the charge.  
+**Taxable Revenue**: displays the amount of all revenue on which tax is applied.  
+**Non-Taxable Revenue**: displays the amount of revenue not subject to any tax.  
+**Total Revenue**: sum of _Taxable_ and _Non-Taxable_ columns.  
+**Tax Name**: Lists the amount of each tax applied to the reservation folio.  
+**Total Taxes**: sum of all applicable taxes.  
+**Total**: Sum of _Total Revenue_ and _Total Taxes_ columns.
+
 
 
 
