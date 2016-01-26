@@ -331,7 +331,12 @@ The Opening Balance is the sum of the Total Revenue plus all Taxes minus all Pay
 You will need to choose a date on which to run the Trial Balance: for that selected date, the report will show a summary of all revenue broken down by charge type, all tax and also a summary of all payments recorded for that date, thus giving what we call a Transaction Net.  
 The Transaction Net will then be summed up to the Opening Balance, thus giving what we call the Closing Balance, which is the resulting balance for the hotel for the beginning of the fiscal year. 
 Remember that you will need to manually select the starting date of your Fiscal Year, by choosing the report filters!  
-Note that the Opening Balance should always be identical to the previous date's Closing Balance.
+Note that the Opening Balance should always be identical to the previous date's Closing Balance.  
+
+- In the reports list, click on the link _Trail Balance Report_:  
+
+![Finacial_reports_25.png]({{site.baseurl}}/images/Finacial_reports_25.png)
+
 
 
 
