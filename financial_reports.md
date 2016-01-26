@@ -18,6 +18,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -269,6 +270,9 @@ The _Room Revenue Breakdown_ report gives you information about Room Revenue bro
 ![Finacial_reports_20.png]({{site.baseurl}}/images/Finacial_reports_20.png)  
 
 -Here is an example of this report:  
+
+![Finacial_reports_21.png]({{site.baseurl}}/images/Finacial_reports_21.png)
+  
 
 
   
