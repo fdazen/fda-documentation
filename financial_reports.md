@@ -302,6 +302,29 @@ The _Total Revenue Breakdown_ report shows information on all revenue, broken do
 
 ![Finacial_reports_22.png]({{site.baseurl}}/images/Finacial_reports_22.png)  
 
+- Choose your filters and click on the blue button _Run Report_:  
+
+![Finacial_reports_23.png]({{site.baseurl}}/images/Finacial_reports_23.png)  
+
+- Here is an example of this report:  
+
+![Finacial_reports_24.png]({{site.baseurl}}/images/Finacial_reports_24.png)  
+
+
+###**Fields Legend**:  
+
+**Charge Type**: lists whether the charge reported on is an Add-on, a POS, or a Room Revenue.  
+**Revenue Category/Revenue Label**: lists the name of either the Revenue Category or Label, depending on what you have selected as your fitler.  
+**Taxable Revenue**: displays the amount of revenue subject to tax. Note that column _Non-Taxable Revenue_ will also appear, in case there are items sold at your property that are not subject to any tax application.
+**Total Revenue**: sum of _Non-Taxable Revenue_ and _Taxable Revenue_. If one of these column is missing, then the Total Revenue will be the same as the column displayed.  
+**Tax**: diplays a breakdown of each tax applied.  
+**Total Taxes**: sum of all taxes applied.  
+**Total**: sum of the _Total Revenue_ and _Total Taxes_ columns.  
+
+
+
+
+
 
 
 
