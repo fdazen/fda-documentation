@@ -343,7 +343,17 @@ Note that the Opening Balance should always be identical to the previous date's 
 
 - Here is an example of this report:  
   
-![Finacial_reports_27.png]({{site.baseurl}}/images/Finacial_reports_27.png)
+![Finacial_reports_27.png]({{site.baseurl}}/images/Finacial_reports_27.png)  
+
+
+###**Fields Legend***:  
+
+**Opening Balance**: Total Revenue plus Taxe, minus Payments from the Fiscal Year Start until the day before the Run For Date.  
+**Revenue and Taxes**: displays a breakdown of Total Revenue, broken down by revenue and applicable taxes.  
+**Transaction net**: the day’s Net Transactions (Total Revenue plus Total Taxes minus Total Payments).
+**Closing Balance**: Opening Balance plus Transaction Net.  
+
+
   
 
 
