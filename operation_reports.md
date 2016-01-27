@@ -63,7 +63,7 @@ The report will offer you a daily breakdown of all reservations. Here is an exam
 
 
 
-###**Field Legend**  
+###**Fields Legend**  
 
 
 
@@ -116,7 +116,7 @@ The _Departures Report_ displays all of those reservations that are due to check
 
 
 
-###**Field Legend**    
+###**Fields Legend**    
 
 **Name**: Guest last and first name.  
 **Room Number**: Room number assigned to the guest.  
@@ -155,7 +155,7 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 ![Operational_reports_10.png]({{site.baseurl}}/images/Operational_reports_10.png)
 
 
-###**Field Legend**   
+###**Fields Legend**   
 
 **Date**: Daily breakdown for the report chosen date range.  
 **Room Type Accronym**: Breakdown of the chosen room types.  
@@ -183,7 +183,7 @@ This report displays a list of all guests who have arrived, departed or currentl
 ![Operational_reports_13.png]({{site.baseurl}}/images/Operational_reports_13.png)   
 
 
-###**Field Legend**  
+###**Fields Legend**  
 
 **Folio Number**: Displays the reservation folio number associated with the guest.  
 **Check-In**: Guest's check-in date.  
@@ -230,7 +230,7 @@ When done, click on the blue button _Run Report_:
 ![Operational_reports_16.png]({{site.baseurl}}/images/Operational_reports_16.png)
   
 
-##**Field Legend**:  
+###**Fields Legend**:  
 
 **Date**: It shows the month that include the date range chosen.  
 **Total**: Total number of booking for relevant country.  
@@ -258,7 +258,7 @@ The _Guests In House_ report displays a list of all current in-house guests for 
 ![Operational_reports_19.png]({{site.baseurl}}/images/Operational_reports_19.png)
    
 
-###**Field Legend**  
+###**Fields Legend**  
   
 - **Total Guests**: displays the number of total guests currently in-house.  
 - **Name**: Guest's last and first name.  
@@ -297,7 +297,7 @@ Our _House Count Report_ displays the total number of guests at the property for
 ![Operational_reports_22.png]({{site.baseurl}}/images/Operational_reports_22.png)
 
 
-###**Field Legend**    
+###**Fields Legend**    
 
 **Guests**: under _Guests_ the report shows house count value by Guest number, broken down by reservation status. Note that the number of guests reflects what is shown in the field _Adults_ and _Children_ in the reservation folio:  
 
