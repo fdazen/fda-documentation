@@ -14,6 +14,7 @@ published: true
 
 
 
+
 #**Operation Reports**
      
        
@@ -302,8 +303,4 @@ Our _House Count Report_ displays the total number of guests at the property for
 
 ![Operational_reports_23.png]({{site.baseurl}}/images/Operational_reports_23.png)
 
-**Rooms**: under section _Rooms_ of the report, you will find the number of reservations found that meet the criteria specified by the report chosen filter.  
-
-
-
-
+**Rooms**: under section _Rooms_ of the report, you will find the number of reservations found that meet the criteria specified by the report chosen filter.
