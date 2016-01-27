@@ -114,7 +114,7 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
   
 ##**Bill Add-On Charges Report**  
 
-The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items posted for a selected date range. This report also displays information about the reservation folios associated with the charge.  
+The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items posted for a selected date range. This report also displays information about the reservation folios associated with the charge. This report will also display the name of the user who posted the charge, and it will be useful when the hotel needs reporting on users' upsell, if applicable. 
 
 - In the report list, click on the link _Bill Add-On Charges Report_:  
 
@@ -127,7 +127,27 @@ The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items 
 
 - Here is an example of this report:  
   
-![Finacial_reports_30.png]({{site.baseurl}}/images/Finacial_reports_30.png)
+![Finacial_reports_30.png]({{site.baseurl}}/images/Finacial_reports_30.png)  
+
+###**Fields Legend**  
+
+**Name**: guest name associated with the folio number.  
+**Room Number**: room number associated with the reservation folio.  
+**Room Type**: room type associated with the room number.  
+**Check-In**: guest's arrival date.  
+**Check-Out**: guest's departure date.  
+**Folio Status**: displays the status of the reservation folio at the time the report is run.  
+**User**: name of the user who posted the charge.  
+**Charge Type**: type of charge for which information is displayed.  
+**Revenue Category**: Revenue Category associated with the charge.  
+**Count**: number of items charged.  
+**Total Revenue**: sum of all taxable/non-taxable revenue associated with the charge (takes account of the count number).  
+**Total Taxes**: sum of all taxes applied to the posted charge.  
+**Total**: sum of the _Total Revenue_ and the _Total Taxes_.  
+
+
+
+
   
 
 
