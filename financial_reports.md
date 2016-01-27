@@ -19,6 +19,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -114,7 +115,7 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
   
 ##**Bill Add-On Charges Report**  
 
-The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items posted for a selected date range. This report also displays information about the reservation folios associated with the charge. This report will also display the name of the user who posted the charge, and it will be useful when the hotel needs reporting on users' upsell, if applicable. 
+The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items posted for a selected date range. This report also displays information about the reservation folios associated with the charge. Differently from the _Additional Revenue Breakdown_ report, the Bill Add-On report won't provide a breakdown of taxable, non-taxable revenue and taxes, as it is supposed to provide more general information about additional revenue. 
 
 - In the report list, click on the link _Bill Add-On Charges Report_:  
 
@@ -401,8 +402,4 @@ Note that the Opening Balance should always be identical to the previous date's 
 ##**Trial Balance With Range Report**
 
 The _Trial Balance With Range Report_ provides a summary of all financial trnasaction for a selected date range. This report is the same as the _Trial Balance_, but it offers a date range, rather than a single date (Run for Date).
-For instructions, read the _Trial Balance Report_ section. 
-
-
-
-
+For instructions, read the _Trial Balance Report_ section.
