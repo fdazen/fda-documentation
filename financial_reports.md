@@ -19,6 +19,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -401,8 +402,4 @@ Note that the Opening Balance should always be identical to the previous date's 
 ##**Trial Balance With Range Report**
 
 The _Trial Balance With Range Report_ provides a summary of all financial trnasaction for a selected date range. This report is the same as the _Trial Balance_, but it offers a date range, rather than a single date (Run for Date).
-For instructions, read the _Trial Balance Report_ section. 
-
-
-
-
+For instructions, read the _Trial Balance Report_ section.
