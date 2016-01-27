@@ -232,7 +232,7 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 
 ##**Production Report**  
 
-The _Production_ Report provides you with information about Occupancy and Revenue. This information is shown both as a numeric value and a percentage value. You can decide to organize the results of this report by Source or Market, filter them by room type and/or reservation folio status. This report also displays the average daily rate for the selected date range.  
+The _Production Report_ provides you with information about Occupancy and Revenue. This information is shown both as a numeric value and a percentage value. You can decide to organize the results of this report by Source or Market, filter them by room type and/or reservation folio status. This report also displays the average daily rate for the selected date range.  
 
 - In the report list, click on the link _Production Report_:  
 
