@@ -157,7 +157,7 @@ The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items 
    
 ##**Cashier Report Detail**   
 
-The _Cashier Report Detail_ will provide you with detailed payment information made on a selected date range. You will have the ability to filter by the user who posted the payment and also to show refunds. All payments are broken out into Payment Type and reservation Folio number.  
+The _Cashier Report Detail_ will provide you with detailed payment information made on a selected date range. You will have the ability to filter by the user who posted the payment and also to show refunds. The option _IBE_ is available to retrieve information about payments processed by your Payment Gateway by those bookings made on your Internet Booking Engine. All payments are broken out into Payment Type and reservation Folio number.  
 
 
 {{site.data.alerts.important}}  
