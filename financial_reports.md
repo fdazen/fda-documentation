@@ -30,6 +30,7 @@ The Financial Reports include all those reports that have to do with daily trans
   
  - **Additional Revenue Report**  
  - **Adjustments Report**  
+ - **Applied Advanced Deposits Report** 
  - **Bill Add-on Charges Report**
  - **Cashier Report Detail**  
  - **Daily Balancing Audit Report**  
@@ -114,6 +115,19 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 **Total**: total amount of revenue and taxes adjusted.  
   
   
+##**Applied Advanced Deposits Report**  
+
+The _Applied Advanced Deposit Report_ shows all payments taken for a selected date range and provides general information about the associated reservation folios. The report also applies those payments against accrued revenue (Applied Deposit) and against revenue that has not yet been accrued (Advanced Deposit): for this reason, you will see a _Run for Date_ filter which will be used to calculate how much deposit has been applied and how much is advanced.  
+
+- In the report list, click on the link _Applied Advanced Deposits Report_: 
+
+![Finacial_reports_31.png]({{site.baseurl}}/images/Finacial_reports_31.png)
+
+
+
+
+
+
 ##**Bill Add-On Charges Report**  
 
 The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items posted for a selected date range. This report also displays information about the reservation folios associated with the charge. Differently from the _Additional Revenue Breakdown_ report, the Bill Add-On report won't provide a breakdown of taxable, non-taxable revenue and taxes, as it is supposed to provide more general information about additional revenue. 
