@@ -123,7 +123,17 @@ The _Applied Advanced Deposit Report_ shows all payments taken for a selected da
 
 ![Finacial_reports_31.png]({{site.baseurl}}/images/Finacial_reports_31.png)
   
-- Select your filters: please note that the report will show all Payments for your chosen date range (_Start Date_ and _End Date_), while the _Run for Date_  will be used by the system as the day against which to check whether a payment has been applied or is advanced.
+- Select your filters: please note that the report will show all Payments for your chosen date range (_Start Date_ and _End Date_), while the _Run for Date_  will be used by the system as the day against which to check whether a payment has been applied or is advanced.  
+
+![Finacial_reports_32.png]({{site.baseurl}}/images/Finacial_reports_32.png)
+ 
+
+In the example above, I am taking all payments posted between 01/20 through 01/31 and I am comparing it with accrued/unaccrued revenue up to 01/27.  
+
+- Here is an example of this report:  
+
+![Finacial_reports_33.png]({{site.baseurl}}/images/Finacial_reports_33.png)
+
 
 
 
