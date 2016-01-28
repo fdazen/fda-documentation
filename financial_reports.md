@@ -21,6 +21,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -116,23 +117,42 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
   
   
 ##**Applied Advanced Deposits Report**  
-
+ 
 The _Applied Advanced Deposit Report_ shows all payments taken for a selected date range and provides general information about the associated reservation folios. The report also applies those payments against accrued revenue (Applied Deposit) and against revenue that has not yet been accrued (Advanced Deposit): for this reason, you will see a _Run for Date_ filter which will be used to calculate how much deposit has been applied and how much is advanced.  
-
+ 
 - In the report list, click on the link _Applied Advanced Deposits Report_: 
-
+ 
 ![Finacial_reports_31.png]({{site.baseurl}}/images/Finacial_reports_31.png)
   
 - Select your filters: please note that the report will show all Payments for your chosen date range (_Start Date_ and _End Date_), while the _Run for Date_  will be used by the system as the day against which to check whether a payment has been applied or is advanced.  
-
+ 
 ![Finacial_reports_32.png]({{site.baseurl}}/images/Finacial_reports_32.png)
  
-
+ 
 In the example above, I am taking all payments posted between 01/20 through 01/31 and I am comparing it with accrued/unaccrued revenue up to 01/27.  
-
+ 
 - Here is an example of this report:  
-
+ 
 ![Finacial_reports_33.png]({{site.baseurl}}/images/Finacial_reports_33.png)
+ 
+ 
+###**Fields Legend**  
+ 
+**Name**: guest name.  
+**Room Number**: number of room associated with the reservation folio.  
+**Room Type**: room type associated with the room number.  
+**Check-In**: guest's arrival date.  
+**Check-Out**: guest's departure date.  
+**Folio No**: reservation folio number.  
+**Reservation Status**: status of the reservation at the time the report was run.  
+**Room Revenue**:  room charges.  
+**Additional Revenue**: sum of all Add-ons and POS posted in the folio.  
+**Total Revenue**: sum of the _Room Revenue_ plus the _Additional Revenue_.
+**Payments**: sum of all payments posted on the folio for the selected date range. 
+**Applied Deposit**: amount of payment applied to accrued revenue.  
+**Advanced Deposit**: amount of payment not yet applied to revenue (deposit).  
+ 
+ 
 
 
 
