@@ -122,7 +122,8 @@ The _Applied Advanced Deposit Report_ shows all payments taken for a selected da
 - In the report list, click on the link _Applied Advanced Deposits Report_: 
 
 ![Finacial_reports_31.png]({{site.baseurl}}/images/Finacial_reports_31.png)
-
+  
+- Select your filters: please note that the report will show all Payments for your chosen date range (_Start Date_ and _End Date_), while the _Run for Date_  will be used by the system as the day against which to check whether a payment has been applied or is advanced.
 
 
 
