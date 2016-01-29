@@ -1,10 +1,10 @@
 
 tags: 
   - Reports
-  - Financial
-keywords: reports
-last_updated: "December 29th, 2015"
-summary: A description of the financial reports in FDA.
+  - Manager
+keywords: manager report
+last_updated: "January 29th, 2016"
+summary: This section will teach you how to use those reports that are relevant to the hotel's Internal Management Report: they contain important information about occupancy, production by channel, and front desk users.
  
 
 
