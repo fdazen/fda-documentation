@@ -139,7 +139,8 @@ When finsihed, click on the blue button _Run Report_:
 
 - Here is an example of this report:  
 
-![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)  
+
+![Manager_reports_12.png]({{site.baseurl}}/images/Manager_reports_12.png)
 
 
 ###**Fields Legend**:  
