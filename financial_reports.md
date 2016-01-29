@@ -22,6 +22,7 @@ published: true
 
 
 
+
 #**Financial Reports**
      
        
@@ -36,7 +37,6 @@ The Financial Reports include all those reports that have to do with daily trans
  - **Cashier Report Detail**  
  - **Daily Balancing Audit Report**  
  - **Production Report**  
- - **Production Report By Month**  
  - **Room Revenue Breakdown Report** 
  - **Total Revenue Breakdown Report**
  - **Trial Balance Report**
