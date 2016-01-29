@@ -308,42 +308,6 @@ The _Production Report_ provides you with information about Occupancy and Revenu
 
 
 
-
-
-##**Production Report By Month**
-  
-The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  
-
--In the reports list, click on the link _Production Report By Month_:  
-
-![Finacial_reports_16.png]({{site.baseurl}}/images/Finacial_reports_16.png)
-  
-  
-- Choose your filters. You can decide if running the report by:   
-
-1.**Bookings**: number of reservation folios.
-2.**Occupancy**: room nights.  
-3.**Unique Guests**: number of guests per folio.  
-4. **PAX**: number of guests per night.  
-
-When finsihed, click on the blue button _Run Report_:  
-
-![Finacial_reports_17.png]({{site.baseurl}}/images/Finacial_reports_17.png)  
-
-- Here is an example of this report:  
-
-![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)  
-
-
-###**Fields Legend**:  
-
-**Market/Source**: lists all market/source names associated with the number of reservation shown.  
-**Month**: shows the number of reservation per month. Note that the report will display only months with existing reservation loaded.  
-**Total**: sum of all reservation for all displayed months.  
-
-
-
-
 ##**Room Revenue Breakdown Report**
 
 The _Room Revenue Breakdown_ report gives you information about Room Revenue broken down  by reservation folio. The Revenue is furthermore grouped by Taxable, Non-Taxable and Tax Exempt category. The report also offers a breakdown by tax label. This is report is useful if you are looking to trace back a particular set of information to a certain reservation folio, but most importantly it offers precise infromation on how much revenue is taxable/non-taxable, and it helps understanding the total amount of each tax for the sleected date range.  
