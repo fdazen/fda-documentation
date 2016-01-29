@@ -7,6 +7,7 @@ last_updated: "January 29th, 2016"
 summary: This section will teach you how to use those reports that are most relevant to the hotel's Internal Management: they contain important information about occupancy, production by channel, and front desk users.
    
 - **Lodging Statistics Report**  
+- **Manager's Report**
 - **Production Report By Month**  
   
   
@@ -51,11 +52,21 @@ The _Lodging Statistics Report_ gives you important information about occupancy 
 **TOTAL**: sum of _Total Revenue_ and _Total Taxes_.  
 **ADR**: Average Daily Rate.  
 
-
-
-
-
   
+  
+  
+##**Manager's Report**  
+
+The _Manager's Report_ gives managers a quick overview on daily, month-to-date and year-to-date occupancy and revenue values. It includes forecasting information for the upcoming year and the next 365 days, offering a great understanding on how the business is/will be doing.  
+
+- In the reports list, click on the link _Manager's Report_:  
+
+![Manager_Report_4.png]({{site.baseurl}}/images/Manager_Report_4.png)
+
+- Select your filters and click on the blue button _Run Report_:  
+
+![Manager_Report_5.png]({{site.baseurl}}/images/Manager_Report_5.png)
+
 
 ##**Production Report By Month**
   
