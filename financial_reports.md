@@ -293,6 +293,11 @@ The _Open Balance Report_ displays information about open balance with respect t
 ![Finacial_reports_36.png]({{site.baseurl}}/images/Finacial_reports_36.png)
 
 
+###**Fields Legend**:  
+  
+**Room Number**: displays the room number associated with the folio. Note that if the field is empty, it means that the reservation is an unassigned status.  
+**Room Type**: shows the room type associated with the folio.  
+**#Rm**: number of rooms associated with the folio.  
 
 
 
