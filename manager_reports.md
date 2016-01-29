@@ -9,6 +9,7 @@ summary: "In this section you will find a description of all those reports that 
 published: true
 ---
 
+
 tags: 
   - Reports
   - Manager
@@ -173,6 +174,17 @@ When finsihed, click on the blue button _Run Report_:
 ![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)
 
  
+###**Fields Legend**  
+ 
+**Date**: breakdown by day of the selected date range.  
+**Day**: corresponding day of the week.  
+**Total Rooms**: total of rooms at the property.  
+**Blocked**: total of blocked rooms for the date shown.  
+**OCC%**: occupancy percentage.  
+**OTB**: reservations On The Books.  
+**ADR**: average daily rate.  
+**Revenue**:  value of revenue.  
+
 
 
 ##**Production Report By Month**
