@@ -17,7 +17,12 @@ The _Lodging Statistics Report_ gives you important information about occupancy 
 
 - In the reports list, click on the link _Lodging Statistics Report_:  
 
-![Manager_Report_1.png]({{site.baseurl}}/images/Manager_Report_1.png)
+![Manager_Report_1.png]({{site.baseurl}}/images/Manager_Report_1.png)  
+
+- Select your filters: you can run the report by room types and by sources and market. When done, click ont he button _Run Report_:  
+
+![Manager_Report_2.png]({{site.baseurl}}/images/Manager_Report_2.png)
+
 
   
 
