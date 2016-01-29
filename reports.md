@@ -11,8 +11,13 @@ published: true
 
 
 
-In this section, we will guide you through all the reports that are available on your account. You can find here a brief description of what each report does and how it works, so as to facilitate your information search.   
-We will also describe the potential benefits that each report brings to a hotel user and we will also outline some easy troubleshooting tecniques for end users.
+
+In this section, we will guide you through all the reports that are available on your account. We have organized our reports into three sections:  
+
+- Financial Reports will be most useful to the property's Accounting Department.  
+- Operation Reports contain information that facilitate the property's daily operations.  - Manager Reports show data which is tailored made for the hotel's Internal Management.  
+
+You can find here a brief description of what each report does and how it works, so as to facilitate your information search. We will also describe the potential benefits that each report brings to a hotel user and we will also outline some easy troubleshooting tecniques for end users.
 
 
 {{site.data.alerts.important}} As of December 2015 there is approximately a 30 minute delay between changes made to a folio and those changes being reflected on the reports. Our report database is located on a separate server that syncs once every 30 minutes. {{site.data.alerts.end}}
