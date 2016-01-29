@@ -93,7 +93,17 @@ The _Pace Report_ compares information from two different date ranges of your ch
 
 ![Manager_Report_8.png]({{site.baseurl}}/images/Manager_Report_8.png)
   
+- Here is an example of this report:  
+
+![Manager_Report_9.png]({{site.baseurl}}/images/Manager_Report_9.png)
   
+  
+###**Fields Legend**  
+
+**Date**: breakdown by day of the period selected as date range.  
+
+
+
   
 
   
