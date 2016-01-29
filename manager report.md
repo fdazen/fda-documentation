@@ -66,6 +66,17 @@ The _Manager's Report_ gives managers a quick overview on daily, month-to-date a
 - Select your filters and click on the blue button _Run Report_:  
 
 ![Manager_Report_5.png]({{site.baseurl}}/images/Manager_Report_5.png)
+  
+- Here is an example of this report:  
+
+![Manager_Report_6.png]({{site.baseurl}}/images/Manager_Report_6.png)
+
+
+###**Fields Legend**  
+  
+**Day**: shows information for the current day.  
+**Period TD**: period to date.  
+**Year TD**: year to date.  
 
 
 ##**Production Report By Month**
