@@ -21,7 +21,38 @@ The _Lodging Statistics Report_ gives you important information about occupancy 
 
 - Select your filters: you can run the report by room types and by sources and market. When done, click ont he button _Run Report_:  
 
-![Manager_Report_2.png]({{site.baseurl}}/images/Manager_Report_2.png)
+![Manager_Report_2.png]({{site.baseurl}}/images/Manager_Report_2.png)  
+
+- Here is an example of this report:  
+
+![Manager_Report_3.png]({{site.baseurl}}/images/Manager_Report_3.png)  
+
+
+###**Fields Legend**  
+  
+**Date**: date for which information is shown.  
+**Day**: day of the week for the date shown.  
+**TLRM**: total number of rooms at the property for the date shown.  
+**AVAIL**: number of rooms available.  
+**BLK**: number of rooms blocked.  
+**TNT**: Tentative Occupancy. It shows the number of rooms in a _Hold_ status.  
+**STO**: number of Stay Overs.  
+**ARR**: number of arrivals.  
+**DEP**: number of departures.  
+**OCC**: occupancy value.  
+**OCC %**: percentage of occupancy.  
+**TNT + OCC%**: percentage of tentative and real occupancy.  
+**RM REV**: room revenue.  
+**RM TAX**: total tax applied to room revenue.  
+**ADD REV**: additonal revenue.  
+**ADD TAX**: value of tax applied to additional revenue.  
+**TOT REV**: sum of _Room Revenue_ and _Additional Revenue_.  
+**TOT TAX**: sum of _Room Tax_ and _Additonal Revenue Tax_.  
+**TOTAL**: sum of _Total Revenue_ and _Total Taxes_.  
+**ADR**: Average Daily Rate.  
+
+
+
 
 
   
