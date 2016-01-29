@@ -9,14 +9,6 @@ summary: "In this section you will find a description of all those reports that 
 published: true
 ---
 
-
-tags: 
-  - Reports
-  - Manager
-keywords: manager report
-last_updated: "January 29th, 2016"
-summary: This section will teach you how to use those reports that are most relevant to the hotel's Internal Management: they contain important information about occupancy, production by channel, and front desk users.
-   
 - **Lodging Statistics Report**  
 - **Manager's Report**  
 - **Pace Report**
