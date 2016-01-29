@@ -7,7 +7,8 @@ last_updated: "January 29th, 2016"
 summary: This section will teach you how to use those reports that are most relevant to the hotel's Internal Management: they contain important information about occupancy, production by channel, and front desk users.
    
 - **Lodging Statistics Report**  
-- **Manager's Report**
+- **Manager's Report**  
+- **Pace Report**
 - **Production Report By Month**  
   
   
@@ -78,7 +79,26 @@ The _Manager's Report_ gives managers a quick overview on daily, month-to-date a
 **Period TD**: period to date.  
 **Year TD**: year to date.  
 
+  
+  
+##**Pace Report**  
 
+The _Pace Report_ compares information from two different date ranges of your choice, it shows information about reservations on the books and tracks booking trends in order to maxime revenue!  
+
+- In the reports list, click on the link _Pace Report_:  
+
+![Manager_Report_7.png]({{site.baseurl}}/images/Manager_Report_7.png)  
+
+- Select youe filters and the date ranges you want to compare and click on the blue button _Run Report_:  
+
+![Manager_Report_8.png]({{site.baseurl}}/images/Manager_Report_8.png)
+  
+  
+  
+
+  
+  
+  
 ##**Production Report By Month**
   
 The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  ##**Production Report By Month**
