@@ -36,6 +36,7 @@ The Financial Reports include all those reports that have to do with daily trans
  - **Bill Add-on Charges Report**
  - **Cashier Report Detail**  
  - **Daily Balancing Audit Report**  
+ - **Open Balance Report**
  - **Production Report**  
  - **Room Revenue Breakdown Report** 
  - **Total Revenue Breakdown Report**
