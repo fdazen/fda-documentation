@@ -273,6 +273,20 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 **Settlement**: Payment value.  
 **Total**: Total sum of all payments applied.  
 **Total Balance**: Displays the value of charges minus the value of settlements.  
+  
+
+
+##**Open Balance Report**  
+
+The _Open Balance Report_ displays information about all those folios that have an open balance at the time th ereport is run, for the selected date range. The open balance is calculated by subtracting settlements from total revenue and taxes. More specifically, it provides a break down of all applied taxes and it also gives exhaustive information about revenue, which gets broken down into Room Revenue and Additional Revenue. This report has the primary goal of showing information about your guests' open balances, but it may also be used to look up the total sum of transfers sent and received for a given reservation folio and payments made.  
+
+- In the reports' list, click on the link _Open Balance Report_:  
+
+![Finacial_reports_34.png]({{site.baseurl}}/images/Finacial_reports_34.png)  
+
+- 
+
+
 
 
 
