@@ -9,6 +9,7 @@ summary: "In this section you will find a description of all those reports that 
 published: true
 ---
 
+
 - **Lodging Statistics Report**  
 - **Manager's Report**  
 - **Pace Report**
@@ -120,7 +121,8 @@ The _Production Report By Month_ gives you a monthly summary of four different i
 
 -In the reports list, click on the link _Production Report By Month_:  
 
-![Finacial_reports_16.png]({{site.baseurl}}/images/Finacial_reports_16.png)
+![Manager_Report_10.png]({{site.baseurl}}/images/Manager_Report_10.png)
+
   
   
 - Choose your filters. You can decide if running the report by:   
