@@ -7,9 +7,19 @@ last_updated: "January 29th, 2016"
 summary: This section will teach you how to use those reports that are most relevant to the hotel's Internal Management: they contain important information about occupancy, production by channel, and front desk users.
    
 - **Lodging Statistics Report**  
-
 - **Production Report By Month**  
+  
+  
+  
+##**Lodging Statistics Report**  
+  
+The _Lodging Statistics Report_ gives you important information about occupancy and revenue. The information is displayed both in a percentage and a numeric value, and it can be used to calculate past, present occupancy, but also to forecast it. Data about revenue is also broken down by room/additional charges and taxes. The report also offers an average daily rate by date.   
 
+- In the reports list, click on the link _Lodging Statistics Report_:  
+
+![Manager_Report_1.png]({{site.baseurl}}/images/Manager_Report_1.png)
+
+  
 
 ##**Production Report By Month**
   
