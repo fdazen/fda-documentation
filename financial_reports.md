@@ -298,6 +298,22 @@ The _Open Balance Report_ displays information about open balance with respect t
 **Room Number**: displays the room number associated with the folio. Note that if the field is empty, it means that the reservation is an unassigned status.  
 **Room Type**: shows the room type associated with the folio.  
 **#Rm**: number of rooms associated with the folio.  
+**#Gst**: number of guests on the reservation folio.  
+**Name**: guest name and last name.  
+**Folio No**: reservation folio number.  
+**Check-In**: guest's arrival date.  
+**Check-Out**: guest's departure date.  
+**Source**: source asociated with the reservation field.  
+**RM REV**: room charges.  
+**RM TAX**: tax applied to Room Revenue.  
+**ADD REV**: additonal revenue.  
+**ADD TAX**: tax applied to additional revenue.  
+**PAID**: amount of settlements.  
+**TRANSFERS**: sum of all transfers.  
+**BALANCE**: balance. Note that this field is calculated against revenue accrued. 
+
+
+
 
 
 
