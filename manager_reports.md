@@ -105,17 +105,18 @@ The _Pace Report_ compares information from two different date ranges of your ch
 ###**Fields Legend**  
 
 **Date**: breakdown by day of the period selected as date range.  
+**Day**: corresponsindg day of the week.  
+**Total Rooms**: total rooms at the property.  
+**Blocked**: bblocked rooms at the property for the selected date range.  
+**OCC%**: occupancy percentage.  
+**OTB**: reservation On The Book.  
+**ADR**: Average Daily Rate.  
+**Revenue**: total revenue.  
 
 
 
-  
 
-  
-  
-  
 ##**Production Report By Month**
-  
-The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  ##**Production Report By Month**
   
 The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  
 
@@ -123,8 +124,7 @@ The _Production Report By Month_ gives you a monthly summary of four different i
 
 ![Manager_Report_10.png]({{site.baseurl}}/images/Manager_Report_10.png)
 
-  
-  
+   
 - Choose your filters. You can decide if running the report by:   
 
 1.**Bookings**: number of reservation folios.
@@ -149,60 +149,3 @@ When finsihed, click on the blue button _Run Report_:
 **Month**: shows the number of reservation per month. Note that the report will display only months with existing reservation loaded.  
 **Total**: sum of all reservation for all displayed months.  
 
--In the reports list, click on the link _Production Report By Month_:  
-
-![Finacial_reports_16.png]({{site.baseurl}}/images/Finacial_reports_16.png)
-  
-  
-- Choose your filters. You can decide if running the report by:   
-
-1.**Bookings**: number of reservation folios.
-2.**Occupancy**: room nights.  
-3.**Unique Guests**: number of guests per folio.  
-4. **PAX**: number of guests per night.  
-
-When finsihed, click on the blue button _Run Report_:  
-
-![Finacial_reports_17.png]({{site.baseurl}}/images/Finacial_reports_17.png)  
-
-- Here is an example of this report:  
-
-![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)
-
- 
-###**Fields Legend**  
- 
-**Date**: breakdown by day of the selected date range.  
-**Day**: corresponding day of the week.  
-**Total Rooms**: total of rooms at the property.  
-**Blocked**: total of blocked rooms for the date shown.  
-**OCC%**: occupancy percentage.  
-**OTB**: reservations On The Books.  
-**ADR**: average daily rate.  
-**Revenue**:  value of revenue.  
-
-
-
-##**Production Report By Month**
-  
-The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  
-
--In the reports list, click on the link _Production Report By Month_:  
-
-![Finacial_reports_16.png]({{site.baseurl}}/images/Finacial_reports_16.png)
-  
-  
-- Choose your filters. You can decide if running the report by:   
-
-1.**Bookings**: number of reservation folios.
-2.**Occupancy**: room nights.  
-3.**Unique Guests**: number of guests per folio.  
-4. **PAX**: number of guests per night.  
-
-When finsihed, click on the blue button _Run Report_:  
-
-![Finacial_reports_17.png]({{site.baseurl}}/images/Finacial_reports_17.png)  
-
-- Here is an example of this report:  
-
-![Finacial_reports_18.png]({{site.baseurl}}/images/Finacial_reports_18.png)
