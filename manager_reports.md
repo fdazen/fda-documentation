@@ -134,7 +134,8 @@ The _Production Report By Month_ gives you a monthly summary of four different i
 
 When finsihed, click on the blue button _Run Report_:  
 
-![Finacial_reports_17.png]({{site.baseurl}}/images/Finacial_reports_17.png)  
+![Manager_Reports_11.png]({{site.baseurl}}/images/Manager_Reports_11.png)
+  
 
 - Here is an example of this report:  
 
