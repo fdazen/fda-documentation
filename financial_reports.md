@@ -278,7 +278,7 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 
 ##**Open Balance Report**  
 
-The _Open Balance Report_ displays information about open balance with respect to accrued revenue at the time the report is run, for the selected date range. The open balance is calculated by subtracting revenue and taxes accrued from settlements posted on the folio. This report has the primary goal of showing information about your guests' open balances, but it may also be used to look up the total sum of transfers sent and received for a given reservation folio and payments made.  
+The _Open Balance Report_ displays information about open balance with respect to accrued revenue at the time the report is run, for the selected date range. The open balance is calculated by subtracting revenue and taxes accrued from settlements posted on the folio. This report has the primary goal of showing information about your guests' open balances with resepect to accrued revenue, but it may also be used to look up the total sum of transfers sent and received for a given reservation folio and payments made.  
 
 - In the reports' list, click on the link _Open Balance Report_:  
 
