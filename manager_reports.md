@@ -10,10 +10,6 @@ published: true
 ---
 
 
-- **Lodging Statistics Report**  
-- **Manager's Report**  
-- **Pace Report**
-- **Production Report By Month**  
   
   
   
