@@ -284,7 +284,15 @@ The _Open Balance Report_ displays information about open balance with respect t
 
 ![Finacial_reports_34.png]({{site.baseurl}}/images/Finacial_reports_34.png)  
 
-- 
+- Select your filters, and click on the blue button _Run Report_:  
+
+![Finacial_reports_35.png]({{site.baseurl}}/images/Finacial_reports_35.png)  
+
+- Here is an example of this report:  
+
+![Finacial_reports_36.png]({{site.baseurl}}/images/Finacial_reports_36.png)
+
+
 
 
 
