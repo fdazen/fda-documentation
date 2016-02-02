@@ -150,11 +150,13 @@ You can transfer charges to any Guest or Company profile. This is a step-by-step
 
  2. Access the folio that bears all charges to transfer by clicking on the correspondent folio number in the panel _Details_ :  
  
-  ![](29.png]({{site.baseurl}}/images/29.png)
+![group_reservation_22.png]({{site.baseurl}}/images/group_reservation_22.png)
+
  
  3. Go into the _Payments_ section of the folio that received all the charges to transfer:  
  
- ![](30.png]({{site.baseurl}}/images/30.png)  
+![group_reservation_23.png]({{site.baseurl}}/images/group_reservation_23.png)
+ 
 
  4. In the payments panel, click on the scroll down menu _Uninvoiced Transactions_ and select all charges you wish yo transfer:  
  
