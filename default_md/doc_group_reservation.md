@@ -200,7 +200,8 @@ In the example, the current folios status is _Reserved_; hence the available ope
 
 - If you want to assign names to the single reservations that are part of the group, you can click on the button _Edit_ on the right hand side of each folio:  
 
-![](26.png]({{site.baseurl}}/images/26.png)  
+![group_reservation_30.png]({{site.baseurl}}/images/group_reservation_30.png)
+
 
 - If you want to change an existing guest (i.e. substitute an existing guest profile), then click on the button _Change_ on the right hand side of a folio.  
 
