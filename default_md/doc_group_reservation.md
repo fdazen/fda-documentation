@@ -196,7 +196,7 @@ In the example, the current folios status is _Reserved_; hence the available ope
 ![group_reservation_29.png]({{site.baseurl}}/images/group_reservation_29.png)
 
 
-###**EDIT/CHANGE SINGLE RESERVATION FOLIO**  
+###**EDIT/CHANGE A RESERVATION FOLIO THAT IS PART OF A GROUP FOLIO**  
 
 - If you want to assign names to the single reservations that are part of the group, you can click on the button _Edit_ on the right hand side of each folio:  
 
