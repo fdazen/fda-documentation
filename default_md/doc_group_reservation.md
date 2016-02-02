@@ -193,7 +193,8 @@ In the example, the current folios status is _Reserved_; hence the available ope
 
 - To perform a bulk operation, select the folios by checking the boxes on the left side, and click on the operation you would like to perform:   
 
-![](25.png]({{site.baseurl}}/images/25.png)  
+![group_reservation_29.png]({{site.baseurl}}/images/group_reservation_29.png)
+
 
 ###**EDIT/CHANGE SINGLE RESERVATION FOLIO**  
 
