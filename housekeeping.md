@@ -11,6 +11,7 @@ published: true
 
 
 
+
 #**Housekeeping**  
 
 The Housekeeping section in your Frontdesk Anywhere helps you set up certain rules to govern the change in housekeeping status for each room at your property. This is necessary, in turn, to define what your Housekeeping Team will need to: in other words, you will be able to define in what occasions the system should report a certain room to be 'dirty' or 'clean', thus making it easier for the housekeepers to know what action is required of them!
@@ -21,12 +22,14 @@ Housekeeping Statuses serve to indicate whether a certain room needs attention f
 
   - In the Admin Settings, click on the blue link **Housekeeping Statuses** under section _Housekeeping_:  
   
-![1a.png]({{site.baseurl}}/images/1a.png)
+![Housekeeping_1.png]({{site.baseurl}}/images/Housekeeping_1.png)
+
 
   
   - You will see a list of available Housekeeping Statuses:  
   
-![2a.png]({{site.baseurl}}/images/2a.png)
+![Housekeeping_2.png]({{site.baseurl}}/images/Housekeeping_2.png)
+
 
 Here is a breakdown of what they mean:  
 
@@ -48,12 +51,14 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
  - In the Admin Settings, click on the blue link **Housekeeping Rules**, under section _Housekeeping_:  
  
-![3a.png]({{site.baseurl}}/images/3a.png)
+![Housekeeping_3.png]({{site.baseurl}}/images/Housekeeping_3.png)
+
  
  
  - Your Frontdesk Anywhere comes with some very common default rules that define how your Housekeeping Statuses are to change:  
  
-![4a.png]({{site.baseurl}}/images/4a.png)
+![Housekeeping_4.png]({{site.baseurl}}/images/Housekeeping_4.png)
+
 
  
  - Before trying to create a new rule, let us examine what each default rule does:  
@@ -72,42 +77,49 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
 - To **Add** an Housekeeping Rule, click on the blue button _Add_ at the bottom of the rule list:  
 
-![5a.png]({{site.baseurl}}/images/5a.png)
+![Housekeeping_5.png]({{site.baseurl}}/images/Housekeeping_5.png)
+
 
 
 - You will need to fill in all information. Begin by giving the rule an easily recognizable title, and if applicable, a short description. From the scroll down menu _Housekeeping Status_, select the housekeeping status you want your rooms to have, after the rule has run:  
 
-![6a.png]({{site.baseurl}}/images/6a.png)
+![Housekeeping_6.png]({{site.baseurl}}/images/Housekeeping_6.png)
+
 
 
 - By clicking on the right circle box, select whether you want the rule to be triggered by changes in the Room Status, or whether you want the rule to run on nightly basis: in the latter case, the rule will run automatically every night.  
 You can also choose the rule to be triggered by a specific event (check-in/out day) or by days of the week: in the latter case you will need to specify what day/s of the week you want the rule to run, by clicking on the check-boxes:  
 
-![7a.png]({{site.baseurl}}/images/7a.png)
+![Housekeeping_7.png]({{site.baseurl}}/images/Housekeeping_7.png)
+
 
 
  - Choose the folio status where the rule is to apply:  
  
-![8a.png]({{site.baseurl}}/images/8a.png)
+![Housekeeping_8.png]({{site.baseurl}}/images/Housekeeping_8.png)
+
 
  
  - In the  _Stay Interval_ editable box, select the interval you want the rule to run for (interval of 2 days or 3 days, etc.); also, choose whether you want the rule to repeat on a regular basis by checking the box under _Repeat_:  
  
-![9a.png]({{site.baseurl}}/images/9a.png)
+![Housekeeping_9.png]({{site.baseurl}}/images/Housekeeping_9.png)
+
 
  
  - From the scroll down menu, select whether you want the rule to have a lower or higher priority, by choosing the right option:  
  
-![10a.png]({{site.baseurl}}/images/10a.png)
+![Housekeeping_10.png]({{site.baseurl}}/images/Housekeeping_10.png)
+
 
  
  - Finally, choose whether the rule is to be applied to all reservations or whether you want to manually apply the rule in each reservation folio; place the priority the rule should have, check the _Statu_ box to make it active, and click on the blue button _Save_ when finished:  
  
-![11a.png]({{site.baseurl}}/images/11a.png)
+![Housekeeping_11.png]({{site.baseurl}}/images/Housekeeping_11.png)
+
 
  
  
  You will see your Housekeeping Rules and Statuses in action by going in the _Housekeeping_ tab on top of your Tape Chart:  
  
-![12a.png]({{site.baseurl}}/images/12a.png)
+![Housekeeping_12.png]({{site.baseurl}}/images/Housekeeping_12.png)
 

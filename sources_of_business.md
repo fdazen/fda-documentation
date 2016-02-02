@@ -1,11 +1,13 @@
 ---
 title: Sources of Business
-tags: [sources]
+tags: 
+  - sources
 keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
 last_updated: "November 17th, 2015"
 summary: "Sources of Business help you track the origin of your reservations. Learn how to set them up in your account before starting to receive reservations in your system!"
 published: true
 ---
+
 
 
 
@@ -33,32 +35,36 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
 
-![1d.png]({{site.baseurl}}/images/1d.png)
+![Sources_1.png]({{site.baseurl}}/images/Sources_1.png)
+
 
 
 
  
  - You will notice three different panels: the first is for the _Source of Business Catgeories_, the second is for the _Source of Business Rules_, and the third is for the _Sources of Business Items_:  
  
-![2d.png]({{site.baseurl}}/images/2d.png)
+![Sources_2.png]({{site.baseurl}}/images/Sources_2.png)
+
 
 
  
   - Click on the blue button _Add Source of Business Category_:  
   
-![7d.png]({{site.baseurl}}/images/7d.png)
+![Sources_3.png]({{site.baseurl}}/images/Sources_3.png)
+
 
 
   
   - Enter the name for your Category, and give it a brief description if you want. Once done, click on the grey button _Save_ on the right hand side of the screen:
   
-  ![201.png]({{site.baseurl}}/images/201.png)  
+![Sources_4.png]({{site.baseurl}}/images/Sources_4.png)
+
   
   - Repeat for all Sources you have.
   
  The Categories will show up in each reservation folios under the scroll down menu _Source_, on the right hand side of each folio:  
  
- ![202.png]({{site.baseurl}}/images/202.png)
+![Sources_5.png]({{site.baseurl}}/images/Sources_5.png)
  
  
  ##2. **Create your Source of Business Rules**  
@@ -68,27 +74,27 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
  
   - Click on the blue button _Add Source of Business Rule_:  
   
-![10d.png]({{site.baseurl}}/images/10d.png)
+
+![Sources_6.png]({{site.baseurl}}/images/Sources_6.png)
 
 
   
-  - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _FDX2_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
+  - Choose a priority, and select your options form the scroll down menus: in my example below, I am setting up the system so that all reservations coming from Channel _Siteminder_, having the tag _EQC_ will need to merge into Source of Business Category _Expedia_:  
   
-  ![203.png]({{site.baseurl}}/images/203.png)
+![Sources_7.png]({{site.baseurl}}/images/Sources_7.png)
+
+
 
 
 Here is a quick overview of what each channel means:  
 
  **FRONTDESK** for reservations manually entered on your Tape Chart.  
- **OBOE** for those coming from your **O**nline **B**ooking **E**ngine.  
- **INNLINK** for those reservation coming from Innlink.  
- **FDX2** for those coming from your channel manager.  
- **BDC** for those reservations coming via the Booking.com direct connection.  
- **EXPEDIA** for those coming via the Expedia direct connection.  
+ **IBE** for those coming from your **I**nternet **B**ooking **E**ngine.  
+ **SITEMINDER** for those coming from your channel manager.  
+ 
 
-Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced:  
+Note that when a Source of Business Item comes through the system, it will pick automatically the channel with which it has interfaced.
 
-![204.png]({{site.baseurl}}/images/204.png)
 
 
 This means that when setting up your Sources Rules and deciding what channel to choose from the drop down menu, make sure to look at the Source Identifier's channel, as they will **need to be the same**. This is because the rule will need to recognize not only the source tag sent by the channel, but also the channel from which the tag has been sent.

@@ -193,6 +193,13 @@ entries:
           platform: all
           product: all
           version: all
+          
+        - title: Manager Reports
+          url: /manager_reports.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
 
         - title: Glossary
           url: /reports_glossary.html

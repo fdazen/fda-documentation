@@ -13,6 +13,7 @@ published: true
 
 
 
+
   
 #**Rooms Set Up**   
 
@@ -26,6 +27,7 @@ Let's start by set up the number of floors in your property. This is important a
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
 ![Floors_1.png]({{site.baseurl}}/images/Floors_1.png)
+
 
 
 
@@ -77,7 +79,8 @@ Before creating your rooms, you will need to configure the amenities that are av
 
   - In the Admin Settings, click on the link **Room Amenities**:
   
-![Room_amenities_1.png]({{site.baseurl}}/images/Room_amenities_1.png)
+![Room_amenities_1 (2).png]({{site.baseurl}}/images/Room_amenities_1 (2).png)
+
 
 
   
@@ -129,6 +132,7 @@ A room class is a general concept referring to any extra organizational level yo
 
 
 
+
  - You can create a new class by clicking on the blue button _Add a Class_ and a small window will pop up: type in the name of the class you wish to create and click on the blue button _Save_
  
 ![Room_classes_2.png]({{site.baseurl}}/images/Room_classes_2.png)
@@ -170,6 +174,7 @@ We have now come to the point where you need to build your hotel's room types: a
  - Start by clicking on the link **Room Types** under section _Rooms_ in the Admin Settings:  
  
 ![Room_types_1.png]({{site.baseurl}}/images/Room_types_1.png)
+
 
 
  
@@ -267,6 +272,7 @@ You can now load in the system all of the rooms at your property, and organize t
 
 
 
+
 Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to edit the existing rooms before creating new ones, as rooms **cannot be erased** once created but only deactivated. Hence once you click on _Rooms_ , you will be presented with a list of existing rooms.  
 
 - To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
@@ -335,6 +341,7 @@ Complete the rest of the information by selecting the right option from the scro
  
 ![Order_Rooms_1.png]({{site.baseurl}}/images/Order_Rooms_1.png)
 
+
  
  
  - You will see a list of all your newly created room types, each one with an editable box on the right hand side. Insert a numeric value in each box, according to the progressive order you want your room types to show up on the Tape Chart and click on the blue button _Save_:  
@@ -355,6 +362,7 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 
 ![Published_Rooms_1.png]({{site.baseurl}}/images/Published_Rooms_1.png)
 
+
  
 
 - You will see a list of all your room types, and three columns: the **Real** column shows the real availability for each type, meaning the number of rooms actually created and listed under a type; the **OBA** column shows the number of rooms you have set up in the Overbooking Allowance; the **Total** column shows the sum between the Real and the OBA column. In the example below, no OBA has been set up, hence the number of Real rooms is equal to the number of Total rooms:  
@@ -367,4 +375,3 @@ Frontdesk Anywhere allows you to take some rooms off all channels while still en
 - For each room type, insert the number of rooms you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
 ![Published_Rooms_3.png]({{site.baseurl}}/images/Published_Rooms_3.png)
-

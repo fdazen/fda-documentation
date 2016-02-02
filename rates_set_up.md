@@ -11,6 +11,7 @@ published: true
 
 
 
+
   
 
 #**Rates**
@@ -23,6 +24,7 @@ This section covers everything you need to know about rates set-up, taxes, fees 
  - In the Admin Settings, click on the link **Taxes** under section _Rates_:  
 
 ![Taxes_1.png]({{site.baseurl}}/images/Taxes_1.png)
+
 
 
 
@@ -110,7 +112,8 @@ Although the system comes with a couple of rates already built-in, it will be go
  
 If you choose to check the _Allow Override_ box, the rate will become editable on the reservation folio. This means that the _Edit Rate_ link will become clickable.  
 
-![11.png]({{site.baseurl}}/images/11.png)
+
+![Rate_Classes_4.png]({{site.baseurl}}/images/Rate_Classes_4.png)
 
 
 
@@ -118,7 +121,7 @@ For more information on how to edit a rate on a per reservation basis, click her
 
 - Specify the type of rate you are creating by selecting the right option in the scroll down menu, next to the tag _Rate Type_:  
 
-![12.png]({{site.baseurl}}/images/12.png)
+![Rate_Classes_5.png]({{site.baseurl}}/images/Rate_Classes_5.png)
 
 
 
@@ -128,7 +131,8 @@ If you choose the option _Multiple Nights_, you will need to specify how many ni
 
 In the example below I am creating a weekly rate: 
 
-![13.png]({{site.baseurl}}/images/13.png)
+![Rate_Classes_6.png]({{site.baseurl}}/images/Rate_Classes_6.png)
+
 
  
 
@@ -136,7 +140,8 @@ Keep in mind that if you create a multiple nights rate, the latter will not show
 
 **Note**: If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement:  
 
-![14.png]({{site.baseurl}}/images/14.png)
+![Rate_Classes_7.png]({{site.baseurl}}/images/Rate_Classes_7.png)
+
 
  
 
@@ -144,19 +149,22 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 
  - Select the right Revenue Label in the drop down menu next to the tag _Revenue Label_:  
  
-![15.png]({{site.baseurl}}/images/15.png)
+![Rate_Classes_8.png]({{site.baseurl}}/images/Rate_Classes_8.png)
+
 
 
  
  - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
 
-![16.png]({{site.baseurl}}/images/16.png)
+![Rate_Classes_9.png]({{site.baseurl}}/images/Rate_Classes_9.png)
+
 
 
  - Insert all information requested: use the scroll down calendars to select the starting and ending date for the rate, place a description if necessary, select the days of the week you want the value to be valid for, and finally place the value for the rate in the first box:  
  
-![17.png]({{site.baseurl}}/images/17.png)
+![Rate_Classes_10.png]({{site.baseurl}}/images/Rate_Classes_10.png)
+
 
 
 
@@ -165,37 +173,43 @@ Click on the button _Save_ when done.
 
  -  You will now see your Season Period saved:  
  
-![18.png]({{site.baseurl}}/images/18.png)
+![Rate_Classes_11.png]({{site.baseurl}}/images/Rate_Classes_11.png)
+
 
 
  
 The three icons that appear under the column _Action_ are used to visualize/edit the season period, cancel it and duplicate it. Hovering on the icon will also explain to you what each one does:  
 
-![20.png]({{site.baseurl}}/images/20.png)
+![Rate_Classes_12.png]({{site.baseurl}}/images/Rate_Classes_12.png)
+
 
 
 
  - Duplicating a season period comes handy when you are building a weekend rate that is different from the weekly one: indeed, the starting/ending date for the season period will be the same, what is different is the value and the days of the week to which the rate applies. Hence, click on the icon to duplicate the season period and amend the relevant fields:  
  
-![21.png]({{site.baseurl}}/images/21.png)
+![Rate_Classes_13.png]({{site.baseurl}}/images/Rate_Classes_13.png)
+
 
 
  
  Click on _Save Period As Duplicate_ when finished.
  
- - You can continue to create more Season Periods by clicking on the button _Add New_:  
+ - You can continue to create more Season Periods by clicking on the button _Add Period_:  
  
-![22.png]({{site.baseurl}}/images/22.png)
+![Rate_Classes_14.png]({{site.baseurl}}/images/Rate_Classes_14.png)
+
 
   
  
  - Finally, you will need to choose what are the room types to which the rate will be applied to, and the channels on which it will be available:  
  
-![23.png]({{site.baseurl}}/images/23.png)
+![Rate_Classes_15.png]({{site.baseurl}}/images/Rate_Classes_15.png)
 
 
 
-You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _OBOE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
+
+
+You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _IBE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
  
  - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
  
@@ -203,15 +217,19 @@ You will see a list of available channels (Oboe, Frontdesk, Innlink, Zen, etc.):
  
  Duplicating a rate will come handy when you are trying to set up different rates for different room types. We are starting from the idea that although the value of the rate will be different, your Season Periods will probably be the same: a High Season, for example, is defined by the starting/ending date. Hence, instead of having to re-build all Season periods for each of your room type, you can duplicate an existing Rate Class with all its Season Periods, and simply place a different value in it!
  
- - In the _Rate Classes_, click on the button **Duplicate** on the right hand side of the relevant rate:  
+ - In the _Rate Classes_, click on the button **Duplicate** on the right hand side of the relevant rate: 
  
-![24.png]({{site.baseurl}}/images/24.png)
+ 
+![Rate_Classes_16.png]({{site.baseurl}}/images/Rate_Classes_16.png)
+
 
 
  
  - You will now need to amend all the information that is different from the rate you are duplicating from: commonly these are _Rate Code_, _Rate Description_, vlaue in each _Season Period_ and _Room Type_ applied:  
  
-![26.png]({{site.baseurl}}/images/26.png)
+![Rate_Classes_17.png]({{site.baseurl}}/images/Rate_Classes_17.png)
+
+
 
 
 
@@ -221,72 +239,85 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
  - In the _Rate Classes_, click on the blue link **View** on the right hand side of any rate:  
 
-![32.png]({{site.baseurl}}/images/32.png)
+![Rate_Classes_18.png]({{site.baseurl}}/images/Rate_Classes_18.png)
+
 
 
 
  - You will see a daily breakdown of the rate you have set up in the corresponding Rate Class:  
 
-![33.png]({{site.baseurl}}/images/33.png)
+![Rate_Classes_19.png]({{site.baseurl}}/images/Rate_Classes_19.png)
+
 
 
 
  - All the boxes are editable, so you can just amend the rate by inserting a new value for any day:  
  
-![34.png]({{site.baseurl}}/images/34.png)
+![Rate_Classes_20.png]({{site.baseurl}}/images/Rate_Classes_20.png)
+
 
 
  
  - Once you amend and save the rate, you will see that the adjusted rate appears ina different color; the rate will be green if you are going over the rate set up in the Rate Class:  
  
-![35.png]({{site.baseurl}}/images/35.png)
+![Rate_Classes_21.png]({{site.baseurl}}/images/Rate_Classes_21.png)
+
 
 
  
  - It will show in red, if instead you are going below your base rate:  
  
-![36.png]({{site.baseurl}}/images/36.png)
+ 
+![Rate_Classes_22.png]({{site.baseurl}}/images/Rate_Classes_22.png)
+
 
  
  
  - In order to see what was the rate set up in your Rate Class, just hover the mouse over the boxes:  
  
-![37.png]({{site.baseurl}}/images/37.png)
+![Rate_Classes_23.png]({{site.baseurl}}/images/Rate_Classes_23.png)
+
 
  - Use the scroll down calendar to move across dates:  
  
-![38.png]({{site.baseurl}}/images/38.png)
+![Rate_Classes_24.png]({{site.baseurl}}/images/Rate_Classes_24.png)
+
 
 
  
  -You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
  
-![39.png]({{site.baseurl}}/images/39.png)
+![Rate_Classes_25.png]({{site.baseurl}}/images/Rate_Classes_25.png)
+
 
 
 
 - If your rate is applied to different room types, you will have a row for each of those types, so that you can easily edit them:  
 
-![40.png]({{site.baseurl}}/images/40.png)
+![Rate_Classes_26.png]({{site.baseurl}}/images/Rate_Classes_26.png)
+
 
 
 
 
 - If the rate you are viewing has a derived rate linked to it, the latter will automatically change accordingly any time that the Master rate is changed,:  
 
-![41.png]({{site.baseurl}}/images/41.png)
+![Rate_Classes_27.png]({{site.baseurl}}/images/Rate_Classes_27.png)
+
 
 
 
 - If you do not wish the derived rate to be changed, you can un-check the box with the tag _Apply to Derived Rates_:  
 
-![42.png]({{site.baseurl}}/images/42.png)
+![Rate_Classes_28.png]({{site.baseurl}}/images/Rate_Classes_28.png)
 
 
 
-- If your the derived rate is applied to different room types, note that the rate will change only for those Derived Rates applied to the same room type as the Master Rate; if you want it to apply to all room types, then check the box next to the tag _APply to All Room Types_:  
 
-![44.png]({{site.baseurl}}/images/44.png)
+- If your the derived rate is applied to different room types, note that the rate will change only for those Derived Rates applied to the same room type as the Master Rate; if you want it to apply to all room types, then check the box next to the tag _Apply to All Room Types_:  
+
+![Rate_Classes_29.png]({{site.baseurl}}/images/Rate_Classes_29.png)
+
 
 
 
@@ -296,13 +327,15 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
  - In the _Rate Class_ list, click on the blue link **Derive** under column _Action_:  
  
-![28.png]({{site.baseurl}}/images/28.png)
+![Rate_Classes_30.png]({{site.baseurl}}/images/Rate_Classes_30.png)
+
 
 
  
  - Type in a name for the new rate and a new description, and select the type of adjustment you want to make:  
  
-![29.png]({{site.baseurl}}/images/29.png)
+![Rate_Classes_31.png]({{site.baseurl}}/images/Rate_Classes_31.png)
+
 
  
  
@@ -310,13 +343,16 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
  - Select the rooms to which the rate is to be applied and the channels and click on the blue button _Save_ when finished:  
  
-![30.png]({{site.baseurl}}/images/30.png)
+![Rate_Classes_32.png]({{site.baseurl}}/images/Rate_Classes_32.png)
+
+
 
 
  
  - If you go back to the _Rate Class_ List, you will notice that the derived rate appears in that list marked with a capital, bold **D** and an arrow. The latter points to the Derived Rate's Master Rate:  
  
-![31.png]({{site.baseurl}}/images/31.png)
+![Rate_Classes_33.png]({{site.baseurl}}/images/Rate_Classes_33.png)
+
 
 
  
@@ -324,7 +360,8 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
  
 As for rooms, rates cannot be completely erased from the system; however, you can make them inactive by unchecking the box under the column _Status_ for any row:  
  
-![45.png]({{site.baseurl}}/images/45.png)
+![Rate_Classes_34.png]({{site.baseurl}}/images/Rate_Classes_34.png)
+
 
 
 
@@ -334,7 +371,8 @@ If you are building different rates for the same room type, you may want to cont
 
 When you open a folio, all applicable rates for the room type appear in the scroll down menu on the right hand side of the panel:  
 
-![81.png]({{site.baseurl}}/images/81.png)
+![Rate_Classes_35.png]({{site.baseurl}}/images/Rate_Classes_35.png)
+
 
 
 
@@ -342,25 +380,29 @@ Unless you order your rates, they will appear randomly in the folio: for example
 
   - In the Admin Settings, click on **Rate Priority** under section _Rates_:  
  
-![83.png]({{site.baseurl}}/images/83.png)
+![Rate_Classes_36.png]({{site.baseurl}}/images/Rate_Classes_36.png)
+
 
 
  
  - You will see a list of all the rates you have created in the system, independently of the room types where they are applied:  
  
-![84.png]({{site.baseurl}}/images/84.png)
+![Rate_Classes_37.png]({{site.baseurl}}/images/Rate_Classes_37.png)
+
 
 
  
  - Replace the _999_ number with a progressive numeric order: in the example below I am setting my BAR rates to show up first:  
  
-![85.png]({{site.baseurl}}/images/85.png)
+![Rate_Classes_38.png]({{site.baseurl}}/images/Rate_Classes_38.png)
+
 
 
  
  - Click on the blue button _Save_, and you will see your rates in the order you placed.  
  
-![86.png]({{site.baseurl}}/images/86.png)
+![Rate_Classes_39.png]({{site.baseurl}}/images/Rate_Classes_39.png)
+
 
 
  

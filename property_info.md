@@ -1,11 +1,14 @@
 ---
 title: Property Info
-tags: [property info, company info]
+tags: 
+  - property info
+  - company info
 keywords: "property info, logo, time zone, default guest settings, default guest county, guest settings, company info"
 last_updated: "November 25th, 2015"
 summary: This section is dedicated to information about your company and how guest information are displayed in your system.
 published: true
 ---
+
 
 
 
@@ -17,12 +20,14 @@ As the name suggests, this section is dedicated to information about your compan
 
  In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
  
- ![55.png]({{site.baseurl}}/images/55.png)
+![Property_Info_1.png]({{site.baseurl}}/images/Property_Info_1.png)
+
  
 
  Click on the blue button _Upload Logo_ to upload one from your computer:  
 
-![66b.png]({{site.baseurl}}/images/66b.png)
+![Property_Info_2.png]({{site.baseurl}}/images/Property_Info_2.png)
+
 
 
 
@@ -34,15 +39,18 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 
  Click on the blue link **Default Guest Settings**, under section _Property Info_:  
  
-![712.png]({{site.baseurl}}/images/712.png)
+![Property_Info_3.png]({{site.baseurl}}/images/Property_Info_3.png)
+
  
   Chose how you want the names of your guests to be displayed on the Tape Chart, by selecting your option from the scroll down menu with the tag _Name Display_:  
   
-![879.png]({{site.baseurl}}/images/879.png)
+![Property_Info_4.png]({{site.baseurl}}/images/Property_Info_4.png)
+
   
   Select the default country for your guests by choosing an option from the scroll down menu _Country_ and click on the blue button _Save_ when finished:  
   
-![9999.png]({{site.baseurl}}/images/9999.png)
+![Property_Info_5.png]({{site.baseurl}}/images/Property_Info_5.png)
+
 
    
 
