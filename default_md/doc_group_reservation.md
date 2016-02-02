@@ -24,23 +24,29 @@ Creating a multiple rooms reservation for small or large groups is easy in Front
    
  
 ##**Step 2. Choose the group’s stay date and the room information**     
+
+
    - Using the two scroll down calendars, select the check-in and check-out dates of the group. If you need shoulder dates, or if part of the group is staying longer/shorter, you will be able to adjust details in the next step.   
    
-   ![](3.png]({{site.baseurl}}/images/3.png)   
+![group_reservation_3.png]({{site.baseurl}}/images/group_reservation_3.png)
+
    
    - Choose the room type of your choice by selecting the right option from the respective scroll down menu: if the group has booked more than one room type, you will be given the option to add more rooms once _**Step 2**_ is completed:   
    
-   ![](4.png]({{site.baseurl}}/images/4.png)   
+![group_reservation_4.png]({{site.baseurl}}/images/group_reservation_4.png)
+ 
  
 When you choose a room type, the scroll down menus with the tags _Rates_ and _No. Rooms_ will automatically update to give you the number of available rooms and rates for the dates of your choice.   
 - If you wish to customize the rate for the group, you can  do this by clicking on the blue link **Edit Rate**, next to the _Rate_ scroll down menu.
 You will have two options: you can either edit the daily rate by clicking on the circle box _Daily Price Edit_:   
  
-![](5.png]({{site.baseurl}}/images/5.png)   
+![group_reservation_5.png]({{site.baseurl}}/images/group_reservation_5.png)
+
  
 or you can click on the circle box _Fixed Price Edit_ to change the total rate for each room:   
  
-![](6.png]({{site.baseurl}}/images/6.png)
+![group_reservation_6.png]({{site.baseurl}}/images/group_reservation_6.png)
+
      
 Click on the yellow button **Update** to save your changes.   
  
