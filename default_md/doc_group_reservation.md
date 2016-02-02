@@ -96,7 +96,8 @@ If you select _Automatic Release_ you will need to choose a certain date from th
 
 ##**Step 5. Removing a room from the Room Queue**   
 - If you made a mistake and reserved too many rooms, you can remove the extra ones by clicking on the button _Remove_:‘Remove’:   
-![](12.png]({{site.baseurl}}/images/12.png)   
+![group_reservation_12.png]({{site.baseurl}}/images/group_reservation_12.png)
+ 
 
 - Select the number of rooms you wish to remove and click on the blue button **Save**.   
 
@@ -109,7 +110,8 @@ When ready, you can click on the button **Next** to go to the next step.
 Group Rules are used to set up group payments: you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group chargestogether, and so on. When a group is created, all charges are by default transferred to one reservation folio, which represents the group's leader. If you want to distribute charges differently, you will need to modify the Group Rules.   
 
 - Open your group reservation:   
-![](13.png]({{site.baseurl}}/images/13.png)   
+![group_reservation_13.png]({{site.baseurl}}/images/group_reservation_13.png)
+
 
 - Click on **Group Rules** on the top of the panel:   
 ![](14.png]({{site.baseurl}}/images/14.png)   
