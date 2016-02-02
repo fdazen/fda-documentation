@@ -171,6 +171,7 @@ You can transfer charges to any Guest or Company profile. This is a step-by-step
  6. For that profile, select the invoice you want to use:  
  
 
+![group_reservation_26.png]({{site.baseurl}}/images/group_reservation_26.png)
 
 
 #**Step 8. Group Operations**   
