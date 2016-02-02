@@ -170,7 +170,7 @@ You can transfer charges to any Guest or Company profile. This is a step-by-step
  
  6. For that profile, select the invoice you want to use:  
  
- ![](33.png]({{site.baseurl}}/images/33.png)
+
 
 
 #**Step 8. Group Operations**   
