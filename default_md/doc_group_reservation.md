@@ -9,16 +9,19 @@ published: true
 ---
 
 
+
 #** MULTIPLE ROOMS RESERVATION ** 
 Creating a multiple rooms reservation for small or large groups is easy in Frontdesk Anywhere: from only one panel you are able to streamline the reservation process, manage booking status, set up payment rules and print/send group messages.       
 ##**Step 1. New Group**      
   - Begin by clicking on the blue button _NEW GROUP_ on top of your Tape Chart:   
   
-  ![](1.png]({{site.baseurl}}/images/1.png)     
+![group_reservation_1.png]({{site.baseurl}}/images/group_reservation_1.png)
+   
   
   - A new window will pop up: insert the Group Name in the first field, and select the Source and Market from the available options in the second and last field. Once done, click on the blue button _NEXT_:      
   
-    ![](2.png]({{site.baseurl}}/images/2.png)       
+![group_reservation_2.png]({{site.baseurl}}/images/group_reservation_2.png)
+   
  
 ##**Step 2. Choose the group’s stay date and the room information**     
    - Using the two scroll down calendars, select the check-in and check-out dates of the group. If you need shoulder dates, or if part of the group is staying longer/shorter, you will be able to adjust details in the next step.   
@@ -182,6 +185,3 @@ You can easily access each of the folios that are part of a group directly from 
 - To access a reservation that is part of a group, click on the reservation number on the left hand side of each folio:  
 
 ![27_1.png]({{site.baseurl}}/images/27_1.png)
-
-
-
