@@ -52,7 +52,8 @@ Click on the yellow button **Update** to save your changes.
  
    - Choose how you want to assign rooms for this group.   
    You will have three options:    
-![](7.png]({{site.baseurl}}/images/7.png)   
+![group_reservation_7.png]({{site.baseurl}}/images/group_reservation_7.png)
+
 
 **Auto Assign** will have the system automatically assign the rooms among the ones available.   
 **Unassign** will create the group without any room assignment.   
@@ -62,11 +63,13 @@ Select your option and click on the blue button **Add Rooms**.
 
 ##**Step 3. Manual Assignment (skip to Step 4 if not applicable)**   
 - If you chose the Manual Assignment option, the following panel will pop-up:   
-![](8.png]({{site.baseurl}}/images/8.png)   
+![group_reservation_8.png]({{site.baseurl}}/images/group_reservation_8.png)
+ 
 
 Make your choice and click on the button **Select** when done:   
 
-![](9.png]({{site.baseurl}}/images/9.png)   
+![group_reservation_9.png]({{site.baseurl}}/images/group_reservation_9.png)
+
 
 Click on the blue button **Add Rooms*.   
 
@@ -74,7 +77,8 @@ Click on the blue button **Add Rooms*.
 
 - Once the rooms are added, there will appear a brief summary of the group details: you will now need to choose the group reservation status.   
 
-![](10.png]({{site.baseurl}}/images/10.png)   
+![group_reservation_10.png]({{site.baseurl}}/images/group_reservation_10.png)
+
 
 Choose:   
 
@@ -83,7 +87,8 @@ Choose:
 **Block / DNR** if you want to take the rooms out of your current inventory   
 
 - If you choose to hold rooms, you will be given two options:   
-![](11.png]({{site.baseurl}}/images/11.png)   
+![group_reservation_11.png]({{site.baseurl}}/images/group_reservation_11.png)
+
 
 If you select a _Manual Release_ for the rooms, the rooms will stay in a Hold status until you manually change the status within the Group Folio.   
 
