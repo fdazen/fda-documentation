@@ -137,7 +137,8 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 - Click on the button _Save_ to save your work. You will be prompted to choose whether to override the existing rule (_Rule Set 1_), or to simply save the new rule:   
 
-![](21.png]({{site.baseurl}}/images/21.png)   
+![group_reservation_21.png]({{site.baseurl}}/images/group_reservation_21.png)
+ 
 
 Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.  
 
