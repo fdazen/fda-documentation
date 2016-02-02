@@ -114,22 +114,26 @@ Group Rules are used to set up group payments: you can decide to transfer charge
 
 
 - Click on **Group Rules** on the top of the panel:   
-![](14.png]({{site.baseurl}}/images/14.png)   
+![group_reservation_14.png]({{site.baseurl}}/images/group_reservation_14.png)
 
 As mentioned above, all charges are transferred to the first reservation folio. This default rule is called _Rule Set 1_, and the specific settings are displayed below it:   
-![](16.png]({{site.baseurl}}/images/16.png)   
+ ![group_reservation_16.png]({{site.baseurl}}/images/group_reservation_16.png)
+
 
 **Folio(s) to Transfer Charges From**: the option _All Folios_ is selected in the default rule, meaning that charges from all the group reservation folios will be transferred. Unchecking the box will enable you to select the charges of those folio(s) you want to transfer:   
 
-![](17.png]({{site.baseurl}}/images/17.png)   
+![group_reservation_17.png]({{site.baseurl}}/images/group_reservation_17.png)
+
 
 **Folio to Transfer Charges to**: from the scroll down menu, sleect what folio is to receive the charges:   
 
-![](18.png]({{site.baseurl}}/images/18.png)   
+![group_reservation_18.png]({{site.baseurl}}/images/group_reservation_18.png)
+
 
 **Percentage to Be Paid**: insert the percentage you wish to transfer from the selected folios:   
 
-![](20.png]({{site.baseurl}}/images/20.png)   
+![group_reservation_20.png]({{site.baseurl}}/images/group_reservation_20.png)
+
 
 - Click on the button _Save_ to save your work. You will be prompted to choose whether to override the existing rule (_Rule Set 1_), or to simply save the new rule:   
 
