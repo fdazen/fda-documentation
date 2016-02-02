@@ -160,11 +160,13 @@ You can transfer charges to any Guest or Company profile. This is a step-by-step
 
  4. In the payments panel, click on the scroll down menu _Uninvoiced Transactions_ and select all charges you wish yo transfer:  
  
- ![](31.png]({{site.baseurl}}/images/31.png)  
+![group_reservation_24.png]({{site.baseurl}}/images/group_reservation_24.png)
+
  
  5. On the top right hand side, click on the button _Transfer Charges_; a small search box will appear: type in the name of the Guest Profile you wish to transfer charges to:  
  
- ![](32.png]({{site.baseurl}}/images/32.png)  
+![group_reservation_25.png]({{site.baseurl}}/images/group_reservation_25.png)
+
  
  6. For that profile, select the invoice you want to use:  
  
