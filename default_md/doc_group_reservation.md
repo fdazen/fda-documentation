@@ -181,11 +181,13 @@ From the group folio, you are able to perform bulk operations, like change the s
 ###**BULK UPDATES**
 - In the Group Folio, click on the tab _Details_:   
 
-![](22.png]({{site.baseurl}}/images/22.png)   
+![group_reservation_27.png]({{site.baseurl}}/images/group_reservation_27.png)
+
 
 - Depending on the current status of the group reservation, there will be different actions you are able to perform. Those available operations are displayed on the top of the folio list:   
 
-![](24.png]({{site.baseurl}}/images/24.png)   
+![group_reservation_28.png]({{site.baseurl}}/images/group_reservation_28.png)
+ 
 
 In the example, the current folios status is _Reserved_; hence the available operations are _Check-in_ and _No-Show_ (if the group's arrival is today's date), and _Cancel_. If the current status of the folio was _Hold_, then there would also be a _Reserved_ option, if the current status was _Checked-in_, then a _Check-out_ option would be there, and so on.   
 
