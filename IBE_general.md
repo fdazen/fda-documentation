@@ -17,7 +17,7 @@ Frontdesk Anywhere enables properties to offer real-time commissionless online b
 
 Your account's booking engine can be accessed using the below URL:
 
-https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX
+https://bookings.frontdeskanywhere.net/#account/XXXXXXXX
 
 Replace XXXXXXX with your Frontdesk Anywhere account number.
 
