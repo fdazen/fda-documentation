@@ -56,7 +56,15 @@ Note that you can also use the View tabs on the top of your Tape Chart to make s
 That window is called **Reservation Folio**. 
 
 
-2. ##**Entering Booking Information**
+2. ##**Entering Booking Information**  
+
+- In each folio, the reservation details are organized into three different columns. The first column, called _Duration_ bears general information about the reservation:  
+
+![Solo_res_6.png]({{site.baseurl}}/images/Solo_res_6.png)
+
+
+
+
 
 
 
