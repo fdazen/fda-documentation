@@ -60,7 +60,13 @@ That window is called **Reservation Folio**.
 
 - In each folio, the reservation details are organized into three different columns. The first column, called _Duration_ bears general information about the reservation:  
 
-![Solo_res_6.png]({{site.baseurl}}/images/Solo_res_6.png)
+![Solo_res_6.png]({{site.baseurl}}/images/Solo_res_6.png)   
+
+
+- There are two scroll down calendars where you can edit the reservation duration. In the example below, my guest is booking from 02/11 through 02/15:  
+
+![Solo_res_7.png]({{site.baseurl}}/images/Solo_res_7.png)
+
 
 
 
