@@ -20,4 +20,4 @@ There are two ways to create a single reservation in your account.
 
 The first way you can make a single reservation is by clicking directly on any empty box on your Tape Chart, corresponding to the day and room you want to book.  
 
- -
+
