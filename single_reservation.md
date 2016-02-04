@@ -34,4 +34,10 @@ The first way you can start creating a single reservation is by clicking directl
  
  
  ![Solo_res_2.png]({{site.baseurl}}/images/Solo_res_2.png)
+  
+  
+Note that you can also use the View tabs on the top of your Tape Chart to make sure you have a good understanding of what is and is not available for the selected range:  
+
+
+![Solo_res_3.png]({{site.baseurl}}/images/Solo_res_3.png)
 
