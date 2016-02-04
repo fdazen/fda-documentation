@@ -71,6 +71,25 @@ That window is called **Reservation Folio**.
 
 ![Solo_res_8.png]({{site.baseurl}}/images/Solo_res_8.png)  
 
+- You can select the number of people and children associated with this booking, by using the scroll down menus next to the tags _Adults_ and _Children_:  
+
+![Solo_res_9.png]({{site.baseurl}}/images/Solo_res_9.png)
+  
+Note that the values appearing in these menus have been configured by the account administrator at your hotel, and the system won't allow you to set up a higher occupancy than the one that has been configured.  
+  
+- You can proceed to fill in all the information under the _Duration_ column. Note that most fields are entirely customizable, so you will probably see a different set of information than the one appearing in the picture below:  
+
+![Solo_res_10.png]({{site.baseurl}}/images/Solo_res_10.png)
+
+
+
+
+  
+
+
+
+
+
 
 
 
