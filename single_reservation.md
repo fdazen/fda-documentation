@@ -15,10 +15,10 @@ published: true
 
 #**Single Reservation**  
 
-There are two ways to create a single reservation in your account.  
+You can create solo reservations easily with a simple click on the Tape Chart. You will need to make sure that the room you are trying to book for the chosen dates is available for the date range the reservation is for. 
 
 
-##**CREATING A NEW RESERVATION - METHOD 1**  
+##**CHOOSING DATES AND VISUALIZING AVAILABILITY**  
 
 
 The first way you can start creating a single reservation is by clicking directly on the empty box on your Tape Chart, corresponding to the day and room you want to book. 
@@ -36,8 +36,16 @@ The first way you can start creating a single reservation is by clicking directl
  ![Solo_res_2.png]({{site.baseurl}}/images/Solo_res_2.png)
   
   
-Note that you can also use the View tabs on the top of your Tape Chart to make sure you have a good understanding of what is and is not available for the selected range:  
+Note that you can also use the View tabs on the top of your Tape Chart to make sure you have a good understanding of what is and is not available for the selected date range:  
 
 
-![Solo_res_3.png]({{site.baseurl}}/images/Solo_res_3.png)
+![Solo_res_3.png]({{site.baseurl}}/images/Solo_res_3.png)  
+
+
+- Use the arrows on the top left corner of your Tape Chart, to see expand the Tape Chart and see what room is available for the selected period:  
+
+
+![Solo_res_4.png]({{site.baseurl}}/images/Solo_res_4.png)  
+
+
 
