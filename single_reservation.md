@@ -65,7 +65,12 @@ That window is called **Reservation Folio**.
 
 - There are two scroll down calendars where you can edit the reservation duration. In the example below, my guest is booking from 02/11 through 02/15:  
 
-![Solo_res_7.png]({{site.baseurl}}/images/Solo_res_7.png)
+![Solo_res_7.png]({{site.baseurl}}/images/Solo_res_7.png)  
+
+- The dates of your choice will be shown underneath the calendar, along with the room number the reservation has been assigned to, and the corresponding room type:  
+
+![Solo_res_8.png]({{site.baseurl}}/images/Solo_res_8.png)
+
 
 
 
