@@ -11,6 +11,7 @@ published: true
 
 
 
+
 ##**Guest Messages**  
 
 Through Guest Messages you are able to set up all those information about your property that you need to communicate to your guests, for example you Cancellation Policy, or your Terms and Conditions. These messagages will appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or on your Email Templates. You can think of them as _snippet_ messages that will then be applied to all communications you will set up to have with your guests.  
@@ -226,4 +227,3 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
  - When finished, click on the blue button _Add Rule_ at the bottom of the page:  
 
 ![Guest_Messages_32.png]({{site.baseurl}}/images/Guest_Messages_32.png)
-
