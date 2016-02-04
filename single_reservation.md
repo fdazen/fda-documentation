@@ -53,7 +53,7 @@ Note that you can also use the View tabs on the top of your Tape Chart to make s
 ![Solo_res_5.png]({{site.baseurl}}/images/Solo_res_5.png)  
 
 
-
+That window is called **Reservation Folio**. 
 
 
 
