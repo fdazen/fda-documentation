@@ -69,7 +69,9 @@ That window is called **Reservation Folio**.
 
 - The dates of your choice will be shown underneath the calendar, along with the room number the reservation has been assigned to, and the corresponding room type:  
 
-![Solo_res_8.png]({{site.baseurl}}/images/Solo_res_8.png)
+![Solo_res_8.png]({{site.baseurl}}/images/Solo_res_8.png)  
+
+
 
 
 
