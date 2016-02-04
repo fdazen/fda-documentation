@@ -79,7 +79,14 @@ Note that the values appearing in these menus have been configured by the accoun
   
 - You can proceed to fill in all the information under the _Duration_ column. Note that most fields are entirely customizable, so you will probably see a different set of information than the one appearing in the picture below:  
 
-![Solo_res_10.png]({{site.baseurl}}/images/Solo_res_10.png)
+![Solo_res_10.png]({{site.baseurl}}/images/Solo_res_10.png)  
+
+- The **OTA#** field is where you can record the confirmation number from Online Travel Agencies associated with the booking you are entering in your account. Note that in case your account is integrated with any of these sites, this field will be automatically fill in upon receipt of the reservation:  
+
+![Solo_res_11.png]({{site.baseurl}}/images/Solo_res_11.png)  
+
+
+
 
 
 
