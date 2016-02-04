@@ -48,4 +48,13 @@ Note that you can also use the View tabs on the top of your Tape Chart to make s
 ![Solo_res_4.png]({{site.baseurl}}/images/Solo_res_4.png)  
 
 
+- Select the box corresponding to the room you want to book and the guest's arrival date; another window will pop-up:    
+
+![Solo_res_5.png]({{site.baseurl}}/images/Solo_res_5.png)  
+
+
+
+
+
+
 
