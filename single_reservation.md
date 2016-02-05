@@ -125,7 +125,10 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 ![Solo_res_18.png]({{site.baseurl}}/images/Solo_res_18.png)
   
   
-  
+- If the guest's billing address is different from the guest's address, uncheck the box next to the tag _Billing Information_: new fields will appear below and you will be able to record a different billing address:  
+
+![Solo_res_19.png]({{site.baseurl}}/images/Solo_res_19.png)
+
   
 
 
