@@ -159,6 +159,14 @@ entries:
       version: all
       print: true
       items:
+
+        - title: Single Reservation
+          url: /single_reservation.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
         - title: Group Reservations
           url: /group_reservation.html
           audience: writers, designers
