@@ -105,10 +105,19 @@ The middle column of the reservation folio bears information about the guest/s:
  ![Solo_res_14.png]({{site.baseurl}}/images/Solo_res_14.png)
 
 
-Note that once you start typing the guest name, the system will automatically prompt you with suggestion that match what you have typed in. In the example below, you can see that when when I type in the name _Test_, the system will prompt me with any information matching that name/last name. Note also that each of those names is numbered: that is the Profile ID number associated with each of those guests.  
+Note that once you start typing the guest name, the system will automatically prompt you with suggestions that match what you have typed in. In the example below, you can see that when when I type in the name _Test_, the system will prompt me with any information matching the combination of first and last name. Note also that each of those suggestion is numbered: that is the Profile ID number associated with each of those guests.  
 
 ![Solo_res_15.png]({{site.baseurl}}/images/Solo_res_15.png)
 
+Selecting a prompted suggestion will make the Profile ID field default to the Profile ID number:  
+
+![Solo_res_16.png]({{site.baseurl}}/images/Solo_res_16.png)  
+
+If you do not select any suggestion, a new unique Profile ID will be creating upon reserving the booking.  
+
+- Under the _Guest Information_ column, at the bottom, you will find a place where to insert the guest's credit card number. Click on the small box with the three horizontal lines, next to the written _Credit Cards_ and then click on **Add Card**:  
+
+![Solo_res_17.png]({{site.baseurl}}/images/Solo_res_17.png)
 
 
 
