@@ -117,7 +117,18 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 
 - Under the _Guest Information_ column, at the bottom, you will find a place where to insert the guest's credit card number. Click on the small box with the three horizontal lines, next to the written _Credit Cards_ and then click on **Add Card**:  
 
-![Solo_res_17.png]({{site.baseurl}}/images/Solo_res_17.png)
+![Solo_res_17.png]({{site.baseurl}}/images/Solo_res_17.png)  
+
+
+- A new panel will pop down with all the relevant fields you will need to record credit card details. Insert all information and click on the button _Save Card_:  
+
+![Solo_res_18.png]({{site.baseurl}}/images/Solo_res_18.png)
+  
+  
+  
+  
+
+
 
 
 
