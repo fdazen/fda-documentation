@@ -58,6 +58,9 @@ That window is called **Reservation Folio**.
 
 2. ##**Entering Booking Information**  
 
+
+###**RESERVATION INFORMATION**  
+  
 - In each folio, the reservation details are organized into three different columns. The first column, called _Duration_ bears general information about the reservation:  
 
 ![Solo_res_6.png]({{site.baseurl}}/images/Solo_res_6.png)   
@@ -85,8 +88,26 @@ Note that the values appearing in these menus have been configured by the accoun
 
 ![Solo_res_11.png]({{site.baseurl}}/images/Solo_res_11.png)  
 
+Note that once the _OTA#_ field has been filled in, that value will also be appearing on the top left hand side of the reservation folio:  
+
+![Solo_res_13.png]({{site.baseurl}}/images/Solo_res_13.png)
+
+  
+###**GUEST INFORMATION**  
 
 
+The middle column of the reservation folio bears information about the guest/s:  
+
+![Solo_res_12.png]({{site.baseurl}}/images/Solo_res_12.png)
+
+ - The _Profile ID_ field will be automatically filled in once the name and last name of the guest has been filled in:  
+ 
+ ![Solo_res_14.png]({{site.baseurl}}/images/Solo_res_14.png)
+
+
+Note that once you start typing the guest name, the system will automatically prompt you with suggestion that match what you have typed in. In the example below, you can see that when when I type in the name _Test_, the system will prompt me with any information matching that name/last name. Note also that each of those names is numbered: that is the Profile ID number associated with each of those guests.  
+
+![Solo_res_15.png]({{site.baseurl}}/images/Solo_res_15.png)
 
 
 
