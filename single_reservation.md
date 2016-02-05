@@ -137,3 +137,11 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 
 The right column of the reservation folio bears information about rates, taxes and additional charges.  
 
+![Solo_res_20.png]({{site.baseurl}}/images/Solo_res_20.png)
+  
+  
+The scroll down menu will contain information about all available rates the account administrator has set up for the selected date, for the selected room type. In the example below, we have two rates applied to this room type, for the chosen date:  
+
+![Solo_res_21.png]({{site.baseurl}}/images/Solo_res_21.png)
+
+
