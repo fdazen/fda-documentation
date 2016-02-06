@@ -165,10 +165,13 @@ Once all information is in the reservation folio, there are several operations y
 ![Solo_res_25.png]({{site.baseurl}}/images/Solo_res_25.png)
   
   
-- You can choose whether to manually remove the reservation from the Hold status, or whether set up a certain date on which the system will automatically release the reservation. Select your option on the left hand side of the folio, under the tag _Hold Release Date_:  
+You can choose whether to manually remove the reservation from the Hold status, or whether set up a certain date on which the system will automatically release the reservation. Select your option on the left hand side of the folio, under the tag _Hold Release Date_:  
 
 ![Solo_res_26.png]({{site.baseurl}}/images/Solo_res_26.png)
 
   
+Clicking on the field under the tag _Automatically Release Rooms On_ will enable you to select a date on a pop-up calendar.  
+
+![Solo_res_27.png]({{site.baseurl}}/images/Solo_res_27.png)
 
 
