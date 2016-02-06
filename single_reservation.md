@@ -167,6 +167,7 @@ Once all information is in the reservation folio, there are several operations y
   
 - You can choose whether to manually remove the reservation from the Hold status, or whether set up a certain date on which the system will automatically release the reservation. Select your option on the left hand side of the folio, under the tag _Hold Release Date_:  
 
+![Solo_res_26.png]({{site.baseurl}}/images/Solo_res_26.png)
 
   
 
