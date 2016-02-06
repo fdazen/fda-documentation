@@ -11,6 +11,7 @@ published: true
 
 
 
+
  
 
 
@@ -143,10 +144,11 @@ The right column of the reservation folio bears information about rates, taxes a
  - The scroll down menu will contain information about all available rates the account administrator has set up for the selected date, for the selected room type. In the example below, we have two rates applied to this room type, for the chosen date:  
 
 ![Solo_res_21.png]({{site.baseurl}}/images/Solo_res_21.png)
-  ,j
+ 
 The _Offered Rate_ is the one that the administrator has set up as _default_ for the room type for the selected date range. If there are other availble rates for the date and room type specified, you will be able to see them in the drop down menu, under _Available Rates_.  
 
+- The _Duration of the Stay_ field gives you the number of night the booking is for, and it is a dynamic field as it changes accordingly with the dates displayed by the scroll down calendars. The _Total Charges_ will give you the total of the room charges:  
 
-- If you want to changew
-  
+![Solo_res_22.png]({{site.baseurl}}/images/Solo_res_22.png)
+
 
