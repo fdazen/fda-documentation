@@ -149,6 +149,11 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 
 - The _Duration of the Stay_ field gives you the number of night the booking is for, and it is a dynamic field as it changes accordingly with the dates displayed by the scroll down calendars. The _Total Charges_ will give you the total of the room charges:  
 
-![Solo_res_22.png]({{site.baseurl}}/images/Solo_res_22.png)
+![Solo_res_22.png]({{site.baseurl}}/images/Solo_res_22.png)  
+
+- The list of tax applicable to the selected rate will be listed right underneath the _Total Charges_ field. Note that each tax is exemptable by click on the relevant check-box:  
+
+![Solo_res_23.png]({{site.baseurl}}/images/Solo_res_23.png)
+
 
 
