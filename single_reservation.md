@@ -61,7 +61,7 @@ That window is called **Reservation Folio**.
 2. ##**Entering Booking Information**  
 
 
-###**RESERVATION INFORMATION**  
+###**Reservation Information**  
   
 - In each folio, the reservation details are organized into three different columns. The first column, called _Duration_ bears general information about the reservation:  
 
@@ -95,7 +95,7 @@ Note that once the _OTA#_ field has been filled in, that value will also be appe
 ![Solo_res_13.png]({{site.baseurl}}/images/Solo_res_13.png)
 
   
-###**GUEST INFORMATION**  
+###**Guest information**  
 
 
 The middle column of the reservation folio bears information about the guest/s:  
@@ -134,7 +134,7 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 **Note**: credit card information entered into the reservation folio **will not** be saved under the Guest Profile. This means that unless you have saved the card directly in the guest's _profile_, under the _Prifile Tab_, the credit card information is not going to be saved. If you need instructions on how to record credit card information into Guest Profiles, please go to the **Profile** section of this manual!  
 
 
-###**RATE INFORMATION**  
+###**Rate Information**  
 
 The right column of the reservation folio bears information about rates, taxes and additional charges.  
 
