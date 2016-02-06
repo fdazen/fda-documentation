@@ -156,4 +156,18 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 ![Solo_res_23.png]({{site.baseurl}}/images/Solo_res_23.png)
 
 
+###**Reservation Operations**  
+
+Once all information is in the reservation folio, there are several operations you can perform.  
+
+- If the booking is not finalized, you can choose to **Hold** the reservation: held reservations won't be counted as part of the hotel occupancy, nor the rates will count as revenue. This is most useful when some required information is missing and the guest will have to get in contact with the hotel later to finalize the booking. To place a reservation in a Hold status, click on the bblue button _Hold_ at the bottom of the reservation folio:  
+
+![Solo_res_25.png]({{site.baseurl}}/images/Solo_res_25.png)
+  
+  
+- You can choose whether to manually remove the reservation from the Hold status, or whether set up a certain date on which the system will automatically release the reservation. Select your option on the left hand side of the folio, under the tag _Hold Release Date_:  
+
+
+  
+
 
