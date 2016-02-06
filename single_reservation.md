@@ -172,12 +172,27 @@ You can choose whether to manually remove the reservation from the Hold status, 
   
 Clicking on the field under the tag _Automatically Release Rooms On_ will enable you to select a date on a pop-up calendar.  
 
-![Solo_res_27.png]({{site.baseurl}}/images/Solo_res_27.png)
+![Solo_res_27.png]({{site.baseurl}}/images/Solo_res_27.png)  
+
+
+Once a room has been held, you can manually release it by clicking on the blue button _Release_ at the bottom of any held folio:  
+
+
+![Solo_res_29.png]({{site.baseurl}}/images/Solo_res_29.png)
+  
+  
+You will also have the option to reserve a held room, by clicking on the blue button _Reserve_ at the bottom of the held folio:   
+
+
+![Solo_res_30.png]({{site.baseurl}}/images/Solo_res_30.png)
+
   
   
 - If you need to momentarily hide a certain room from the displayed availability, you may decide to mark the room as **Block/DNR** (Do Not Rent): blocked rooms do not count towards revenue or occupancy values in reports. To place a block on a room, click on the blue button _Block/DNR_ at the bottom of the folio:  
 
-![Solo_res_28.png]({{site.baseurl}}/images/Solo_res_28.png)
+![Solo_res_28.png]({{site.baseurl}}/images/Solo_res_28.png)  
+
+
 
   
 
