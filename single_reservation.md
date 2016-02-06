@@ -61,7 +61,7 @@ That window is called **Reservation Folio**.
 2. ##**Entering Booking Information**  
 
 
-###**Reservation Information**  
+##**Reservation Information**  
   
 - In each folio, the reservation details are organized into three different columns. The first column, called _Duration_ bears general information about the reservation:  
 
@@ -134,7 +134,7 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 **Note**: credit card information entered into the reservation folio **will not** be saved under the Guest Profile. This means that unless you have saved the card directly in the guest's _profile_, under the _Prifile Tab_, the credit card information is not going to be saved. If you need instructions on how to record credit card information into Guest Profiles, please go to the **Profile** section of this manual!  
 
 
-###**Rate Information**  
+##**Rate Information**  
 
 The right column of the reservation folio bears information about rates, taxes and additional charges.  
 
@@ -156,8 +156,9 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 ![Solo_res_23.png]({{site.baseurl}}/images/Solo_res_23.png)
 
 
-###**Reservation Operations**  
-
+3. ##**Reservation Operations**  
+  
+ 
 Once all information is in the reservation folio, there are several operations you can perform.  
 
 - If the booking is not finalized, you can choose to **Hold** the reservation: held reservations won't be counted as part of the hotel occupancy, nor the rates will count as revenue. This is most useful when some required information is missing and the guest will have to get in contact with the hotel later to finalize the booking. To place a reservation in a Hold status, click on the bblue button _Hold_ at the bottom of the reservation folio:  
@@ -192,6 +193,12 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 
 
 ![Solo_res_28.png]({{site.baseurl}}/images/Solo_res_28.png)  
+  
+  
+- A blocked room can **_only be unblocked_** but not reserved. Hence, make sure not to place any valuable information in a folio with a Block status, as the system won't allow you to move the status to a reserved one. To unblock a room, clcik on the button _Unblock_ on any blocked folio:  
+
+
+![Solo_res_31.png]({{site.baseurl}}/images/Solo_res_31.png)
 
 
 
