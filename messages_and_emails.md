@@ -76,6 +76,7 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 ![Guest_Messages_9.png]({{site.baseurl}}/images/Guest_Messages_9.png)
 
 
+
  
  - Under each section you will see one disabled template already listed: these templates are only used as a guidance, and they are non-editable:  
  
