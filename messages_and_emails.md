@@ -22,6 +22,7 @@ Through Guest Messages you are able to set up all those information about your p
 ![Guest_Messages_1.png]({{site.baseurl}}/images/Guest_Messages_1.png)
 
 
+
  
  - You will see different panels, each one editable and with a title on the top that should give you some guidance on what sort of information you should type in the editable box:  
  
