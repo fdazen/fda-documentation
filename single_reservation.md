@@ -12,6 +12,7 @@ published: true
 
 
 
+
  
 
 
@@ -159,9 +160,11 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 3. ##**Reservation Operations**  
   
  
-Once all information is in the reservation folio, there are several operations you can perform.  
+Once all information is in the reservation folio, there are several operations you can perform. Any available operation that can be performed will have its corresponding button at the bottom of any folio: 
 
-- If the booking is not finalized, you can choose to **Hold** the reservation: held reservations won't be counted as part of the hotel occupancy, nor the rates will count as revenue. This is most useful when some required information is missing and the guest will have to get in contact with the hotel later to finalize the booking. To place a reservation in a Hold status, click on the bblue button _Hold_ at the bottom of the reservation folio:  
+
+
+- If the booking is not finalized, you can choose to **Hold** the reservation: held reservations won't be counted as part of the hotel occupancy, nor the rates will count as revenue. This is most useful when some required information is missing and the guest will have to get in contact with the hotel later to finalize the booking. To place a reservation in a Hold status, click on the blue button _Hold_ at the bottom of the reservation folio:  
 
 ![Solo_res_25.png]({{site.baseurl}}/images/Solo_res_25.png)
   
@@ -199,8 +202,3 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 
 
 ![Solo_res_31.png]({{site.baseurl}}/images/Solo_res_31.png)
-
-
-
-  
-
