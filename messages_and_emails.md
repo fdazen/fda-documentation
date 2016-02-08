@@ -100,9 +100,10 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
 
  
- - The template you have just created will appear as the first template in the apposite panel:  
+ - The template you have just created will be listed under the apposite header:  
  
 ![Guest_Messages_14.png]({{site.baseurl}}/images/Guest_Messages_14.png)
+
 
 
  
