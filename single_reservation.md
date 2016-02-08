@@ -215,6 +215,14 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 
 ###**RESERVE**  
 
-If all required information has been collected, you can proceed to **Reserve** the folio by clicking on the blue button _Reserve_ at the bottom of the folio:  
+ - If all required information has been collected, you can proceed to **Reserve** the folio by clicking on the blue button _Reserve_ at the bottom of the folio:  
 
-![Guest_Messages_33.png]({{site.baseurl}}/images/Guest_Messages_33.png)
+![Solo_res_33.png]({{site.baseurl}}/images/Solo_res_33.png)
+
+
+- Any reserved folio can be cancelled, bly clicking on the blue button _Cancel Reservation_:  
+
+![Solo_res_34.png]({{site.baseurl}}/images/Solo_res_34.png)
+
+
+
