@@ -220,9 +220,13 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 ![Solo_res_33.png]({{site.baseurl}}/images/Solo_res_33.png)
 
 
-- Any reserved folio can be cancelled, bly clicking on the blue button _Cancel Reservation_:  
+- Any reserved folio can be cancelled, by clicking on the blue button _Cancel Reservation_:  
 
-![Solo_res_34.png]({{site.baseurl}}/images/Solo_res_34.png)
+![Solo_res_34.png]({{site.baseurl}}/images/Solo_res_34.png)  
+
+Note that the system will keep a record of any cancelled booking, and you can look all related information by looking up the reservation number:  
+
+![Solo_res_35.png]({{site.baseurl}}/images/Solo_res_35.png)
 
 
 
