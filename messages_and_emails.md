@@ -112,7 +112,6 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 ![Guest_Messages_15.png]({{site.baseurl}}/images/Guest_Messages_15.png)
 
 
-
  
  - Enable the template by checking the box next to the tag _Template Enabled_:  
  
@@ -128,9 +127,10 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
  
 Here is a quick breakdown of what each box means:  
 
-If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
+If you check the box _Invoices_, your template will show up in any reservation folio, in the Invoice section of the link _Payments_:  
  
 ![Guest_Messages_18.png]({{site.baseurl}}/images/Guest_Messages_18.png)
+
 
 
  
