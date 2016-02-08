@@ -234,4 +234,7 @@ Note that the system will keep a record of any cancelled booking, and you can lo
 ![Solo_res_36.png]({{site.baseurl}}/images/Solo_res_36.png)
 
 
+It is important to keep in mind that if you are trying to reinstate a cancelled booking, you will need to make sure that the specific room to which the booking was assigned is available for the selected date range; if the room is not available for the reservation dates, the system will throw an error:  
+
+![Solo_res_37.png]({{site.baseurl}}/images/Solo_res_37.png)
 
