@@ -180,6 +180,7 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 ![Guest_Messages_23.png]({{site.baseurl}}/images/Guest_Messages_23.png)
 
 
+
  
  - The first column _Folio Status Action_ defines what change in the status of any reservation folio will trigger the automatic email
 
