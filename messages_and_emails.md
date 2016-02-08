@@ -12,6 +12,7 @@ published: true
 
 
 
+
 ##**Guest Messages**  
 
 Through Guest Messages you are able to set up all those information about your property that you need to communicate to your guests, for example you Cancellation Policy, or your Terms and Conditions. These messagages will appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or on your Email Templates. You can think of them as _snippet_ messages that will then be applied to all communications you will set up to have with your guests.  
@@ -58,14 +59,15 @@ Through Guest Messages you are able to set up all those information about your p
 
 
  
- ##**Email Templates**  
+ ##**Templates**  
 
-Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and they can be easily editable; however, your account already comes with some defaults templates that you can enable and start using.  
+Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and their _content_ can be easily editable! Be aware that the templates design have been built so that they will render good when sent via emails on both computers and mobile devices. If you want to change the design, we do not guarantee that the template will render as good as the default ones, when sent via email. 
 
- - In the Admin Settings, click on the blue link **Email Templates** under section _General_:  
+ - In the Admin Settings, click on the blue link **Templates** under section _General_:  
  
 
 ![Guest_Messages_8.png]({{site.baseurl}}/images/Guest_Messages_8.png)
+
 
  
  - You will see a list of all the types of templates that the system offers: the name of each template appears on the top left hand side of each message panel.
