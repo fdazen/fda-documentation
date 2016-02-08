@@ -261,6 +261,9 @@ To undo the check-out, just click on the button _Check-In_:
 
 ![Solo_res_41.png]({{site.baseurl}}/images/Solo_res_41.png)
 
+**Important**: the system won't allow you to cancel a checked-in or checked-out reservation, so in order to cancel it you will need to undo all actions until the folio is back in a Reserved Status.  
+
+
 
 
 
