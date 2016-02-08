@@ -125,6 +125,12 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
 
  
+- To **Delete** a template, just click on the red button _Remove_ next to the relevant template:  
+
+![Guest_Messages_33.png]({{site.baseurl}}/images/Guest_Messages_33.png)
+
+
+ 
 Here is a quick breakdown of what each box means:  
 
 If you check the box _Invoices_, your template will show up in any reservation folio, in the Invoice section of the link _Payments_:  
@@ -160,7 +166,7 @@ If the box _Group Messages_ is checked, the newly create template will appear in
  
  - When finished, click on the button _Save_ at the bottom of the screen.
  
- **NOTE**: if you wish to have customized guest messages, please contact our support team at support@frontdeskanywhere.com  
+
 
 
 ##**Automated Emails**  
