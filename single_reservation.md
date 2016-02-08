@@ -252,11 +252,14 @@ Keep in mind that the _Check-In_ button will only appear when the folio's arriva
 ![Solo_res_40.png]({{site.baseurl}}/images/Solo_res_40.png)
 
 
-
-
 - When a folio is checked-in, you will be given the option to move it to a **Check-Out** status: just click on the button _Check-Out_ at the bottom of the folio:  
 
 ![Solo_res_39.png]({{site.baseurl}}/images/Solo_res_39.png)  
+  
+  
+To undo the check-out, just click on the button _Check-In_:  
+
+![Solo_res_41.png]({{site.baseurl}}/images/Solo_res_41.png)
 
 
 
