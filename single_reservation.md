@@ -243,6 +243,18 @@ If this happens, you may either want to change the room assigned to the folio yo
 
 - Once a folio has been reserved, you can proceed to **Check it in**, by clicking on the button _Check-In_ at the bottom of the folio:  
 
-![Solo_res_38.png]({{site.baseurl}}/images/Solo_res_38.png)
+![Solo_res_38.png]({{site.baseurl}}/images/Solo_res_38.png)  
+
+Keep in mind that the _Check-In_ button will only appear when the folio's arrival date is today's date. The system won't allow you to check-in future reservations.  
+
+
+- When a folio is checked-in, you will be given the option to move it to a **Check-Out** status: just click on the button _Check-Out_ at the bottom of the folio:  
+
+![Solo_res_39.png]({{site.baseurl}}/images/Solo_res_39.png)  
+
+
+
+
+
 
   
