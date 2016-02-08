@@ -165,7 +165,10 @@ Once all information is in the reservation folio, there are several operations y
 
 ![Solo_res_32.png]({{site.baseurl}}/images/Solo_res_32.png)
 
-
+These buttons are _dynamic_, meaning that they will change according to the reservation folio status: for example, you will be able to Reserve, Hold or Block a new folio, but you will only be able to Unblock a folio that is in a Blocked status, and so on. 
+  
+  
+###**HOLD**  
 
 - If the booking is not finalized, you can choose to **Hold** the reservation: held reservations won't be counted as part of the hotel occupancy, nor the rates will count as revenue. This is most useful when some required information is missing and the guest will have to get in contact with the hotel later to finalize the booking. To place a reservation in a Hold status, click on the bblue button _Hold_ at the bottom of the reservation folio:  
 
@@ -194,14 +197,16 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 ![Solo_res_30.png]({{site.baseurl}}/images/Solo_res_30.png)
 
   
-  
+###**BLOCK/DNR**
+
+
 - If you need to momentarily hide a certain room from the displayed availability, you may decide to mark the room as **Block/DNR** (Do Not Rent): blocked rooms do not count towards revenue or occupancy values in reports. To place a block on a room, click on the blue button _Block/DNR_ at the bottom of the folio:  
 
 
 ![Solo_res_28.png]({{site.baseurl}}/images/Solo_res_28.png)  
   
   
-- A blocked room can **_only be unblocked_** but not reserved. Hence, make sure not to place any valuable information in a folio with a Block status, as the system won't allow you to move the status to a reserved one. To unblock a room, clcik on the button _Unblock_ on any blocked folio:  
+- A blocked room can **_only be unblocked_** and not reserved. Hence, make sure not to place any valuable information in a folio with a Block status, as the system won't allow you to move the status to a reserved one. To unblock a room, clcik on the button _Unblock_ on any blocked folio:  
 
 
 ![Solo_res_31.png]({{site.baseurl}}/images/Solo_res_31.png)
