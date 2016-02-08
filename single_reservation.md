@@ -247,6 +247,12 @@ If this happens, you may either want to change the room assigned to the folio yo
 
 Keep in mind that the _Check-In_ button will only appear when the folio's arrival date is today's date. The system won't allow you to check-in future reservations.  
 
+- If you made a mistake and you want to undo the check-in, you can click on the blue button _Reserve_ to re-place the booking in a Reserved status:  
+
+![Solo_res_40.png]({{site.baseurl}}/images/Solo_res_40.png)
+
+
+
 
 - When a folio is checked-in, you will be given the option to move it to a **Check-Out** status: just click on the button _Check-Out_ at the bottom of the folio:  
 
