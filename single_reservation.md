@@ -227,6 +227,11 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 Note that the system will keep a record of any cancelled booking, and you can look all related information by looking up the reservation number:  
 
 ![Solo_res_35.png]({{site.baseurl}}/images/Solo_res_35.png)
+  
+  
+- If you made a mistake, and you want to **Reinstate** a cancelled booking, just click on the button _Reserve_ at the bottom of the cancelled folio:  
+
+![Solo_res_36.png]({{site.baseurl}}/images/Solo_res_36.png)
 
 
 
