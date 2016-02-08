@@ -154,13 +154,17 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 
 - The list of tax applicable to the selected rate will be listed right underneath the _Total Charges_ field. Note that each tax is exemptable by click on the relevant check-box:  
 
-![Solo_res_23.png]({{site.baseurl}}/images/Solo_res_23.png)
+![Solo_res_23.png]({{site.baseurl}}/images/Solo_res_23.png)  
+
 
 
 3. ##**Reservation Operations**  
   
  
-Once all information is in the reservation folio, there are several operations you can perform. Any available operation that can be performed will have its corresponding button at the bottom of any folio: 
+Once all information is in the reservation folio, there are several operations you can perform. Any available operation that can be performed will have its corresponding button at the bottom of any folio:   
+
+![Solo_res_32.png]({{site.baseurl}}/images/Solo_res_32.png)
+
 
 
 - If the booking is not finalized, you can choose to **Hold** the reservation: held reservations won't be counted as part of the hotel occupancy, nor the rates will count as revenue. This is most useful when some required information is missing and the guest will have to get in contact with the hotel later to finalize the booking. To place a reservation in a Hold status, click on the bblue button _Hold_ at the bottom of the reservation folio:  
