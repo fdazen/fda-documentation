@@ -237,4 +237,12 @@ Note that the system will keep a record of any cancelled booking, and you can lo
 It is important to keep in mind that if you are trying to reinstate a cancelled booking, you will need to make sure that the specific room to which the booking was assigned is available for the selected date range; if the room is not available for the reservation dates, the system will throw an error:  
 
 ![Solo_res_37.png]({{site.baseurl}}/images/Solo_res_37.png)
+  
+If this happens, you may either want to change the room assigned to the folio you are trying to reinstate, or move the reservation that is currently reserved in the system into another room.  
 
+
+- Once a folio has been reserved, you can proceed to **Check it in**, by clicking on the button _Check-In_ at the bottom of the folio:  
+
+![Solo_res_38.png]({{site.baseurl}}/images/Solo_res_38.png)
+
+  
