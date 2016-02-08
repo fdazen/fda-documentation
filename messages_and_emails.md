@@ -215,6 +215,7 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
 
  - In the Admin Settings, click on the link **Email Rules** under section _General_:  
  
+
 ![Guest_Messages_28.png]({{site.baseurl}}/images/Guest_Messages_28.png)
 
 
