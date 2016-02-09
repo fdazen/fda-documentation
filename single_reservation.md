@@ -382,6 +382,9 @@ For each available room, the system will also notify you of the Housekeeping Sta
 ![Solo_res_62.png]({{site.baseurl}}/images/Solo_res_62.png)  
 
 
+- Finally, save your changes:  
+
+![Solo_res_63.png]({{site.baseurl}}/images/Solo_res_63.png)
 
 
 
