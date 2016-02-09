@@ -368,6 +368,9 @@ In case the folio you are trying to assign is not assigned to any room, the blue
     
 For each available room, the system will also notify you of the Housekeeping Status of each room, highlighting the ones that are not clean. In the screenshot above, for example, I know that rooms 2, 3, 21 and 27 are currently dirty. This comes particularly handy when you are moving reservations for the current date, as it reduces the risk of checking in guests inot rooms that are not ready to be sold.  
 
+- Choose whether to move the room and keep the rate currently loaded in the folio, or have it update to the rate configured for the new room: check or un-check the box next to the tag _Keep Same Rate_ accordingly:  
+
+![Solo_res_60.png]({{site.baseurl}}/images/Solo_res_60.png)
 
     
 
