@@ -321,7 +321,13 @@ You can add an existing add-on directly from any folio.
 
 - When finished, click on the green button _Add Charge_:  
 
-![Solo_res_51.png]({{site.baseurl}}/images/Solo_res_51.png)
+![Solo_res_51.png]({{site.baseurl}}/images/Solo_res_51.png)  
+
+
+- The charge and all applicable taxes will be listed in the panel:  
+
+![Solo_res_52.png]({{site.baseurl}}/images/Solo_res_52.png)
+
 
 
 
