@@ -271,6 +271,11 @@ To undo the check-out, just click on the button _Check-In_:
 ![Solo_res_42.png]({{site.baseurl}}/images/Solo_res_42.png)
 
 
+4.  ##**Editing the Rate of a Reservation**  
+
+If your username has the right permissions, you will see a blue, clickable link under section _Rate Information_ in any folio:  
+
+![Solo_res_43.png]({{site.baseurl}}/images/Solo_res_43.png)
 
 
 
