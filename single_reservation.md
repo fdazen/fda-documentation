@@ -271,6 +271,13 @@ To undo the check-out, just click on the button _Check-In_:
 ![Solo_res_42.png]({{site.baseurl}}/images/Solo_res_42.png)
 
 
+**Important**: When you change the status of a reservation folio, the color of that reservation will automatically change on the Tape Chart. You can see what each status means by using the drop down legend on the Tape Chart:
+
+
+![Solo_res_56.png]({{site.baseurl}}/images/Solo_res_56.png)
+
+
+
 4.  ##**Editing the Rate of a Reservation**  
 
 If your username has the right permissions, you will see a blue, clickable link under section _Rate Information_ in any folio:  
@@ -341,7 +348,7 @@ Note that all charges will appear to be _Pending_ until you save the folio: once
 
 6.  ##**Moving a Room into a Different Room**  
 
-
+Any folio can be moved to a different room and room type, independently of the status of the reservation itself.
 
 
 
