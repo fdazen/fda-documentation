@@ -2,7 +2,7 @@
 title: Single Reservation
 tags: 
   - single reservation
-keywords: "single entry reservation, reservation, how to make a reservation, folio, cancel, check-in, check-out, no show"
+keywords: "single entry reservation, reservation, how to make a reservation, folio, cancel, check-in, check-out, no show, post add-on, POS items"
 last_updated: "December 15th, 2015"
 summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
 published: true
@@ -330,7 +330,9 @@ You can add an existing add-on directly from any folio.
 
 Note that all charges will appear to be _Pending_ until you save the folio: once you save the folio, charges will appear as posted:  
 
-![Solo_res_53.png]({{site.baseurl}}/images/Solo_res_53.png)
+![Solo_res_53.png]({{site.baseurl}}/images/Solo_res_53.png)  
+
+
 
 
 
