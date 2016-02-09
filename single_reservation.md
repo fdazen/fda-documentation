@@ -316,7 +316,13 @@ You can add an existing add-on directly from any folio.
 
 - Insert the quantity of items you wish to add to the folio, by placing the correct numeric value in the _Qty_ box:  
 
-![Solo_res_50.png]({{site.baseurl}}/images/Solo_res_50.png)
+![Solo_res_50.png]({{site.baseurl}}/images/Solo_res_50.png)  
+
+
+- When finished, click on the green button _Add Charge_:  
+
+![Solo_res_51.png]({{site.baseurl}}/images/Solo_res_51.png)
+
 
 
 
