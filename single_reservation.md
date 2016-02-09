@@ -326,7 +326,12 @@ You can add an existing add-on directly from any folio.
 
 - The charge and all applicable taxes will be listed in the panel:  
 
-![Solo_res_52.png]({{site.baseurl}}/images/Solo_res_52.png)
+![Solo_res_52.png]({{site.baseurl}}/images/Solo_res_52.png)  
+
+Note that all charges will appear to be _Pending_ until you save the folio: once you save the folio, charges will appear as posted:  
+
+![Solo_res_53.png]({{site.baseurl}}/images/Solo_res_53.png)
+
 
 
 
