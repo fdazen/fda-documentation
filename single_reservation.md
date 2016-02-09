@@ -333,6 +333,11 @@ Note that all charges will appear to be _Pending_ until you save the folio: once
 ![Solo_res_53.png]({{site.baseurl}}/images/Solo_res_53.png)  
 
 
+- You will see the amount for each added extra items next to the relevant tag, under _Rate Information_ section on the folio:  
+
+![Solo_res_54.png]({{site.baseurl}}/images/Solo_res_54.png)
+
+
 
 
 
