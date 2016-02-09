@@ -294,7 +294,18 @@ Once finished, click on the yellow button _Update_.
 
 - You will notice that when the rate is changed, the Rate Drop Down menu will change to show the written _Overridden Rate_, sign that the original rate has been overridden; all taxes will also be re-calculated on the basis of the new rate:  
 
-![Solo_res_46.png]({{site.baseurl}}/images/Solo_res_46.png)
+![Solo_res_46.png]({{site.baseurl}}/images/Solo_res_46.png)  
+
+
+
+5. ##**Adding Add-Ons and POS Items to a Reservation**  
+
+You can add an existing add-on directly from any folio.  
+
+- Click on the blue link _Add-Ons_ under the _Rate Information_ folio section:  
+
+![Solo_res_47.png]({{site.baseurl}}/images/Solo_res_47.png)
+
 
 
 
