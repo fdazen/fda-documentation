@@ -339,9 +339,7 @@ Note that all charges will appear to be _Pending_ until you save the folio: once
 
 
 
-
-
-
+6.  ##**Moving a Room into a Different Room**  
 
 
 
