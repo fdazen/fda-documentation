@@ -359,7 +359,14 @@ Any folio can be moved to a different room and room type, independently of the s
   
 In case the folio you are trying to assign is not assigned to any room, the blue clickable link will read as _unassigned_:  
 
-![Solo_res_58.png]({{site.baseurl}}/images/Solo_res_58.png)
+![Solo_res_58.png]({{site.baseurl}}/images/Solo_res_58.png)  
+
+- A new panel will pop: you will see two scroll down menu which default to the reservation dates; right below, there will be a list of all available rooms for the selected date range:  
+  
+  
+![Solo_res_59.png]({{site.baseurl}}/images/Solo_res_59.png)
+  
+
 
 
 
