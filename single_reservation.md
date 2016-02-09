@@ -386,8 +386,17 @@ For each available room, the system will also notify you of the Housekeeping Sta
 
 ![Solo_res_63.png]({{site.baseurl}}/images/Solo_res_63.png)
 
+  
+7.  ##**Split Rooms**    
+  
+ 
+It may happen that your guests will change room during their stay: your account enables you to record their stay across multiple rooms without breaking the reservation. This function is called _Split Room_.  
 
+ - Start by pulling up the reservation, and click on the room assignment link, on the elft hand side of the folio:  
+ 
+ ![Solo_res_64.png]({{site.baseurl}}/images/Solo_res_64.png)
 
+ 
 
 
 
