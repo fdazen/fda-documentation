@@ -365,7 +365,11 @@ In case the folio you are trying to assign is not assigned to any room, the blue
   
   
 ![Solo_res_59.png]({{site.baseurl}}/images/Solo_res_59.png)
-  
+    
+For each available room, the system will also notify you of the Housekeeping Status of each room, highlighting the ones that are not clean. In the screenshot above, for example, I know that rooms 2, 3, 21 and 27 are currently dirty. This comes particularly handy when you are moving reservations for the current date, as it reduces the risk of checking in guests inot rooms that are not ready to be sold.  
+
+
+    
 
 
 
