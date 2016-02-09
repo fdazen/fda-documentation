@@ -371,7 +371,12 @@ For each available room, the system will also notify you of the Housekeeping Sta
 - Choose whether to move the room and keep the rate currently loaded in the folio, or have it update to the rate configured for the new room: check or un-check the box next to the tag _Keep Same Rate_ accordingly:  
 
 ![Solo_res_60.png]({{site.baseurl}}/images/Solo_res_60.png)
+  
+- You will also have the option to place the reservation into an Unassigned Status: if available, that option will be marked with the tag _Unassigned_ , along with the room type code:   
 
+![Solo_res_61.png]({{site.baseurl}}/images/Solo_res_61.png)
+
+  
     
 
 
