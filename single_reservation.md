@@ -377,7 +377,10 @@ For each available room, the system will also notify you of the Housekeeping Sta
 ![Solo_res_61.png]({{site.baseurl}}/images/Solo_res_61.png)
 
   
-    
+- Once you made your choice, click on the button _Select_:  
+
+![Solo_res_62.png]({{site.baseurl}}/images/Solo_res_62.png)
+
 
 
 
