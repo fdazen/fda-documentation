@@ -290,5 +290,12 @@ Once finished, click on the yellow button _Update_.
 ![Solo_res_45.png]({{site.baseurl}}/images/Solo_res_45.png)
 
 
+Once finished, click on the yellow button _Update_.  
+
+- You will notice that when the rate is changed, the Rate Drop Down menu will change to show the written _Overridden Rate_, sign that the original rate has been overridden; all taxes will also be re-calculated on the basis of the new rate:  
+
+![Solo_res_46.png]({{site.baseurl}}/images/Solo_res_46.png)
+
+
 
   
