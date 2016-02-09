@@ -275,7 +275,19 @@ To undo the check-out, just click on the button _Check-In_:
 
 If your username has the right permissions, you will see a blue, clickable link under section _Rate Information_ in any folio:  
 
-![Solo_res_43.png]({{site.baseurl}}/images/Solo_res_43.png)
+![Solo_res_43.png]({{site.baseurl}}/images/Solo_res_43.png)  
+
+This link enables you to edit the rate on a per reservation basis. When clicking on the rate, another panel will pop-up: you will have two options to edit the rate:  
+
+- The first option is the _Daily Price Edit_, via which you can change the price for each night:  
+
+![Solo_res_44.png]({{site.baseurl}}/images/Solo_res_44.png)  
+
+Once finished, click on the yellow button _Update_.
+
+- The other option is the _Fixed Price Edit_, via which you can edit the overrall cost for the reservation:  
+
+![Solo_res_45.png]({{site.baseurl}}/images/Solo_res_45.png)
 
 
 
