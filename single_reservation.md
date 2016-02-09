@@ -302,9 +302,16 @@ Once finished, click on the yellow button _Update_.
 
 You can add an existing add-on directly from any folio.  
 
-- Click on the blue link _Add-Ons_ under the _Rate Information_ folio section:  
+- Click on the blue link _Add-Ons_ under the _Rate Information_ folio section; if you want to add a POS, then click on the blue link _POS Items_ right below it:  
 
-![Solo_res_47.png]({{site.baseurl}}/images/Solo_res_47.png)
+![Solo_res_47.png]({{site.baseurl}}/images/Solo_res_47.png)   
+
+- Choose the available options from the drop down menu _Charge_:  
+
+![Solo_res_48.png]({{site.baseurl}}/images/Solo_res_48.png)
+
+
+
 
 
 
