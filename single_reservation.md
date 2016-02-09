@@ -308,7 +308,11 @@ You can add an existing add-on directly from any folio.
 
 - Choose the available options from the drop down menu _Charge_:  
 
-![Solo_res_48.png]({{site.baseurl}}/images/Solo_res_48.png)
+![Solo_res_48.png]({{site.baseurl}}/images/Solo_res_48.png)  
+
+- The configured price for the chosen extra item will appear in the _Amount_ box; you will be given the option to amend that price by either writing a new value in this box, or by clicking on the arrown on the left side:  
+
+
 
 
 
