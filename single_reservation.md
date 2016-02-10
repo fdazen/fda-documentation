@@ -420,9 +420,6 @@ It may happen that your guests will change room during their stay: your account 
 
 - The folio will now appear as follows:  
 
-![Solo_res_69.png]({{site.baseurl}}/images/Solo_res_69.png)
+![Solo_res_69.png]({{site.baseurl}}/images/Solo_res_69.png)  
 
-  
-
-
-
+You will notice that under the tag _Duration_ the two calendars bring information regarding the guest's arrival and departure date, while right below there will be a date breakdown associated with the room change. In the example above we know that the guest is due to arrive on February 8th and leave on the 11th; we also know that from February 8th through the 10th they are assigned room _QQ03_, changing to room _22_ on February 10th.
