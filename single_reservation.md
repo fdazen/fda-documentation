@@ -403,10 +403,20 @@ It may happen that your guests will change room during their stay: your account 
  ![Solo_res_65.png]({{site.baseurl}}/images/Solo_res_65.png)
   
   
--  Select the dates you want the rom move to happen:  
+- Select the dates you want to have the guest move: in the example below, the guest is due to check-in on February 8th, but I want them to move on February 10th. So, I will select the 10th from the calendar.
 
 
-![Solo_res_66.png]({{site.baseurl}}/images/Solo_res_66.png)
+![Solo_res_66.png]({{site.baseurl}}/images/Solo_res_66.png)  
+
+- The system will automatically give you a list of all rooms available for the selected dates:  
+
+![Solo_res_67.png]({{site.baseurl}}/images/Solo_res_67.png)
+
+
+
+
+  
+  
 
 
 
