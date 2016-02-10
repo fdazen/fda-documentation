@@ -418,7 +418,10 @@ It may happen that your guests will change room during their stay: your account 
 ![Solo_res_68.png]({{site.baseurl}}/images/Solo_res_68.png)
 
 
-  
+- The folio will now appear as follows:  
+
+![Solo_res_69.png]({{site.baseurl}}/images/Solo_res_69.png)
+
   
 
 
