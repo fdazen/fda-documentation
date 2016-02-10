@@ -426,6 +426,12 @@ You will notice that under the tag _Duration_ the two calendars bring informatio
 
 - A more common example of the split room is a guest extending their departure date and having to move to another room. Here is how to do to it: click on the room assignment link:  
 
-![Solo_res_70.png]({{site.baseurl}}/images/Solo_res_70.png)
+![Solo_res_70.png]({{site.baseurl}}/images/Solo_res_70.png)  
+
+
+- As you can see above, my guest is due to depart on February 14th; as I want to place them in another room starting February 14th, I will set the _From_ date to February 14th:  
+
+![Solo_res_71.png]({{site.baseurl}}/images/Solo_res_71.png)
+
 
 
