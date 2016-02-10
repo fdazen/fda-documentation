@@ -62,7 +62,7 @@ Note that you can also use the View tabs on the top of your Tape Chart to make s
 That window is called **Reservation Folio**. 
 
 
-2. ##**Entering Booking Information**  
+2. **Entering Booking Information**  
 
 
 ##**Reservation Information**  
@@ -348,7 +348,7 @@ Note that all charges will appear to be _Pending_ until you save the folio: once
 
 
 
-6.  ##**Moving a Room into a Different Room**  
+6. **Moving a Room into a Different Room**  
 
 Any folio can be moved to a different room and room type, independently of the status of the reservation itself. 
 
@@ -388,7 +388,7 @@ For each available room, the system will also notify you of the Housekeeping Sta
 ![Solo_res_63.png]({{site.baseurl}}/images/Solo_res_63.png)
 
   
-7.  ## **Split Rooms**    
+7. **Split Rooms**    
   
  
 It may happen that your guests will change room during their stay: your account enables you to record their stay across multiple rooms without breaking the reservation. This function is called _Split Room_.  
