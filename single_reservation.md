@@ -15,6 +15,7 @@ published: true
 
 
 
+
  
 
 
@@ -23,7 +24,7 @@ published: true
 You can create solo reservations easily with a simple click on the Tape Chart. You will need to make sure that the room you are trying to book for the chosen dates is available for the date range the reservation is for. 
 
 
-1. ##**Choosing Dates and Showing Availability**  
+1. ## **Choosing Dates and Showing Availability**  
 
 
 The first way you can start creating a single reservation is by clicking directly on the empty box on your Tape Chart, corresponding to the day and room you want to book. 
@@ -387,7 +388,7 @@ For each available room, the system will also notify you of the Housekeeping Sta
 ![Solo_res_63.png]({{site.baseurl}}/images/Solo_res_63.png)
 
   
-7.  ##**Split Rooms**    
+7.  ## **Split Rooms**    
   
  
 It may happen that your guests will change room during their stay: your account enables you to record their stay across multiple rooms without breaking the reservation. This function is called _Split Room_.  
@@ -395,8 +396,3 @@ It may happen that your guests will change room during their stay: your account 
  - Start by pulling up the reservation, and click on the room assignment link, on the left hand side of the folio:  
  
  ![Solo_res_64.png]({{site.baseurl}}/images/Solo_res_64.png)
-
- 
-
-
-
