@@ -433,5 +433,11 @@ You will notice that under the tag _Duration_ the two calendars bring informatio
 
 ![Solo_res_71.png]({{site.baseurl}}/images/Solo_res_71.png)
 
+  
+- Add the new daprture date for the guest and choose a room among the available ones:  
+
+
+![Solo_res_72.png]({{site.baseurl}}/images/Solo_res_72.png)
+
 
 
