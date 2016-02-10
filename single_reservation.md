@@ -410,9 +410,12 @@ It may happen that your guests will change room during their stay: your account 
 
 - The system will automatically give you a list of all rooms available for the selected dates:  
 
-![Solo_res_67.png]({{site.baseurl}}/images/Solo_res_67.png)
+![Solo_res_67.png]({{site.baseurl}}/images/Solo_res_67.png)  
+
+- Choose the room where you want the guest to move and click on the button _Select_. You can also choose whether to keep or not the same rate, by checking or un-checking the box next to the tag _Keep Same Rate_
 
 
+![Solo_res_68.png]({{site.baseurl}}/images/Solo_res_68.png)
 
 
   
