@@ -422,4 +422,10 @@ It may happen that your guests will change room during their stay: your account 
 
 ![Solo_res_69.png]({{site.baseurl}}/images/Solo_res_69.png)  
 
-You will notice that under the tag _Duration_ the two calendars bring information regarding the guest's arrival and departure date, while right below there will be a date breakdown associated with the room change. In the example above we know that the guest is due to arrive on February 8th and leave on the 11th; we also know that from February 8th through the 10th they are assigned room _QQ03_, changing to room _22_ on February 10th.
+You will notice that under the tag _Duration_ the two calendars bring information regarding the guest's arrival and departure date, while right below there will be a date breakdown associated with the room change. In the example above we know that the guest is due to arrive on February 8th and leave on the 11th; we also know that from February 8th through the 10th they are assigned room _QQ03_, changing to room _22_ on February 10th.  
+
+- A more common example of the split room is a guest extending their departure date and having to move to another room. Here is how to do to it: click on the room assignment link:  
+
+![Solo_res_70.png]({{site.baseurl}}/images/Solo_res_70.png)
+
+
