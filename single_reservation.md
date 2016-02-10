@@ -15,6 +15,7 @@ published: true
 
 
 
+
  
 
 
@@ -387,16 +388,14 @@ For each available room, the system will also notify you of the Housekeeping Sta
 ![Solo_res_63.png]({{site.baseurl}}/images/Solo_res_63.png)
 
   
-7.  ##**Split Rooms**    
+7.  ## **Split Rooms**    
   
  
 It may happen that your guests will change room during their stay: your account enables you to record their stay across multiple rooms without breaking the reservation. This function is called _Split Room_.  
 
  - Start by pulling up the reservation, and click on the room assignment link, on the left hand side of the folio:  
  
- ![Solo_res_64.png]({{site.baseurl}}/images/Solo_res_64.png)
-
+ ![Solo_res_64.png]({{site.baseurl}}/images/Solo_res_64.png)  
  
-
-
-
+ 
+ - Another panel will pop up, and there will be two scroll down calendars, _**From**_ and _**Two**_. The dates showing there are defaulted to the the arrival and departure date of the guest: select the dates you want to have the person move to another room:  
