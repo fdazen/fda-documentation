@@ -440,4 +440,7 @@ You will notice that under the tag _Duration_ the two calendars bring informatio
 ![Solo_res_72.png]({{site.baseurl}}/images/Solo_res_72.png)
 
 
+- Thgis is how the dates will appear on the folio:  
+
+![Solo_res_73.png]({{site.baseurl}}/images/Solo_res_73.png)
 
