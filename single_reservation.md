@@ -398,4 +398,15 @@ It may happen that your guests will change room during their stay: your account 
  ![Solo_res_64.png]({{site.baseurl}}/images/Solo_res_64.png)  
  
  
- - Another panel will pop up, and there will be two scroll down calendars, _**From**_ and _**Two**_. The dates showing there are defaulted to the the arrival and departure date of the guest: select the dates you want to have the person move to another room:  
+ - Another panel will pop up, and there will be two scroll down calendars, _**From**_ and _**Two**_. The dates showing there are defaulted to the the arrival and departure date of the guest:
+ 
+ ![Solo_res_65.png]({{site.baseurl}}/images/Solo_res_65.png)
+  
+  
+-  Select the dates you want the rom move to happen:  
+
+
+![Solo_res_66.png]({{site.baseurl}}/images/Solo_res_66.png)
+
+
+
