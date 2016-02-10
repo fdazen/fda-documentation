@@ -442,5 +442,10 @@ You will notice that under the tag _Duration_ the two calendars bring informatio
 
 - Thgis is how the dates will appear on the folio:  
 
-![Solo_res_73.png]({{site.baseurl}}/images/Solo_res_73.png)
+
+![Solo_res_73.png]({{site.baseurl}}/images/Solo_res_73.png)  
+
+In the example above, the guest was initially due to depart on February 14th, but he is now extending two more nights in a different room.  
+
+
 
