@@ -25,7 +25,7 @@ published: true
 
 
 
-**Choosing Dates and Showing Availability**
+##**Choosing Dates and Showing Availability**
 
 
 The first way you can start creating a single reservation is by clicking directly on the empty box on your Tape Chart, corresponding to the day and room you want to book. 
