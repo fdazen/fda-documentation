@@ -4,21 +4,12 @@ tags:
   - yield management
 keywords: "yield management, yield rules, yield settings"
 last_updated: "November 18th, 2015"
-summary: "Learn how to have your system perform automatic rate change based on your occupancy level!"
+summary: "The Yield Management is a powerful tool of your PMS: it triggers automatic rate changes based on the occupancy level of a room type or your run of house. The price change is governed by rules that you will have to configure in the system, in order to define how the rates should change when certain conditions apply. "
 published: true
 ---
 
 
 
-
-
-
-
-  
-
-#**Yield Management**  
-
-The _Yield Management_ is a powerful tool of your PMS: it triggers automatic rate changes based on the occupancy level of a room type or your run of house. The price change is governed by rules that you will have to configure in the system, in order to define how the rates should change when certain conditions apply.  
 
 ##**Yield Management Rules**  
 
@@ -127,5 +118,4 @@ The time frame you choose in the Yield Management Settings will ensure that the 
 ![Yield_14.png]({{site.baseurl}}/images/Yield_14.png)
 
 
-{{site.data.alerts.important}} The Yield Manager won't override rates that have been manually changed in the <em>Daily Rate Grid</em>, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!{{site.data.alerts.end}}  
- 
+{{site.data.alerts.important}} The Yield Manager won't override rates that have been manually changed in the <em>Daily Rate Grid</em>, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!{{site.data.alerts.end}}
