@@ -12,6 +12,7 @@ published: true
 
 
 
+
   
 
 #**Rates**
@@ -58,7 +59,7 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
  
 
-###**TAX OPERATIONS**  
+###**Tax OperationsS**  
 
  - **Deactivate**: to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
@@ -81,7 +82,7 @@ A **Season Period** is the area of the Rate Class where you place the actual pri
 The **Daily Rate Grid** is where you can view and perform adjustments on the rate for any day of the year.
 
 
-##**Rate Classes**
+###**Rate Classes**
 
 Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
 
@@ -152,7 +153,7 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 ![Rate_Classes_8.png]({{site.baseurl}}/images/Rate_Classes_8.png)
 
 
-
+###**Season Periods**
  
  - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
