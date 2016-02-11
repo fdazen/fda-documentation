@@ -18,6 +18,7 @@ published: true
 
 
 
+
  
 
 
@@ -447,4 +448,12 @@ You will notice that under the tag _Duration_ the two calendars bring informatio
 
 ![Solo_res_73.png]({{site.baseurl}}/images/Solo_res_73.png)  
 
-In the example above, the guest was initially due to depart on February 14th, but he is now extending two more nights in a different room.
+In the example above, the guest was initially due to depart on February 14th, but he is now extending two more nights in a different room.  
+
+
+- This is how the reservation appear on the Tape Chart: small arrows will suggest whether and how the guest is moving rooms:  
+
+
+![Solo_res_74.png]({{site.baseurl}}/images/Solo_res_74.png)
+
+
