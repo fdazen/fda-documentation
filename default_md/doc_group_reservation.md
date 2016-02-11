@@ -72,7 +72,7 @@ Make your choice and click on the button **Select** when done:
 
 Click on the blue button **Add Rooms*.   
 
-##**Step 4. Select Group Reservation Status**   
+##**Select Group Reservation Status**   
 
 - Once the rooms are added, there will appear a brief summary of the group details: you will now need to choose the group reservation status.   
 
