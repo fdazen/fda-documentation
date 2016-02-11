@@ -141,7 +141,7 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.  
 
-#**Transferring Charges to a Company**  
+##**Transferring Charges to a Company**  
 
 You can transfer charges to any Guest or Company profile. This is a step-by-step process, and you will need to make sure that the profile you wish to transfer charges to is currently existing in the system. Also, you will need to make sure that an Invoice is created for that profile.  
 
@@ -173,11 +173,11 @@ You can transfer charges to any Guest or Company profile. This is a step-by-step
 ![group_reservation_26.png]({{site.baseurl}}/images/group_reservation_26.png)
 
 
-#**Step 8. Group Operations**   
+##**Group Operations**   
 
 From the group folio, you are able to perform bulk operations, like change the status of the group reservation or edit the name for individual reservations.  
 
-###**BULK UPDATES**
+###**Bulk Updates**
 - In the Group Folio, click on the tab _Details_:   
 
 ![group_reservation_27.png]({{site.baseurl}}/images/group_reservation_27.png)
@@ -195,7 +195,7 @@ In the example, the current folios status is _Reserved_; hence the available ope
 ![group_reservation_29.png]({{site.baseurl}}/images/group_reservation_29.png)
 
 
-###**EDIT/CHANGE A RESERVATION FOLIO THAT IS PART OF A GROUP FOLIO**  
+###**Edit/Change a Reservation Folio That is Part of a Group Folio**  
 
 - If you want to assign names to the single reservations that are part of the group, you can click on the button _Edit_ on the right hand side of each folio:  
 
@@ -204,7 +204,7 @@ In the example, the current folios status is _Reserved_; hence the available ope
 
 - If you want to change an existing guest (i.e. substitute an existing guest profile), then click on the button _Change_ on the right hand side of a folio.  
 
-###**ACCESS SINGLE FOLIO WITHIN A GROUP**
+###**Access a Single Folio Within a Group**
 
 You can easily access each of the folios that are part of a group directly from the Group Reservation folio.  
 
