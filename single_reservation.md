@@ -28,7 +28,7 @@ published: true
 You can create solo reservations easily with a simple click on the Tape Chart. You will need to make sure that the room you are trying to book for the chosen dates is available for the date range the reservation is for. 
 
 
-1. ##Choosing Dates and Showing Availability
+1. **Choosing Dates and Showing Availability**
 
 
 The first way you can start creating a single reservation is by clicking directly on the empty box on your Tape Chart, corresponding to the day and room you want to book. 
@@ -165,7 +165,7 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 
 
 
-3. ##**Reservation Operations**  
+3. **Reservation Operations**  
   
  
 Once all information is in the reservation folio, there are several operations you can perform. Any available operation that can be performed will have its corresponding button at the bottom of any folio:   
