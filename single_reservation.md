@@ -311,7 +311,7 @@ Once finished, click on the yellow button _Update_.
 
 
 
-5. ##**Adding Add-Ons and POS Items to a Reservation**  
+5. **Adding Add-Ons and POS Items to a Reservation**  
 
 You can add an existing add-on directly from any folio.  
 
