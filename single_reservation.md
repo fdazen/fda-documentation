@@ -281,7 +281,7 @@ To undo the check-out, just click on the button _Check-In_:
 
 
 
-4.  **Editing the Rate of a Reservation**  
+##**Editing the Rate of a Reservation**  
 
 If your username has the right permissions, you will see a blue, clickable link under section _Rate Information_ in any folio:  
 
