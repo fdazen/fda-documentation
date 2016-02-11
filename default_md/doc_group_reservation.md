@@ -60,7 +60,7 @@ Click on the yellow button **Update** to save your changes.
 
 Select your option and click on the blue button **Add Rooms**.   
 
-##**Manual Assignment (skip to next step if not applicable)**   
+##**Manual Assignment**   
 - If you chose the Manual Assignment option, the following panel will pop-up:   
 ![group_reservation_8.png]({{site.baseurl}}/images/group_reservation_8.png)
  
