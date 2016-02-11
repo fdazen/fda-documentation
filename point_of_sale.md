@@ -2,9 +2,9 @@
 title: Point of Sale
 tags: 
   - POS
-keywords: "labels, buttons, bootstrap, api methods"
-last_updated: "November 24th, 2015"
-summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section."
+keywords: "POS Items, POS Categories, POS Products, Point of Sale"
+last_updated: "December 24th, 2015"
+summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section. POS products are organized around POS Points and POS Categories. You can think of a POS Point as being, for example, a ‘restaurant’ or a ‘coffee shop’, a POS Category as being ‘food’ or ‘beverages’, and a POS Item as being ‘walnuts’ or ‘coffee’"
 published: true
 ---
 
