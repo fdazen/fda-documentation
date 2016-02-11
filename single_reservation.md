@@ -29,7 +29,7 @@ You can create solo reservations easily with a simple click on the Tape Chart. Y
 
 
 **Choosing Dates and Showing Availability**
-
+{:toc}
 
 The first way you can start creating a single reservation is by clicking directly on the empty box on your Tape Chart, corresponding to the day and room you want to book. 
 
