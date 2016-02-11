@@ -24,10 +24,6 @@ published: true
  
 
 
-#**Single Reservation**  
-
-You can create solo reservations easily with a simple click on the Tape Chart. You will need to make sure that the room you are trying to book for the chosen dates is available for the date range the reservation is for. 
-
 
 **Choosing Dates and Showing Availability**
 {:toc}
