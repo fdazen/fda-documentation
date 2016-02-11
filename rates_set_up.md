@@ -13,6 +13,7 @@ published: true
 
 
 
+
   
 
 #**Rates**
@@ -59,7 +60,7 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
  
 
-###**Tax OperationsS**  
+###**Tax Operations**  
 
  - **Deactivate**: to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
