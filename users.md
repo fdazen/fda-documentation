@@ -4,7 +4,7 @@ tags:
   - users
 keywords: "users, user levels, user restrictions, shifts, permissions."
 last_updated: "November 23rd, 2015"
-summary: Learn how to create different system access level for your users.
+summary: "Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what each can do and tailor-made what is displayed for each of them upon login."
 published: true
 ---
 
@@ -12,9 +12,7 @@ published: true
 
 
 
-#**Users**
 
-Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what each can do and tailor-made what is displayed for each of them upon login.
 
 ##**User Levels**  
 
