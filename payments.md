@@ -19,7 +19,10 @@ summary: This section will guide you through the folio payment's section: from h
  ![payments_2.png]({{site.baseurl}}/images/payments_2.png)  
  
  
+ - The **Uninvoiced Transactions** contain a list of all uninvoiced charges broken down by charge type and by date. You can visualize them by clicking on the small arrow on the left hand side of the tag _Uninvoiced Transactions_:  
  
+ 
+![payments_3.png]({{site.baseurl}}/images/payments_3.png)
 
 
 
