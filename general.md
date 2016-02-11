@@ -4,16 +4,13 @@ tags:
   - general
 keywords: "languages, modes of arrival, identification types, sources of business, markets, display colors, guest information, reservation information, custom fields, alerts, tape chart."
 last_updated: "November 19th, 2015"
-summary: "The _General_ section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones."
+summary: "The General section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  "
 published: true
 ---
 
 
 
 
-#**General**  
-
-The _General_ section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  
 
 
 ##**Languages**  
@@ -388,4 +385,3 @@ From time to time it might happen that you will need to update your Tape Chart: 
  - To run the Tape Chart, click on the blue button _Run Tape Chart_:  
  
 ![General_54.png]({{site.baseurl}}/images/General_54.png)
-
