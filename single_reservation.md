@@ -307,8 +307,7 @@ Once finished, click on the yellow button _Update_.
 ![Solo_res_46.png]({{site.baseurl}}/images/Solo_res_46.png)  
 
 
-
-5. **Adding Add-Ons and POS Items to a Reservation**  
+##**Adding Add-Ons and POS Items to a Reservation**  
 
 You can add an existing add-on directly from any folio.  
 
