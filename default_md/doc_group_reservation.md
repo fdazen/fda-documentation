@@ -141,7 +141,7 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.  
 
-#**Transferring Charges to a Company (Direct Billing)**  
+#**Transferring Charges to a Company**  
 
 You can transfer charges to any Guest or Company profile. This is a step-by-step process, and you will need to make sure that the profile you wish to transfer charges to is currently existing in the system. Also, you will need to make sure that an Invoice is created for that profile.  
 
