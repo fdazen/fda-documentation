@@ -73,7 +73,7 @@ The same small window will pop-up: edit the name and click on the button _Save_ 
 
 
 
-##**2. Amenities**
+##**Amenities**
 
 Before creating your rooms, you will need to configure the amenities that are available in your rooms. Make sure to create _all_ of the amenities, independently of the type or room level in which they appear.  
 
@@ -119,7 +119,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 
 
   
-##**3. Room Classes**
+##**Room Classes**
 
 A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability.  
 
