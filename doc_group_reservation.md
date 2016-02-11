@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
        
 ##**New Group**      
 
@@ -377,5 +378,4 @@ You will have two options: you can either edit the daily rate by clicking on the
 ![group_reservation_5.png]({{site.baseurl}}/images/group_reservation_5.png)
 
  
-or you can click on the circle box _Fixed Price Edit_ to change the total rate for each room:   
- 
+or you can click on the circle box _Fixed Price Edit_ to change the total rate for each room:
