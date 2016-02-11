@@ -35,9 +35,12 @@ In the example above, you can see that the guest is being charged three Add-Ons 
   
 The **Total** field shows the total amount of payment received, while the **Balance** will show the remaining balance the guest owes.  
 
- - The **Payment Type** section is where you actually submit the payments:  
+ - The **Payment Type** section is where you actually submit the payments:    
  
- ![payments_5.png]({{site.baseurl}}/images/payments_5.png)
+ 
+ ![payments_5.png]({{site.baseurl}}/images/payments_5.png)  
+ 
+ 
 
 
 
