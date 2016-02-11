@@ -102,9 +102,9 @@ If you select _Automatic Release_ you will need to choose a certain date from th
 
 When ready, you can click on the button **Next** to go to the next step.   
 
-**NOTE**: If you wish to add more room types to the reservation, you will need to repeat **Step 2**.   
+**NOTE**: If you wish to add more room types to the reservation, you will need to repeat **from Step 2**.   
 
-##**Step 6. Group Rules**   
+##**Group Rules**   
 
 Group Rules are used to set up group payments: you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group chargestogether, and so on. When a group is created, all charges are by default transferred to one reservation folio, which represents the group's leader. If you want to distribute charges differently, you will need to modify the Group Rules.   
 
