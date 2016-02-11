@@ -1,12 +1,13 @@
 ---
 title: Group Reservations
 tags: 
-  - reservations
-keywords: "labels, buttons, bootstrap, api methods"
-last_updated: "August 12, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+  - group reservation
+keywords: "groups, group reservation, group rules"
+last_updated: December 22nd 2015
+summary: "This section guides you through making a group booking, adding additional rooms for a group, and set up payment group rules."
 published: true
 ---
+
 
 
 
