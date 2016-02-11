@@ -117,7 +117,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  
  
- **Apply User Levels**  
+ ##**Apply User Levels**  
  
  - All of your system users appear in the _Users_ list. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
