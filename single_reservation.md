@@ -139,7 +139,7 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 **Note**: credit card information entered into the reservation folio **will not** be saved under the Guest Profile. This means that unless you have saved the card directly in the guest's _profile_, under the _Prifile Tab_, the credit card information is not going to be saved. If you need instructions on how to record credit card information into Guest Profiles, please go to the **Profile** section of this manual!  
 
 
-##**Rate Information**  
+###**Rate Information**  
 
 The right column of the reservation folio bears information about rates, taxes and additional charges.  
 
