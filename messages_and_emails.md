@@ -1,13 +1,14 @@
 ---
 title: Guest Messages and Emails
 tags: 
-  - guest msg
+  - guest messages
   - guest email
 keywords: "guest messages, emails, automated emails, email rules, confirmation email, invoice, templates, email templates"
-last_updated: "November 19th, 2015"
-summary: "The Guest Messages are messages that will appear in some areas of your Frontdesk Anywhere Online Booking Engine (for example Terms and Conditons) and on your Email Templates. You can think of them as _snippet_ messages that will then be applied to all communications you will set up to have with your guests.  "
+last_updated: "December 1st, 2015"
+summary: "Through Guest Messages you are able to set up all those information about your property that you need to communicate to your guests, for example your Cancellation Policy, or your Terms and Conditions. These messagages will appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or on your Email Templates. You can think of them as snippet messages that will then be applied to all communications you will set up to have with your guests.  "
 published: true
 ---
+
 
 
 
