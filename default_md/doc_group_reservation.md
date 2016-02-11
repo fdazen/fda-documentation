@@ -93,7 +93,7 @@ If you select a _Manual Release_ for the rooms, the rooms will stay in a Hold st
 
 If you select _Automatic Release_ you will need to choose a certain date from the scroll down calendar: the system will automatically release the rooms on that date, if the latter have not been reserved up to then.   
 
-##**Step 5. Removing a room from the Room Queue**   
+##**Removing a room from the Room Queue**   
 - If you made a mistake and reserved too many rooms, you can remove the extra ones by clicking on the button _Remove_:‘Remove’:   
 ![group_reservation_12.png]({{site.baseurl}}/images/group_reservation_12.png)
  
