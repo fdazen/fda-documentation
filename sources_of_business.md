@@ -2,9 +2,9 @@
 title: Sources of Business
 tags: 
   - sources
-keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
-last_updated: "November 17th, 2015"
-summary: "Sources of Business help you track the origin of your reservations. Learn how to set them up in your account before starting to receive reservations in your system!"
+keywords: "sources, source tags, sources of business rules, sources of business categories, "
+last_updated: "November 27th, 2015"
+summary: " Sources of Business track the origin of reservations. You can report on these sources to find out where people come to know about your property, or to check the production level for each channel.  "
 published: true
 ---
 
@@ -13,10 +13,7 @@ published: true
 
 
 
-#**Sources of Business**    
 
-
-Sources of Business track the origin of reservations. You can report on these sources to find out where people come to know about your property, or to check the production level for each channel.  
 Each reservation that automatically interfaces with your PMS comes with a _source tag_ that your system will pick up and store: you will need to organize these incoming sources via the set up of automatic rules that the system will follow. Before starting configuring those up, let's explore some system terminology that will come useful during the set up: 
   
   
@@ -31,7 +28,7 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 **Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system operates.  
 
 
- ## 1.**Create your Source Categories** 
+ ##**Create your Source Categories** 
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
 
