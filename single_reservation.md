@@ -162,7 +162,7 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 
 
 
-3. **Reservation Operations**  
+##**Reservation Operations**  
   
  
 Once all information is in the reservation folio, there are several operations you can perform. Any available operation that can be performed will have its corresponding button at the bottom of any folio:   
