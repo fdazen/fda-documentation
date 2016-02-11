@@ -3,15 +3,16 @@ title: "Rate Add-Ons"
 tags: 
   - rate add ons
 keywords: "add-ons"
-last_updated: "November 18th, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+last_updated: "December 18th, 2016"
+summary: "If you have extra charges that are related to but not part of room charges, you can set them up via the Add-ons items. The latter are available to add for each reservation."
 published: true
 ---
 
 
 
 
-#**Rate Add-Ons**  
+
+
 
 
  - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
@@ -77,4 +78,3 @@ published: true
 - To **EDIT** an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
 
 ![Add_ons_9.png]({{site.baseurl}}/images/Add_ons_9.png)
-
