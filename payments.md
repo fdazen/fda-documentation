@@ -96,6 +96,14 @@ From that panel you can see the type of operation performed, the type of payment
 Note that as items are being selected, the sum will change in the apposite field: in the example above, the guest is only paying for the additional items, for a total sum of $85. This comes very hand when the bill needs to be split among different people. However, note that **charges and corresponding payments are not linked in the system**: this means that invoices and reports won't record that a certain payment has been submitted for a certain charge.  
 
 
+###**Payment Operations**  
+
+
+- To perform operations on submitted payments, click on the Payments drop down menu, and under column _Type_ click on the green box _Payment_ for the payment you wish to perform your operations:  
+
+
+![payments_21.png]({{site.baseurl}}/images/payments_21.png)
+
 
   
   
@@ -128,7 +136,7 @@ Note that as items are being selected, the sum will change in the apposite field
 
   
   
-###**Truning a Security Deposit into a Payment**  
+###**Turning a Security Deposit into a Payment**  
 
 - It might often happen that your guests will want to turn their security deposits into payments to set their bills. This is easily done! As a first thing, click on the _Payments_ scroll down menu:  
 
@@ -153,7 +161,10 @@ Note that as items are being selected, the sum will change in the apposite field
  
  
  
- ![payments_20.png]({{site.baseurl}}/images/payments_20.png)
+ ![payments_20.png]({{site.baseurl}}/images/payments_20.png)  
+ 
+ 
+ 
 
 
 
