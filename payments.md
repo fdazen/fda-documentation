@@ -135,7 +135,14 @@ Note that as items are being selected, the sum will change in the apposite field
 
 - Under column _Type_, click on the box _Payment_ green box, corresponding to the security deposit:  
 
-![payments_18.png]({{site.baseurl}}/images/payments_18.png)
+![payments_18.png]({{site.baseurl}}/images/payments_18.png)  
+
+
+- This will bring up information about the payment, along as all possible operations that are available to perform:  
+
+
+![payments_19.png]({{site.baseurl}}/images/payments_19.png)
+
 
 
 
