@@ -72,7 +72,24 @@ The **Total** field shows the total amount of payment received, while the **Bala
 
 - You will see the message _Payment Successful_ once the action has been finalized. You will be able to see the payment details by clicking on the _Payments_ drop down menu:  
 
-![payments_10.png]({{site.baseurl}}/images/payments_10.png)
+![payments_10.png]({{site.baseurl}}/images/payments_10.png)  
+
+
+From that panel you can see the type of operation performed, the type of payment used, the date and time when the operation was successfully recorded in the system and the user that performed the action. The system will also show you the oustanding balance after the payment.  
+  
+  
+  
+###**Recording a Security Deposit**  
+
+
+- You can record security deposits directly from the same Payment screen. Choose the Pay Type and insert the amount you want to have recorded as a deposit:  
+
+![payments_11.png]({{site.baseurl}}/images/payments_11.png)
+
+
+
+  
+
 
 
 
