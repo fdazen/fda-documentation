@@ -95,7 +95,6 @@ Note that as items are being selected, the sum will change in the apposite field
 
 
 
- 
   
   
 ###**Recording a Security Deposit**  
