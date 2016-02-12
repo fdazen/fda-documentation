@@ -72,7 +72,9 @@ The **Total** field shows the total amount of payment received, while the **Bala
 
 - You will see the message _Payment Successful_ once the action has been finalized. You will be able to see the payment details by clicking on the _Payments_ drop down menu:  
 
-![payments_10.png]({{site.baseurl}}/images/payments_10.png)  
+
+![payments_10.png]({{site.baseurl}}/images/payments_10.png)
+
 
 
 From that panel you can see the type of operation performed, the type of payment used, the date and time when the operation was successfully recorded in the system and the user that performed the action. The system will also show you the oustanding balance after the payment.    
@@ -138,10 +140,16 @@ Note that as items are being selected, the sum will change in the apposite field
 ![payments_18.png]({{site.baseurl}}/images/payments_18.png)  
 
 
-- This will bring up information about the payment, along as all possible operations that are available to perform:  
+- This will bring up information about the payment, and all possible operations that are available to perform:  
 
 
-![payments_19.png]({{site.baseurl}}/images/payments_19.png)
+![payments_19.png]({{site.baseurl}}/images/payments_19.png)   
+
+
+
+
+
+
 
 
 
