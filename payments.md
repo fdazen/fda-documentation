@@ -147,6 +147,13 @@ Note that as items are being selected, the sum will change in the apposite field
 ![payments_19.png]({{site.baseurl}}/images/payments_19.png)   
 
 
+ **Convert To Payment** will turn the security deposits into a payment.
+ **Void** will annul the payment.  
+ **Refund** will allow you to record a refund: note that there is an editable box next to the green button _Refund_ where you can choose the amount to refund:  
+ 
+ 
+ 
+ ![payments_20.png]({{site.baseurl}}/images/payments_20.png)
 
 
 
