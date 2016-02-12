@@ -48,9 +48,20 @@ The **Total** field shows the total amount of payment received, while the **Bala
 
   - To record a payment, select the Payament Type by choosing the appropriate choice from the ones available in the drop down menu:    
   
+  
 ![payments_6.png]({{site.baseurl}}/images/payments_6.png)
 
+
+- Fill in the _Cheque_ box with the check number, if you are recording a cheque payment, otherwise place the amount the guest is paying in the box on the left:   
+
+
+![payments_7.png]({{site.baseurl}}/images/payments_7.png)  
+
+
+
+
+
+
+
+
  
-
-
-  ![payments_6.png]({{site.baseurl}}/images/payments_6.png)
