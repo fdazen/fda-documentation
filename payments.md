@@ -82,6 +82,13 @@ From that panel you can see the type of operation performed, the type of payment
 - If your guest wants to pay for certain items only instead of a fixed amount, the system can calculate the sum of those items. Click on the scroll down _Uninvoiced Transactions_ to visualize all items on the guest's bill:  
 
 
+![payments_15.png]({{site.baseurl}}/images/payments_15.png)  
+
+
+- Select the items the guest wishes to pay for by checking the box on the left hand side of each item:  
+
+
+![payments_16.png]({{site.baseurl}}/images/payments_16.png)
 
   
   
