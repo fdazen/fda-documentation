@@ -75,7 +75,14 @@ The **Total** field shows the total amount of payment received, while the **Bala
 ![payments_10.png]({{site.baseurl}}/images/payments_10.png)  
 
 
-From that panel you can see the type of operation performed, the type of payment used, the date and time when the operation was successfully recorded in the system and the user that performed the action. The system will also show you the oustanding balance after the payment.  
+From that panel you can see the type of operation performed, the type of payment used, the date and time when the operation was successfully recorded in the system and the user that performed the action. The system will also show you the oustanding balance after the payment.    
+
+
+
+- If your guest wants to pay for certain items only instead of a fixed amount, the system can calculate the sum of those items. Click on the scroll down _Uninvoiced Transactions_ to visualize all items on the guest's bill:  
+
+
+
   
   
   
@@ -107,7 +114,7 @@ From that panel you can see the type of operation performed, the type of payment
 
   
   
-  
+###**  
 
 
 
