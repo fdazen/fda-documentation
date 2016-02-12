@@ -12,7 +12,7 @@ published: true
 
 
 
-
+##**Getting Familiar with Sources** 
 
 
 Each reservation that automatically interfaces with your PMS comes with a _source tag_ that your system will pick up and store: you will need to organize these incoming sources via the set up of automatic rules that the system will follow. Before starting configuring those up, let's explore some system terminology that will come useful during the set up: 
