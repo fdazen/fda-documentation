@@ -7,7 +7,7 @@ summary: This section will guide you through the folio payment's section: from h
 
 
 
-1. ##**Recording a Payment**  
+##**Recording a Payment**  
 
  - The payment section is located on the right column of the folio, right under the summary of all charges, and it is accessible by clicking on the blue _Payment_ link:  
 
@@ -40,15 +40,7 @@ The **Total** field shows the total amount of payment received, while the **Bala
  
  ![payments_5.png]({{site.baseurl}}/images/payments_5.png)  
  
- 
-
-
-
-
-
-
+  - To record a payment, select the Pyament Type by choosing the appropriate choice from the ones available in the drop down menu:  
   
-
-
-
+  ![payments_6.png]({{site.baseurl}}/images/payments_6.png)
 
