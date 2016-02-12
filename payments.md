@@ -174,9 +174,15 @@ Note that as items are being selected, the sum will change in the apposite field
 
 If your account is integrated with a Payment Gateway, you will be able to _process_ payments for credit cards directly into the Payment screen.  
 
-- To process a payment, click on the blue link _Payments_ in the folio, and select a credit card payment type from the apposite drop down menu:  
+- To process a payment, click on the blue link _Payments_ in the folio, and select **Credit card** from the Payment Type drop down menu:  
 
-![payments_22.png]({{site.baseurl}}/images/payments_22.png)
+![payments_22.png]({{site.baseurl}}/images/payments_22.png)  
+
+
+- Enter the credit card type from the _Card Type_ drop down menu. Note that if the guest has a credit card loaded in the folio, there will be an option to select that card:  
+
+
+![payments_23.png]({{site.baseurl}}/images/payments_23.png)
 
 
 
