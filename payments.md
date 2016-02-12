@@ -46,7 +46,7 @@ The **Total** field shows the total amount of payment received, while the **Bala
 
 ##**Recording a Payment**
 
-  - To record a payment, select the Pyament Type by choosing the appropriate choice from the ones available in the drop down menu:  
+  - To record a payment, select the Payament Type by choosing the appropriate choice from the ones available in the drop down menu:  
 
 
   ![payments_6.png]({{site.baseurl}}/images/payments_6.png)
