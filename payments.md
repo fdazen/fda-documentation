@@ -105,7 +105,9 @@ Note that as items are being selected, the sum will change in the apposite field
 ![payments_21.png]({{site.baseurl}}/images/payments_21.png)
 
 
-  
+**Convert to Deposit** will move the payment from being recorded as a payment proper and it will turn it into a Security Deposit.  
+**Void** will annul the payment.  
+**Refund** will enable you to refund part or the whole of the payment. If you wish to partially refund your guests, fill in the box with the amount you wish to refund and click on the box _Refund_.
   
 ###**Recording a Security Deposit**  
 
