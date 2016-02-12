@@ -97,7 +97,13 @@ From that panel you can see the type of operation performed, the type of payment
 - If you open the _Payments_ drop down menu, you will see that the sum is recorded in the system as a _Depost_, and not under _Amount_:  
 
 
-![payments_13.png]({{site.baseurl}}/images/payments_13.png)
+![payments_13.png]({{site.baseurl}}/images/payments_13.png)  
+
+
+- In the folio screen, the amount submitted as deposit will appear in the field _Security Deposits_:  
+
+
+![payments_14.png]({{site.baseurl}}/images/payments_14.png)
 
   
   
