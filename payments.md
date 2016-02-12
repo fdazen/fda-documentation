@@ -125,8 +125,12 @@ Note that as items are being selected, the sum will change in the apposite field
 
   
   
-###**  
+###**Truning a Security Deposit into a Payment**  
 
+- It might often happen that your guests will want to turn their security deposits into payments to set their bills. This is easily done! As a first thing, click on the _Payments_ scroll down menu:  
+
+
+![payments_17.png]({{site.baseurl}}/images/payments_17.png)
 
 
 
