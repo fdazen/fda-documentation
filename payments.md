@@ -29,7 +29,7 @@ The Payment panel can be separated into three main sections:
 In the example above, you can see that the guest is being charged three Add-Ons items, one POS items and three Room Charges. 
 
 
- - The **Payments** drop down menu record all payment operations made on the folio:  
+ - The **Payments** drop down menu lists all payment operations and payment details successfully made for the folio:  
 
 
  ![payments_4.png]({{site.baseurl}}/images/payments_4.png)
@@ -70,6 +70,9 @@ The **Total** field shows the total amount of payment received, while the **Bala
 ![payments_9.png]({{site.baseurl}}/images/payments_9.png)
 
 
+- You will see the message _Payment Successful_ once the action has been finalized. You will be able to see the payment details by clicking on the _Payments_ drop down menu:  
+
+![payments_10.png]({{site.baseurl}}/images/payments_10.png)
 
 
 
