@@ -91,7 +91,13 @@ From that panel you can see the type of operation performed, the type of payment
 - Check the box with the tag _Take as Deposit_ and click on the button _Pay Now_:  
 
 
-![payments_12.png]({{site.baseurl}}/images/payments_12.png)
+![payments_12.png]({{site.baseurl}}/images/payments_12.png)  
+
+
+- If you open the _Payments_ drop down menu, you will see that the sum is recorded in the system as a _Depost_, and not under _Amount_:  
+
+
+![payments_13.png]({{site.baseurl}}/images/payments_13.png)
 
   
   
