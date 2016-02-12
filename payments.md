@@ -108,6 +108,8 @@ Note that as items are being selected, the sum will change in the apposite field
 **Convert to Deposit** will move the payment from being recorded as a payment proper and it will turn it into a Security Deposit.  
 **Void** will annul the payment.  
 **Refund** will enable you to refund part or the whole of the payment. If you wish to partially refund your guests, fill in the box with the amount you wish to refund and click on the box _Refund_.
+
+  
   
 ###**Recording a Security Deposit**  
 
@@ -124,7 +126,7 @@ Note that as items are being selected, the sum will change in the apposite field
 ![payments_12.png]({{site.baseurl}}/images/payments_12.png)  
 
 
-- If you open the _Payments_ drop down menu, you will see that the sum is recorded in the system as a _Depost_, and not under _Amount_:  
+- If you open the _Payments_ drop down menu, you will see that the sum is recorded in the system as a _Deposit_, and not under _Amount_:  
 
 
 ![payments_13.png]({{site.baseurl}}/images/payments_13.png)
@@ -168,6 +170,13 @@ Note that as items are being selected, the sum will change in the apposite field
  
  
 
+###**Processing Payments with Payment Processing**  
+
+If your account is integrated with a Payment Gateway, you will be able to _process_ payments for credit cards directly into the Payment screen.  
+
+- To process a payment, click on the blue link _Payments_ in the folio, and select a credit card payment type from the apposite drop down menu:  
+
+![payments_22.png]({{site.baseurl}}/images/payments_22.png)
 
 
 
