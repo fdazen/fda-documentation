@@ -44,6 +44,8 @@ The **Total** field shows the total amount of payment received, while the **Bala
  ![payments_5.png]({{site.baseurl}}/images/payments_5.png)  
 
 
+##**Recording a Payment**
+
   - To record a payment, select the Pyament Type by choosing the appropriate choice from the ones available in the drop down menu:  
 
 
