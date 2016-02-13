@@ -243,6 +243,8 @@ Note the _Authorization_ has disappeared, as we have released the held on the su
 
 
 
+- When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the **refund option is only available for charges that have already been processed by the merchant account**; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.  
+
 
 
 
