@@ -246,6 +246,27 @@ Note the _Authorization_ has disappeared, as we have released the held on the su
 - When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the **refund option is only available for charges that have already been processed by the merchant account**; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.  
 
 
+##**Transferring Charges**      
+
+You have the ability to transfer all or part of a folio charges either to another folio or to a Profile.  
+
+
+###**Transferring Charges from Folio to Folio**  
+
+
+Before you follow the instruction below, make sure you note down the folio number you wish to send the charges **to**.  
+
+
+- Pull up the folio you want to have all charges transferred, and click on the blue link _Transfers Sent_, on the right hand column:  
+
+![payments_32.png]({{site.baseurl}}/images/payments_32.png)
+
+
+
+
+
+
+
 
 
 
