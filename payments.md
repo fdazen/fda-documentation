@@ -289,7 +289,15 @@ Before you follow the instruction below, make sure you note down the folio numbe
 
 - If you now go back to the folio screen, you will see that the sum you chose to transfer will now appear next to the link _Traansfer Sent_:  
 
-![payments_37.png]({{site.baseurl}}/images/payments_37.png)
+
+![payments_37.png]({{site.baseurl}}/images/payments_37.png)  
+
+
+- Similarly, the folio that has received the charges, will have the corresponding amount appearing next to the link _Transfers Received_:  
+
+
+![payments_38.png]({{site.baseurl}}/images/payments_38.png)
+
 
 
 
