@@ -283,7 +283,15 @@ Before you follow the instruction below, make sure you note down the folio numbe
 
 - Once the Transfers have been sent out, you can undo your action by clicking on the red buttons _Undo_:  
 
-![payments_36.png]({{site.baseurl}}/images/payments_36.png)
+
+![payments_36.png]({{site.baseurl}}/images/payments_36.png)  
+
+
+- If you now go back to the folio screen, you will see that the sum you chose to transfer will now appear next to the link _Traansfer Sent_:  
+
+![payments_37.png]({{site.baseurl}}/images/payments_37.png)
+
+
 
 
 
