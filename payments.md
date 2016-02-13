@@ -250,7 +250,9 @@ Note the _Authorization_ has disappeared, as we have released the held on the su
 
 You have the ability to transfer all or part of a folio charges either to another folio or to a Profile.  
 
-
+  
+  
+  
 ###**Transferring Charges from Folio to Folio**  
 
 
