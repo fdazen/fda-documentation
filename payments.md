@@ -275,6 +275,11 @@ Before you follow the instruction below, make sure you note down the folio numbe
 ![payments_34.png]({{site.baseurl}}/images/payments_34.png)  
 
 
+- Insert the folio number where you want those charges to be sent:  
+
+
+![payments_35.png]({{site.baseurl}}/images/payments_35.png)
+
 
 
 
