@@ -281,6 +281,12 @@ Before you follow the instruction below, make sure you note down the folio numbe
 ![payments_35.png]({{site.baseurl}}/images/payments_35.png)  
 
 
+- Once the Transfers have been sent out, you can undo your action by clicking on the red buttons _Undo_:  
+
+![payments_36.png]({{site.baseurl}}/images/payments_36.png)
+
+
+
 - 
 
 
