@@ -266,7 +266,17 @@ Before you follow the instruction below, make sure you note down the folio numbe
 - Another panel will pop-up, and you will see a breakdown of all charges by night. Note that the column _Amount_ will list the charges with not taxes, while the column _Total Amount_ will list the same charges with the total amount of taxes.  
 
 
-![payments_33.png]({{site.baseurl}}/images/payments_33.png)  
+![payments_33.png]({{site.baseurl}}/images/payments_33.png)    
+
+
+- Using the check-boxes on the left hand side of each charge, select the ones you wish to transfer:  
+
+
+![payments_34.png]({{site.baseurl}}/images/payments_34.png)  
+
+
+
+
 
   
   
