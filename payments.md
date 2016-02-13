@@ -257,10 +257,20 @@ You have the ability to transfer all or part of a folio charges either to anothe
 Before you follow the instruction below, make sure you note down the folio number you wish to send the charges **to**.  
 
 
-- Pull up the folio you want to have all charges transferred, and click on the blue link _Transfers Sent_, on the right hand column:  
+- Pull up the folio you want to transfer all charges and click on the blue link _Transfers Sent_, on the right hand column:  
 
-![payments_32.png]({{site.baseurl}}/images/payments_32.png)
 
+![payments_32.png]({{site.baseurl}}/images/payments_32.png)  
+
+
+- Another panel will pop-up, and you will see a breakdown of all charges by night. Note that the column _Amount_ will list the charges with not taxes, while the column _Total Amount_ will list the same charges with the total amount of taxes.  
+
+
+![payments_33.png]({{site.baseurl}}/images/payments_33.png)  
+
+  
+  
+  
 
 
 
