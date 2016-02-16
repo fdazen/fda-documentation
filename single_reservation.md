@@ -493,7 +493,9 @@ Each reservation folio has its own Guest Messages section: from here you can sen
 
 - A confirmation message will appear on the top of the screen:  
 
-![Solo_res_81.png]({{site.baseurl}}/images/Solo_res_81.png)
+![Solo_res_81.png]({{site.baseurl}}/images/Solo_res_81.png)  
+
+
 
 
 
