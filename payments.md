@@ -316,33 +316,39 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 
 - Click on the drop down menu _Uninvoiced Transactions_: there will appear a list of all those transactions that need to be invoiced:  
 
-![payments_39.png]({{site.baseurl}}/images/payments_39.png)
+![payments_40.png]({{site.baseurl}}/images/payments_40.png)
+
 
 
 
 - Select the charges you want to transfer to the Profile:  
 
-![payments_40.png]({{site.baseurl}}/images/payments_40.png)
+
+![payments_41.png]({{site.baseurl}}/images/payments_41.png)
 
 
 
 - Click on the button _Transfer Charges_ on the top right corner:  
 
 
-![payments_41.png]({{site.baseurl}}/images/payments_41.png)
+![payments_42.png]({{site.baseurl}}/images/payments_42.png)
+
  
 
 
 - In the _Profile Search_ field, insert the Profile ID number: all available invoices for that profile will appear. Select the one of your choice:  
 
-![payments_42.png]({{site.baseurl}}/images/payments_42.png)
+
+![payments_43.png]({{site.baseurl}}/images/payments_43.png)
+
 
   
   
 - You will be able to see the charges transferred by going into the relevant profile and select the Invoice where you transferred those charges:  
 
 
-![payments_43.png]({{site.baseurl}}/images/payments_43.png)
+![payments_44.png]({{site.baseurl}}/images/payments_44.png)
+
 
   
   
@@ -355,7 +361,8 @@ You will be able to perform adjustments to charges, directly from each folio:
 - Click on the blue link _Adjustments_ on the right hand side of the reservation folio:  
 
 
-![Solo_res_88.png]({{site.baseurl}}/images/Solo_res_88.png)  
+![payments_44.png]({{site.baseurl}}/images/payments_44.png)
+
 
 
 - Another panel will pop up: you will be able to see a list of all charges.  
