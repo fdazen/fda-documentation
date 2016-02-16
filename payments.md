@@ -338,8 +338,18 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 
 
 ![Solo_res_87.png]({{site.baseurl}}/images/Solo_res_87.png)
+  
+  
+##**Adjustments**  
 
 
+You will be able to perform adjustments to charges, directly from each folio:  
+
+
+- Click on the blue link _Adjustments_ on the right hand side of the reservation folio:  
+
+
+![Solo_res_88.png]({{site.baseurl}}/images/Solo_res_88.png)
 
 
 
