@@ -372,6 +372,7 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 
 
+![payments_46.png]({{site.baseurl}}/images/payments_46.png)
 
 
 
