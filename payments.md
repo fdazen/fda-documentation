@@ -314,6 +314,7 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 
 
 
+
 - Click on the drop down menu _Uninvoiced Transactions_: there will appear a list of all those transactions that need to be invoiced:  
 
 ![payments_40.png]({{site.baseurl}}/images/payments_40.png)
