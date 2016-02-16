@@ -385,6 +385,12 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 
 ![payments_49.png]({{site.baseurl}}/images/payments_49.png)
+  
+  
+- Select the Adjustment Reason, if applicable, and check the box next to the tag _Adjust Taxes_ if you wish to have the tax value adjusted, too:  
+
+![payments_50.png]({{site.baseurl}}/images/payments_50.png)
+
 
 
 
