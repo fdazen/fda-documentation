@@ -400,6 +400,12 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 
 
+###**Balance Display**  
+
+
+On your Tape Chart, all reservation folios with an outstanding balance will appear with an exclamation point:  
+
+![payments_52.png]({{site.baseurl}}/images/payments_52.png)
 
 
 
