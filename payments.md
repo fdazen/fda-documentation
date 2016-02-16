@@ -381,15 +381,22 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 ![payments_48.png]({{site.baseurl}}/images/payments_48.png)  
 
-- Select a Department, if applicable, and place the adjustment amount (fixed or percentage). The amount you set will be taken off from each of the charge item you chose to adjust:  
+- Select a Department, if applicable, and place the adjustment amount (fixed or percentage). If you give a discount, be advised you need to place a '-' sign in front of the value.  The amount you set will be taken off from each of the charge item you chose to adjust:  
 
 
 ![payments_49.png]({{site.baseurl}}/images/payments_49.png)
   
   
-- Select the Adjustment Reason, if applicable, and check the box next to the tag _Adjust Taxes_ if you wish to have the tax value adjusted, too:  
+- Select the Adjustment Reason, if applicable, and check the box next to the tag _Adjust Taxes_ if you wish to have the tax value adjusted, too. When finished, click on the green button _Adjust_: 
 
-![payments_50.png]({{site.baseurl}}/images/payments_50.png)
+
+![payments_50.png]({{site.baseurl}}/images/payments_50.png)  
+
+
+- Adjustments will be shown in the folio, in the apposite area:
+
+
+![payments_51.png]({{site.baseurl}}/images/payments_51.png)
 
 
 
