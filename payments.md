@@ -396,7 +396,10 @@ You will be able to perform adjustments to charges, directly from each folio:
 - Adjustments will be shown in the folio, in the apposite area:
 
 
-![payments_51.png]({{site.baseurl}}/images/payments_51.png)
+![payments_51.png]({{site.baseurl}}/images/payments_51.png)  
+
+
+
 
 
 
