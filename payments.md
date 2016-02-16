@@ -375,7 +375,12 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 - Select the charges on which you want to perform the adjustment:  
 
-![payments_47.png]({{site.baseurl}}/images/payments_47.png)
+![payments_47.png]({{site.baseurl}}/images/payments_47.png)  
+
+- Choose whether to adjust a percentage or a fixed amount by clicking on the right circle-box:  
+
+![payments_48.png]({{site.baseurl}}/images/payments_48.png)
+
 
 
 
