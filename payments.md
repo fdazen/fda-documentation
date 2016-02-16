@@ -342,7 +342,8 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 - You will be able to see the charges transferred by going into the relevant profile and select the Invoice where you transferred those charges:  
 
 
-![Solo_res_87.png]({{site.baseurl}}/images/Solo_res_87.png)
+![payments_43.png]({{site.baseurl}}/images/payments_43.png)
+
   
   
 ##**Adjustments**  
