@@ -467,6 +467,9 @@ Each reservation folio has its own Guest Messages section: from here you can sen
 - A new panel will pop up: on the right hand side you will see all available documents:  
 
 
-![Solo_res_76.png]({{site.baseurl}}/images/Solo_res_76.png)
+![Solo_res_76.png]({{site.baseurl}}/images/Solo_res_76.png)   
+
+
+
 
 
