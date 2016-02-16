@@ -379,7 +379,12 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 - Choose whether to adjust a percentage or a fixed amount by clicking on the right circle-box:  
 
-![payments_48.png]({{site.baseurl}}/images/payments_48.png)
+![payments_48.png]({{site.baseurl}}/images/payments_48.png)  
+
+- Select a Department, if applicable, and place the adjustment amount (fixed or percentage). The amount you set will be taken off from each of the charge item you chose to adjust:  
+
+
+![payments_49.png]({{site.baseurl}}/images/payments_49.png)
 
 
 
