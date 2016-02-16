@@ -302,46 +302,16 @@ Before you follow the instruction below, make sure you note down the folio numbe
 
 
 
-
-
-
-- 
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
+###**Transferring Charges from Folio to a Profile** 
  
+
+You will be able to send charges from a folio to a Profile invoice. Before you follow the instructions below, make sure that the Profile you want to send charges to has at least one invoice created; if it does not, you will need to create one. To do so, follow the instructions on the _Profile_ section of this manual. It is also recommendable having the Profile ID number handy, in order to avoid confusion in case there are multiple profiles with the same name.    
+
+
+- In the folio, click on the link _Payments_:  
+
+![Solo_res_82.png]({{site.baseurl}}/images/Solo_res_82.png)
+
+
+
+
