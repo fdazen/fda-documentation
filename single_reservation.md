@@ -472,7 +472,13 @@ Each reservation folio has its own Guest Messages section: from here you can sen
 
 - Click on any template to visualize the relevant information:  
 
-![Solo_res_77.png]({{site.baseurl}}/images/Solo_res_77.png)
+![Solo_res_77.png]({{site.baseurl}}/images/Solo_res_77.png)  
+
+
+- To print the message, scroll to the bottom and click on the blue button with the printer icon:  
+
+![Solo_res_78.png]({{site.baseurl}}/images/Solo_res_78.png)
+
 
 
 
