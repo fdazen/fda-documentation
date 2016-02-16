@@ -470,6 +470,9 @@ Each reservation folio has its own Guest Messages section: from here you can sen
 ![Solo_res_76.png]({{site.baseurl}}/images/Solo_res_76.png)   
 
 
+- Click on any template to visualize the relevant information:  
+
+![Solo_res_77.png]({{site.baseurl}}/images/Solo_res_77.png)
 
 
 
