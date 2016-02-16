@@ -183,9 +183,10 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 
 
  
- - The first column _Folio Status Action_ defines what change in the status of any reservation folio will trigger the automatic email
+ - The first column _Folio Status Action_ identifies what change of  reservation status will trigger the automatic email.
 
 ![Guest_Messages_24.png]({{site.baseurl}}/images/Guest_Messages_24.png)
+
 
  
  
