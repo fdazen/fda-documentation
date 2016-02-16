@@ -477,7 +477,21 @@ Each reservation folio has its own Guest Messages section: from here you can sen
 
 - To print the message, scroll to the bottom and click on the blue button with the printer icon:  
 
-![Solo_res_78.png]({{site.baseurl}}/images/Solo_res_78.png)
+![Solo_res_78.png]({{site.baseurl}}/images/Solo_res_78.png)  
+
+
+- To email the message, click on the blue button with the letter icon:  
+
+
+![Solo_res_79.png]({{site.baseurl}}/images/Solo_res_79.png)  
+
+
+- A new panel will appear, and you will be prompted to fill in the receipient's email address and the email subject:  
+
+![Solo_res_80.png]({{site.baseurl}}/images/Solo_res_80.png)
+
+
+
 
 
 
