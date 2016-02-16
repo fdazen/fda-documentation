@@ -366,17 +366,21 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 
 
-
 - Another panel will pop up: you will be able to see a list of all charges.  
 
 
 
-
-![payments_46.png]({{site.baseurl}}/images/payments_46.png)
-
+![payments_46.png]({{site.baseurl}}/images/payments_46.png)  
 
 
+- Select the charges on which you want to perform the adjustment:  
 
+![payments_47.png]({{site.baseurl}}/images/payments_47.png)
+
+
+
+
+ 
 
 
 
