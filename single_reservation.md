@@ -486,9 +486,15 @@ Each reservation folio has its own Guest Messages section: from here you can sen
 ![Solo_res_79.png]({{site.baseurl}}/images/Solo_res_79.png)  
 
 
-- A new panel will appear, and you will be prompted to fill in the receipient's email address and the email subject:  
+- A new panel will appear, and you will be prompted to fill in the receipient's email address and the email subject; click on the button _Send_ when ready.  
 
-![Solo_res_80.png]({{site.baseurl}}/images/Solo_res_80.png)
+![Solo_res_80.png]({{site.baseurl}}/images/Solo_res_80.png)  
+
+
+- A confirmation message will appear on the top of the screen:  
+
+![Solo_res_81.png]({{site.baseurl}}/images/Solo_res_81.png)
+
 
 
 
