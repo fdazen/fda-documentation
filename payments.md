@@ -362,7 +362,8 @@ You will be able to perform adjustments to charges, directly from each folio:
 - Click on the blue link _Adjustments_ on the right hand side of the reservation folio:  
 
 
-![payments_44.png]({{site.baseurl}}/images/payments_44.png)
+![payments_45.png]({{site.baseurl}}/images/payments_45.png)
+
 
 
 
