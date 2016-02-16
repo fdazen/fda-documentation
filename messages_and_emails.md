@@ -205,6 +205,10 @@ Note that the status _Automatically Send Email Upon Folio Creation_ only interes
 
 ![Guest_Messages_26.png]({{site.baseurl}}/images/Guest_Messages_26.png)
 
+ 
+- Finally, enter the email address you want to send a copy of the email to:  
+
+![Guest_Messages_34.png]({{site.baseurl}}/images/Guest_Messages_34.png)
 
 
 
