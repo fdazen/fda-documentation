@@ -200,7 +200,7 @@ Note that the status _Automatically Send Email Upon Folio Creation_ only interes
 
  
 
- - Select what email template you want to use by choosing one in the scroll down menu: 
+ - Select what email template you want to use by choosing one from the available options in the scroll down menu: 
 
 
 ![Guest_Messages_26.png]({{site.baseurl}}/images/Guest_Messages_26.png)
