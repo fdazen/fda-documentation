@@ -21,6 +21,7 @@ published: true
 
 
 
+
  
 
 
@@ -451,4 +452,18 @@ In the example above, the guest was initially due to depart on February 14th, bu
 - This is how the reservation appear on the Tape Chart: small arrows will suggest whether and how the guest is moving rooms:  
 
 
-![Solo_res_74.png]({{site.baseurl}}/images/Solo_res_74.png)
+![Solo_res_74.png]({{site.baseurl}}/images/Solo_res_74.png)  
+
+
+##**Guest Messages**  
+
+Each reservation folio has its own Guest Messages section: from here you can send important information to your guests via email or print their reservation documents.  
+
+- Click on the blue link _Guest Messages_ on the bottom right hand side of any folio:  
+
+![Solo_res_75.png]({{site.baseurl}}/images/Solo_res_75.png)  
+
+
+
+
+
