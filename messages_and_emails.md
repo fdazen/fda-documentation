@@ -185,10 +185,11 @@ Once your _Email Templates_ are set up, you can configure the system to automati
  
  - The first column _Folio Status Action_ identifies what change of  reservation status will trigger the automatic email.
 
+
 ![Guest_Messages_24.png]({{site.baseurl}}/images/Guest_Messages_24.png)
 
 
- 
+Note that the status _Automatically Send Email Upon Folio Creation_ only interests those folios manually created on your Tape Chart. If you want to have the system send an automatic email when your guests book online, you will need to active the _Automatically Send IBE Confirmation Email_.
  
  - Under column _Automated E-mail Status_ check the box corresponding to the action you want the system to perform. In the example below I am choosing to have the system to send an automatic email any time a reservation is created:  
  
