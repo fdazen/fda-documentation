@@ -1,10 +1,11 @@
-
+---
+title: Payments
 tags: 
   - Payments
 keywords: "recording payments, payment gateway, void, credit card, refund, security deposit, invoices, transfer charges"
 last_updated: "February 10th, 2016"
 summary: This section will guide you through the folio payment's section: from here you can record a payment, void or refund one, learn how to create invoice and how to transfer charges.  
-
+---
 
 
 ##**The Payment Panel**  
