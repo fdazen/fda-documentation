@@ -18,11 +18,21 @@ A Single Profile is the most common type of profile, as it collects all guest in
 ###**Creating a Profile from a Folio**  
 
 
-Every reservation folio is tied to a Profile ID, which you are able to look up in the Profile tab. When a reservation is made, the system will automatically generate a new profile: 
+Every reservation folio is tied to a Profile ID, which you can look up in the Profile tab. When a reservation is made, the system will automatically generate a new profile: 
 
-- The central column of a folio is dedicated to the guest information:  
+- The central column of a folio is dedicated to the Guest Information: information entered in this column will be the one stored in the Profile.  
 
 ![profiles_1.png]({{site.baseurl}}/images/profiles_1.png)  
+
+- Fill in all reservation information, and click on the blue button _Reserve_:  
+
+![profiles_2.png]({{site.baseurl}}/images/profiles_2.png)
+
+
+
+
+
+
 
 
 
