@@ -52,7 +52,12 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 **Important!**: if you wish to make amendments to the information of the guest in the folio, make sure to click on the link _EDIT_:  
 
 
-![profiles_7.png]({{site.baseurl}}/images/profiles_7.png)
+![profiles_7.png]({{site.baseurl}}/images/profiles_7.png)  
+
+
+If you click on the button _CHANGE_, the system will replace the existing guest, and hence the existing Profile ID linked to them, with a new one!  
+
+
 
 
 
