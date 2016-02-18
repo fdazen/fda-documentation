@@ -26,7 +26,14 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 
 - Fill in all reservation information, and click on the blue button _Reserve_:  
 
-![profiles_2.png]({{site.baseurl}}/images/profiles_2.png)
+![profiles_2.png]({{site.baseurl}}/images/profiles_2.png)  
+
+- When the folio acquires a status (Hold, Reserved, etc), it will be linked to a Profile ID:  
+
+![profiles_3.png]({{site.baseurl}}/images/profiles_3.png)
+
+
+
 
 
 
