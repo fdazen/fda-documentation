@@ -55,14 +55,19 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 ![profiles_7.png]({{site.baseurl}}/images/profiles_7.png)  
 
 
+
 If you click on the button _CHANGE_, the system will replace the existing guest, and hence the existing Profile ID linked to them, with a new one!    
+
 
 
 - You can look up guests by Profile IDs in a simple way: click on the tab _Profiles_ on the top of your Tape Chart:  
 
+
 ![profiles_8.png]({{site.baseurl}}/images/profiles_8.png)  
 
+
 - Insert the Profile ID number in the text box: the right profile will automatically be pulled up:  
+
 
 ![profiles_9.png]({{site.baseurl}}/images/profiles_9.png)
 
