@@ -11,13 +11,16 @@ summary: "The Profile Tab contains information about your guests, travel agents,
 ##**Single Profile**  
 
 
-A Single Profile is the most common type of profile, as it collects all guest information. Single profiles are created any time a new reservation is created, regardless of the channel via which it interfaces with your PMS. For returning guests, all information can easily get pulled down into the reservation folio, thus making the reservation process accurate and faster.
+A Single Profile is the most common type of profile, as it collects all guest information. Single profiles are created any time a new reservation is created, regardless of the channel via which it interfaces with your PMS. For returning guests all information can easily get pulled down into the reservation folio, thus helping avoid human errors and making the reservation process much more rapid!
 
 
 
 ###**Creating a Profile from Folio**  
 
 
-Every reservation is tied to a profile: each folio is tied to a Profile ID, which you are able to look up in the Profile tab.  
+Every reservation folio is tied to a Profile ID, which you are able to look up in the Profile tab. When a reservation is made, the system will automatically generate a new profile: 
 
-- The central column of a folio is dedicated to the guest information:
+- The central column of a folio is dedicated to the guest information:  
+
+![profiles_1.png]({{site.baseurl}}/images/profiles_1.png)
+
