@@ -69,7 +69,13 @@ If you click on the button _CHANGE_, the system will replace the existing guest,
 - Insert the Profile ID number in the text box: the right profile will automatically be pulled up:  
 
 
-![profiles_9.png]({{site.baseurl}}/images/profiles_9.png)
+![profiles_9.png]({{site.baseurl}}/images/profiles_9.png)  
+
+
+- Clicking on the Profile will enable you to have access to all information tied to the profile:  
+
+
+![profiles_10.png]({{site.baseurl}}/images/profiles_10.png)
 
 
 
