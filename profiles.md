@@ -24,6 +24,7 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 
 ![profiles_1.png]({{site.baseurl}}/images/profiles_1.png)  
 
+
 - Fill in all reservation information, and click on the blue button _Reserve_:  
 
 ![profiles_2.png]({{site.baseurl}}/images/profiles_2.png)  
