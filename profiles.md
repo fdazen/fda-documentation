@@ -46,7 +46,13 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 
 - Fill in all information, and when ready click on the button _Save_ at the bottom. Once done, you will see the additional guest Profile ID on the left hand side of the guest's name:  
 
-![profiles_6.png]({{site.baseurl}}/images/profiles_6.png)
+![profiles_6.png]({{site.baseurl}}/images/profiles_6.png)  
+
+
+**Important!**: if you wish to make amendments to the information of the guest in the folio, make sure to click on the link _EDIT_:  
+
+
+![profiles_7.png]({{site.baseurl}}/images/profiles_7.png)
 
 
 
