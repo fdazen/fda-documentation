@@ -30,7 +30,13 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 
 - When the folio acquires a status (Hold, Reserved, etc), it will be linked to a Profile ID:  
 
-![profiles_3.png]({{site.baseurl}}/images/profiles_3.png)
+![profiles_3.png]({{site.baseurl}}/images/profiles_3.png)  
+
+
+- If you add additional guests in the folio, the system will also generate new Profile IDs for them. Click on the button _Additional Guests_ on the top of the panel:  
+
+
+![profiles_4.png]({{site.baseurl}}/images/profiles_4.png)
 
 
 
