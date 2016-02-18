@@ -39,6 +39,19 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 ![profiles_4.png]({{site.baseurl}}/images/profiles_4.png)
 
 
+- A new panel will pop up: click on the blue button _Add Guest_:  
+
+![profiles_5.png]({{site.baseurl}}/images/profiles_5.png)  
+
+
+- Fill in all information, and when ready click on the button _Save_ at the bottom. Once done, you will see the additional guest Profile ID on the left hand side of the guest's name:  
+
+![profiles_6.png]({{site.baseurl}}/images/profiles_6.png)
+
+
+
+
+
 
 
 
