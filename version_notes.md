@@ -1,10 +1,11 @@
-
-
+---
+title: Version Notes
 tags: 
   - Version Notes
 keywords: "version, notes, enhancement"
 last_updated: "February 18th, 2016"
-summary: "In this section you will find notes about any enhancement made to the software and the corresponding version!"    
+summary: "In this section you will find notes about any enhancement made to the software and the corresponding version!"
+---    
 
 
 ###**v3.1.18.1**  
