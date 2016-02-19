@@ -162,14 +162,19 @@ The right hand side contains details information about the Profiles.
 
 ![profiles_23.png]({{site.baseurl}}/images/profiles_23.png)  
 
+
 - Click on the icon with the three horizontal lines and choose to _Add Card_:  
 
+
 ![profiles_24.png]({{site.baseurl}}/images/profiles_24.png)  
+
 
 - Fill in all information and click on the green button _Save_:  
 
 
-![profiles_25.png]({{site.baseurl}}/images/profiles_25.png)
+![profiles_25.png]({{site.baseurl}}/images/profiles_25.png)  
+
+
 
 
 
