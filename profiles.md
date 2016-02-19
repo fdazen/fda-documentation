@@ -134,7 +134,16 @@ The right hand side contains details information about the Profiles.
 
 - To create a new Single Profile, click on the link _Create Profile_, on the left hand side of the screen:  
 
-![profiles_18.png]({{site.baseurl}}/images/profiles_18.png)
+![profiles_18.png]({{site.baseurl}}/images/profiles_18.png)  
+
+- Inser all guest information: the fields are not different from the ones appearing in the folios: as we are creating a Single Profile, choose the option **Guest** from the _Profile Type_ drop down menu:   
+
+![profiles_19.png]({{site.baseurl}}/images/profiles_19.png)  
+
+
+
+
+
 
 
 
