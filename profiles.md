@@ -118,7 +118,13 @@ If you need to load guest information that is not in the system, you can create 
 - The _Profile_ tab is accessible form the top of your Tape Chart:  
 
 
-![profiles_15.png]({{site.baseurl}}/images/profiles_15.png)
+![profiles_15.png]({{site.baseurl}}/images/profiles_15.png)  
+
+- Click on the tab:  
+
+
+![profiles_16.png]({{site.baseurl}}/images/profiles_16.png)
+
 
 
 
