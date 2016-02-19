@@ -15,7 +15,7 @@ A Single Profile is the most common type of profile, as it collects all guest in
 
 
 
-###**Creating a Profile from a Folio**  
+###**Creating a Single Profile from a Folio**  
 
 
 Every reservation folio is tied to a Profile ID, which you can look up in the Profile tab. When a reservation is made, the system will automatically generate a new profile: 
@@ -112,4 +112,4 @@ When making a reservation on your Tape Chart, if the information you are enterin
 
 
 
-###**Creating a Profile from the Profile Tab**
+###**Creating a Single Profile from the Profile Tab**
