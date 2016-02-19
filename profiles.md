@@ -143,7 +143,12 @@ The right hand side contains details information about the Profiles.
 
 - Proceed to fill in all Guest Details and when done, click on the button _Save_ at the bottom of the page:  
 
-![profiles_20.png]({{site.baseurl}}/images/profiles_20.png)
+![profiles_20.png]({{site.baseurl}}/images/profiles_20.png)  
+
+- Click on the link _Profiles_, on the top left hand side of the panel:  
+
+![profiles_21.png]({{site.baseurl}}/images/profiles_21.png)
+
 
 
 
