@@ -125,7 +125,21 @@ If you need to load guest information that is not in the system, you can create 
 
 ![profiles_16.png]({{site.baseurl}}/images/profiles_16.png)  
 
-The tab is divided into three parts: the left column enables you to create and search profiles. The _Look Up_ function is a short route to look up folios
+The tab is divided into three parts: the left column enables you to create and search profiles. The _Look Up_ function is a short route to look up folios associated with the right profile, if needed.  
+
+The central part will give you a list of the most recent created Profiles, and a field where to look up Profile IDs.   
+
+The right hand side contains details information about the Profiles.  
+
+
+- To create a new Single Profile, click on the link _Create Profile_, on the left hand side of the screen:  
+
+![profiles_18.png]({{site.baseurl}}/images/profiles_18.png)
+
+
+
+
+
 
 
 
