@@ -96,7 +96,12 @@ When making a reservation on your Tape Chart, if the information you are enterin
 
 - The profile ID will appear on the left hand side of any prompted suggestion:  
 
-![profiles_13.png]({{site.baseurl}}/images/profiles_13.png)
+![profiles_13.png]({{site.baseurl}}/images/profiles_13.png)  
+
+
+- If the suggestion is chosen, all information tied to the Profile ID will automatically populate in the folio:  
+
+
 
 
 
