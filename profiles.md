@@ -136,11 +136,14 @@ The right hand side contains details information about the Profiles.
 
 ![profiles_18.png]({{site.baseurl}}/images/profiles_18.png)  
 
-- Inser all guest information: the fields are not different from the ones appearing in the folios: as we are creating a Single Profile, choose the option **Guest** from the _Profile Type_ drop down menu:   
+- Insert all guest information: the fields are not different from the ones appearing in the folios: as we are creating a Single Profile, choose the option **Guest** from the _Profile Type_ drop down menu:   
 
 ![profiles_19.png]({{site.baseurl}}/images/profiles_19.png)  
 
 
+- Proceed to fill in all Guest Details and when done, click on the button _Save_ at the bottom of the page:  
+
+![profiles_20.png]({{site.baseurl}}/images/profiles_20.png)
 
 
 
