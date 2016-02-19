@@ -102,7 +102,10 @@ When making a reservation on your Tape Chart, if the information you are enterin
 - If the suggestion is chosen, all information tied to the Profile ID will automatically populate in the folio:  
 
 
-![profiles_14.png]({{site.baseurl}}/images/profiles_14.png)
+![profiles_14.png]({{site.baseurl}}/images/profiles_14.png)  
+
+
+**Note**: it is important to make sure to choose the right profile, if you dealing with a returning guest. At the moment it is **not** possible to merge profiles, so in order to avoid having multiple profiles belonging to same guest, you should be careful to choose the right prompted suggestion. The option to merge profiles will be available in the near future!
 
 
 
