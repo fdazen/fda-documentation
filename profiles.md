@@ -83,25 +83,10 @@ If you click on the button _CHANGE_, the system will replace the existing guest,
 ###**Pulling Down Returning Guests Information from Folio**  
 
 
-When making a reservation on your Tape Chart, if the information you are entering matches any existent Profile ID then a suggestion will be prompted to you:  
-
-
-
-###**Creating a Profile from the Profile Tab**  
+When making a reservation on your Tape Chart, if the information you are entering matches any existent Profile ID then a suggestion will be prompted to you:
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+###**Creating a Profile from the Profile Tab**
