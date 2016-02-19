@@ -155,7 +155,16 @@ The right hand side contains details information about the Profiles.
 - The profile you have just created will appear in the list at the center of the page. Click on the profile to load information for that Profile:  
 
 
-![profiles_22.png]({{site.baseurl}}/images/profiles_22.png)
+![profiles_22.png]({{site.baseurl}}/images/profiles_22.png)  
+
+
+- To add Credit Card Informaton to the Profile, click on the tab _Credit Card_:  
+
+
+![profiles_23.png]({{site.baseurl}}/images/profiles_23.png)  
+
+- 
+
 
 
 
