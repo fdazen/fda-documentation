@@ -108,8 +108,9 @@ When making a reservation on your Tape Chart, if the information you are enterin
 **Note**: it is important to make sure to choose the right profile, if you dealing with a returning guest. At the moment it is **not** possible to merge profiles, so in order to avoid having multiple profiles belonging to same guest, you should be careful to choose the right prompted suggestion. The option to merge profiles will be available in the near future!
 
 
+**Important**: credit card information field is currently not going to fill up automatically in the folio. However, that information can be looked up by pulling up th right profile in the _Profile_ Tab.
 
 
+###**Creating a Single Profile from the Profile Tab**  
 
 
-###**Creating a Single Profile from the Profile Tab**
