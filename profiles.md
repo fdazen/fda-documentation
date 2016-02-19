@@ -144,10 +144,20 @@ The right hand side contains details information about the Profiles.
 - Proceed to fill in all Guest Details and when done, click on the button _Save_ at the bottom of the page:  
 
 ![profiles_20.png]({{site.baseurl}}/images/profiles_20.png)  
-
+ 
+ 
 - Click on the link _Profiles_, on the top left hand side of the panel:  
 
-![profiles_21.png]({{site.baseurl}}/images/profiles_21.png)
+
+![profiles_21.png]({{site.baseurl}}/images/profiles_21.png)   
+
+
+- The profile you have just created will appear in the list at the center of the page. Click on the profile to load information for that Profile:  
+
+
+![profiles_22.png]({{site.baseurl}}/images/profiles_22.png)
+
+
 
 
 
