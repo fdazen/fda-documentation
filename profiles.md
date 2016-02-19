@@ -111,6 +111,17 @@ When making a reservation on your Tape Chart, if the information you are enterin
 **Important**: credit card information field is currently not going to fill up automatically in the folio. However, that information can be looked up by pulling up th right profile in the _Profile_ Tab.
 
 
-###**Creating a Single Profile from the Profile Tab**  
+###**Creating a Single Profile from the Profile Tab** 
+
+If you need to load guest information that is not in the system, you can create profiles directly in the _Profile_ tab.  
+
+- The _Profile_ tab is accessible form the top of your Tape Chart:  
+
+
+![profiles_15.png]({{site.baseurl}}/images/profiles_15.png)
+
+
+
+
 
 
