@@ -175,6 +175,15 @@ The right hand side contains details information about the Profiles.
 ![profiles_25.png]({{site.baseurl}}/images/profiles_25.png)  
 
 
+The credit card information will appear in the folio whenever you pull down the guest profile.  
+
+
+
+##**Creating a Travel Agent or Company Profile**  
+
+
+
+
 
 
 
