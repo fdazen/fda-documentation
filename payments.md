@@ -1,11 +1,3 @@
----
-title: Payments
-tags: 
-  - Payments
-keywords: "recording payments, payment gateway, void, credit card, refund, security deposit, invoices, transfer charges"
-last_updated: "February 10th, 2016"
-summary: This section will guide you through the folio payment's section: from here you can record a payment, void or refund one, learn how to create invoice and how to transfer charges.  
----
 
 
 ##**The Payment Panel**  
@@ -171,7 +163,7 @@ Note that as items are being selected, the sum will change in the apposite field
  
  
 
-###**Processing Payments with Payment Processing**  
+##**Processing Payments with Payment Processing**  
 
 If your account is integrated with a Payment Gateway, you will be able to _process_ payments for credit cards directly into the Payment screen.  
 
@@ -407,16 +399,3 @@ You will be able to perform adjustments to charges, directly from each folio:
 On your Tape Chart, all reservation folios with an outstanding balance will appear with an exclamation point:  
 
 ![payments_52.png]({{site.baseurl}}/images/payments_52.png)
-
-
-
-
-
-
- 
-
-
-
-
-
-
