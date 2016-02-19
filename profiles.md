@@ -91,7 +91,13 @@ When making a reservation on your Tape Chart, if the information you are enterin
 
 - Start by filling in the Guest Information: if what you are typing matches existent guest information stored in your account, then a suggestion will be prompted to you:  
 
-![profiles_12.png]({{site.baseurl}}/images/profiles_12.png)
+![profiles_12.png]({{site.baseurl}}/images/profiles_12.png)  
+
+
+- The profile ID will appear on the left hand side of any prompted suggestion:  
+
+![profiles_13.png]({{site.baseurl}}/images/profiles_13.png)
+
 
 
 
