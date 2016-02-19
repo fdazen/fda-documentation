@@ -120,10 +120,15 @@ If you need to load guest information that is not in the system, you can create 
 
 ![profiles_15.png]({{site.baseurl}}/images/profiles_15.png)  
 
-- Click on the tab:  
+
+- Click on the _Profile_ tab:  
+
+![profiles_16.png]({{site.baseurl}}/images/profiles_16.png)  
+
+The tab is divided into three parts: the left column enables you to create and search profiles. The _Look Up_ function is a short route to look up folios
 
 
-![profiles_16.png]({{site.baseurl}}/images/profiles_16.png)
+
 
 
 
