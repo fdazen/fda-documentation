@@ -85,23 +85,16 @@ If you click on the button _CHANGE_, the system will replace the existing guest,
 
 When making a reservation on your Tape Chart, if the information you are entering matches any existent Profile ID then a suggestion will be prompted to you:  
 
+- Click on any available room on your Tape Chart, to make a new reservation:  
 
+![profiles_11.png]({{site.baseurl}}/images/profiles_11.png)  
 
-###**Creating a Profile from the Profile Tab**  
+- Start by filling in the Guest Information: if what you are typing matches existent guest information stored in your account, then a suggestion will be prompted to you:  
 
-
-
-
-
-
-
+![profiles_12.png]({{site.baseurl}}/images/profiles_12.png)
 
 
 
 
 
-
-
-
-
-
+###**Creating a Profile from the Profile Tab**
