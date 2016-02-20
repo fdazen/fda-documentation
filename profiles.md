@@ -241,7 +241,10 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 
 
-- To look up the Profile
+- To look up the Profile, you can type in the name and wait for matching results to come up:  
+
+![profiles_32.png]({{site.baseurl}}/images/profiles_32.png)
+
 
 
 
