@@ -215,9 +215,12 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 - Choose the kind of profile you want to create by selecting the relevant from the drop down menu, next to the tag _Profile Type_:   
 
+
 ![profiles_29.png]({{site.baseurl}}/images/profiles_29.png)  
 
+
 - Fill in all required information and when done, click on the green button _Save_:  
+
 
 ![profiles_30.png]({{site.baseurl}}/images/profiles_30.png)
 
