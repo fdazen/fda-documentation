@@ -207,5 +207,9 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 ![profiles_27.png]({{site.baseurl}}/images/profiles_27.png)  
 
 
+- Click on the link _Create_ on the left hand side of the screen:  
+
+![profiles_28.png]({{site.baseurl}}/images/profiles_28.png)
+
 
 
