@@ -7,10 +7,13 @@ summary: "The Profile Tab contains information about your guests, travel agents,
 
 
 
-##Getting Set up**
+##**Getting Set up/Profile Templates**
   
   
-Before you learn how to create and use the different profiles available for your account, it is important to have everything you will need set-up. You will learn how to master profiles much faster!  
+Before you learn how to create and use the different profiles available for your account, it is important to have all templates set-up. This is important to have everything ready, before you actually start using any of the profiles!  
+
+- To add the Templates and Messages you need, follow the instructions on section [Templates](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html#templates) in this manual.  
+
 
 
 
