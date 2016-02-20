@@ -182,6 +182,19 @@ The credit card information will appear in the folio whenever you pull down the 
 ##**Creating a Travel Agent or Company Profile**  
 
 
+A **Company Profile** contains information about companies with which the hotel has special partnerships with: you will be able to transfer guest charges directly to the profile, create separate invoices, and keep track of payments.   
+
+A **Travel Agent** profile is useful to track charges to apply to the Travel Agents or calculate commissions.
+
+Although they serve different purposes, creation and usage of both profiles is the same.  
+
+
+###**Adding Customizable Fields for Travel Agent/Company Profiles**  
+
+As a first thing, you will need to add all those fields you want to be applicable and required for Travel Agents and Companies: differently from a Guest Profile, 
+fields for Company/Travel Agent profiles may change drastically from one hotel to another: for this reason you will be able to create only those special fields your hotel needs!  
+Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/general.html#guest-information-and-reservation-information-custom-fields) for instructions on how to create custom fields.
+
 
 
 
