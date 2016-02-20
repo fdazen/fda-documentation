@@ -7,6 +7,12 @@ summary: "The Profile Tab contains information about your guests, travel agents,
 
 
 
+##Getting Set up**
+  
+  
+Before you learn how to create and use the different profiles available for your account, it is important to have everything you will need set-up. You will learn how to master profiles much faster!  
+
+
 
 ##**Single Profile**  
 
@@ -222,7 +228,10 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 - Fill in all required information and when done, click on the green button _Save_:  
 
 
-![profiles_30.png]({{site.baseurl}}/images/profiles_30.png)
+![profiles_30.png]({{site.baseurl}}/images/profiles_30.png)  
+
+
+
 
 
 
