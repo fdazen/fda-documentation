@@ -243,7 +243,18 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 - To look up the Profile, you can type in the name and wait for matching results to come up:  
 
-![profiles_32.png]({{site.baseurl}}/images/profiles_32.png)
+![profiles_32.png]({{site.baseurl}}/images/profiles_32.png)  
+
+- You will also have the chance to perform an advanced search that will enable you to look up specific Profile Types. To do this, click on the button _Advanced_ and select the right option:  
+
+![profiles_33.png]({{site.baseurl}}/images/profiles_33.png)
+
+
+- Some of the fields created for the profile will also appear in the search panel, which will be useful to narrow down your search:  
+
+
+![profiles_34.png]({{site.baseurl}}/images/profiles_34.png)
+
 
 
 
