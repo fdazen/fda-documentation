@@ -199,3 +199,13 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 ![profiles_26.png]({{site.baseurl}}/images/profiles_26.png)
 
+
+###**Create Travel Agent/Company Profile**  
+
+- Click on the tab _Profile_ tab on top of the Tape Chart:  
+
+![profiles_27.png]({{site.baseurl}}/images/profiles_27.png)  
+
+
+
+
