@@ -164,6 +164,7 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 ![Accounting_20.png]({{site.baseurl}}/images/Accounting_20.png)
 
+
  
 
 - All is left to do is enable the gateway on both/either the Frontdesk area and/or your Booking Engine. If the gateway is enabled on Frontdesk, you will be able to charge cards directly from the folios; making it active on the booking engine will enable automatic card charges when a guest finalizes a booking on your website:  
