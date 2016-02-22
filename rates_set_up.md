@@ -12,6 +12,7 @@ published: true
 
 
 
+
 ##**Taxes and Fees**
   
 As a first thing, you will need to set up all applicable fees and taxes.  
@@ -282,7 +283,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
  
- -You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
+ - You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
  
 ![Rate_Classes_25.png]({{site.baseurl}}/images/Rate_Classes_25.png)
 
