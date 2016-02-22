@@ -14,6 +14,7 @@ published: true
 
 
 
+
 ##**Housekeeping Status**    
 
 Housekeeping Statuses serve to indicate whether a certain room needs attention from your Housekeeping staff or not. Frontdesk Anywhere performs changes in the Housekeeping Status of each room thanks to certain Rules you will have to set up: since the rules are based on the Housekeeping Statuses, it will be good for you to familiarize with what each status mean!  
@@ -40,7 +41,7 @@ Here is a breakdown of what they mean:
 4. **Dirty Vacant**: Room is not currently rented, it needs full operations from housekeeping.  
 
 
-**NOTE**: It is currently not possible to add or edit an Housekeeping Status.  
+{{site.data.alerts.note}} It is currently not possible to add or edit an Housekeeping Status.   {{site.data.alerts.end}} 
 
 
 ##**Housekeeping Rules**  
