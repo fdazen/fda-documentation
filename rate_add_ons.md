@@ -11,6 +11,7 @@ published: true
 
 
 
+
 ##**Configure Your Add-Ons**
 
 
@@ -62,14 +63,14 @@ published: true
 
 
 
-- To **DEACTIVATE** an Add-On, simply un-check the box under column _Status_ on the right side of the Add-On List:  
+- <span class="label label-info">DEACTIVATE</span> an Add-On, simply un-check the box under column _Status_ on the right side of the Add-On List:  
 
 ![Add_ons_7.png]({{site.baseurl}}/images/Add_ons_7.png)
 
 
 
 
- - To **Delete** an Add-On, select it by checking the box on its left side and click on the blue button _Delete Selected Add-Ons_:  
+ - To <span class="label label-info">DELETE</span>an Add-On, select it by checking the box on its left side and click on the blue button _Delete Selected Add-Ons_:  
 
 ![Add_ons_8.png]({{site.baseurl}}/images/Add_ons_8.png)
 
