@@ -88,7 +88,7 @@ Start by creating your POS Points.
 
 Click on the blue button _Edit POS Category_ when done.  
 
-- To **Add** a POS Category, click on the button _Add a POS Category_:  
+- To <span class="label label-warning">ADD</span> a POS Category, click on the button _Add a POS Category_:  
 
 ![Pos_10.png]({{site.baseurl}}/images/Pos_10.png)
 
