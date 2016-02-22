@@ -63,7 +63,9 @@ To <span class="label label-danger">Danger</span> a floor, select it by checking
 
 
 
-- **HOW TO USE FLOORS**: When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ to visualize your rooms grouped by floors.
+##**How To Use Floors**  
+
+When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ to visualize your rooms grouped by floors.
 
 ![Floors_6.png]({{site.baseurl}}/images/Floors_6.png)
 
