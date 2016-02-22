@@ -17,6 +17,7 @@ published: true
 
 
 
+
   
 #**Rooms Set Up**   
 
@@ -225,7 +226,7 @@ We have now come to the point where you need to build your hotel's room types: a
 ![Room_types_8.png]({{site.baseurl}}/images/Room_types_8.png)
 
 
-<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>**Note**: we advise to keep this box un-checked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support Team at support@frontdeskanywhere.com  
+{{site.data.alerts.note}} Add your note here. {{site.data.alerts.end}}: we advise to keep this box un-checked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support Team at support@frontdeskanywhere.com  
 
 
  - Finally, you can constraint the room type and make it visible only to certain user levels: simply un-check the box of the levels for which the room should _not_ be visible:  
