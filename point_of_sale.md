@@ -46,7 +46,7 @@ Start by creating your POS Points.
  The process will be the same as editing one.  
 
 
- - To **Deactivate** a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
+ - To <span class="label label-info">DEACTIVATE</span> a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
  
 ![Pos_5.png]({{site.baseurl}}/images/Pos_5.png)
 
