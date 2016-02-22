@@ -134,10 +134,10 @@ In the example below I am creating a weekly rate:
 
 Keep in mind that if you create a multiple nights rate, the latter will not show up anywhere unless the minimum number of nights are selected.  
 
-**Note**: If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement:  
+{{site.data.alerts.important}}  If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement: {{site.data.alerts.end}}
 
+ 
 ![Rate_Classes_7.png]({{site.baseurl}}/images/Rate_Classes_7.png)
-
 
  
 
