@@ -13,6 +13,7 @@ published: true
 
 
 
+
 ##**POS Points**
 
 Start by creating your POS Points.  
@@ -36,7 +37,7 @@ Start by creating your POS Points.
 
  
  
- - To **Add** a POS Point, click on the blue button _Add a POS Point_:  
+ - To <span class="label label-warning">ADD</span> a POS Point, click on the blue button _Add a POS Point_:  
  
 ![Pos_4.png]({{site.baseurl}}/images/Pos_4.png)
 
