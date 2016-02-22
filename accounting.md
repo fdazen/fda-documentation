@@ -156,8 +156,8 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 ![Accounting_19.png]({{site.baseurl}}/images/Accounting_19.png)
 
 
+{{site.data.alerts.note}} the username and password should be provided to you by your Payment Gateway company.  {{site.data.alerts.end}}
 
-**Note**: the username and password should be provided to you by your Payment Gateway company.  
 
 
 - You will now be able to see the payment gateway:  
