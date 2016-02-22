@@ -15,6 +15,7 @@ published: true
 
 
 
+
 ##**Guest Messages**  
 
 
@@ -128,7 +129,7 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
 
  
-- To **Delete** a template, just click on the red button _Remove_ next to the relevant template:  
+- To <span class="label label-danger">DELETE</span> a template, just click on the red button _Remove_ next to the relevant template:  
 
 ![Guest_Messages_33.png]({{site.baseurl}}/images/Guest_Messages_33.png)
 
