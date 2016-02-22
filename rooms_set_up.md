@@ -18,13 +18,6 @@ published: true
 
 
 
-
-  
-#**Rooms Set Up**   
-
-Setting up your rooms in your Frontdesk Anywhere is a good way to start building your account and make it look like your hotel. This operation involves not only creating rooms, but also building amentities, define the levels you wish to have rooms organize, load pictures and much more.   
-In the sections below you will learn the best ways to create your hotel room structure.
-
 ##**Floors**  
 
 Let's start by set up the number of floors in your property. This is important as you will be able to group your rooms by the floor they are on!  
