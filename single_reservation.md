@@ -22,6 +22,7 @@ published: true
 
 
 
+
  
 
 
@@ -137,8 +138,7 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 
 ![Solo_res_19.png]({{site.baseurl}}/images/Solo_res_19.png)  
 
-**Note**: credit card information entered into the reservation folio **will not** be saved under the Guest Profile. This means that unless you have saved the card directly in the guest's _profile_, under the _Prifile Tab_, the credit card information is not going to be saved. If you need instructions on how to record credit card information into Guest Profiles, please go to the **Profile** section of this manual!  
-
+{{site.data.alerts.note}} credit card information entered into the reservation folio **will not** be saved under the Guest Profile. This means that unless you have saved the card directly in the guest's _profile_, under the _Prifile Tab_, the credit card information is not going to be saved. If you need instructions on how to record credit card information into Guest Profiles, please go to the **Profile** section of this manual!  {{site.data.alerts.end}}
 
 ###**Rate Information**  
 
@@ -493,14 +493,4 @@ Each reservation folio has its own Guest Messages section: from here you can sen
 
 - A confirmation message will appear on the top of the screen:  
 
-![Solo_res_81.png]({{site.baseurl}}/images/Solo_res_81.png)  
-
-
-
-
-
-
-
-
-
-
+![Solo_res_81.png]({{site.baseurl}}/images/Solo_res_81.png)
