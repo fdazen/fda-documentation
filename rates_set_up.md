@@ -12,6 +12,9 @@ published: true
 
 
 ##**Taxes and Fees**
+  
+As a first thing, you will need to set up all applicable fees and taxes.  
+
 
  - In the Admin Settings, click on the link **Taxes** under section _Rates_:  
 
