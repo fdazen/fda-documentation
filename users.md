@@ -156,14 +156,13 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 
 
-- To **Deactivate** a user, un-check the box under column _Status_ on the right hand side of any user:  
+- To <span class="label label-info">DEACTIVATE</span> a user, un-check the box under column _Status_ on the right hand side of any user:  
 
 ![Users_18.png]({{site.baseurl}}/images/Users_18.png)
 
 
 
-
-**Note**: it is currently not possible to delete a user! However, if a user has been made inactive there will be no chance of them accessing the system.
+{{site.data.alerts.warning}} Note: {{site.data.alerts.end}} it is currently not possible to delete a user! However, if a user has been made inactive there will be no chance of them accessing the system.
 
 - If you have a lot of users, you might find it useful to filter them by level. You can do that by using the scroll down menu on the top right hand side of the screen:  
 
@@ -214,7 +213,7 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
 The process is the same as editing one!  
 
-- To **Deactivate** a shift, simply un-check the box under the column _Status_ on the right hand side of the screen:  
+- To <span class="label label-info">DEACTIVATE</span> a shift, simply un-check the box under the column _Status_ on the right hand side of the screen:  
 
 ![Users_25.png]({{site.baseurl}}/images/Users_25.png)
 
