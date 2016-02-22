@@ -56,7 +56,7 @@ The same small window will pop-up: edit the name and click on the button _Save_ 
 
  
 
-- To <span class="label label-danger"> DELETE </span> a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
+- To <span class="label label-danger">DELETE</span> a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
 
 ![Floors_5.png]({{site.baseurl}}/images/Floors_5.png)
 
