@@ -8,14 +8,7 @@ summary: "This section will guide you through how to perform basic and advanced 
 published: true
 ---
 
----
-title: Payments
-tags: 
-  - Payments
-keywords: "payments, recording a payment, swiping credit card, processing credit cards, transferring charges, transfers to folio, transfers to profile"
-last_updated: "February 22nd, 2016"
-summary: "This section will guide you through how to perform basic and advanced payment operations: you will learn about how our payment screen is organized, how to record payments, how to transfer charges and, if applicable, how to capture credit card details. If you are integrated with a payment gateway and/or a credit card swiper, this will also be the place where you can learn how to process your guests' credit cards directly from your Frontdesk Anywhere account."   
----  
+
   
   
 
@@ -469,6 +462,4 @@ On your Tape Chart, all reservation folios with an outstanding balance will appe
 ![payments_52.png]({{site.baseurl}}/images/payments_52.png)  
 
 
-This will enable you to have a good understanding of outstanding balances just by looking at your Tape Chart.  
-
-
+This will enable you to have a good understanding of outstanding balances just by looking at your Tape Chart.
