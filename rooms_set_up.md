@@ -41,7 +41,7 @@ Let's start by set up the number of floors in your property. This is important a
  {{site.data.alerts.note}} You can either number your floors (1,2,3, etc.) or name them (First, Second, etc).   {{site.data.alerts.end}}
 
  
-To <span class="label label-primary">EDIT</span> a floor, click on the blue link _Edit_ on the relevant row:
+To <span class="label label-primary">EDIT</span> <span class="label label-info">Info</span> a floor, click on the blue link _Edit_ on the relevant row:
 
 ![Floors_3.png]({{site.baseurl}}/images/Floors_3.png)
 
@@ -49,7 +49,7 @@ To <span class="label label-primary">EDIT</span> a floor, click on the blue link
  
 The same small window will pop-up: edit the name and click on the button _Save_ when done.  
 
- - To **DEACTIVATE** a floor, un-check the box under column _Status_ for the relevant row:  
+To <span class="label label-info">DEACTIVATE</span> a floor, un-check the box under column _Status_ for the relevant row:  
 
 ![Floors_4.png]({{site.baseurl}}/images/Floors_4.png)
 
