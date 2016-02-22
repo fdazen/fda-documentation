@@ -13,6 +13,7 @@ published: true
 
 
 
+
 ##**Languages**  
 
 Frontdesk Anywhere comes with a few optional languages that you can set up as default for both your OBE and your PMS.
@@ -42,8 +43,8 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
 
  
  
- **NOTE** Making a certain language the default one does not mean that all users will have the same language upon log-in. Each user can choose a different language for the same account and they can set this up on the _Preferences_ area:  
- 
+{{site.data.alerts.note}} Making a certain language the default one does not mean that all users will have the same language upon log-in. Each user can choose a different language for the same account and they can set this up on the _Preferences_ area:   {{site.data.alerts.end}} 
+
 ![General_5.png]({{site.baseurl}}/images/General_5.png)
 
 
