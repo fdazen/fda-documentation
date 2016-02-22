@@ -11,6 +11,7 @@ published: true
 
 
 
+
 ##**Yield Management Rules**  
 
 Let us start by defining what rules you want the system to follow.  
@@ -32,8 +33,7 @@ Let us start by defining what rules you want the system to follow.
 ![Yield_3.png]({{site.baseurl}}/images/Yield_3.png)
 
 
-  
-  **NOTE**: Choosing '1' as a starting day **does not** mean that the Yield Manager will run on the current day, but on the following one. We currently do not support same-day yielding.
+ {{site.data.alerts.note}} Choosing '1' as a starting day **does not** mean that the Yield Manager will run on the current day, but on the following one. We currently do not support same-day yielding. {{site.data.alerts.end}} 
   
   - Choose your conditions by selecting the relevant choices from the scroll down menus:  
   
