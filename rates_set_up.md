@@ -22,8 +22,8 @@ As a first thing, you will need to set up all applicable fees and taxes.
 
 
 
-
 You will see a list of the existing taxes in the system: your Frontdesk Anywhere comes with three default taxes. At the moment although it is possible to deactivate a tax, it is not possible to erase it: hence, we advise to edit the existing ones, before creating new ones, as this will help keep your account cleaner.
+
 
  - To edit a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
  
@@ -55,14 +55,15 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
 ###**Tax Operations**  
 
+
  - **Deactivate**: to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
+
 
 ![Tax_6.png]({{site.baseurl}}/images/Tax_6.png)
 
 
+{{site.data.alerts.note}} As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system.  {{site.data.alerts.end}}
 
-
-As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system. 
 
 
 ##**Rates Set-Up**  
