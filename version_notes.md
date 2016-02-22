@@ -9,11 +9,13 @@ published: true
 ---
 
 
+
 **v3.1.23.1**  
 
 Enhancement| Description
 --------|----------  
-New Feature - Credit Card Swiper | The Credit Card Swiper functionality is now working with any card swiper that uses a keyboard emulating credit card reader. You will be able to use this new feature from the Credit Card Manager and Payment screen in any folio, and also from the Credit Card panel in the Profile tab. Bug - Close Shift on Firefox | The Close Shift function is now working on Mozilla Firefox
+New Feature - Credit Card Swiper | The Credit Card Swiper functionality is now working with any card swiper that uses a keyboard emulating credit card reader. You will be able to use this new feature from the Credit Card Manager and Payment screen in any folio, and also from the Credit Card panel in the Profile tab. 
+Enhancement - Close Shift on Firefox | The Close Shift function is now working on Mozilla Firefox
 
 
 
@@ -34,6 +36,4 @@ Enhancement | Description
 --------|----------
 Email Templates - Email Functionality| All templates have been tested on different email providers and on mobile screens: they all display correctly, except the Invoice and Registration Card which will have to be re-done and they are not, at the moment, email friendly.All other templates render good, also when content is edited.
 Full CRUD Functionality Implemented| Creation, Read, Update and Deletion functionality has been implemented to al templates. This means that all account administrators have now the privilege to edit their html templates. Tests have been performed on the templates content, but **not on the design**: we remind that changing the design of the template wil most likely result in the same templates not rendering correctly with the associated email functionality.    
-Ability to Email and Print Templates from the payment screen (Invoice section) implemented|It is now possible to email and print templates that have been applied to Invoices ( Payments link - Invoices ).   
-  
-  
+Ability to Email and Print Templates from the payment screen (Invoice section) implemented|It is now possible to email and print templates that have been applied to Invoices ( Payments link - Invoices ).
