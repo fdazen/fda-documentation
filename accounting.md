@@ -33,8 +33,8 @@ During the intial system set-up it is important for you to configure the right c
 ![Accounting_2.png]({{site.baseurl}}/images/Accounting_2.png)
 
 
+{{site.data.alerts.note}} If your currency is not listed in the drop down menu, please contact our Support Team at help@frontdeskanywhere.com and ask them to have the currency added to your account!  {{site.data.alerts.end}}
 
-**Note**: if your currency is not listed in the drop down menu, please contact our Support Team at help@frontdeskanywhere.com and ask them to have the currency added to your account!  
 
  - Choose whether to enable security deposits on your reservation folios by clicking on the relevant circle box.
 
