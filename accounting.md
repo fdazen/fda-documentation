@@ -301,8 +301,8 @@ You can create Department options for the discount reasons you created, to make 
 ![Accounting_38.png]({{site.baseurl}}/images/Accounting_38.png)
 
 
- 
-  **Note**: make sure that you have at least one Department Option built in your account, as the system won't allow you to erase all of them.   
+{{site.data.alerts.note}} Make sure that you have at least one Department Option built in your account, as the system won't allow you to erase all of them. {{site.data.alerts.end}}
+  
  
  - You can make active those Department Options that have been previously deleted. Select the option _Delete_ from the scroll down menu on the right hand side of the Department Option panel:  
 
