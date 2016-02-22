@@ -322,7 +322,7 @@ Complete the rest of the information by selecting the right option from the scro
 
 
  
- **Note**: Before making a room inactive, make sure to move all reservations currently existing in the room by placing them into another room (or cancelling them).  
+{{site.data.alerts.warning}}  Before making a room inactive, make sure to move all reservations currently existing in the room by placing them into another room (or cancelling them). {{site.data.alerts.end}} 
  
  - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specific room:  
  
