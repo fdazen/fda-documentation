@@ -9,6 +9,14 @@ published: true
 ---
 
 
+**v3.1.23.1**  
+
+Enhancement| Description
+--------|----------  
+New Feature - Credit Card Swiper | The Credit Card Swiper functionality is now working with any card swiper that uses a keyboard emulating credit card reader. You will be able to use this new feature from the Credit Card Manager and Payment screen in any folio, and also from the Credit Card panel in the Profile tab. Bug - Close Shift on Firefox | The Close Shift function is now working on Mozilla Firefox
+
+
+
 **v3.1.22.1**    
 
 
