@@ -211,7 +211,8 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 ![Solo_res_28.png]({{site.baseurl}}/images/Solo_res_28.png)  
   
   
-- A blocked room can **_only be unblocked_** and not reserved. Hence, make sure not to place any valuable information in a folio with a Block status, as the system won't allow you to move the status to a reserved one. To unblock a room, clcik on the button _Unblock_ on any blocked folio:  
+{{site.data.alerts.important}}  A blocked room can **_only be unblocked_** and not reserved. Hence, make sure not to place any valuable information in a folio with a Block status, as the system won't allow you to move the status to a reserved one. To unblock a room, clcik on the button _Unblock_ on any blocked folio:  {{site.data.alerts.end}}
+
 
 
 ![Solo_res_31.png]({{site.baseurl}}/images/Solo_res_31.png)  
