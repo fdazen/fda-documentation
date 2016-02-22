@@ -230,7 +230,7 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
 
 
  
- **Note**: it is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it **Inactive**.  
+{{site.data.alerts.note}} It is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it **Inactive**.   {{site.data.alerts.end}}
  
  - For any field, select whether the field is required by checking/unchecking the box under column _Required_:  
 
