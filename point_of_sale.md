@@ -146,21 +146,21 @@ After creating your POS Points and Categories, you can finally proceed to set up
 ![Pos_17.png]({{site.baseurl}}/images/Pos_17.png)
 
  
- - To **Deactivate** a POS product, just uncheck the box under column _Status_:  
+ - To <span class="label label-info">DEACTIVATE</span> a POS product, just uncheck the box under column _Status_:  
  
 
 ![Pos_18.png]({{site.baseurl}}/images/Pos_18.png)
 
  
  
- - To **Delete** a POS Product, select it by checking the box on the left hand side of its name and click on the blue button _Delete Selected POS Product_:  
+ - To <span class="label label-danger">DELETE</span> a POS Product, select it by checking the box on the left hand side of its name and click on the blue button _Delete Selected POS Product_:  
  
 ![Pos_19.png]({{site.baseurl}}/images/Pos_19.png)
 
 
  
  
- - To **Edit** a POS Product, click on the blue link _Edit_ on the right hand side of any product:  
+ - To <span class="label label-primary">EDIT</span> a POS Product, click on the blue link _Edit_ on the right hand side of any product:  
  
 ![Pos_20.png]({{site.baseurl}}/images/Pos_20.png)
 
