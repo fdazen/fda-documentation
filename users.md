@@ -105,7 +105,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 
  
- - To **Deactivate** a User Level, simply un-check the box on the right hand side of the User Levels List, under column _Status_:  
+ - To <span class="label label-info">DEACTIVATE</span> a User Level, simply un-check the box on the right hand side of the User Levels List, under column _Status_:  
  
 ![Users_12.png]({{site.baseurl}}/images/Users_12.png)
 
