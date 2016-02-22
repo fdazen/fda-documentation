@@ -41,7 +41,7 @@ Let's start by set up the number of floors in your property. This is important a
  {{site.data.alerts.note}} You can either number your floors (1,2,3, etc.) or name them (First, Second, etc).   {{site.data.alerts.end}}
 
  
-To <span class="label label-primary">EDIT</span> <span class="label label-info">Info</span> a floor, click on the blue link _Edit_ on the relevant row:
+- To <span class="label label-primary"> EDIT </span> <span class="label label-info">Info</span> a floor, click on the blue link _Edit_ on the relevant row:
 
 ![Floors_3.png]({{site.baseurl}}/images/Floors_3.png)
 
@@ -49,14 +49,14 @@ To <span class="label label-primary">EDIT</span> <span class="label label-info">
  
 The same small window will pop-up: edit the name and click on the button _Save_ when done.  
 
-To <span class="label label-info">DEACTIVATE</span> a floor, un-check the box under column _Status_ for the relevant row:  
+- To <span class="label label-info">DEACTIVATE</span> a floor, un-check the box under column _Status_ for the relevant row:  
 
 ![Floors_4.png]({{site.baseurl}}/images/Floors_4.png)
 
 
  
 
-To <span class="label label-danger">Danger</span> a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
+- To <span class="label label-danger"> DELETE </span> a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
 
 ![Floors_5.png]({{site.baseurl}}/images/Floors_5.png)
 
@@ -111,7 +111,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 
   
   
-  - To <span class="label label-info"> Deactivate </span> an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
+  - To <span class="label label-info"> DEACTIVATE </span> an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
   
 ![Room_amenities_7.png]({{site.baseurl}}/images/Room_amenities_7.png)
 
