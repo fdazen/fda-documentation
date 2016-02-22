@@ -66,7 +66,7 @@ Let us start by defining what rules you want the system to follow.
 
  
  
- To **DEACTIVATE** a Yield Management Rule, go back to the rule list and un-check the box under the column _Status_ on the right hand side of the rule you want to make inactive: 
+ To <span class="label label-info">DEACTIVATE</span> a Yield Management Rule, go back to the rule list and un-check the box under the column _Status_ on the right hand side of the rule you want to make inactive: 
  
 ![Yield_9.png]({{site.baseurl}}/images/Yield_9.png)
 
