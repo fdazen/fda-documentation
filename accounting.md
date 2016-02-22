@@ -162,8 +162,8 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 - You will now be able to see the payment gateway:  
 
-![Accounting_20.png]({{site.baseurl}}/images/Accounting_20.png)
 
+![Accounting_20.png]({{site.baseurl}}/images/Accounting_20.png)
 
  
 
