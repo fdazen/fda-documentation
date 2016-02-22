@@ -245,8 +245,8 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 ![Accounting_30.png]({{site.baseurl}}/images/Accounting_30.png)
 
 
- 
- **Note**: make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.   
+{{site.data.alerts.note}} Make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.  {{site.data.alerts.end}}
+  
 
 - You can **UN-DELETE** a previously deleted Discount Reason: on the top right hand side, select 'Deleted' from the scroll down menu with the written 'Active.  
 
