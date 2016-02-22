@@ -97,14 +97,14 @@ Click on the blue button _Edit POS Category_ when done.
 
 The process is the same as editing one.
 
-- To **Deactivate** a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
+- To <span class="label label-info">DEACTIVATE</span> a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
 
 ![Pos_11.png]({{site.baseurl}}/images/Pos_11.png)
 
 
 
 
-- To **Delete** a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
+- To <span class="label label-danger">DELETE</span> a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
 
 ![Pos_12.png]({{site.baseurl}}/images/Pos_12.png)
 
