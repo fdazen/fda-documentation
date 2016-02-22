@@ -208,6 +208,12 @@ Your Frontdesk Anywhere account can be integrated with any _Credit Card Swiper_ 
 
 
 
+- You will be able to find the _Swipe Card_ function that enables you to capture the card details in the _Payment Screen_:   
+
+![profiles_40.png]({{site.baseurl}}/images/profiles_40.png)
+
+
+
 
 
 ##**Processing Payments with Payment Processing**  
