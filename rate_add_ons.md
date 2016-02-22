@@ -77,6 +77,6 @@ published: true
 
 
 
-- To **EDIT** an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
+- To <span class="label label-primary">EDIT</span>an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
 
 ![Add_ons_9.png]({{site.baseurl}}/images/Add_ons_9.png)
