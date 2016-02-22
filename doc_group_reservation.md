@@ -10,6 +10,7 @@ published: true
 
 
 
+
        
 ##**New Group**      
 
@@ -103,7 +104,7 @@ If you select _Automatic Release_ you will need to choose a certain date from th
 
 When ready, you can click on the button **Next** to go to the next step.   
 
-**NOTE**: If you wish to add more room types to the reservation, you will need to repeat **from Step 2**.   
+{{site.data.alerts.note}} If you wish to add more room types to the reservation, you will need to repeat **from Step 2**. {{site.data.alerts.end}}    
 
 ##**Group Rules**   
 
