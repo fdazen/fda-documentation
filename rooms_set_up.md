@@ -349,7 +349,7 @@ Complete the rest of the information by selecting the right option from the scro
 
 
 
-**Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order.  
+{{site.data.alerts.note}} In order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order.  {{site.data.alerts.end}} 
 
 
 ##**Published Rooms**  
