@@ -4,9 +4,10 @@ tags:
   - formatting
 keywords: "rooms, amenities, classes, room types, order rooms"
 last_updated: "November 16, 2015"
-summary: "Learn how to set up your rooms in Frontdesk Anywhere!"
+summary: "Setting up your rooms in your Frontdesk Anywhere is a good way to start building your account and make it look like your hotel. This operation involves not only creating rooms, but also building amentities, define the levels you wish to have rooms organize, load pictures and much more.    In the sections below you will learn the best ways to create your hotel room structure."
 published: true
 ---
+
 
 
 
