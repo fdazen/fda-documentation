@@ -4,6 +4,16 @@ tags:
   - Payments
 keywords: "payments, recording a payment, swiping credit card, processing credit cards, transferring charges, transfers to folio, transfers to profile"
 last_updated: "February 22nd, 2016"
+summary: "This section will guide you through how to perform basic and advanced payment operations: you will learn about how our payment screen is organized, how to record payments, how to transfer charges and, if applicable, how to capture credit card details. If you are integrated with a payment gateway and/or a credit card swiper, this will also be the place where you can learn how to process your guests' credit cards directly from your Frontdesk Anywhere account."
+published: true
+---
+
+---
+title: Payments
+tags: 
+  - Payments
+keywords: "payments, recording a payment, swiping credit card, processing credit cards, transferring charges, transfers to folio, transfers to profile"
+last_updated: "February 22nd, 2016"
 summary: "This section will guide you through how to perform basic and advanced payment operations: you will learn about how our payment screen is organized, how to record payments, how to transfer charges and, if applicable, how to capture credit card details. If you are integrated with a payment gateway and/or a credit card swiper, this will also be the place where you can learn how to process your guests' credit cards directly from your Frontdesk Anywhere account."   
 ---  
   
@@ -291,8 +301,7 @@ Note that the Authorized Amount will be, in this case, reduced by the amount cap
 ![payments_31.png]({{site.baseurl}}/images/payments_31.png)
   
   
-Note the _Authorization_ has disappeared, as we have released the held on the sum selected.  
-
+ The _Authorization_ has disappeared, as we have released the held on the sum selected.  
 
 
 - When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the **refund option is only available for charges that have already been processed by the merchant account**; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.  
@@ -457,4 +466,9 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 On your Tape Chart, all reservation folios with an outstanding balance will appear with an exclamation point:  
 
-![payments_52.png]({{site.baseurl}}/images/payments_52.png)
+![payments_52.png]({{site.baseurl}}/images/payments_52.png)  
+
+
+This will enable you to have a good understanding of outstanding balances just by looking at your Tape Chart.  
+
+
