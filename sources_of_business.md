@@ -12,6 +12,7 @@ published: true
 
 
 
+
 ##**Getting Familiar with Sources** 
 
 
@@ -29,7 +30,7 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 **Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system operates.  
 
 
-  ## **Create Your Source Categories** 
+##**Create Your Source Categories** 
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
 
