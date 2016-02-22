@@ -150,7 +150,7 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 
 ###**Season Periods**
  
- - It is now time to set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
+ - It is now time to set up the _value_ for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
 
 ![Rate_Classes_9.png]({{site.baseurl}}/images/Rate_Classes_9.png)
@@ -208,6 +208,7 @@ The three icons that appear under the column _Action_ are used to visualize/edit
 You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _IBE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
  
  - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
+ 
  
 ##**Duplicate a Rate**  
  
@@ -317,7 +318,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
 
- ##**Deriving a Rate**  
+##**Deriving a Rate**  
  
  You can create a new rate by applying a certain discount/premium on the value of an existing Rate Class: the new rate is called a _Derived Rate_. Derived rates are linked to the master rate (the one you are deriving them from) in virtue of a certain adjustment you set up. For example, if you are running a 10% promotion for returning guests, you can create these promotional rates by deriving it from the master rate and set an adjustment of a 10% discount. Every time you change the master rate, the derived rate will also be automatically calculated.
  
