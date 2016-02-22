@@ -13,6 +13,7 @@ published: true
 
 
 
+
 #**Accounting**  
 
 The Accounting section is about all of those settings that have to do payments and accounting. From here you can set up currency and accepted pay types and credit card types, number invoices, set up discount reasons and most importantly configure your Revenue Labels and Categories around which your reports are organized.  
@@ -33,7 +34,7 @@ During the intial system set-up it is important for you to configure the right c
 
 
 
-**Note**: if your currency is not listed in the drop down menu, please contact our Support Team at support@frontdeskanywhere.com and ask them to have the currency added to your account!  
+**Note**: if your currency is not listed in the drop down menu, please contact our Support Team at help@frontdeskanywhere.com and ask them to have the currency added to your account!  
 
  - Choose whether to enable security deposits on your reservation folios by clicking on the relevant circle box.
 
@@ -434,5 +435,3 @@ The Revenue Account Manager helps you associating the irght Revenue Label and Ca
 - When finished, click on the button _Save Labels_:   
 
 ![Accounting_58.png]({{site.baseurl}}/images/Accounting_58.png)
-
-
