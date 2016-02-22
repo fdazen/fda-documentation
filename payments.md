@@ -169,8 +169,20 @@ Note that as items are being selected, the sum will change in the apposite field
  
  ![payments_20.png]({{site.baseurl}}/images/payments_20.png)  
  
- 
- 
+  
+##**Capturing Credit Card Details With Credit Card Swiper**  
+    
+    
+Your Frontdesk Anywhere account can be integrated with any _Credit Card Swiper_ that uses **Keyboard Emulation** tool. A credit card Swiper will enable you to capture your guests' credit card numbers and expiration date in an automatic fashion, thus making the reservation process much quicker and reducing the possiblity of human error.  
+
+
+- To start using the credit card Swiper, click on the folio you want to record the card details:  
+
+![profiles_35.png]({{site.baseurl}}/images/profiles_35.png)
+
+
+- Scroll down to the Credit Card panel at the center of the folio, and clik on the link _Add Card_:  
+
 
 ##**Processing Payments with Payment Processing**  
 
