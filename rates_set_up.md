@@ -150,7 +150,7 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 
 ###**Season Periods**
  
- - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
+ - It is now time to set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
 
 ![Rate_Classes_9.png]({{site.baseurl}}/images/Rate_Classes_9.png)
