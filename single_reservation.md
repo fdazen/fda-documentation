@@ -276,7 +276,8 @@ To undo the check-out, just click on the button _Check-In_:
 ![Solo_res_42.png]({{site.baseurl}}/images/Solo_res_42.png)
 
 
-**Important**: When you change the status of a reservation folio, the color of that reservation will automatically change on the Tape Chart. You can see what each status means by using the drop down legend on the Tape Chart:
+{{site.data.alerts.important}} When you change the status of a reservation folio, the color of that reservation will automatically change on the Tape Chart. You can see what each status means by using the drop down legend on the Tape Chart: {{site.data.alerts.end}}
+
 
 
 ![Solo_res_56.png]({{site.baseurl}}/images/Solo_res_56.png)
