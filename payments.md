@@ -217,7 +217,8 @@ Your Frontdesk Anywhere account can be integrated with any _Credit Card Swiper_ 
 You can use the Swiper in the _Profile_ tab, in the relevant Payment section:  
 
 
-![profiles_41.png]({{site.baseurl}}/images/profiles_41.png)
+![profiles_41.png]({{site.baseurl}}/images/profiles_41.png)  
+
 
 
 
