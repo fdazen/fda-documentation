@@ -56,7 +56,7 @@ To <span class="label label-info">DEACTIVATE</span> a floor, un-check the box un
 
  
 
-- To **DELETE** a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
+To <span class="label label-danger">Danger</span> a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
 
 ![Floors_5.png]({{site.baseurl}}/images/Floors_5.png)
 
