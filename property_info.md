@@ -57,6 +57,5 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 
 ##**Time Zone**  
   
-  
-{{site.data.alerts.note}} At the moment it is not currently possible to change the time zone directly from your account. Please contact our Support Team at help@frontdeskanywhere.com to change it! {{site.data.alerts.end}}  
+<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>It is not currently possible to change the time zone directly from your account. Please contact our Support Team at help@frontdeskanywhere.com to change it! 
 
