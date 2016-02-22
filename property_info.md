@@ -12,6 +12,7 @@ published: true
 
 
 
+
 #**Property Info**  
 
 As the name suggests, this section is dedicated to information about your company and how guest information are displayed in your system.  
@@ -55,5 +56,7 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
    
 
 ##**Time Zone**  
+  
+  
+{{site.data.alerts.note}} At the moment it is not currently possible to change the time zone directly from your account. Please contact our Support Team at help@frontdeskanywhere.com to change it! {{site.data.alerts.end}}  
 
-At the moment it is not currently possible to change the time zone directly from your account. Please contact our Support Team at support@frontdeskanywhere.com to change it!
