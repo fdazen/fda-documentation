@@ -139,7 +139,7 @@ A room class is a general concept referring to any extra organizational level yo
 
 
 
- - To **EDIT** a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
+ - To <span class="label label-primary">EDIT</span> a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
  
 ![Room_classes_3.png]({{site.baseurl}}/images/Room_classes_3.png)
 
