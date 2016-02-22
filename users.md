@@ -56,7 +56,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
   
 
- - To **Add** a User Level, click on the blue button _Add a New User Level_:  
+ - To <span class="label label-warning">ADD</span> a User Level, click on the blue button _Add a New User Level_:  
  
 ![Users_6.png]({{site.baseurl}}/images/Users_6.png)
 
