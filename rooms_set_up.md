@@ -111,7 +111,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 
   
   
-  - To **DEACTIVATE** an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
+  - To <span class="label label-info"> Deactivate </span> an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
   
 ![Room_amenities_7.png]({{site.baseurl}}/images/Room_amenities_7.png)
 
