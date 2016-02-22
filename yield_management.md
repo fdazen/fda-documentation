@@ -72,7 +72,7 @@ Let us start by defining what rules you want the system to follow.
 
 
 
-To **EDIT** a rule, click on the blue link _Edit_ oin the rule list panel:  
+To <span class="label label-default">EDIT</span> a rule, click on the blue link _Edit_ oin the rule list panel:  
 
 ![Yield_10.png]({{site.baseurl}}/images/Yield_10.png)
 
