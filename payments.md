@@ -191,7 +191,10 @@ Your Frontdesk Anywhere account can be integrated with any _Credit Card Swiper_ 
 
 - You will see the button _Swipe Credit Card_: clikc on it:  
 
-![profiles_37.png]({{site.baseurl}}/images/profiles_37.png)
+
+![profiles_37.png]({{site.baseurl}}/images/profiles_37.png)  
+
+
 
 
 ##**Processing Payments with Payment Processing**  
