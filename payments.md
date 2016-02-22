@@ -178,10 +178,20 @@ Your Frontdesk Anywhere account can be integrated with any _Credit Card Swiper_ 
 
 - To start using the credit card Swiper, click on the folio you want to record the card details:  
 
+
 ![profiles_35.png]({{site.baseurl}}/images/profiles_35.png)
 
 
+
 - Scroll down to the Credit Card panel at the center of the folio, and clik on the link _Add Card_:  
+
+
+![profiles_36.png]({{site.baseurl}}/images/profiles_36.png)  
+
+
+- You will see the button _Swipe Credit Card_: clikc on it:  
+
+![profiles_37.png]({{site.baseurl}}/images/profiles_37.png)
 
 
 ##**Processing Payments with Payment Processing**  
