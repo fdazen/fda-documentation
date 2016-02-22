@@ -355,7 +355,8 @@ Note that all charges will appear to be _Pending_ until you save the folio: once
 
 Any folio can be moved to a different room and room type, independently of the status of the reservation itself. 
 
-**Important**: If you wish to move the the reservation into a specific room, make sure that the latter is available for the selected dates: the system won't allow you to move a reservation into a room which is occupied or even partially occupied.  
+{{site.data.alerts.important}} If you wish to move the the reservation into a specific room, make sure that the latter is available for the selected dates: the system won't allow you to move a reservation into a room which is occupied or even partially occupied.  {{site.data.alerts.end}}
+ 
   
 - Start by pulling up the reservation folio you want to move. You will notice that the room assigned to the folio will appear in a blue, clickable link:  
 
