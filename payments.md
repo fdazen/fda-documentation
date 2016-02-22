@@ -195,9 +195,17 @@ Your Frontdesk Anywhere account can be integrated with any _Credit Card Swiper_ 
 ![profiles_37.png]({{site.baseurl}}/images/profiles_37.png)  
 
 
-- Once you click the button, the written  _Swipe Card_ will start flashing: swipe the credit card using the card Swiper:  
+- Once you click the button, the written _Swipe Card_ will start flashing: swipe the credit card using the card Swiper:  
+
 
 ![profiles_38.png]({{site.baseurl}}/images/profiles_38.png)  
+
+
+- You should hear a beeping sound when the card details get captured, and you will be able to see those details in the relevant fields:  
+
+
+![profiles_39.png]({{site.baseurl}}/images/profiles_39.png)
+
 
 
 
