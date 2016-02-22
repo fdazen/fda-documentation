@@ -56,8 +56,7 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
 ###**Tax Operations**  
 
-
- - **Deactivate**: to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
+<span class="label label-info">Deactivate</span> to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
 
 ![Tax_6.png]({{site.baseurl}}/images/Tax_6.png)
