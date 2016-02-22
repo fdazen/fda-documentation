@@ -64,7 +64,7 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 
  
- ## **Pay Types**  
+ ##**Pay Types**  
  
  Selecting the pay types that are accepted at your property is important to avoid the margin of human error of your front desk staff when they collect payments, it is also good when auditing and run reports!  
  
