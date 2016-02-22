@@ -101,7 +101,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 ![Room_amenities_4.png]({{site.baseurl}}/images/Room_amenities_4.png)
 
   
-  - To <span class="label label-warning"> Add </span> a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
+  - To <span class="label label-warning">ADD</span> a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
   
 ![Room_amenities_5.png]({{site.baseurl}}/images/Room_amenities_5.png)
 
