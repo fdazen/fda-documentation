@@ -384,7 +384,13 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 
 - Click on the blue link _Payments_ and access the payment panel:  
 
-![profiles_58.png]({{site.baseurl}}/images/profiles_58.png)
+![profiles_58.png]({{site.baseurl}}/images/profiles_58.png)  
+
+
+- You will see a drop down menu with the written _Transferred Transactions_:  
+
+![profiles_59.png]({{site.baseurl}}/images/profiles_59.png)
+
 
 
 
