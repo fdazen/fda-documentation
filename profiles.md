@@ -276,7 +276,12 @@ Before starting with our transfer, we need to make sure there is a place where w
 
 - Click on the Profile tab on top of your Tape Chart:  
 
-![profiles_42.png]({{site.baseurl}}/images/profiles_42.png)
+![profiles_42.png]({{site.baseurl}}/images/profiles_42.png)  
+
+- Look up your Profile and click on the _Transactions_ tab on the left hand side of the screen:  
+
+![profiles_43.png]({{site.baseurl}}/images/profiles_43.png)
+
 
 
 
