@@ -358,6 +358,7 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 
 
+
 {{site.data.alerts.important}} Clicking on the Invoice will have the system automatically transfer the charges. Although charges are easily reversable, take extra care to select the right Invoice! {{site.data.alerts.end}}
 
 
