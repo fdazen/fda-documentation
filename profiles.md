@@ -15,7 +15,8 @@ Before you learn how to create and use the different profiles available for your
 - To add the Templates and Messages you need, follow the instructions on section [Templates](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html#templates) in this manual.  
 
 
-Remember to choose the option _Profiles_ when you enable the template:  
+{{site.data.alerts.important}}Remember to choose the option _Profiles_ when you enable the template:   {{site.data.alerts.end}}
+
 
 ![profiles_31.png]({{site.baseurl}}/images/profiles_31.png)
 
@@ -70,7 +71,7 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 
 
 
-If you click on the button _CHANGE_, the system will replace the existing guest, and hence the existing Profile ID linked to them, with a new one!    
+If you click on the button _Change_, the system will replace the existing guest, and hence the existing Profile ID linked to them, with a new one!    
 
 
 
@@ -197,9 +198,11 @@ The credit card information will appear in the folio whenever you pull down the 
 
 A **Company Profile** contains information about companies with which the hotel has special partnerships with: you will be able to transfer guest charges directly to the profile, create separate invoices, and keep track of payments.   
 
+
 A **Travel Agent** profile is useful to track charges to apply to the Travel Agents or calculate commissions.
 
 Although they serve different purposes, creation and usage of both profiles is the same.  
+
 
 
 ###**Adding Customizable Fields for Travel Agent/Company Profiles**  
@@ -254,15 +257,3 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 
 ![profiles_34.png]({{site.baseurl}}/images/profiles_34.png)
-
-
-
-
-
-
-
-
-
-
-
-
