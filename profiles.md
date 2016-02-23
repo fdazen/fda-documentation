@@ -333,7 +333,13 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 - Select the charges you wish to transfer by clicking on the check-boxes on the left hand side of each charge type:  
 
 
-![profiles_51.png]({{site.baseurl}}/images/profiles_51.png)
+![profiles_51.png]({{site.baseurl}}/images/profiles_51.png)  
+
+
+- Click on the button _Transfer Charges_ on the top left hand side of the screen:  
+
+![profiles_52.png]({{site.baseurl}}/images/profiles_52.png)
+
 
 
 
