@@ -10,12 +10,12 @@ summary: "The Profile Tab contains information about your guests, travel agents,
 ##**Getting Set up/Profile Templates**
   
   
-Before you learn how to create and use the different profiles available for your account, it is important to have all templates set-up. This is important to have everything ready, before you actually start using any of the profiles!  
+Before you learn how to create and use the different profiles available for your account, it is important to have all templates set-up for this section. This is important to have everything ready, before you actually start using any of the profiles!  
 
 - To add the Templates and Messages you need, follow the instructions on section [Templates](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html#templates) in this manual.  
 
 
-{{site.data.alerts.important}}Remember to choose the option _Profiles_ when you enable the template:   {{site.data.alerts.end}}
+{{site.data.alerts.important}}Remember to choose the option _Profiles_ when you enable the template: {{site.data.alerts.end}}
 
 
 ![profiles_31.png]({{site.baseurl}}/images/profiles_31.png)
@@ -251,6 +251,7 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 ![profiles_32.png]({{site.baseurl}}/images/profiles_32.png)  
 
+
 - You will also have the chance to perform an advanced search that will enable you to look up specific Profile Types. To do this, click on the button _Advanced_ and select the right option:  
 
 ![profiles_33.png]({{site.baseurl}}/images/profiles_33.png)
@@ -259,4 +260,7 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 - Some of the fields created for the profile will also appear in the search panel, which will be useful to narrow down your search:  
 
 
-![profiles_34.png]({{site.baseurl}}/images/profiles_34.png)
+![profiles_34.png]({{site.baseurl}}/images/profiles_34.png)  
+
+
+
