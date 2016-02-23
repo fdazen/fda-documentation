@@ -321,7 +321,12 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 - Click on the blue link _Payments_ to access the payment panel:  
 
 
-![profiles_49.png]({{site.baseurl}}/images/profiles_49.png)
+![profiles_49.png]({{site.baseurl}}/images/profiles_49.png)  
+
+
+- Click on the _Uninvoiced Transactions_ drop down menu to visualize all charges that have not yet been invoiced and that you can transfer to the Profile:  
+
+
 
 
 
