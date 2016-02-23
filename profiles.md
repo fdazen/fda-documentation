@@ -320,6 +320,7 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 - Click on the blue link _Payments_ to access the payment panel:  
 
+
 ![profiles_49.png]({{site.baseurl}}/images/profiles_49.png)
 
 
