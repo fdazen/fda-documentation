@@ -264,3 +264,6 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 
 
+
+##**Transferring Folio Charges to Profiles**  
+
