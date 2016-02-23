@@ -351,6 +351,12 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 ![profiles_54.png]({{site.baseurl}}/images/profiles_54.png)  
 
+- When charges are transferred, you won't be able to see them in the _Uninvoiced Transaction List_ anymore, and they will be taken off the overrall balance of the folio. A new drop down menu will appear, called _Trasferred Transactions_ and it will bear information on all transferred charges:  
+
+
+![profiles_55.png]({{site.baseurl}}/images/profiles_55.png)
+
+
 
 {{site.data.alerts.important}} Clicking on the Invoice will have the system automatically transfer the charges. Although charges are easily reversable, take extra care to select the right Invoice! {{site.data.alerts.end}}
 
