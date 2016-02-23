@@ -364,6 +364,8 @@ Now that you have your Invoice created for the right Profile, you can proceed to
   
   
 - The charges that have been transferred to the Profile will now appear in the selected invoice, in the Profile Tab:  
+  
+
 
 ![profiles_56.png]({{site.baseurl}}/images/profiles_56.png)
 
