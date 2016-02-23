@@ -342,9 +342,17 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 ![profiles_52.png]({{site.baseurl}}/images/profiles_52.png)  
 
 
-- In the _Profile Search_ box place the number of the profile you want to transfer charges to:  
+- In the _Profile Search_ box place the number of the profile you want to transfer charges to: a suggestion will be prompted to you.
 
-![profiles_53.png]({{site.baseurl}}/images/profiles_53.png)
+![profiles_53.png]({{site.baseurl}}/images/profiles_53.png)  
+
+
+- Click on the prompted suggestion and all created invoices for that Profile will appear as clickable options. In the example below, our Profile has only one Invoice created, called _Wedding Party_:  
+
+![profiles_54.png]({{site.baseurl}}/images/profiles_54.png)
+
+
+
 
 
 
