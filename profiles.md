@@ -307,7 +307,15 @@ Before starting with our transfer, we need to make sure there is a place where w
 ![profiles_47.png]({{site.baseurl}}/images/profiles_47.png)  
 
 
-###**Step 2 - Transferring Charges to The Profile Invoice**  
+###**Step 2 - Transferring Charges to The Profile Invoice**    
+
+
+Now that you have your Invoice created for the right Profile, you can proceed to transfer charges from the folio/s.  
+
+- Open the folio you want to transfer charges from:  
+
+![profiles_48.png]({{site.baseurl}}/images/profiles_48.png)
+
 
 
 
