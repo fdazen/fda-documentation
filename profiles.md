@@ -314,7 +314,14 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 - Open the folio you want to transfer charges from:  
 
-![profiles_48.png]({{site.baseurl}}/images/profiles_48.png)
+
+![profiles_48.png]({{site.baseurl}}/images/profiles_48.png)  
+
+
+- Click on the blue link _Payments_ to access the payment panel:  
+
+
+
 
 
 
