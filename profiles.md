@@ -386,12 +386,22 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 
 ![profiles_58.png]({{site.baseurl}}/images/profiles_58.png)  
 
+  
+- As a first thing, you will need to create a new invoice that is to receive the transfers back into the folio. The _Uninvoiced Transactions_ drop down menu is not properly an Invoice, as it displays charges but does not _contains_ them. Hence, click on the button _Create Invoice_ on the top right hand side of the panel: 
 
+
+![profiles_60.png]({{site.baseurl}}/images/profiles_60.png)
+
+  
+  
 - You will see a drop down menu with the written _Transferred Transactions_: if you click on it, you will see a list of all those transactios that have been transferred to the Profile Invoice:  
 
 
 ![profiles_59.png]({{site.baseurl}}/images/profiles_59.png)
-
+  
+  
+  
+  
 
 
 
