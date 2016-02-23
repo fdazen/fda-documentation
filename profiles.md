@@ -327,6 +327,10 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 - Click on the _Uninvoiced Transactions_ drop down menu to visualize all charges that have not yet been invoiced and that you can transfer to the Profile:  
 
 
+![profiles_50.png]({{site.baseurl}}/images/profiles_50.png)
+
+
+
 
 
 
