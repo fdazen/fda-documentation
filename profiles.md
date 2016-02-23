@@ -420,6 +420,7 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 
 - Select the Invoice you want to transfer the charges to: the transfers will be automatically moved from the Profile Invoice back to the selected Invoice in the folio:  
 
+
 ![profiles_64.png]({{site.baseurl}}/images/profiles_64.png)
 
 
