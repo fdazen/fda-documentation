@@ -7,7 +7,7 @@ summary: "The Profile Tab contains information about your guests, travel agents,
 
 
 
-##**Getting Set up/Profile Templates**
+##**Getting Set Up/Profile Templates**
   
   
 Before you learn how to create and use the different profiles available for your account, it is important to have all templates set-up for this section. This is important to have everything ready, before you actually start using any of the profiles!  
@@ -299,6 +299,14 @@ Before starting with our transfer, we need to make sure there is a place where w
 
 
 ![profiles_46.png]({{site.baseurl}}/images/profiles_46.png)
+
+  
+- Make sure you note down the Profile Number associated with the newly created invoice:  
+
+
+![profiles_47.png]({{site.baseurl}}/images/profiles_47.png)  
+
+
 
 
 
