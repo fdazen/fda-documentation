@@ -336,9 +336,16 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 ![profiles_51.png]({{site.baseurl}}/images/profiles_51.png)  
 
 
-- Click on the button _Transfer Charges_ on the top left hand side of the screen:  
+- Click on the button _Transfer Charges_ on the top left hand side of the screen: you will see a small editable box with the written _Profile Search_. 
 
-![profiles_52.png]({{site.baseurl}}/images/profiles_52.png)
+
+![profiles_52.png]({{site.baseurl}}/images/profiles_52.png)  
+
+
+- In the _Profile Search_ box place the number of the profile you want to transfer charges to:  
+
+![profiles_53.png]({{site.baseurl}}/images/profiles_53.png)
+
 
 
 
