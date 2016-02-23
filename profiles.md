@@ -371,7 +371,9 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 
 
-###**
+###**Reversing Transfers From a Profile Invoice to a Folio**  
+
+
 
 
 
