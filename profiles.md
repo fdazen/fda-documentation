@@ -409,7 +409,24 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 - Click on the button _Transfer Charges_:  
 
 
-![profiles_62.png]({{site.baseurl}}/images/profiles_62.png)
+![profiles_62.png]({{site.baseurl}}/images/profiles_62.png)  
+
+
+- A drop dow menu will pop up: notice that all created invoices for the folio will appear right below the editable box for the Profile Search:  
+
+
+![profiles_63.png]({{site.baseurl}}/images/profiles_63.png)  
+
+
+- Select the Invoice you want to transfer the charges to: the transfers will be automatically moved from the Profile Invoice back to the selected Invoice in the folio:  
+
+![profiles_64.png]({{site.baseurl}}/images/profiles_64.png)
+
+
+
+
+
+
  
   
   
