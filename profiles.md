@@ -283,6 +283,9 @@ Before starting with our transfer, we need to make sure there is a place where w
 ![profiles_43.png]({{site.baseurl}}/images/profiles_43.png)
 
 
+- Click on the button _Create Invoice_:  
+
+![profiles_44.png]({{site.baseurl}}/images/profiles_44.png)
 
 
 
