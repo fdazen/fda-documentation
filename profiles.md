@@ -71,7 +71,7 @@ Every reservation folio is tied to a Profile ID, which you can look up in the Pr
 
 
 
-If you click on the button _CHANGE_, the system will replace the existing guest, and hence the existing Profile ID linked to them, with a new one!    
+If you click on the button _Change_, the system will replace the existing guest, and hence the existing Profile ID linked to them, with a new one!    
 
 
 
