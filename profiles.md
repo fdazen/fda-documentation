@@ -267,7 +267,7 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 ##**Transferring Folio Charges to Profiles**  
 
-Transferring charges from individual or group folios to a Profile enables you to keep track of credits/debts of each hotel partner associated with the Profile.  
+Transferring charges from individual or group folios to a Profile enables you to keep track of credits/debts of each hotel partner associated with the Profile. This operation is a two-step process.
 
 
 ###**Step 1 - Create an Invoice for the Profile**  
@@ -371,7 +371,7 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 
 
-
+###**
 
 
 
