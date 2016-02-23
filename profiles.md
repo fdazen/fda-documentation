@@ -307,7 +307,7 @@ Before starting with our transfer, we need to make sure there is a place where w
 ![profiles_47.png]({{site.baseurl}}/images/profiles_47.png)  
 
 
-
+###**Step 2 - Transferring Charges to The Profile Invoice**  
 
 
 
