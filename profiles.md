@@ -349,7 +349,11 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 - Click on the prompted suggestion and all created invoices for that Profile will appear as clickable options. In the example below, our Profile has only one Invoice created, called _Wedding Party_:  
 
-![profiles_54.png]({{site.baseurl}}/images/profiles_54.png)
+![profiles_54.png]({{site.baseurl}}/images/profiles_54.png)  
+
+
+{{site.data.alerts.important}} Clicking on the Invoice will have the system automatically transfer the charges. Although charges are easily reversable, take extra care to select the right Invoice! {{site.data.alerts.end}}
+
 
 
 
