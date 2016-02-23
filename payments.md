@@ -9,8 +9,7 @@ published: true
 ---
 
 
-  
-  
+   
 
 ##**The Payment Panel**  
 
