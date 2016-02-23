@@ -1,12 +1,9 @@
----
-title: Profiles
+
 tags: 
   - Profiles
 keywords: "profiles, guest profile, company profile, travel agent profile, invoice profile, search profile, create profile"
 last_updated: "February 16th, 2016"
-summary: "The Profile Tab contains information about your guests, travel agents, companies, and any business source your hotels uses or has a partnership with. You can think of profiles as sort of special containers that gather a wide range of information, from demographics to payment history to guest preferences. Profiles are also very useful when creating new reservations, as information is stored and prompted as suggestions in the folios."
-published: true
----   
+summary: "The Profile Tab contains information about your guests, travel agents, companies, and any business source your hotels uses or has a partnership with. You can think of profiles as sort of special containers that gather a wide range of information, from demographics to payment history to guest preferences. Profiles are also very useful when creating new reservations, as information is stored and prompted as suggestions in the folios."   
 
 
 
@@ -376,17 +373,11 @@ Now that you have your Invoice created for the right Profile, you can proceed to
 
 ###**Reversing Transfers From a Profile Invoice to a Folio**  
 
+If you made a mistake when transferring charges to the profile, you may reverse transfers easily, directly from the folio.  
 
 
+- Click on the folio where transfers have been sent from:  
 
 
-
-
-
-
-
-
-
-
-
+![profiles_57.png]({{site.baseurl}}/images/profiles_57.png)
 
