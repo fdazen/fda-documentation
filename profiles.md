@@ -387,9 +387,16 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 ![profiles_58.png]({{site.baseurl}}/images/profiles_58.png)  
 
 
-- You will see a drop down menu with the written _Transferred Transactions_:  
+- You will see a drop down menu with the written _Transferred Transactions_: if you click on it, you will see a list of all those transactios that have been transferred to the Profile Invoice:  
 
-![profiles_59.png]({{site.baseurl}}/images/profiles_59.png)
+
+
+
+
+
+
+
+
 
 
 
