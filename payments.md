@@ -10,7 +10,6 @@ published: true
 
 
    
-
 ##**The Payment Panel**  
 
  - The payment section is located on the right column of the folio, right under the summary of all charges, and it is accessible by clicking on the blue _Payment_ link:  
