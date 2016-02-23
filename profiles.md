@@ -400,11 +400,17 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 
   
   
-- You will see a drop down menu with the written _Transferred Transactions_: if you click on it, you will see a list of all those transactios that have been transferred to the Profile Invoice:  
+- Now that you have created an Invoice in the folio to revert the transfers to, you can finally transfer the charges. Click on the drop down menu with the written _Transferred Transactions_ and select those charges that have been transferred to the Profile Invoice and that you want to revert to the folio:  
 
 
-![profiles_59.png]({{site.baseurl}}/images/profiles_59.png)
-  
+![profiles_59.png]({{site.baseurl}}/images/profiles_59.png)  
+
+
+- Click on the button _Transfer Charges_:  
+
+
+![profiles_62.png]({{site.baseurl}}/images/profiles_62.png)
+ 
   
   
   
