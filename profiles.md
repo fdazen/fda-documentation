@@ -392,6 +392,12 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 
 ![profiles_60.png]({{site.baseurl}}/images/profiles_60.png)
 
+
+- A new drop down menu with the tag _New Invoice_ will appear: click on the name, and the field will become editable thus enabling you to give the new Invoice a name. Type in a new name and **press the button ENTER** on your keyboard:  
+
+
+![profiles_61.png]({{site.baseurl}}/images/profiles_61.png)
+
   
   
 - You will see a drop down menu with the written _Transferred Transactions_: if you click on it, you will see a list of all those transactios that have been transferred to the Profile Invoice:  
