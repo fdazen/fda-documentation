@@ -201,17 +201,20 @@ A **Company Profile** contains information about companies with which the hotel 
 
 A **Travel Agent** profile is useful to track charges to apply to the Travel Agents or calculate commissions.
 
-Although they serve different purposes, creation and usage of both profiles is the same.  
+
+Although they serve different purposes, creation and usage of both profiles is the same, so the information below can be used interchangeably.  
 
 
 
 ###**Adding Customizable Fields for Travel Agent/Company Profiles**  
 
+
 As a first thing, you will need to add all those fields you want to be applicable and required for Travel Agents and Companies: differently from a Guest Profile, 
-fields for Company/Travel Agent profiles may change drastically from one hotel to another: for this reason you will be able to create only those special fields your hotel needs!  
+fields for Company/Travel Agent profiles may be drastically different from one hotel to another: for this reason there are no fields loaded in the system, and you will have to create them all.  
+
 Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/general.html#guest-information-and-reservation-information-custom-fields) for instructions on how to create custom fields.  
 
-**Note**: remember to select the right option from the custom fields page when creating fields for Companies or Travel Agents:  
+{{site.data.alerts.note}} Remember to select the right option from the custom fields page when creating fields for Companies or Travel Agents: {{site.data.alerts.end}}
 
 ![profiles_26.png]({{site.baseurl}}/images/profiles_26.png)
 
