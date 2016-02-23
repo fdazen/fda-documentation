@@ -379,5 +379,14 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 - Click on the folio where transfers have been sent from:  
 
 
-![profiles_57.png]({{site.baseurl}}/images/profiles_57.png)
+![profiles_57.png]({{site.baseurl}}/images/profiles_57.png)  
+
+
+- Click on the blue link _Payments_ and access the payment panel:  
+
+![profiles_58.png]({{site.baseurl}}/images/profiles_58.png)
+
+
+
+
 
