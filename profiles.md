@@ -15,7 +15,8 @@ Before you learn how to create and use the different profiles available for your
 - To add the Templates and Messages you need, follow the instructions on section [Templates](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html#templates) in this manual.  
 
 
-Remember to choose the option _Profiles_ when you enable the template:  
+{{site.data.alerts.important}}Remember to choose the option _Profiles_ when you enable the template:   {{site.data.alerts.end}}
+
 
 ![profiles_31.png]({{site.baseurl}}/images/profiles_31.png)
 
@@ -254,15 +255,3 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 
 ![profiles_34.png]({{site.baseurl}}/images/profiles_34.png)
-
-
-
-
-
-
-
-
-
-
-
-
