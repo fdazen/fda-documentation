@@ -285,13 +285,18 @@ Before starting with our transfer, we need to make sure there is a place where w
 
 - Click on the button _Create Invoice_:  
 
+
 ![profiles_44.png]({{site.baseurl}}/images/profiles_44.png)  
+
 
 - A new drop down menu with the tag _New Invoice_ will appear below the Create Invoice button:  
 
+
 ![profiles_45.png]({{site.baseurl}}/images/profiles_45.png)  
 
+
 - Click on the written _New Invoice_, and the field will become editable: place the name you want to give the Invoice and **click ENTER on your keyboard** to save your changes:  
+
 
 ![profiles_46.png]({{site.baseurl}}/images/profiles_46.png)
 
