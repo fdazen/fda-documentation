@@ -3,8 +3,10 @@ tags:
   - Profiles
 keywords: "profiles, guest profile, company profile, travel agent profile, invoice profile, search profile, create profile"
 last_updated: "February 16th, 2016"
-summary: "The Profile Tab contains information about your guests, travel agents, companies, and any business source your hotels uses or has a partnership with. You can think of profiles as sort of special containers that gather a wide range of information, from demographics to payment history to guest preferences. Profiles are also very useful when creating new reservations, as information is stored and prompted as suggestions in the folios."   
+summary: "The Profile Tab contains information about your guests, travel agents, companies, and any business source your hotels uses or has a partnership with. You can think of profiles as sort of special containers that gather a wide range of information, from demographics to payment history to guest preferences. Profiles are also very useful when creating new reservations, as information is stored and prompted as suggestions in the folios."
+published: true
 ---
+
 
 
 ##**Getting Set Up/Profile Templates**
@@ -15,7 +17,7 @@ Before you learn how to create and use the different profiles available for your
 - To add the Templates and Messages you need, follow the instructions on section [Templates](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html#templates) in this manual.  
 
 
-{{site.data.alerts.important}}Remember to choose the option _Profiles_ when you enable the template: {{site.data.alerts.end}}
+{{site.data.alerts.important}}Remember to choose the option Profiles when you enable the template: {{site.data.alerts.end}}
 
 
 ![profiles_31.png]({{site.baseurl}}/images/profiles_31.png)
@@ -474,13 +476,4 @@ You can store one or multiple credit cards for each Profile: this feature comes 
 - The card is also easily accessible from the Profile _Transactions_ tab, when the option to choose a credit card is selected:  
 
 
-![profiles_71.png]({{site.baseurl}}/images/profiles_71.png)  
-
-
-
-
-
-
-
-
-
+![profiles_71.png]({{site.baseurl}}/images/profiles_71.png)
