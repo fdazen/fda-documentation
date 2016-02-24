@@ -62,7 +62,8 @@ The **Total** field shows the total amount of payment received, while the **Bala
 - Fill in the _Cheque_ box with the check number, if you are recording a cheque payment, otherwise place the amount the guest is paying in the box on the left:   
 
 
-![payments_7.png]({{site.baseurl}}/images/payments_7.png)  
+![payments_7.png]({{site.baseurl}}/images/payments_7.png)
+
 
 
 - If applicable, write down the recept number in the _Receipt Number_ box and a description in the box with the tag _Description_:  
