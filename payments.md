@@ -181,7 +181,14 @@ Note that as items are being selected, the sum will change in the apposite field
 ![payments_20.png]({{site.baseurl}}/images/payments_20.png)
 
  
-  
+
+- If you select the items to charge directly by choosing them from the _Uninvoiced Transactions_ drop down menu, you will be able to refund an amount corresponding to the items. As mentioned, start by choosing what charges you want the guest to pay off:  
+
+![payments_53.png]({{site.baseurl}}/images/payments_53.png)
+
+
+
+
 ##**Capturing Credit Card Details With Credit Card Swiper**  
     
     
