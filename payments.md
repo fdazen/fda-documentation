@@ -142,6 +142,7 @@ Note that as items are being selected, the sum will change in the apposite field
 
 
 ![payments_13.png]({{site.baseurl}}/images/payments_13.png)
+
   
 
 
