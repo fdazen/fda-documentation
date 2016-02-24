@@ -66,7 +66,7 @@ The **Total** field shows the total amount of payment received, while the **Bala
 
 
 
-- If applicable, write down the recept number in the _Receipt Number_ box and a description in the box with the tag _Description_:  
+- If applicable, write down the receipt number in the _Receipt Number_ box and a description in the box with the tag _Description_:  
 
 
 ![payments_8.png]({{site.baseurl}}/images/payments_8.png)
