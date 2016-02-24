@@ -463,7 +463,14 @@ You can store one or multiple credit cards for each Profile: this feature comes 
 
 - The credit card is now stored. To see the deatils, just click on the drop down menu with the tag _Credit Card_:  
 
-![profiles_70.png]({{site.baseurl}}/images/profiles_70.png)
+
+![profiles_70.png]({{site.baseurl}}/images/profiles_70.png)  
+
+
+- The card is also easily accessible from the Profile _Transactions_ tab, when the option to choose a credit card is selected:  
+
+![profiles_71.png]({{site.baseurl}}/images/profiles_71.png)
+
 
 
 
