@@ -339,6 +339,7 @@ Note that the Authorized Amount will be, in this case, reduced by the amount cap
 - To capture the selected amount and release the rest of the authorized amount, click on the button _Capture and Release_:    
 
 ![payments_31.png]({{site.baseurl}}/images/payments_31.png)
+
   
   
  The _Authorization_ has disappeared, as we have released the held on the sum selected.  
