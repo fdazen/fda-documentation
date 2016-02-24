@@ -131,11 +131,11 @@ Note that as items are being selected, the sum will change in the apposite field
 ![payments_11.png]({{site.baseurl}}/images/payments_11.png)
 
 
-
 - Check the box with the tag _Take as Deposit_ and click on the button _Pay Now_:  
 
 
-![payments_12.png]({{site.baseurl}}/images/payments_12.png)  
+![payments_12.png]({{site.baseurl}}/images/payments_12.png)
+
 
 
 - If you open the _Payments_ drop down menu, you will see that the sum is recorded in the system as a _Deposit_, and not under _Amount_:  
