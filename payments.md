@@ -268,6 +268,7 @@ If your account is integrated with a Payment Gateway, you will be able to _proce
 
 - To process a payment, click on the blue link _Payments_ in the folio, and select **Credit card** from the Payment Type drop down menu:  
 
+
 ![payments_22.png]({{site.baseurl}}/images/payments_22.png)
 
 
@@ -275,7 +276,8 @@ If your account is integrated with a Payment Gateway, you will be able to _proce
 - Enter the credit card type from the _Card Type_ drop down menu. Note that if the guest has a credit card loaded in the folio, there will be an option to select that card:  
 
 
-![payments_23.png]({{site.baseurl}}/images/payments_23.png)  
+ ![payments_23.png]({{site.baseurl}}/images/payments_23.png)
+
 
 
 In the case you select the existent card, all relevant fields will be automatically filled in; otherwise, you can select the card type and insert the card number and the expiration dates.  
