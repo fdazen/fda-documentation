@@ -284,7 +284,8 @@ In the case you select the existent card, all relevant fields will be automatica
 
 - Place the amount you want to charge the guest:  
 
-![payments_24.png]({{site.baseurl}}/images/payments_24.png)  
+ ![payments_24.png]({{site.baseurl}}/images/payments_24.png)
+
 
 
 - When Payment Gateway is active you will have the option to either charge the card, or authorize it:  
