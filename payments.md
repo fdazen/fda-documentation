@@ -128,7 +128,8 @@ Note that as items are being selected, the sum will change in the apposite field
 - You can record security deposits directly from the same Payment screen. Choose the Pay Type and insert the amount you want to have recorded as a deposit:  
 
 
-![payments_11.png]({{site.baseurl}}/images/payments_11.png)  
+![payments_11.png]({{site.baseurl}}/images/payments_11.png)
+
 
 
 - Check the box with the tag _Take as Deposit_ and click on the button _Pay Now_:  
