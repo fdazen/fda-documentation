@@ -329,7 +329,7 @@ As you can see from the example above, the amount corresponding to the Authoriza
 
  - You will see two options: to capture the chosen amount and retain the rest of the authorized amount (hold), click on the button _Capture and Retain_:  
 
-![payments_30.png]({{site.baseurl}}/images/payments_30.png)  
+![payments_30.png]({{site.baseurl}}/images/payments_30.png)
 
 
 Note that the Authorized Amount will be, in this case, reduced by the amount captured. In the example above, the original amount authorized was $250, we have decided to capture $50 and retain the rest, so the current hold is of $200.  
