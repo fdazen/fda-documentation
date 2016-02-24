@@ -21,6 +21,10 @@ Before you learn how to create and use the different profiles available for your
 ![profiles_31.png]({{site.baseurl}}/images/profiles_31.png)
 
 
+- The templates you added will show in the Profile tab, under tab _Documents_:  
+
+![profiles_72.png]({{site.baseurl}}/images/profiles_72.png)
+
 
 ##**Single Profile**  
 
