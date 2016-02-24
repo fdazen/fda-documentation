@@ -191,8 +191,13 @@ Note that as items are being selected, the sum will change in the apposite field
 - Choose your payment type and click on the button _Pay Now_:  
 
 
-![payments_54.png]({{site.baseurl}}/images/payments_54.png)
+![payments_54.png]({{site.baseurl}}/images/payments_54.png)  
 
+
+
+- If you click on the _Payments_ drop down menu, and then you click on the green button _Payment_ corresponding to the action you just performed, you will be able to see another panel called _Applied to Transactions_:  
+
+![payments_55.png]({{site.baseurl}}/images/payments_55.png)
 
 
 
