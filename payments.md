@@ -46,7 +46,8 @@ The **Total** field shows the total amount of payment received, while the **Bala
  - The **Payment Type** section is where you actually submit the payments:    
  
  
- ![payments_5.png]({{site.baseurl}}/images/payments_5.png)  
+![payments_5.png]({{site.baseurl}}/images/payments_5.png)
+
 
 
 ##**Recording a Payment**
