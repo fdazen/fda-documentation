@@ -445,7 +445,14 @@ You can store one or multiple credit cards for each Profile: this feature comes 
 
 - Clicking on the Profile will load the information panel on the right hand side: click on the tab _Credit Card_:  
 
-![profiles_67.png]({{site.baseurl}}/images/profiles_67.png)
+
+![profiles_67.png]({{site.baseurl}}/images/profiles_67.png)  
+
+
+- Just like as if you were to add a credit card in a regular folio, click on the icon with the three horizontal lines and then on the button _Add Cards_:  
+
+![profiles_68.png]({{site.baseurl}}/images/profiles_68.png)
+
 
 
 
