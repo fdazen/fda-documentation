@@ -178,7 +178,8 @@ Note that as items are being selected, the sum will change in the apposite field
  
  
  
- ![payments_20.png]({{site.baseurl}}/images/payments_20.png)  
+![payments_20.png]({{site.baseurl}}/images/payments_20.png)
+
  
   
 ##**Capturing Credit Card Details With Credit Card Swiper**  
