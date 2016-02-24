@@ -301,8 +301,9 @@ In the case you select the existent card, all relevant fields will be automatica
 
 - If you choose to authorize the card, you will receive a _Payment Successful_ message on the screen. You can open the Payments drop down menu to look up the authorization:  
 
-![payments_26.png]({{site.baseurl}}/images/payments_26.png)
 
+
+![payments_26.png]({{site.baseurl}}/images/payments_26.png)
 
 
 As you can see from the example above, the amount corresponding to the Authorization appears in light grey, and the balance is not being affected by it.  
