@@ -421,23 +421,15 @@ If you made a mistake when transferring charges to the profile, you may reverse 
 - Select the Invoice you want to transfer the charges to: the transfers will be automatically moved from the Profile Invoice back to the selected Invoice in the folio:  
 
 
-![profiles_64.png]({{site.baseurl}}/images/profiles_64.png)
+![profiles_64.png]({{site.baseurl}}/images/profiles_64.png)  
 
 
+##**Storing a Credit Card for a Profile**  
+
+You can store one or multiple credit cards for each Profile: this feature comes quite handy when you have to perform recurrent payments for Travel Agents or Company, but you can also use this for your hotel's returning guests!  
 
 
-
-
- 
-  
-  
-  
-
-
-
-
-
-
+- Click on the _Profiles Tab_ on top of your Tape Chart:  
 
 
 
