@@ -304,6 +304,7 @@ In the case you select the existent card, all relevant fields will be automatica
 ![payments_26.png]({{site.baseurl}}/images/payments_26.png)
 
 
+
 As you can see from the example above, the amount corresponding to the Authorization appears in light grey, and the balance is not being affected by it.  
 
 - If you click on the _Authorization_ blue button, you will be able to access the details and see the available actions that you can perform:  
