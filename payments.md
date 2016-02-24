@@ -345,7 +345,7 @@ Note that the Authorized Amount will be, in this case, reduced by the amount cap
  The _Authorization_ has disappeared, as we have released the held on the sum selected.  
 
 
-- When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the **refund option is only available for charges that have already been processed by the merchant account**; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.  
+{{site.data.alerts.important}}  When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the **refund option is only available for charges that have already been processed by the merchant account**; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.{{site.data.alerts.end}}
 
 
 ##**Transferring Charges**      
