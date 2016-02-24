@@ -86,6 +86,7 @@ The **Total** field shows the total amount of payment received, while the **Bala
 
 
 
+
 From that panel you can see the type of operation performed, the type of payment used, the date and time when the operation was successfully recorded in the system and the user that performed the action. The system will also show you the oustanding balance after the payment.    
 
 
