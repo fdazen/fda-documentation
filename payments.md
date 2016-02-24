@@ -323,7 +323,8 @@ As you can see from the example above, the amount corresponding to the Authoriza
 
 - If you want to capture the amount, or part of the authorized amount (held), insert the relevant value in the box and click on the blue button _Capture_:  
 
-![payments_29.png]({{site.baseurl}}/images/payments_29.png)  
+![payments_29.png]({{site.baseurl}}/images/payments_29.png)
+
 
 
  - You will see two options: to capture the chosen amount and retain the rest of the authorized amount (hold), click on the button _Capture and Retain_:  
