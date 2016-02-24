@@ -184,7 +184,15 @@ Note that as items are being selected, the sum will change in the apposite field
 
 - If you select the items to charge directly by choosing them from the _Uninvoiced Transactions_ drop down menu, you will be able to refund an amount corresponding to the items. As mentioned, start by choosing what charges you want the guest to pay off:  
 
-![payments_53.png]({{site.baseurl}}/images/payments_53.png)
+
+![payments_53.png]({{site.baseurl}}/images/payments_53.png)  
+
+
+- Choose your payment type and click on the button _Pay Now_:  
+
+
+![payments_54.png]({{site.baseurl}}/images/payments_54.png)
+
 
 
 
