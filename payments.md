@@ -317,7 +317,8 @@ As you can see from the example above, the amount corresponding to the Authoriza
 
 - If you need to release the authorized amount, simply click on the red button _Release_:  
 
-![payments_28.png]({{site.baseurl}}/images/payments_28.png)  
+ ![payments_28.png]({{site.baseurl}}/images/payments_28.png)
+
 
 
 - If you want to capture the amount, or part of the authorized amount (held), insert the relevant value in the box and click on the blue button _Capture_:  
