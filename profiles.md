@@ -440,6 +440,12 @@ You can store one or multiple credit cards for each Profile: this feature comes 
 - Look up the Profile you want to store the credit card for:  
 
 
-![profiles_66.png]({{site.baseurl}}/images/profiles_66.png)
+![profiles_66.png]({{site.baseurl}}/images/profiles_66.png)  
+
+
+- Clicking on the Profile will load the information panel on the right hand side: click on the tab _Credit Card_:  
+
+![profiles_67.png]({{site.baseurl}}/images/profiles_67.png)
+
 
 
