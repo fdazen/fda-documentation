@@ -434,5 +434,12 @@ You can store one or multiple credit cards for each Profile: this feature comes 
 - Click on the _Profiles Tab_ on top of your Tape Chart:  
 
 
-![profiles_65.png]({{site.baseurl}}/images/profiles_65.png)
+![profiles_65.png]({{site.baseurl}}/images/profiles_65.png)  
+
+
+- Look up the Profile you want to store the credit card for:  
+
+
+![profiles_66.png]({{site.baseurl}}/images/profiles_66.png)
+
 
