@@ -332,7 +332,7 @@ As you can see from the example above, the amount corresponding to the Authoriza
 ![payments_30.png]({{site.baseurl}}/images/payments_30.png)
 
 
-Note that the Authorized Amount will be, in this case, reduced by the amount captured. In the example above, the original amount authorized was $250, we have decided to capture $50 and retain the rest, so the current hold is of $200.  
+Note that the Authorized Amount will be, in this case, reduced by the amount captured. In the example above, the original amount authorized was $70, we have decided to capture $50 and retain the rest, so the current hold is of $20.  
 
 
 - To capture the selected amount and release the rest of the authorized amount, click on the button _Capture and Release_:    
