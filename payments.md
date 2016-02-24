@@ -311,7 +311,8 @@ As you can see from the example above, the amount corresponding to the Authoriza
 - If you click on the _Authorization_ blue button, you will be able to access the details and see the available actions that you can perform:  
 
 
-![payments_27.png]({{site.baseurl}}/images/payments_27.png)  
+![payments_27.png]({{site.baseurl}}/images/payments_27.png)
+
 
 
 - If you need to release the authorized amount, simply click on the red button _Release_:  
