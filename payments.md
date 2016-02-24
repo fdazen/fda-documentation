@@ -171,8 +171,6 @@ Note that as items are being selected, the sum will change in the apposite field
 - This will bring up information about the payment, and all possible operations that are available to perform:  
 
 
-![payments_19.png]({{site.baseurl}}/images/payments_19.png)   
-
 
  **Convert To Payment** will turn the security deposits into a payment.
  **Void** will annul the payment.  
