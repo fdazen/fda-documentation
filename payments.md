@@ -100,7 +100,8 @@ From that panel you can see the type of operation performed, the type of payment
 - Select the items the guest wishes to pay for by checking the box on the left hand side of each item:  
 
 
-![payments_16.png]({{site.baseurl}}/images/payments_16.png)  
+![payments_16.png]({{site.baseurl}}/images/payments_16.png)
+
 
 
 Note that as items are being selected, the sum will change in the apposite field: in the example above, the guest is only paying for the additional items, for a total sum of $85. This comes very hand when the bill needs to be split among different people. However, note that **charges and corresponding payments are not linked in the system**: this means that invoices and reports won't record that a certain payment has been submitted for a certain charge.  
