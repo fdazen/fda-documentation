@@ -46,6 +46,7 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 
 
+![tape_chart_4.png]({{site.baseurl}}/images/tape_chart_4.png)
 
  
  
