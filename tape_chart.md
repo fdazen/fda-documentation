@@ -170,7 +170,10 @@ You can search your reservations by using different variables.
 ![tape_chart_23.png]({{site.baseurl}}/images/tape_chart_23.png)
 
 
+- You can perform an advanced search by choosing different variables from the drop down menu next to the editable box for the Look Up:  
 
+
+![tape_chart_24.png]({{site.baseurl}}/images/tape_chart_24.png)
 
 
 
