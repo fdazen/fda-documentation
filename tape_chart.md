@@ -100,6 +100,10 @@ It is possible to save your View preferences for your user.
 ![tape_chart_13.png]({{site.baseurl}}/images/tape_chart_13.png)
 
  
+- Select the type of view you want to have the Tape Chart display:  
+
+
+![tape_chart_14.png]({{site.baseurl}}/images/tape_chart_14.png)
 
 
 
