@@ -134,6 +134,13 @@ An _Expanded_ view type will show you all availability for all room types:
 ![tape_chart_18.png]({{site.baseurl}}/images/tape_chart_18.png)
 
 
+This tool comes very handy when you will have to check availability for a particular date or date range for a certain room.  
+
+
+- To bring the calendar back to today's date, click on the button with the tag _Today_ right underneath the calendar box:  
+
+
+![tape_chart_19.png]({{site.baseurl}}/images/tape_chart_19.png)
 
 
 
