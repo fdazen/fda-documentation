@@ -23,6 +23,7 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 
 ![tape_chart_1.png]({{site.baseurl}}/images/tape_chart_1.png)
+
   
 
 
@@ -34,8 +35,17 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 
 
- - You can easily see for what dates you are showing availability and what is the corresponding day of the week by looking at the first row on top of the Tape Chart:
+ - The daily overall availability (run of house) will be shown next to the tag _All Availability_:
  
 
-![tape_chart_4.png]({{site.baseurl}}/images/tape_chart_4.png)
+![tape_chart_3.png]({{site.baseurl}}/images/tape_chart_3.png)  
 
+
+- The daily room type availability will be shown next to the room type names:  
+
+
+
+
+ 
+ 
+ 
