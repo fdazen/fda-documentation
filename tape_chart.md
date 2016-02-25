@@ -117,7 +117,9 @@ An _Expanded_ view type will show you all availability for all room types:
 
 ![tape_chart_16.png]({{site.baseurl}}/images/tape_chart_16.png)
 
+
 - Click on the button _Save_ to save your preferences: remember you will have to log out and log back into system in order to see changes being effective.  
+
 
 ![tape_chart_17.png]({{site.baseurl}}/images/tape_chart_17.png)
 
