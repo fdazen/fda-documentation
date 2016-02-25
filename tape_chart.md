@@ -106,7 +106,10 @@ It is possible to save your View preferences for your user.
 ![tape_chart_14.png]({{site.baseurl}}/images/tape_chart_14.png)  
 
 
-A _Collapsed_ view will only show you availability values
+A _Collapsed_ view will only show you availability values without giving you an overview on the room level:  
+
+![tape_chart_15.png]({{site.baseurl}}/images/tape_chart_15.png)
+
 
 
 
