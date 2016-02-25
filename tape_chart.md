@@ -126,6 +126,13 @@ An _Expanded_ view type will show you all availability for all room types:
 ![tape_chart_17.png]({{site.baseurl}}/images/tape_chart_17.png)  
 
 
+###**Updating the Tape Chart For a Particular Day**  
+
+
+- On the left hand side of the Frontdesk screen there is a Calendar Box that will enable you to move the Tape Chart across dates:  
+
+![tape_chart_18.png]({{site.baseurl}}/images/tape_chart_18.png)
+
 
 
 
