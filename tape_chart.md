@@ -59,6 +59,9 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 - Likewise, to display all rooms available at the property, click on the small arrow on the left hand side of the written _All Availability_:  
 
-![tape_chart_6.png]({{site.baseurl}}/images/tape_chart_6.png)
+![tape_chart_6.png]({{site.baseurl}}/images/tape_chart_6.png)  
+
+
+
 
 
