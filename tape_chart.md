@@ -176,7 +176,7 @@ You can search your reservations by using different variables.
 ![tape_chart_24.png]({{site.baseurl}}/images/tape_chart_24.png)
 
 
-
+{{site.data.alerts.warning}} You will be able to perform advanced searches only by accessing the Search Panel and choose the right option among the ones available from the drop down menu. Fromt the Tape Chart Look Up button, you may only look up names or folio numbers. {{site.data.alerts.end}}
 
 
 
