@@ -59,7 +59,14 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 - Likewise, to display all rooms available at the property, click on the small arrow on the left hand side of the written _All Availability_:  
 
+
 ![tape_chart_6.png]({{site.baseurl}}/images/tape_chart_6.png)  
+
+
+- Availability can also be organized and displayed around Floors, Class or a combination between them. On the left hand side of the Tape Chart, there is a drop down menu with the written _View By Type_:  
+
+![tape_chart_7.png]({{site.baseurl}}/images/tape_chart_7.png)
+
 
 
 
