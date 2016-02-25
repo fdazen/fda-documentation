@@ -46,7 +46,14 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 
 
-![tape_chart_4.png]({{site.baseurl}}/images/tape_chart_4.png)
+![tape_chart_4.png]({{site.baseurl}}/images/tape_chart_4.png)  
+
+
+- To display the available rooms under each type, you will simply need to click on the smal arrows on the left hand side of the room type name:  
+
+
+![tape_chart_5.png]({{site.baseurl}}/images/tape_chart_5.png)
+
 
  
  
