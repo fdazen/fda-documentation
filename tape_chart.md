@@ -37,4 +37,5 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
  - You can easily see for what dates you are showing availability and what is the corresponding day of the week by looking at the first row on top of the Tape Chart:
  
 
-![4h.png]({{site.baseurl}}/images/4h.png)
+![tape_chart_4.png]({{site.baseurl}}/images/tape_chart_4.png)
+
