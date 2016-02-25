@@ -51,7 +51,7 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 
 
-- To display the available rooms under each type, you will simply need to click on the small arrow on the left hand side of the room type name:  
+- To _expand_ the Tape Chart to display the available rooms under each type, you will simply need to click on the small arrow on the left hand side of the room type name:  
 
 
 ![tape_chart_5.png]({{site.baseurl}}/images/tape_chart_5.png)  
@@ -103,7 +103,10 @@ It is possible to save your View preferences for your user.
 - Select the type of view you want to have the Tape Chart display:  
 
 
-![tape_chart_14.png]({{site.baseurl}}/images/tape_chart_14.png)
+![tape_chart_14.png]({{site.baseurl}}/images/tape_chart_14.png)  
+
+
+A _Collapsed_ view will only show you availability values
 
 
 
