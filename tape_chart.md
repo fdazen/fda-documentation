@@ -17,7 +17,9 @@ published: true
 The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offers an overview of the property's current availability and rates and it allows you to make, modify, cancel and look up reservations in a fast and easy way. The Tape Chart will be a starting point for most front desk users, and there are a lot of ways to personalize it: here is a brief rundown of its functionalities!  
 
 
-##**Displaying Availability**  
+##**Availability**  
+
+###**Displaying Availability**  
 
 
  - You can display the hotel's real time availability in different ways: on top of the Tape Chart, you will notice five different clickable tabs, each with a different time lenght:  
@@ -121,7 +123,9 @@ An _Expanded_ view type will show you all availability for all room types:
 - Click on the button _Save_ to save your preferences: remember you will have to log out and log back into system in order to see changes being effective.  
 
 
-![tape_chart_17.png]({{site.baseurl}}/images/tape_chart_17.png)
+![tape_chart_17.png]({{site.baseurl}}/images/tape_chart_17.png)  
+
+
 
 
 
