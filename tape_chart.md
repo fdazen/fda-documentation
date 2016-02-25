@@ -154,7 +154,17 @@ You can search your reservations by using different variables.
 
 - Click on the blue botton _Look Up_ to open the search panel:  
 
-![tape_chart_21.png]({{site.baseurl}}/images/tape_chart_21.png)
+
+![tape_chart_21.png]({{site.baseurl}}/images/tape_chart_21.png)  
+
+
+- The search panel will list all results matching the information you typed in:  
+
+![tape_chart_22.png]({{site.baseurl}}/images/tape_chart_22.png)
+
+
+
+
 
 
 
