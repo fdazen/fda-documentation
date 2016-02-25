@@ -160,7 +160,15 @@ You can search your reservations by using different variables.
 
 - The search panel will list all results matching the information you typed in:  
 
-![tape_chart_22.png]({{site.baseurl}}/images/tape_chart_22.png)
+
+![tape_chart_22.png]({{site.baseurl}}/images/tape_chart_22.png)  
+
+
+- Each Folio number and Group Folio number shows up in a blue, clickable link: clicking on any of them will bring up the relevant Folio/Group Folio screen:  
+
+
+![tape_chart_23.png]({{site.baseurl}}/images/tape_chart_23.png)
+
 
 
 
