@@ -1,11 +1,13 @@
 ---
 title: Tape Chart
-tags: [tape chart]
-keywords: tape chart, availability, display, view by,
-last_updated: December 15, 2015
-summary: "The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offers an
-overview of your current availability and rates, it allows you to make, modify and cancel reservations in a fast and easy way, it offers a quick guest look up."
+tags: 
+  - tape chart
+keywords: "tape chart, availability, display, view by,"
+last_updated: "December 15, 2015"
+summary: "The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offers an overview of your current availability and rates, it allows you to make, modify and cancel reservations in a fast and easy way, it offers a quick guest look up."
+published: true
 ---
+
 
 
 #**Tape Chart**  
@@ -16,10 +18,13 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
 
 ##**Displaying Availability**  
 
+###**Availability
+
  - You can display the hotel's real time availability in different ways: on top of the Tape Chart, you will notice five different clickable tabs, each with a different time lenght:  
 
 
-![1h.png]({{site.baseurl}}/images/1h.png)   
+![tape_chart_1.png]({{site.baseurl}}/images/tape_chart_1.png)
+  
 
 
 
@@ -33,14 +38,4 @@ The Tape Chart is a fundamental tool of your Frontdesk Anywhere account: it offe
  - You can easily see for what dates you are showing availability and what is the corresponding day of the week by looking at the first row on top of the Tape Chart:
  
 
-![4h.png]({{site.baseurl}}/images/4h.png)  
- 
- 
-
-
-
-
-
-
-
-
+![4h.png]({{site.baseurl}}/images/4h.png)
