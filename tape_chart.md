@@ -179,6 +179,12 @@ You can search your reservations by using different variables.
 {{site.data.alerts.warning}} You will be able to perform advanced searches only by accessing the Search Panel and choose the right option among the ones available from the drop down menu. Fromt the Tape Chart Look Up button, you may only look up names or folio numbers. {{site.data.alerts.end}}
 
 
+##**Room and Group Operations**  
+
+On the left hand side of the Tape Chart, under the calendar box, you will see different links that will enable you to pull up different types of information, depending on what action you are trying to perform.  
+
+
+![tape_chart_25.png]({{site.baseurl}}/images/tape_chart_25.png)
 
 
 
