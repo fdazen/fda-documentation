@@ -215,7 +215,14 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 
 - You can narrow your results by looking for a particular name or information in the editable box on the top of the results panel:  
 
-![tape_chart_30.png]({{site.baseurl}}/images/tape_chart_30.png)
+
+![tape_chart_30.png]({{site.baseurl}}/images/tape_chart_30.png)  
+
+
+- You can also filter your results by reducing the type of information you wnat to show. To do this, click on the button _Show/Hide Column_:  
+
+
+![tape_chart_31.png]({{site.baseurl}}/images/tape_chart_31.png)
 
 
 
