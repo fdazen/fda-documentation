@@ -228,7 +228,21 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 - A list of all the information type displayed for the results will appear, along with check-boxes that will make information type visible or not: check or un-check the boxes according to whether you want or do not want the type of info to show:  
 
 
-![tape_chart_32.png]({{site.baseurl}}/images/tape_chart_32.png)
+![tape_chart_32.png]({{site.baseurl}}/images/tape_chart_32.png)  
+
+
+-  To print the results list, click on the button _Print_ on the right hand side of the screen:  
+
+
+![tape_chart_33.png]({{site.baseurl}}/images/tape_chart_33.png)  
+
+
+- To download the list result, click on the button _Download_ on the right side of the panel:  
+
+
+![tape_chart_34.png]({{site.baseurl}}/images/tape_chart_34.png)
+
+
 
 
 
