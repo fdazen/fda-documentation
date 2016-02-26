@@ -204,7 +204,13 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 - The results will show below the filters: note that all guest information will appear in this list, along payment and reservation information:  
 
 
-![tape_chart_28.png]({{site.baseurl}}/images/tape_chart_28.png)
+![tape_chart_28.png]({{site.baseurl}}/images/tape_chart_28.png)  
+
+
+- Notice that you can organize each column in ascending/decreasing order by clciking on the arrows next to each of the column title:  
+
+![tape_chart_29.png]({{site.baseurl}}/images/tape_chart_29.png)
+
 
 
 
