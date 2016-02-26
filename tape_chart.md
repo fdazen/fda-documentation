@@ -187,6 +187,11 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 ![tape_chart_25.png]({{site.baseurl}}/images/tape_chart_25.png)  
 
 
+###**Check-In List**  
+
+- To bring up the Check-In list, click on the link _Check-In List_ under the tag Room Operation:  
+
+![tape_chart_26.png]({{site.baseurl}}/images/tape_chart_26.png)
 
 
 
