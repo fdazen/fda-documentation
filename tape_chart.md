@@ -187,9 +187,9 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 ![tape_chart_25.png]({{site.baseurl}}/images/tape_chart_25.png)  
 
 
-###**Check-In List**  
+###**Check-In/Out List**  
 
-- To bring up the Check-In list, click on the link _Check-In List_ under the tag Room Operation:  
+- To bring up the Check-In/Out list, click on the link _Check-In List_ (or _Check-Out List_) under the tag Room Operation:  
 
 
 ![tape_chart_26.png]({{site.baseurl}}/images/tape_chart_26.png)  
@@ -242,6 +242,10 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 
 ![tape_chart_34.png]({{site.baseurl}}/images/tape_chart_34.png)
 
+
+###**Reservation List**  
+
+The Reservation List will enable you to look reservation up by the date they have been reserved.  
 
 
 
