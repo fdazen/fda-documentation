@@ -207,9 +207,17 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 ![tape_chart_28.png]({{site.baseurl}}/images/tape_chart_28.png)  
 
 
-- Notice that you can organize each column in ascending/decreasing order by clciking on the arrows next to each of the column title:  
+- Notice that you can organize each column in ascending/decreasing order by clicking on the arrows next to each of the column title:  
 
-![tape_chart_29.png]({{site.baseurl}}/images/tape_chart_29.png)
+
+![tape_chart_29.png]({{site.baseurl}}/images/tape_chart_29.png)  
+
+
+- You can narrow your results by looking for a particular name or information in the editable box on the top of the results panel:  
+
+![tape_chart_30.png]({{site.baseurl}}/images/tape_chart_30.png)
+
+
 
 
 
