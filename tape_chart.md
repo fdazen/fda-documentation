@@ -222,7 +222,13 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 - You can also filter your results by reducing the type of information you wnat to show. To do this, click on the button _Show/Hide Column_:  
 
 
-![tape_chart_31.png]({{site.baseurl}}/images/tape_chart_31.png)
+![tape_chart_31.png]({{site.baseurl}}/images/tape_chart_31.png)  
+
+
+- A list of all the information type displayed for the results will appear, along with check-boxes that will make information type visible or not: check or un-check the boxes according to whether you want or do not want the type of info to show:  
+
+![tape_chart_32.png]({{site.baseurl}}/images/tape_chart_32.png)
+
 
 
 
