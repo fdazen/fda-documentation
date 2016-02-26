@@ -227,6 +227,7 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 
 - A list of all the information type displayed for the results will appear, along with check-boxes that will make information type visible or not: check or un-check the boxes according to whether you want or do not want the type of info to show:  
 
+
 ![tape_chart_32.png]({{site.baseurl}}/images/tape_chart_32.png)
 
 
