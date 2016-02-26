@@ -197,7 +197,14 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 
 - A new panel will pop up: choose your filters, and click on the button _Search_ to run the report:  
 
-![tape_chart_27.png]({{site.baseurl}}/images/tape_chart_27.png)
+
+![tape_chart_27.png]({{site.baseurl}}/images/tape_chart_27.png)  
+
+
+- The results will show below the filters: note that all guest information will appear in this list, along payment and reservation information:  
+
+
+![tape_chart_28.png]({{site.baseurl}}/images/tape_chart_28.png)
 
 
 
