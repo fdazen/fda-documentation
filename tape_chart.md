@@ -254,6 +254,7 @@ The Reservations List will enable you to look reservation up by the date they ha
 
 - A new panel will pop up: choose your filters. Note that the _Date Range_ filter has been defaulted to the option _Reserved On_: this will ensure that the search is performed on the **reservation creation date**. Click on the button _Search_ when done:  
 
+![tape_chart_36.png]({{site.baseurl}}/images/tape_chart_36.png)
 
 
   
