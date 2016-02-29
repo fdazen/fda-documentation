@@ -16,6 +16,7 @@ published: true
 
 
 
+
 ##**Guest Messages**  
 
 
@@ -225,7 +226,7 @@ Note that the status _Automatically Send Email Upon Folio Creation_ only interes
 _Email rules_ is the tool that enables you to send automatic emails outside the sphere of any key event proper of a guest’s stay (reservation confirmation, check-in, check-out, and cancellation). Differently from the _Automated Emails_ where those emails are triggered by some change in the status of a reservation folio, _Email Rules_ do not have any constrain in terms of the time at which the email is sent: you simply set the condition yourself! This comes useful when you want to send a remainder to your guests for their upcoming arrival or at times when you want to send a "thank you" message to your guests after their stay.  
 
 
-{{site.data.alerts.important}} You will have to have both _Email Templates_ enabled and _Guest Messages_ set up before placing Email Rules. {{site.data.alerts.end}} 
+{{site.data.alerts.important}} You will have to have both Email Templates enabled and Guest Messages set up before placing Email Rules. {{site.data.alerts.end}} 
 
  - In the Admin Settings, click on the link **Email Rules** under section _General_:  
  
