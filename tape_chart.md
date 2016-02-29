@@ -244,9 +244,12 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 ![tape_chart_34.png]({{site.baseurl}}/images/tape_chart_34.png)
 
 
-###**Reservation List**  
+###**Reservations List**  
 
-The Reservation List will enable you to look reservation up by the date they have been reserved.
+The Reservations List will enable you to look reservation up by the date they have been reserved.
   
-- Click on the   
+- Click on the link _Reservations List_ on the left hand side of the Tape Chart:  
+
+![tape_chart_35.png]({{site.baseurl}}/images/tape_chart_35.png)
+
   
