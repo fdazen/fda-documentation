@@ -290,14 +290,14 @@ You can pick what you want the list to display by checking or un-checking the bo
 
 
 
-![tape_chart_39.png]({{site.baseurl}}/images/tape_chart_39.png)
-
 
 ###**Looking Up Block/Cancelled Reservations and No Shows**  
 
 
 - Depending on what reservation status you want to search, click on the link _Blocked Room List_, _No Show List_ or _Cancelled Room List_:  
 
+
+![tape_chart_42.png]({{site.baseurl}}/images/tape_chart_42.png)
 
 
   
