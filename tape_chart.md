@@ -306,4 +306,9 @@ You can pick what you want the list to display by checking or un-checking the bo
 ![tape_chart_43.png]({{site.baseurl}}/images/tape_chart_43.png)
 
 
+- Select your filters and click on the button _Search_:  
+
+![tape_chart_44.png]({{site.baseurl}}/images/tape_chart_44.png)
+
+
   
