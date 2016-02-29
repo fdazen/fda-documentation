@@ -274,7 +274,14 @@ The Reservations List will enable you to look reservation up by the date they ha
 
 You can pick what you want the list to display by checking or un-checking the box next to the field title:  
 
-![tape_chart_39.png]({{site.baseurl}}/images/tape_chart_39.png)
+![tape_chart_39.png]({{site.baseurl}}/images/tape_chart_39.png)  
+
+
+- To print the list, click on the grey button _Print_ on the top right of the list:  
+
+
+![tape_chart_40.png]({{site.baseurl}}/images/tape_chart_40.png)
+
 
 ![tape_chart_39.png]({{site.baseurl}}/images/tape_chart_39.png)
 
