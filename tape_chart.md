@@ -266,4 +266,8 @@ The Reservations List will enable you to look reservation up by the date they ha
 ![tape_chart_37.png]({{site.baseurl}}/images/tape_chart_37.png)
 
 
+- You can also narrow down your results by limiting the information shown in the list: simply click on the button _Show/Hide Columns_:  
+
+![tape_chart_38.png]({{site.baseurl}}/images/tape_chart_38.png)
+
   
