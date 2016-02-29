@@ -303,6 +303,7 @@ You can pick what you want the list to display by checking or un-checking the bo
 - A new panel will pop-up: note that check-boxes with the reservation status will default to the option that is relevant to the reservation status you want to search for (blocked/cancelled/no-shows):  
 
 
+![tape_chart_43.png]({{site.baseurl}}/images/tape_chart_43.png)
 
 
   
