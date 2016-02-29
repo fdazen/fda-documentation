@@ -11,6 +11,7 @@ published: true
 
 
 
+
 #**Tape Chart**  
 
 
@@ -245,27 +246,7 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 
 ###**Reservation List**  
 
-The Reservation List will enable you to look reservation up by the date they have been reserved.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The Reservation List will enable you to look reservation up by the date they have been reserved.
+  
+- Click on the   
+  
