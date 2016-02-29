@@ -250,11 +250,15 @@ The Reservations List will enable you to look reservation up by the date they ha
   
 - Click on the link _Reservations List_ on the left hand side of the Tape Chart:  
 
+
 ![tape_chart_35.png]({{site.baseurl}}/images/tape_chart_35.png)  
+
 
 - A new panel will pop up: choose your filters. Note that the _Date Range_ filter has been defaulted to the option _Reserved On_: this will ensure that the search is performed on the **reservation creation date**. Click on the button _Search_ when done:  
 
+
 ![tape_chart_36.png]({{site.baseurl}}/images/tape_chart_36.png)  
+
 
 - You can organize each column in ascending/decreasing order by clicking on the arrows next to each of the column title:  
 
