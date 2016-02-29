@@ -65,7 +65,11 @@ published: true
  
 ##**Templates**  
 
-Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and their _content_ can be easily editable! Be aware that the templates design have been built so to ensure they will render good when sent via emails on both computers and mobile devices. If you want to change the design, we do not guarantee that the template will render as good as the default ones.
+Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and their _content_ can be easily editable!  
+
+{{site.data.alerts.warning}} Be aware that the templates design have been built so to ensure they will render good when sent via emails on both computers and mobile devices. If you want to change the design, we do not guarantee that the template will render as good as the default ones. {{site.data.alerts.end}}  
+
+{{site.data.alerts.note}} If your property has any inclusive tax or fee that you want to show on your Invoice tax, please contact our team at help@frontdeskanywhere.com: our team will be able to change the template for you! {{site.data.alerts.end}}
 
  - In the Admin Settings, click on the blue link **Templates** under section _General_:  
  
