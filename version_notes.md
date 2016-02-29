@@ -18,8 +18,7 @@ published: true
 Enhancement| Description  
 --------|----------    
 Improvement - Templates now support different combinations for Inclusive Taxes/Fees | Our Invoice Tax is now able to show Inclusive Taxes on extra items as well as room charges, and to provide different combinations between each inclusive tax and the total sum. Please contact our Support team at _help@frontdeskanywhere.com_ to place a request for the new template.
-Bug - Credit Card Swiper is now working on Mozzilla Firefox browser | Credit Card Swipers are now functioning on Mozilla Firefox!  
-Enhancement - The _Status_ slide panel on the top right hand side of your Tape Chart is now showing values for daily check-ins/outs, and for all reservation statuses. It also contains a legend for Tape Chart colors. 
+Bug - Credit Card Swiper is now working on Mozzilla Firefox browser | Credit Card Swipers are now functioning on Mozilla Firefox!  Enhancement - The _Status_ slide panel on the top right hand side of your Tape Chart is now showing values for daily check-ins/outs, and for all reservation statuses. It also contains a legend for Tape Chart colors. 
 
 
 
