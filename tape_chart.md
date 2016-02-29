@@ -208,7 +208,7 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 ![tape_chart_28.png]({{site.baseurl}}/images/tape_chart_28.png)  
 
 
-- Notice that you can organize each column in ascending/decreasing order by clicking on the arrows next to each of the column title:  
+- You can organize each column in ascending/decreasing order by clicking on the arrows next to each of the column title:  
 
 
 ![tape_chart_29.png]({{site.baseurl}}/images/tape_chart_29.png)  
@@ -254,7 +254,9 @@ The Reservations List will enable you to look reservation up by the date they ha
 
 - A new panel will pop up: choose your filters. Note that the _Date Range_ filter has been defaulted to the option _Reserved On_: this will ensure that the search is performed on the **reservation creation date**. Click on the button _Search_ when done:  
 
-![tape_chart_36.png]({{site.baseurl}}/images/tape_chart_36.png)
+![tape_chart_36.png]({{site.baseurl}}/images/tape_chart_36.png)  
+
+- You can organize each column in ascending/decreasing order by clicking on the arrows next to each of the column title:  
 
 
   
