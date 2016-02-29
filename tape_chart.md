@@ -308,7 +308,21 @@ You can pick what you want the list to display by checking or un-checking the bo
 
 - Select your filters and click on the button _Search_:  
 
-![tape_chart_44.png]({{site.baseurl}}/images/tape_chart_44.png)
+
+![tape_chart_44.png]({{site.baseurl}}/images/tape_chart_44.png)  
+
+
+- You can print or download the list by clicking on the relevant button on the right hand side of the panel:  
+
+
+![tape_chart_45.png]({{site.baseurl}}/images/tape_chart_45.png)  
+
+
+- You can define what fields you want the list to show by clicking on the button _Show/Hide Columns_: check or un-check the box according to whether you want the corresponding field to show or not:  
+
+![tape_chart_46.png]({{site.baseurl}}/images/tape_chart_46.png)
+
+
 
 
   
