@@ -190,7 +190,7 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 
 ###**Looking up Check-Ins/Outs**  
 
-- To look up al reservation by check-in/out date, click on the link _Check-In List_ (or _Check-Out List_) under the tag Room Operation:  
+- To look up al reservation by check-in/out date, click on the link _Check-In List_ (or _Check-Out List_) under the tag **Room Operation** on the left hand side of your Tape Chart:  
 
 
 ![tape_chart_26.png]({{site.baseurl}}/images/tape_chart_26.png)  
