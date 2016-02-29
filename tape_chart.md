@@ -263,4 +263,7 @@ The Reservations List will enable you to look reservation up by the date they ha
 - You can organize each column in ascending/decreasing order by clicking on the arrows next to each of the column title:  
 
 
+![tape_chart_37.png]({{site.baseurl}}/images/tape_chart_37.png)
+
+
   
