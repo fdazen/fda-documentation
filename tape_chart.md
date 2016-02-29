@@ -244,12 +244,16 @@ On the left hand side of the Tape Chart, under the calendar box, you will see di
 ![tape_chart_34.png]({{site.baseurl}}/images/tape_chart_34.png)
 
 
-###**Reservations List**  
+###**Searching Reservation by Creation Date**  
 
 The Reservations List will enable you to look reservation up by the date they have been reserved.
   
 - Click on the link _Reservations List_ on the left hand side of the Tape Chart:  
 
-![tape_chart_35.png]({{site.baseurl}}/images/tape_chart_35.png)
+![tape_chart_35.png]({{site.baseurl}}/images/tape_chart_35.png)  
+
+- A new panel will pop up: choose your filters. Note that the _Date Range_ filter has been defaulted to the option _Reserved On_: this will ensure that the search is performed on the **reservation creation date**. Click on the button _Search_ when done:  
+
+
 
   
