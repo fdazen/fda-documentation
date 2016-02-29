@@ -280,7 +280,14 @@ You can pick what you want the list to display by checking or un-checking the bo
 - To print the list, click on the grey button _Print_ on the top right of the list:  
 
 
-![tape_chart_40.png]({{site.baseurl}}/images/tape_chart_40.png)
+![tape_chart_40.png]({{site.baseurl}}/images/tape_chart_40.png)  
+
+
+- To download the list, click on the grey button _Download_:  
+
+
+![tape_chart_41.png]({{site.baseurl}}/images/tape_chart_41.png)
+
 
 
 ![tape_chart_39.png]({{site.baseurl}}/images/tape_chart_39.png)
