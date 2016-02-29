@@ -297,7 +297,12 @@ You can pick what you want the list to display by checking or un-checking the bo
 - Depending on what reservation status you want to search, click on the link _Blocked Room List_, _No Show List_ or _Cancelled Room List_:  
 
 
-![tape_chart_42.png]({{site.baseurl}}/images/tape_chart_42.png)
+![tape_chart_42.png]({{site.baseurl}}/images/tape_chart_42.png)  
+
+
+- A new panel will pop-up: note that check-boxes with the reservation status will default to the option that is relevant to the reservation status you want to search for (blocked/cancelled/no-shows):  
+
+
 
 
   
