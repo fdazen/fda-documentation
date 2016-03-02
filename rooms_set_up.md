@@ -29,9 +29,8 @@ Let's start by set up the number of floors in your property. This is important a
 ![floors_1.png]({{site.baseurl}}/images/floors_1.png)
 
 
-
-
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
+ 
  
 ![Floors_2.png]({{site.baseurl}}/images/Floors_2.png)
 
@@ -81,7 +80,9 @@ Before creating your rooms, you will need to configure the amenities that are av
 
   - In the Admin Settings, click on the link **Room Amenities**:
   
-![Room_amenities_1 (2).png]({{site.baseurl}}/images/Room_amenities_1 (2).png)
+
+![room_amenities_1.png]({{site.baseurl}}/images/room_amenities_1.png)
+
 
 
 
