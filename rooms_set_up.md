@@ -18,6 +18,7 @@ published: true
 
 
 
+
 ##**Floors**  
 
 Let's start by set up the number of floors in your property. This is important as you will be able to group your rooms by the floor they are on!  
