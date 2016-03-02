@@ -300,12 +300,15 @@ You can now load in the system all of the rooms at your property, and organize t
 ![rooms_4.1.png]({{site.baseurl}}/images/rooms_4.1.png)
 
 
-
  
- - You can also create multiple rooms at a time: click on the button _Add Multiple Room_ on the bottom of the page:  
+ ###**Creating Multiple Rooms**  
+ 
+ 
+You will have two options to create multiple rooms.
 
+- To create rooms that are under the same type, but have different names, select the option _Multiple Rooms - Comma Separated_:  
 
-![Rooms_5.png]({{site.baseurl}}/images/Rooms_5.png)
+![rooms_4.2.png]({{site.baseurl}}/images/rooms_4.2.png)
 
  
 Depending on whether you wish to enter room names or room numbers, select the right circle box so to be able to make the right fields editable. If you want to insert different room names, make sure to only place a coma as a separator between the names:  
