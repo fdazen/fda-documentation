@@ -380,6 +380,16 @@ You will have two options to create multiple rooms.
 {{site.data.alerts.note}} In order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order. {{site.data.alerts.end}} 
 
 
+##**Order Rooms**  
+
+
+- To order with which your rooms are listed under each type, click on the blue link _Order Rooms_, under section **Rooms**:  
+
+
+![order_rooms_1.png]({{site.baseurl}}/images/order_rooms_1.png)
+
+
+
 ##**Published Rooms**  
 
 
