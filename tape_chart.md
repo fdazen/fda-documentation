@@ -150,9 +150,16 @@ This tool comes very handy when you will have to check availability for a partic
 
 Unassigned Bookings are reservation folios that do not have yet a room assigned.  
 
-When the Tape Chart is collapsed, you will be able to see the number of unassigned bookings in the row tagged _Unassigned_:  
+ - When the Tape Chart is collapsed, you will be able to see the number of unassigned bookings in the row tagged _Unassigned_:  
 
-![tape_chart_47.png]({{site.baseurl}}/images/tape_chart_47.png)
+![tape_chart_47.png]({{site.baseurl}}/images/tape_chart_47.png)  
+
+
+- If you expand the Tape Chart, you will be able to see an _Unassigned_ row also on room type level:  
+
+![tape_chart_48.png]({{site.baseurl}}/images/tape_chart_48.png)
+
+
 
 
 
