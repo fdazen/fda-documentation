@@ -357,7 +357,7 @@ You will have two options to create multiple rooms.
 
  
  
- ##**Order Room Types**  
+##**Order Room Types**  
  
  You can decide the order in which your room types are displayed on your Tape Chart with just one click.  
  
