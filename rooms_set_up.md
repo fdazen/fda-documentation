@@ -400,11 +400,12 @@ You will have two options to create multiple rooms.
 ##**Published Rooms**  
 
 
-Frontdesk Anywhere allows you to take some rooms off all channels while still enabling you to operate on those rooms on the internal side. This can be handy when you do not want to advertise all of your availability, but prefer keeping a certain number of rooms for yourself or for internal purposes only.  
+Frontdesk Anywhere allows you to take some rooms off all channels or to increase the availability value. You will have both the ability to select how many rooms you wish to protect and decide by how many reservations you wish to overbook. 
 
 - In the Admin Settings, click on the blue link **Published Rooms** under section _Rooms_:  
 
-![Published_Rooms_1.png]({{site.baseurl}}/images/Published_Rooms_1.png)
+![published_rooms_1.png]({{site.baseurl}}/images/published_rooms_1.png)
+
 
 
  
