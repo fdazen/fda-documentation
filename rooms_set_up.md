@@ -361,9 +361,12 @@ You will have two options to create multiple rooms.
  
  You can decide the order in which your room types are displayed on your Tape Chart with just one click.  
  
+ 
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
-![Order_Rooms_1.png]({{site.baseurl}}/images/Order_Rooms_1.png)
+
+![order_room_type_1.png]({{site.baseurl}}/images/order_room_type_1.png)
+
 
 
  
@@ -374,7 +377,7 @@ You will have two options to create multiple rooms.
 
 
 
-{{site.data.alerts.note}} In order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order.  {{site.data.alerts.end}} 
+{{site.data.alerts.note}} In order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order. {{site.data.alerts.end}} 
 
 
 ##**Published Rooms**  
