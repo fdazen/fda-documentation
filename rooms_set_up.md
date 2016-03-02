@@ -339,8 +339,6 @@ You will have two options to create multiple rooms.
 
 
 
-
-
 If you wish to create room numbers, place the prefix for your rooms and the from/to number value in the boxes, as in the example below:  
 
 
