@@ -191,7 +191,13 @@ To <span class="label label-info">Edit</span> the Overbooking Allowance configur
 ![tape_chart_51.png]({{site.baseurl}}/images/tape_chart_51.png)  
 
 
+- Click on the _Unassigned_ link and select the room you want to assign the reservation:  
 
+![tape_chart_52.png]({{site.baseurl}}/images/tape_chart_52.png)
+  
+  
+  
+  
 
 
 ##**Guest Look-Up**  
