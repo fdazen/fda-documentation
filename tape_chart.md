@@ -172,7 +172,7 @@ To <span class="label label-info">Edit</span> your account configuration, check 
 
 3. Your account has been configured with an Overbooking Allowance, which allows room types to receive more reservations than the real number of rooms.
 
-
+To <span class="label label-info">Edit</span> the Overbooking Allowance configuration, click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
 
 ##**Guest Look-Up**  
 
