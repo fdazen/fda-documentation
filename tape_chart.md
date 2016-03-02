@@ -176,7 +176,13 @@ To <span class="label label-info">Edit</span> the Overbooking Allowance configur
 
 - When unassigned reservations are present in your system, the number "0" on the _Unassigned_ row will be replaced with the number corresponding to the number of unasigned reservations. In the example below, notice that there are _2_ unassigned reservations on April 2nd:  
 
-![tape_chart_49.png]({{site.baseurl}}/images/tape_chart_49.png)
+![tape_chart_49.png]({{site.baseurl}}/images/tape_chart_49.png)  
+
+
+- To assign a room to an unassigned booking, click on the number of unassigned bookings:  
+
+![tape_chart_50.png]({{site.baseurl}}/images/tape_chart_50.png)
+
 
 
 ##**Guest Look-Up**  
