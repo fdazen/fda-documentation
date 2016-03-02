@@ -297,7 +297,8 @@ You can now load in the system all of the rooms at your property, and organize t
 
  
  - You can also create multiple rooms at a time: click on the button _Add Multiple Room_ on the bottom of the page:  
- 
+
+
 ![Rooms_5.png]({{site.baseurl}}/images/Rooms_5.png)
 
  
