@@ -196,11 +196,7 @@ To <span class="label label-info">Edit</span> the Overbooking Allowance configur
 ![tape_chart_52.png]({{site.baseurl}}/images/tape_chart_52.png)
   
   
-  
-  
-
-
-##**Guest Look-Up**  
+ ##**Guest Look-Up**  
 
 You can search your reservations by using different variables. 
 
