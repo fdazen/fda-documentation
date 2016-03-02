@@ -168,6 +168,8 @@ Unassigned Bookings are reservation folios that do not have yet a room assigned.
 
 {{site.data.alerts.note}} Unassigned Bookings are not necessarily overbookings. Unassigned bookings count towards the overrall availability, both for run-of-house and room type level.  {{site.data.alerts.end}}
 
+To <span class="label label-info">Edit</span> your account configuration, check the Admin Settings section of this manual.
+
 3. Your account has been configured with an Overbooking Allowance, which allows room types to receive more reservations than the real number of rooms.
 
 
