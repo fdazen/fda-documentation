@@ -325,8 +325,17 @@ You will have two options to create multiple rooms.
 - If your rooms are numbered in a progressive order, you may want to use the option to create _Multiple Rooms - Incremental Room Numbers_. Select this option by clicking on the circle box on the top of the room creation panel:  
 
 
-![rooms_4.4.png]({{site.baseurl}}/images/rooms_4.4.png)
+![rooms_4.4.png]({{site.baseurl}}/images/rooms_4.4.png)  
 
+
+
+- Place a Prefix, and insert the first and last number of the progressive room order. In the example below, all rooms between 101 and 110 are going to be automatically built:  
+
+
+![rooms_4.6.png]({{site.baseurl}}/images/rooms_4.6.png)
+
+
+{{site.data.alerts.important}} The Prefix will be added to the room accronym. If you do not need both accronym and prefix before the room number, you may leave the Prefix field empty. {{site.data.alerts.end}}
 
 
 
