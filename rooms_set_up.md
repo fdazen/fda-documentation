@@ -216,8 +216,11 @@ We have now come to the point where you need to build your hotel's room types: a
 
  
  To select the amenities applicable to this room type, select them among the available ones and use the arrows to move them from one panel to another: the ones under panel _Selected Amenities_ will be the one showing up in the system:  
- 
-![Room_types_7.png]({{site.baseurl}}/images/Room_types_7.png)
+
+
+
+![room_types_7.png]({{site.baseurl}}/images/room_types_7.png)
+
 
 
  
