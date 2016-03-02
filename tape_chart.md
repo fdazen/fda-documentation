@@ -181,7 +181,16 @@ To <span class="label label-info">Edit</span> the Overbooking Allowance configur
 
 - To assign a room to an unassigned booking, click on the number of unassigned bookings:  
 
-![tape_chart_50.png]({{site.baseurl}}/images/tape_chart_50.png)
+
+![tape_chart_50.png]({{site.baseurl}}/images/tape_chart_50.png)  
+
+
+- Select the booking you want to assign by clicking on the folio number:  
+
+
+![tape_chart_51.png]({{site.baseurl}}/images/tape_chart_51.png)  
+
+
 
 
 
