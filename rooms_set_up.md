@@ -185,8 +185,6 @@ We have now come to the point where you need to build your hotel's room types: a
 ![room_types_1.png]({{site.baseurl}}/images/room_types_1.png)
 
 
-
-
  
  - To create a new room type, click on the blue button _Add a Room Type_:  
  
