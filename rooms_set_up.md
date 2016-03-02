@@ -195,7 +195,8 @@ We have now come to the point where you need to build your hotel's room types: a
  
  - Fill up the fields with the requested information: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
  
-![Room_types_3.png]({{site.baseurl}}/images/Room_types_3.png)
+ 
+![room_types_3.png]({{site.baseurl}}/images/room_types_3.png)
 
 
 
