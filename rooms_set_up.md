@@ -288,10 +288,16 @@ You can now load in the system all of the rooms at your property, and organize t
 
 
  
- - To create a new room, scroll down the list of rooms and click on the button _Add a Room_ and follow the instructions above:  
+ - To create a new room, scroll down the list of rooms and click on the button _Add a Room_:  
  
 
 ![rooms_4.png]({{site.baseurl}}/images/rooms_4.png)
+
+
+- Select the option _Single Room_ from the top options, and fill in all the information. Click _Save_ when finished:  
+
+
+![rooms_4.1.png]({{site.baseurl}}/images/rooms_4.1.png)
 
 
 
