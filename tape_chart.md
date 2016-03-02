@@ -160,6 +160,15 @@ Unassigned Bookings are reservation folios that do not have yet a room assigned.
 ![tape_chart_48.png]({{site.baseurl}}/images/tape_chart_48.png)
 
 
+- Unassigned bookings can be due to different scenarios:  
+
+1. Your account might have been configured as receiving all bookings as unassigned; if this is so, then there will be no automatic room assignment for any incoming bookings.  
+
+2. Your account configuration might have the _Reservation Split_ function disabled: this means that if a reservation comes in for a certain room type, and there is no continuous availability for any room under that type, the system will place the reservation into the Unassigned row (versus enabling a _split_ reservation, where the latter is split into different rooms available under that type).  
+
+{{site.data.alerts.note}} Unassigned Bookings are not necessarily overbookings. Unassigned bookings count towards the overrall availability, both for run-of-house and room type level.  {{site.data.alerts.end}}
+
+3. Your account has been configured with an Overbooking Allowance, which allows room types to receive more reservations than the real number of rooms.
 
 
 
