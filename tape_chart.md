@@ -12,6 +12,7 @@ published: true
 
 
 
+
 #**Tape Chart**  
 
 
@@ -142,6 +143,17 @@ This tool comes very handy when you will have to check availability for a partic
 
 
 ![tape_chart_19.png]({{site.baseurl}}/images/tape_chart_19.png)  
+
+
+
+###**Unassigned Bookings**  
+
+Unassigned Bookings are reservation folios that do not have yet a room assigned.  
+
+When the Tape Chart is collapsed, you will be able to see the number of unassigned bookings in the row tagged _Unassigned_:  
+
+![tape_chart_47.png]({{site.baseurl}}/images/tape_chart_47.png)
+
 
 
 ##**Guest Look-Up**  
@@ -325,11 +337,4 @@ You can pick what you want the list to display by checking or un-checking the bo
 
 - You can define what fields you want the list to show by clicking on the button _Show/Hide Columns_: check or un-check the box according to whether you want the corresponding field to show or not:  
 
-![tape_chart_46.png]({{site.baseurl}}/images/tape_chart_46.png)  
-
-
-
-
-
-
-  
+![tape_chart_46.png]({{site.baseurl}}/images/tape_chart_46.png)
