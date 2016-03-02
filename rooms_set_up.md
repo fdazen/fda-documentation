@@ -338,7 +338,6 @@ You will have two options to create multiple rooms.
 {{site.data.alerts.important}} The Prefix will be added to the room accronym. If you do not need both accronym and prefix before the room number, you may leave the Prefix field empty. {{site.data.alerts.end}}
 
 
-
   
 
  - As mentioned above, rooms cannot be erased but they can be made inactive. Inactive rooms won't appear in your account anywhere. To make a room inactive, un-check the box under the _Status_ column for the relevant row:  
