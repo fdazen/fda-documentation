@@ -75,19 +75,19 @@ When you log in into your account, go to the Frontdesk Tab: on the right hand si
 
 ##**Amenities**
 
+
 Before creating your rooms, you will need to configure the amenities that are available in your rooms. Make sure to create _all_ of the amenities, independently of the type or room level in which they appear.  
 
 
-  - In the Admin Settings, click on the link **Room Amenities**:
+ - In the Admin Settings, click on the link **Room Amenities**:
   
 
 ![room_amenities_1.png]({{site.baseurl}}/images/room_amenities_1.png)
 
 
-
-
   
-  - You will see a list of some defaulted amenities.
+ - You will see a list of some defaulted amenities.
+ 
  
 ![Room_amenities_2.png]({{site.baseurl}}/images/Room_amenities_2.png)
 
@@ -126,7 +126,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability.  
 
 
-{{site.data.alerts.important}} A class is different from a room _type_. If you do not need classes and types suffice, you can skip to the next section _Room Types_ {{site.data.alerts.end}}
+{{site.data.alerts.important}} A class is different from a room type. If you do not need classes and types suffice, you can skip to the next section Room Types {{site.data.alerts.end}}
 
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
