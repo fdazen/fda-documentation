@@ -206,20 +206,12 @@ We have now come to the point where you need to build your hotel's room types: a
 
 ![room_types_4.png]({{site.baseurl}}/images/room_types_4.png)
 
-
-
  
-
- - Choose whether your room is to be gender-based: choosing _yes_ will prompt the system to have you choose what gender you want to default the room to:  
- 
-![Room_types_5.png]({{site.baseurl}}/images/Room_types_5.png)
-
-
-
  
  - Select the maximum and default occupancy, and select the amenities applicable to this type of room: you will see two small panels, one called _Available Amenities_ and another called _Selected Amenities_, with two arrows in the middle:  
  
-![Room_types_6.png]({{site.baseurl}}/images/Room_types_6.png)
+
+![room_types_6.png]({{site.baseurl}}/images/room_types_6.png)
 
 
  
