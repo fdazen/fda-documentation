@@ -225,6 +225,7 @@ We have now come to the point where you need to build your hotel's room types: a
  
 - Click _Save_ when finished:  
 
+
 ![room_types_8.png]({{site.baseurl}}/images/room_types_8.png)
 
 
