@@ -306,6 +306,7 @@ You can now load in the system all of the rooms at your property, and organize t
  
 You will have two options to create multiple rooms.
 
+
 - To create rooms that are under the same type, but have different names or numbers, select the option _Multiple Rooms - Comma Separated_:  
 
 
@@ -316,7 +317,15 @@ You will have two options to create multiple rooms.
 
 
 
-![rooms_4.3.png]({{site.baseurl}}/images/rooms_4.3.png)
+![rooms_4.3.png]({{site.baseurl}}/images/rooms_4.3.png)  
+
+
+
+
+- If your rooms are numbered in a progressive order, you may want to use the option to create _Multiple Rooms - Incremental Room Numbers_. Select this option by clicking on the circle box on the top of the room creation panel:  
+
+
+![rooms_4.4.png]({{site.baseurl}}/images/rooms_4.4.png)
 
 
 
