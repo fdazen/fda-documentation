@@ -386,7 +386,14 @@ You will have two options to create multiple rooms.
 - To order with which your rooms are listed under each type, click on the blue link _Order Rooms_, under section **Rooms**:  
 
 
-![order_rooms_1.png]({{site.baseurl}}/images/order_rooms_1.png)
+![order_rooms_1.png]({{site.baseurl}}/images/order_rooms_1.png)  
+
+
+- A list of all your rooms will appear, along with an editable box on the right side: order your rooms by placing them in progressive order. When finished, click on the blue button _Save_:  
+
+
+![order_rooms_2.png]({{site.baseurl}}/images/order_rooms_2.png)
+
 
 
 
