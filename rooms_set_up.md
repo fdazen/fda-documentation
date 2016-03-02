@@ -223,17 +223,9 @@ We have now come to the point where you need to build your hotel's room types: a
 
 
  
- - Select whether this room type has to have an OBA. The OBA (**O**ver**b**ooking **A**llowance) will enable the room type to receive more bookings than the posted availability: you can decide how many overbookings you wish to allow by placing a numeric value in the box that appears when you check the box _OBA_:  
- 
-![Room_types_8.png]({{site.baseurl}}/images/Room_types_8.png)
+- Click _Save_ when finished:  
 
-
-{{site.data.alerts.note}} we advise to keep this box un-checked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support Team at help@frontdeskanywhere.com  . {{site.data.alerts.end}}
-
-
- - Finally, you can constraint the room type and make it visible only to certain user levels: simply un-check the box of the levels for which the room should _not_ be visible:  
-
-![Room_types_9.png]({{site.baseurl}}/images/Room_types_9.png)
+![room_types_8.png]({{site.baseurl}}/images/room_types_8.png)
 
 
 
