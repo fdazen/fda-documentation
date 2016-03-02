@@ -132,9 +132,8 @@ A room class is a general concept referring to any extra organizational level yo
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
+ 
 ![Room_classes_1.png]({{site.baseurl}}/images/Room_classes_1.png)
-
-
 
 
 
@@ -166,6 +165,9 @@ A room class is a general concept referring to any extra organizational level yo
 
 
 ###**How to Use Classes**  
+
+
+
 When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Class_ in order to have your rooms grouped by classes:  
  
 ![Room_classes_6.png]({{site.baseurl}}/images/Room_classes_6.png)
@@ -179,7 +181,9 @@ We have now come to the point where you need to build your hotel's room types: a
 
  - Start by clicking on the link **Room Types** under section _Rooms_ in the Admin Settings:  
  
-![Room_types_1.png]({{site.baseurl}}/images/Room_types_1.png)
+ 
+![room_types_1.png]({{site.baseurl}}/images/room_types_1.png)
+
 
 
 
