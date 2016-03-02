@@ -280,9 +280,11 @@ You can now load in the system all of the rooms at your property, and organize t
 
 
 
- - Insert the room name or number, the type it belongs to, the floor and the class. Once done, you can click on the blue button _Save_:  
+ - Insert the room name or number, the type it belongs to, the floor and the class. Use the drop down calendar to decide when the room availability should start: you can choose a past or future date. Once done, you can click on the blue button _Save_:  
  
-![Rooms_3.png]({{site.baseurl}}/images/Rooms_3.png)
+
+![rooms_3.png]({{site.baseurl}}/images/rooms_3.png)
+
 
 
  
