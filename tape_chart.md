@@ -172,7 +172,12 @@ To <span class="label label-info">Edit</span> your account configuration, check 
 
 3. Your account has been configured with an Overbooking Allowance, which allows room types to receive more reservations than the real number of rooms.
 
-To <span class="label label-info">Edit</span> the Overbooking Allowance configuration, click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
+To <span class="label label-info">Edit</span> the Overbooking Allowance configuration, click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)  
+
+- When unassigned reservations are present in your system, the number "0" on the _Unassigned_ row will be replaced with the number corresponding to the number of unasigned reservations. In the example below, notice that there are _2_ unassigned reservations on April 2nd:  
+
+![tape_chart_49.png]({{site.baseurl}}/images/tape_chart_49.png)
+
 
 ##**Guest Look-Up**  
 
