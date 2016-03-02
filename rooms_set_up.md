@@ -265,7 +265,9 @@ You can now load in the system all of the rooms at your property, and organize t
 
 - In the Admin Settings, click on the blue link **Rooms** under section _Rooms_:  
 
-![Rooms_1.png]({{site.baseurl}}/images/Rooms_1.png)
+
+![rooms_1.png]({{site.baseurl}}/images/rooms_1.png)
+
 
 
 
