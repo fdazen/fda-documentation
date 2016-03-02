@@ -25,7 +25,8 @@ Let's start by set up the number of floors in your property. This is important a
 
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
-![Floors_1.png]({{site.baseurl}}/images/Floors_1.png)
+
+![floors_1.png]({{site.baseurl}}/images/floors_1.png)
 
 
 
