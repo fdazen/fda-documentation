@@ -204,7 +204,8 @@ We have now come to the point where you need to build your hotel's room types: a
  - From the _Room Alias_ drop down menu select whether the room type should be considered as different from a 'room': if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
 
 
-![Room_types_4.png]({{site.baseurl}}/images/Room_types_4.png)
+![room_types_4.png]({{site.baseurl}}/images/room_types_4.png)
+
 
 
  
