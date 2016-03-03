@@ -434,7 +434,7 @@ Real Availability + Overbooking Allowance - Protected Rooms = Total Availability
 
 
 
-##**Tape Chart/Running the Tape Chart**  
+##**Tape Chart/Refresh Your Availability**  
   
   
   
