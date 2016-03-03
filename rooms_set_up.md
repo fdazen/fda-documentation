@@ -434,4 +434,19 @@ Real Availability + Overbooking Allowance - Protected Rooms = Total Availability
 
 
 
+##**Tape Chart/Running the Tape Chart**  
+  
+  
+  
+Running the Tape Chart ensures that all amendments made to rooms or room types are effective on the Tape Chart. It is also useful to refresh inventory on all integrated channels!  
+
+
+- To run the Tape Chart, click on the link _Tape Chart_ under section **Rooms**:  
+
+
+![tape_chart_run_1.png]({{site.baseurl}}/images/tape_chart_run_1.png)
+
+
+
+
 
