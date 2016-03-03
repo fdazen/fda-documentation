@@ -419,10 +419,17 @@ Real Availability + Overbooking Allowance - Protected Rooms = Total Availability
 
 
 
-- For each room type, insert the number of rooms you want to protect and the number by which you want to enable overbookings for any external channel. When done, click on the button _Save_:  
+- For each room type, insert the number of rooms you want to protect and the number by which you want to enable overbookings for any external channel:
 
 
-![protect_rooms_2.png]({{site.baseurl}}/images/protect_rooms_2.png)
+![protect_rooms_2.png]({{site.baseurl}}/images/protect_rooms_2.png)  
+
+
+- Notice that there is a drop-down menu, defaulted to option _Frontdesk_: make sure to choose the right channel, before placing the OBA, or to protect rooms. You can configure different values for different channels:  
+
+
+![protect_rooms_3.png]({{site.baseurl}}/images/protect_rooms_3.png)
+
 
 
 
