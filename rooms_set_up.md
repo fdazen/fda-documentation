@@ -19,6 +19,7 @@ published: true
 
 
 
+
 ##**Floors**  
 
 Let's start by set up the number of floors in your property. This is important as you will be able to group your rooms by the floor they are on!  
@@ -471,11 +472,3 @@ The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means th
 
 
 ![tape_chart_run_4.png]({{site.baseurl}}/images/tape_chart_run_4.png)
-
-
-
-
-
-
-
-
