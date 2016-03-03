@@ -428,6 +428,7 @@ Real Availability + Overbooking Allowance - Protected Rooms = Total Availability
 - Notice that there is a drop-down menu, defaulted to option _Frontdesk_: make sure to choose the right channel, before placing the OBA, or to protect rooms. You can configure different values for different channels:  
 
 
+
 ![protect_rooms_3.png]({{site.baseurl}}/images/protect_rooms_3.png)
 
 
