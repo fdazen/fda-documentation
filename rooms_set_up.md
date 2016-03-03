@@ -444,7 +444,36 @@ Running the Tape Chart ensures that all amendments made to rooms or room types a
 - To run the Tape Chart, click on the link _Tape Chart_ under section **Rooms**:  
 
 
-![tape_chart_run_1.png]({{site.baseurl}}/images/tape_chart_run_1.png)
+![tape_chart_run_1.png]({{site.baseurl}}/images/tape_chart_run_1.png)  
+
+
+
+- You will see a panel, called **Tape Chart Update**:  
+
+
+
+![tape_chart_run_2.png]({{site.baseurl}}/images/tape_chart_run_2.png)  
+
+
+
+The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means that all integrated channels will receive from Frontdesk Anywhere up to two years worth of availability values. The _Nightly Update Next Run Date_ will tell you when the Tape Chart is due to automatically refresh.  
+
+
+  
+  
+- If you want to manually refresh your availability, or if you have made changes in the room type/rooms configuration, you can use the scroll down calendars to select the date range you want to send the refresh for:  
+
+
+![tape_chart_run_3.png]({{site.baseurl}}/images/tape_chart_run_3.png)  
+
+
+- You can also choose to update only a selected room type, and not all room types. Choose the relevant option from the drop down menu _Update Room Type_:  
+
+
+![tape_chart_run_4.png]({{site.baseurl}}/images/tape_chart_run_4.png)
+
+
+
 
 
 
