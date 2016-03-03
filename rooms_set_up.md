@@ -419,7 +419,11 @@ Real Availability + Overbooking Allowance - Protected Rooms = Total Availability
 
 
 
+- For each room type, insert the number of rooms you want to protect and the number by which you want to enable overbookings for any external channel. When done, click on the button _Save_:  
 
-- For each room type, insert the number of rooms you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
 
-![Published_Rooms_3.png]({{site.baseurl}}/images/Published_Rooms_3.png)
+![protect_rooms_2.png]({{site.baseurl}}/images/protect_rooms_2.png)
+
+
+
+
