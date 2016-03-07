@@ -18,5 +18,13 @@ In order to make the Reputation tab active and see information about your hotel,
 
 - In the Admin Settings, click on the blue link _Integration Configuration_ under section **Integrations**:  
 
-![revinate_1.png]({{site.baseurl}}/images/revinate_1.png)
+![revinate_1.png]({{site.baseurl}}/images/revinate_1.png)  
+
+
+- You will have to insert your Hotel ID in the _Value_ column, corresponding to the _Revinate_ integration: 
+
+
+![revinate_2.png]({{site.baseurl}}/images/revinate_2.png)
+
+
 
