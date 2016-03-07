@@ -45,7 +45,14 @@ In order to make the Reputation tab active and see information about your hotel,
 
 - On the top of your Tape Chart, click on the tab _Reputation_:  
 
-![revinate_5.png]({{site.baseurl}}/images/revinate_5.png)
+![revinate_5.png]({{site.baseurl}}/images/revinate_5.png)  
+
+
+- You wil see three clickable link on the left hand side of the screen:  
+
+
+![revinate_6.png]({{site.baseurl}}/images/revinate_6.png)
+
 
 
 
