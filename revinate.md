@@ -48,10 +48,23 @@ In order to make the Reputation tab active and see information about your hotel,
 ![revinate_5.png]({{site.baseurl}}/images/revinate_5.png)  
 
 
-- You wil see three clickable link on the left hand side of the screen:  
+- You will see three clickable link on the left hand side of the screen:  
 
 
-![revinate_6.png]({{site.baseurl}}/images/revinate_6.png)
+![revinate_6.png]({{site.baseurl}}/images/revinate_6.png)  
+
+
+- The **Review Snapshot** link will give you an overview of the number of reviews made during the past three months, your average overrall rating on the channels and a breakdown of that rating by channels, your ranking and a schema that highlights where the reviews are coming from:  
+
+
+![revinate_7.png]({{site.baseurl}}/images/revinate_7.png)  
+
+
+{{site.data.alerts.important}} Channels may use a different ranking score: please contact Revinate if you have questions on how the Average/Positive rating is being calculated. {{site.data.alerts.end}}
+
+
+
+
 
 
 
