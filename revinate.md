@@ -60,7 +60,15 @@ In order to make the Reputation tab active and see information about your hotel,
 ![revinate_7.png]({{site.baseurl}}/images/revinate_7.png)  
 
 
-{{site.data.alerts.important}} Channels may use a different ranking score: please contact Revinate if you have questions on how the Average/Positive rating is being calculated. {{site.data.alerts.end}}
+{{site.data.alerts.important}} Channels may use a different ranking score: please contact Revinate if you have questions on how the Average/Positive rating is being calculated. {{site.data.alerts.end}}  
+
+
+
+- The **Last Five Reviews** link will show you the latest review made for your properties, and the source where they are coming from. This is extremely useful to monitor reviews and take action in a timely manner, if needed:  
+
+
+![revinate_8.png]({{site.baseurl}}/images/revinate_8.png)
+
 
 
 
