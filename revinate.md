@@ -67,7 +67,15 @@ In order to make the Reputation tab active and see information about your hotel,
 - The **Last Five Reviews** link will show you the latest review made for your properties, and the source where they are coming from. This is extremely useful to monitor reviews and take action in a timely manner, if needed:  
 
 
-![revinate_8.png]({{site.baseurl}}/images/revinate_8.png)
+![revinate_8.png]({{site.baseurl}}/images/revinate_8.png)  
+
+
+- The **Sentiment Analysis** provides you a breakdown of your weaknesses and strenght in al reviews sections:  
+
+
+![revinate_9.png]({{site.baseurl}}/images/revinate_9.png)
+
+
 
 
 
