@@ -56,8 +56,9 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 - Click on the blue link **Fiscal Year** under section _Accounting_:  
 
-![Accounting_5.png]({{site.baseurl}}/images/Accounting_5.png)
 
+
+![accounting_5.png]({{site.baseurl}}/images/accounting_5.png)
 
 
  - Select the month and the year of your fiscal year by following the format below: your current fiscal year is also displayed, in case you forgot!  
