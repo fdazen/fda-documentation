@@ -381,7 +381,9 @@ From time to time it might happen that you will need to update your Tape Chart: 
 
  - In the Admin Settings, click on the link **Tape Chart**, under section _General_:  
  
-![General_52.png]({{site.baseurl}}/images/General_52.png)
+
+![general_52.png]({{site.baseurl}}/images/general_52.png)
+
 
  
  
