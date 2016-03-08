@@ -436,7 +436,8 @@ The Revenue Account Manager helps you associating the irght Revenue Label and Ca
 -  In the Admin Settings, click on the blue link **Revenue Account Manager**, under section _Accounting_:    
 
 
-![Accounting_55.png]({{site.baseurl}}/images/Accounting_55.png)
+![accounting_55.png]({{site.baseurl}}/images/accounting_55.png)
+
 
 
 - On the left hand side, you will see a column with all the items that you have created in the system, and that you are currently selling. For each of those, choose the right Label and Category by looking up the right option in the scroll down menus:  
