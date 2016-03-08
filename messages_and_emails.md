@@ -171,7 +171,9 @@ If the box _Group Messages_ is checked, the newly create template will appear in
  
  Finally, if you check on the _Profile Documents_, the template will show in the _Profiles_ area:  
  
-![Guest_Messages_22.png]({{site.baseurl}}/images/Guest_Messages_22.png)
+
+![guest_messages_22.png]({{site.baseurl}}/images/guest_messages_22.png)
+
 
 
  
