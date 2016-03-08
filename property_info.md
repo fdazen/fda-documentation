@@ -13,6 +13,7 @@ published: true
 
 
 
+
 #**Property Info**  
 
 As the name suggests, this section is dedicated to information about your company and how guest information are displayed in your system.  
@@ -21,7 +22,8 @@ As the name suggests, this section is dedicated to information about your compan
 
  In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
  
-![Property_Info_1.png]({{site.baseurl}}/images/Property_Info_1.png)
+
+![property_info_1.png]({{site.baseurl}}/images/property_info_1.png)
 
  
 
@@ -40,7 +42,8 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 
  Click on the blue link **Default Guest Settings**, under section _Property Info_:  
  
-![Property_Info_3.png]({{site.baseurl}}/images/Property_Info_3.png)
+![property_info_3.png]({{site.baseurl}}/images/property_info_3.png)
+
 
  
   Chose how you want the names of your guests to be displayed on the Tape Chart, by selecting your option from the scroll down menu with the tag _Name Display_:  
@@ -57,5 +60,4 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 
 ##**Time Zone**  
   
-<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>It is not currently possible to change the time zone directly from your account. Please contact our Support Team at help@frontdeskanywhere.com to change it! 
-
+<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>It is not currently possible to change the time zone directly from your account. Please contact our Support Team at help@frontdeskanywhere.com to change it!
