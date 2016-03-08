@@ -32,7 +32,9 @@ Housekeeping Statuses serve to indicate whether a certain room needs attention f
   
   - You will see a list of available Housekeeping Statuses:  
   
-![Housekeeping_2.png]({{site.baseurl}}/images/Housekeeping_2.png)
+
+
+![housekeeping_2.png]({{site.baseurl}}/images/housekeeping_2.png)
 
 
 
