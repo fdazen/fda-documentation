@@ -12,14 +12,17 @@ published: true
 
 
 
+
 ##**Configure Your Add-Ons**
 
 
 
 
- - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
+ - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _POS/Add-Ons_:  
+ 
 
-![Add_ons_1.png]({{site.baseurl}}/images/Add_ons_1.png)
+![add-ons_1.png]({{site.baseurl}}/images/add-ons_1.png)
+
 
 
 
