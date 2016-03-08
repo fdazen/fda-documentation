@@ -242,6 +242,7 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 ![accounting_27.png]({{site.baseurl}}/images/accounting_27.png)
 
+
  
  - Click on the blue button _Add a Discount Reason_:  
   
