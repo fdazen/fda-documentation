@@ -13,6 +13,7 @@ published: true
 
 
 
+
 ##**Getting Familiar with Sources** 
 
 
@@ -34,8 +35,9 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
 
-![Sources_1.png]({{site.baseurl}}/images/Sources_1.png)
 
+
+![sources_1.png]({{site.baseurl}}/images/sources_1.png)
 
 
 
