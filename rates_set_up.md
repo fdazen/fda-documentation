@@ -13,6 +13,7 @@ published: true
 
 
 
+
 ##**Taxes and Fees**
   
 As a first thing, you will need to set up all applicable fees and taxes.  
@@ -85,7 +86,8 @@ Although the system comes with a couple of rates already built-in, it will be go
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
 
 
-![Rate_Classes_1.png]({{site.baseurl}}/images/Rate_Classes_1.png)
+
+![rate_classes_1.png]({{site.baseurl}}/images/rate_classes_1.png)
 
 
 
