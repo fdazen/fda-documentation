@@ -14,6 +14,7 @@ published: true
 
 
 
+
 ##**Taxes and Fees**
   
 As a first thing, you will need to set up all applicable fees and taxes.  
@@ -173,7 +174,8 @@ Click on the button _Save_ when done.
 
  -  You will now see your Season Period saved:  
  
-![Rate_Classes_11.png]({{site.baseurl}}/images/Rate_Classes_11.png)
+
+![rate_classes_11.png]({{site.baseurl}}/images/rate_classes_11.png)
 
 
 
