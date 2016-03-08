@@ -88,7 +88,9 @@ Once the Yield Management Rules are created, you will need to specify how often 
 
  - Click on the link **Yield Management Settings** under section _Rates_:  
  
-![Yield_11.png]({{site.baseurl}}/images/Yield_11.png)
+
+![yield_11.png]({{site.baseurl}}/images/yield_11.png)
+
 
 
  
