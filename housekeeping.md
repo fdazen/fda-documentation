@@ -60,7 +60,9 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
  - In the Admin Settings, click on the blue link **Housekeeping Rules**, under section _Housekeeping_:  
  
-![Housekeeping_3.png]({{site.baseurl}}/images/Housekeeping_3.png)
+
+![housekeeping_3.png]({{site.baseurl}}/images/housekeeping_3.png)
+
 
  
  
