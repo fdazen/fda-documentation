@@ -380,6 +380,7 @@ Unless you order your rates, they will appear randomly in the folio: for example
 
   - In the Admin Settings, click on **Rate Priority** under section _Rates_:  
  
+ 
 ![rate_classes_36.png]({{site.baseurl}}/images/rate_classes_36.png)
 
 
