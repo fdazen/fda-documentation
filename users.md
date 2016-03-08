@@ -17,6 +17,7 @@ published: true
 
 
 
+
 ##**Creating User Levels**  
 
 Creating different access levels for the system may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account. Our first step will be to create those User Levels; once that is done we will need to assign each user to their respective level.
@@ -71,8 +72,9 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 
 
- 
- ###**Edit Permissions for a User Level**
+
+###**Edit Permissions for a User Level**
+
  
  Now that you have created your User Levels, you can go more in depth and edit access permissions within each level.
  
