@@ -12,13 +12,16 @@ published: true
 
 
 
+
 ##**Yield Management Rules**  
 
 Let us start by defining what rules you want the system to follow.  
 
   - Click on the blue link **Yield Managament Rules** under section _Rates_:  
   
-![Yield_1.png]({{site.baseurl}}/images/Yield_1.png)
+
+![yield_1.png]({{site.baseurl}}/images/yield_1.png)
+
 
 
   
