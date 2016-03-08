@@ -415,6 +415,7 @@ Frontdesk Anywhere allows you to take some rooms off all channels or to increase
 
 ![published_rooms_1.png]({{site.baseurl}}/images/published_rooms_1.png)
 
+
  
 
 - You will see a list of all your room types, and four columns: the **Real** column shows the real availability for each type, meaning the number of rooms actually created and listed under a type; it is uneditable. The **OBA** column stands for **O**ver**b**ooking **A**llowance: you can edit this field and add the number of reservations by which you want to overbook.  In the **Protect** column you will need to place the number of rooms you want to _hide_ or protect from all channels. The **Total** column will show the final availability value; the latter is calculated in the following simple formula:  
