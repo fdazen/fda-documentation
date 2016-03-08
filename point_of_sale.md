@@ -121,9 +121,10 @@ The process is the same as editing one.
 
 After creating your POS Points and Categories, you can finally proceed to set up all items you want to sell!
 
- - In the Admin Settings, click on the link **Products** under section _POS_:  
+ - In the Admin Settings, click on the link **Products** under section _POS/Add-Ons_:  
  
-![Pos_13.png]({{site.baseurl}}/images/Pos_13.png)
+
+![pos_point_13.png]({{site.baseurl}}/images/pos_point_13.png)
 
 
  
