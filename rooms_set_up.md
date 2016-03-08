@@ -31,6 +31,7 @@ Let's start by set up the number of floors in your property. This is important a
 ![floors_1.png]({{site.baseurl}}/images/floors_1.png)
 
 
+
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
  
  
