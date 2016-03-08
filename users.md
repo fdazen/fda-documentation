@@ -16,13 +16,15 @@ published: true
 
 
 
+
 ##**Creating User Levels**  
 
 Creating different access levels for the system may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account. Our first step will be to create those User Levels; once that is done we will need to assign each user to their respective level.
 
  - In the Admin Settings, click on the blue link **User Levels** under section _Users_:  
  
-![Users_1.png]({{site.baseurl}}/images/Users_1.png)
+
+![users_1.png]({{site.baseurl}}/images/users_1.png)
 
 
 
