@@ -119,13 +119,15 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
  
  
- ##**Create Users** 
+##**User Creation**
+
  
  It is currently not possible to create users directly within your account: if you wish to create a new user, please contact our Support Team at help@frontdeskanywhere.com
  
  
- 
- ##**Apply User Levels**  
+
+##**Apply User Levels**  
+
  
  - All of your system users appear in the _Users_ list. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
