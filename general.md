@@ -311,7 +311,8 @@ When you mark a field as **Required**, the system will force agents to insert th
 
  - In the Admin Settings, click on the blue link **Display Colors** under section _General_: 
  
-![General_42.png]({{site.baseurl}}/images/General_42.png)
+
+![general_423.png]({{site.baseurl}}/images/general_423.png)
 
 
  
