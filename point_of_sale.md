@@ -65,7 +65,8 @@ Start by creating your POS Points.
 
  
  
- ##**POS Categories**  
+##**POS Categories**
+
  
  Once POS Points are created, you can go ahead and create your Categories.
  
