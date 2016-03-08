@@ -219,7 +219,8 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
 
  - In the Admin Settings, click on the link _Guest Information: Custom Fields_:  
  
-![General_29.png]({{site.baseurl}}/images/General_29.png)
+
+![general_29.png]({{site.baseurl}}/images/general_29.png)
 
  
  
