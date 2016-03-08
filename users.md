@@ -79,7 +79,9 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  Now that you have created your User Levels, you can go more in depth and edit access permissions within each level.
  
  - In the User Level List, click on the blue link _Permissions_:  
- 
+
+
+
 ![Users_8.png]({{site.baseurl}}/images/Users_8.png)
 
 
