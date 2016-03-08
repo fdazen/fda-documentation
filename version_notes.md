@@ -18,9 +18,10 @@ published: true
 
 Enhancement | Description  
 --------|----------  
-New Feature - Reputation Tab | Reputation tab is now available for all accounts. You can find this on top of your Tape Chart. It is readily available for all users under _All Access/ Super Administrator_ User Level; all other User Levels might need to be adjusted in order include the display of this area. The Reputation tab offers the last five reviews for the property, a breakdown of the number of reviews from channels and the property's ranking. Properties will need to have at least a Tripadvisor page: before anything gets displayed in the tab, you will need to contact our Operation Team at help@frontdeskanywhere.com to place a request to retrieve the Hotel ID. The Reputation tab is powered by _Revinate_: detailed information in this manual, under section _Reputation_
-  
-  
+New Feature - Reputation Tab | Reputation tab is now available for all accounts. You can find this on top of your Tape Chart. It is readily available for all users under _All Access/ Super Administrator_ User Level; all other User Levels might need to be adjusted in order include the display of this area. The Reputation tab offers the last five reviews for the property, a breakdown of the number of reviews from channels and the property's ranking. Properties will need to have at least a Tripadvisor page: before anything gets displayed in the tab, you will need to contact our Operation Team at help@frontdeskanywhere.com to place a request to retrieve the Hotel ID. The Reputation tab is powered by _Revinate_: detailed information in this manual, under section _Reputation_.
+Improvement - Admin Settings Links | The _GDA/OTA_ section in the Admin Settings is now called **Integration**. _Taxes_ link has been moved under section **Accounting**.     
+Improvement - Dirty Departing Housekeeping Status has been added | Housekeeping Status Dirty Departing has now been added. Rules needs to be set up in order to see the status being effective on the Housekeeping tab.  
+Bug Fix - Implemented reservations fallback strategy for reservations coming from OTAs without an existent rate code in FDA | A _Reservation fallback_ strategy will ensure that bookings sent from OTAs to Frontdesk Anywhere without a valid the rate code will be accepted with an Error Code as opposed as failing.
   
 **v3.1.25.3**  
 
