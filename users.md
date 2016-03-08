@@ -133,8 +133,8 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 - You will see a list of all the currently created users: click on blue link _Edit_ on the right hand side of any user:  
 
-![Users_14.png]({{site.baseurl}}/images/Users_14.png)
 
+![Users_14.png]({{site.baseurl}}/images/Users_14.png)
 
 
 
@@ -181,7 +181,8 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
  - In the Admin Settings, click on the link **Shifts** under section _Users_:  
  
-![Users_20.png]({{site.baseurl}}/images/Users_20.png)
+
+![users_20.png]({{site.baseurl}}/images/users_20.png)
 
 
 
