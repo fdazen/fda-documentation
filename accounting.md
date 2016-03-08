@@ -349,8 +349,9 @@ You can create Department options for the discount reasons you created, to make 
  
  - In the Admin Settings, click on the blue link **Revenue Account Labels**:  
  
-![Accounting_43.png]({{site.baseurl}}/images/Accounting_43.png)
+ 
 
+![accounting_43.png]({{site.baseurl}}/images/accounting_43.png)
 
  
  - You will notice that your account comes with four default labels which are commonly used by hotels.  To add a new Label, click on the blue link _Add Label_:  
@@ -390,7 +391,9 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 -  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
 
-![Accounting_49.png]({{site.baseurl}}/images/Accounting_49.png)
+
+
+![accounting_49.png]({{site.baseurl}}/images/accounting_49.png)
 
 
 
