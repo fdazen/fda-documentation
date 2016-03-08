@@ -16,13 +16,17 @@ published: true
 
 
 
+
 ##**Housekeeping Status**    
 
 Housekeeping Statuses serve to indicate whether a certain room needs attention from your Housekeeping staff or not. Frontdesk Anywhere performs changes in the Housekeeping Status of each room thanks to certain Rules you will have to set up: since the rules are based on the Housekeeping Statuses, it will be good for you to familiarize with what each status mean!  
 
   - In the Admin Settings, click on the blue link **Housekeeping Statuses** under section _Housekeeping_:  
   
-![Housekeeping_1.png]({{site.baseurl}}/images/Housekeeping_1.png)
+
+
+![housekeeping_1.png]({{site.baseurl}}/images/housekeeping_1.png)
+
 
 
   
