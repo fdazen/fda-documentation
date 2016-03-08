@@ -15,6 +15,7 @@ published: true
 
 
 
+
 ##**Taxes and Fees**
   
 As a first thing, you will need to set up all applicable fees and taxes.  
