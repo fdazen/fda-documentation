@@ -74,16 +74,3 @@ In order to make the Reputation tab active and see information about your hotel,
 
 
 ![revinate_9.png]({{site.baseurl}}/images/revinate_9.png)
-
-
-
-
-
-
-
-
-
-
-
-
-

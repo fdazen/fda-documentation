@@ -63,13 +63,14 @@ Each property has a different starting date for their Fiscal Year, depending on 
 ![accounting_5.png]({{site.baseurl}}/images/accounting_5.png)
 
 
+
  - Select the month and the year of your fiscal year by following the format below: your current fiscal year is also displayed, in case you forgot!  
  
 ![Accounting_6.png]({{site.baseurl}}/images/Accounting_6.png)
 
 
- 
- ##**Pay Types**  
+##**Pay Types**
+
  
  Selecting the pay types that are accepted at your property is important to avoid the margin of human error of your front desk staff when they collect payments, it is also good when auditing and run reports!  
  
@@ -110,8 +111,8 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 - Click on the blue link **Credit Card Types** under section _Accounting_:  
 
-
 ![accounting_12.png]({{site.baseurl}}/images/accounting_12.png)
+
 
   
 
@@ -143,6 +144,7 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 
 ![accounting_16.png]({{site.baseurl}}/images/accounting_16.png)
+
 
 
 
@@ -193,8 +195,8 @@ As a security measure Frontdesk Anywhere enables you to erase, on a regular basi
  - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
  
 
-
 ![accounting_22.png]({{site.baseurl}}/images/accounting_22.png)
+
 
 
  
@@ -221,6 +223,7 @@ You can check the number of your invoices with a simple click!
 ![accounting_25.png]({{site.baseurl}}/images/accounting_25.png)
 
 
+
  
   - The number of your Invoices will show at the center of the panel:  
   
@@ -238,6 +241,7 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 
 ![accounting_27.png]({{site.baseurl}}/images/accounting_27.png)
+
 
  
  - Click on the blue button _Add a Discount Reason_:  
@@ -294,6 +298,7 @@ You can create Department options for the discount reasons you created, to make 
  
 
 ![accounting_35.png]({{site.baseurl}}/images/accounting_35.png)
+
 
 
 
@@ -355,6 +360,7 @@ You can create Department options for the discount reasons you created, to make 
 
 ![accounting_43.png]({{site.baseurl}}/images/accounting_43.png)
 
+
  
  - You will notice that your account comes with four default labels which are commonly used by hotels.  To add a new Label, click on the blue link _Add Label_:  
  
@@ -399,6 +405,7 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 
 
+
 - Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account. To add a new Category, click on the blue link _Add Category_:  
 
 ![Accounting_50.png]({{site.baseurl}}/images/Accounting_50.png)
@@ -439,6 +446,7 @@ The Revenue Account Manager helps you associating the irght Revenue Label and Ca
 
 
 ![accounting_55.png]({{site.baseurl}}/images/accounting_55.png)
+
 
 
 
