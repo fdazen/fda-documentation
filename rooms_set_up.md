@@ -136,7 +136,8 @@ A room class is a general concept referring to any extra organizational level yo
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
  
-![Room_classes_1.png]({{site.baseurl}}/images/Room_classes_1.png)
+![room_classes_1.png]({{site.baseurl}}/images/room_classes_1.png)
+
 
 
 
