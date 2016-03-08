@@ -125,7 +125,8 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  - All of your system users appear in the _Users_ list. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
-![Users_13.png]({{site.baseurl}}/images/Users_13.png)
+
+![users_13.png]({{site.baseurl}}/images/users_13.png)
 
 
 
