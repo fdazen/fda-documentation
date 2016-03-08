@@ -194,6 +194,7 @@ The procedure is the same as adding a new one!
 
 - Add a POS product charge from any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
 
+
 ![Pos_23.png]({{site.baseurl}}/images/Pos_23.png)
 
 
