@@ -108,7 +108,8 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 - Click on the blue link **Credit Card Types** under section _Accounting_:  
 
-![Accounting_12.png]({{site.baseurl}}/images/Accounting_12.png)
+
+![accounting_12.png]({{site.baseurl}}/images/accounting_12.png)
 
   
 
@@ -138,7 +139,8 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 - In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
 
-![Accounting_16.png]({{site.baseurl}}/images/Accounting_16.png)
+
+![accounting_16.png]({{site.baseurl}}/images/accounting_16.png)
 
 
 
