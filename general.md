@@ -14,13 +14,16 @@ published: true
 
 
 
+
 ##**Languages**  
 
 Frontdesk Anywhere comes with a few optional languages that you can set up as default for both your OBE and your PMS.
 
  - In the Admin Settings click on the link **Languages** under section _General_:  
  
-![General_1.png]({{site.baseurl}}/images/General_1.png)
+ 
+![general_1.png]({{site.baseurl}}/images/general_1.png)
+
 
 
 
