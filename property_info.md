@@ -14,6 +14,7 @@ published: true
 
 
 
+
 #**Property Info**  
 
 As the name suggests, this section is dedicated to information about your company and how guest information are displayed in your system.  
@@ -24,6 +25,7 @@ As the name suggests, this section is dedicated to information about your compan
  
 
 ![property_info_1.png]({{site.baseurl}}/images/property_info_1.png)
+
 
  
 
