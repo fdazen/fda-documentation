@@ -73,7 +73,8 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
  - In the Admin Settings, click on the blue link **Pay Types** under section _Accounting_:  
  
-![Accounting_7.png]({{site.baseurl}}/images/Accounting_7.png)
+
+![accounting_7.png]({{site.baseurl}}/images/accounting_7.png)
 
 
  
