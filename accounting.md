@@ -195,8 +195,8 @@ As a security measure Frontdesk Anywhere enables you to erase, on a regular basi
  - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
  
 
-
 ![accounting_22.png]({{site.baseurl}}/images/accounting_22.png)
+
 
 
  
