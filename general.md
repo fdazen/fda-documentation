@@ -115,8 +115,8 @@ You configure all the Identification Types that are accepted at your property in
 
 - In the Admin Settings, click on the link **Identification Types** under section _General_:  
 
-![General_14.png]({{site.baseurl}}/images/General_14.png)
 
+![general_14.png]({{site.baseurl}}/images/general_14.png)
 
 
 - Your account comes with some defaulted identification types. To create a new identification type, click on the blue button _Add Identification Type_ at the bottom of the page: 
