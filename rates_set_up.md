@@ -198,7 +198,8 @@ The three icons that appear under the column _Action_ are used to visualize/edit
  
  - You can continue to create more Season Periods by clicking on the button _Add Period_:  
  
-![Rate_Classes_14.png]({{site.baseurl}}/images/Rate_Classes_14.png)
+
+![rate_classes_14.png]({{site.baseurl}}/images/rate_classes_14.png)
 
 
   
