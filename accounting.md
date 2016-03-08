@@ -360,6 +360,7 @@ You can create Department options for the discount reasons you created, to make 
 
 ![accounting_43.png]({{site.baseurl}}/images/accounting_43.png)
 
+
  
  - You will notice that your account comes with four default labels which are commonly used by hotels.  To add a new Label, click on the blue link _Add Label_:  
  
