@@ -14,6 +14,7 @@ published: true
 
 
 
+
 #**Property Info**  
 
 As the name suggests, this section is dedicated to information about your company and how guest information are displayed in your system.  
@@ -24,6 +25,7 @@ As the name suggests, this section is dedicated to information about your compan
  
 
 ![property_info_1.png]({{site.baseurl}}/images/property_info_1.png)
+
 
  
 
@@ -43,6 +45,7 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
  Click on the blue link **Default Guest Settings**, under section _Property Info_:  
  
 ![property_info_3.png]({{site.baseurl}}/images/property_info_3.png)
+
 
 
  
