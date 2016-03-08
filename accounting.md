@@ -233,12 +233,14 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 - In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
  
-![Accounting_27.png]({{site.baseurl}}/images/Accounting_27.png)
 
+
+![accounting_27.png]({{site.baseurl}}/images/accounting_27.png)
 
  
  - Click on the blue button _Add a Discount Reason_:  
   
+
 ![Accounting_28.png]({{site.baseurl}}/images/Accounting_28.png)
 
 
@@ -288,7 +290,9 @@ You can create Department options for the discount reasons you created, to make 
 
  - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
  
-![Accounting_35.png]({{site.baseurl}}/images/Accounting_35.png)
+
+![accounting_35.png]({{site.baseurl}}/images/accounting_35.png)
+
 
 
  
