@@ -63,7 +63,6 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
 ![housekeeping_3.png]({{site.baseurl}}/images/housekeeping_3.png)
 
-
  
  
  - Your Frontdesk Anywhere comes with some very common default rules that define how your Housekeeping Statuses are to change:  
