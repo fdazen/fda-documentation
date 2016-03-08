@@ -108,7 +108,9 @@ The time frame you choose in the Yield Management Settings will ensure that the 
 
  - To manually run the Yield Manager, click on link _Yield Management Rules_:  
  
-![Yield_1.png]({{site.baseurl}}/images/Yield_1.png)
+
+![yield_1.png]({{site.baseurl}}/images/yield_1.png)
+
 
 
  
