@@ -67,9 +67,12 @@ Start by creating your POS Points.
  
  Once POS Points are created, you can go ahead and create your Categories.
  
- - In the Admin Settings, click on the link **Categories**, under section _POS_:  
+ - In the Admin Settings, click on the link **Categories**, under section _POS/Add-Ons_:  
  
-![Pos_7.png]({{site.baseurl}}/images/Pos_7.png)
+ 
+ 
+ ![pos_point_7.png]({{site.baseurl}}/images/pos_point_7.png)
+
 
 
 
