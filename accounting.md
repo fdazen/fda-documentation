@@ -301,6 +301,7 @@ You can create Department options for the discount reasons you created, to make 
 
 
 
+
  
  - To add a Department, click on the blue link _Add Department_:  
  
