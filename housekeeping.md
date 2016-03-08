@@ -46,7 +46,9 @@ Here is a breakdown of what they mean:
 
 3. **Dirty**: Room is currently rented but needs action from Houssekeepers.  
 
-4. **Dirty Vacant**: Room is not currently rented, it needs full operations from housekeeping.  
+4. **Dirty Vacant**: Room is not currently rented, it needs full operations from housekeeping.    
+
+5. **Dirty Departing**: Room is due to check-out on the current day.
 
 
 {{site.data.alerts.note}} It is currently not possible to add or edit an Housekeeping Status.   {{site.data.alerts.end}} 
