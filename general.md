@@ -162,7 +162,8 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 - In the Admin Settings, click on the link **Markets** under section _General_:  
 
-![General_21.png]({{site.baseurl}}/images/General_21.png)
+
+![general_21.png]({{site.baseurl}}/images/general_21.png)
 
 
 
