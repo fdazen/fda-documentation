@@ -277,6 +277,7 @@ You can now load in the system all of the rooms at your property, and organize t
 
 
 
+
 {{site.data.alerts.important}} Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to edit the existing rooms before creating new ones, as rooms cannot be deleted once created, but only deactivated. {{site.data.alerts.end}}
 
 
