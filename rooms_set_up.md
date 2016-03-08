@@ -375,6 +375,7 @@ You will have two options to create multiple rooms.
 
 
 
+
  
  
  - You will see a list of all your newly created room types, each one with an editable box on the right hand side. Insert a numeric value in each box, according to the progressive order you want your room types to show up on the Tape Chart and click on the blue button _Save_:  
