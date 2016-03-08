@@ -223,6 +223,7 @@ You can check the number of your invoices with a simple click!
 ![accounting_25.png]({{site.baseurl}}/images/accounting_25.png)
 
 
+
  
   - The number of your Invoices will show at the center of the panel:  
   
