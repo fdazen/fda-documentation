@@ -358,7 +358,8 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 - In the Admin Settings, click on the link **Alerts** under section _General_:  
 
-![General_49.png]({{site.baseurl}}/images/General_49.png)
+
+![general_49.png]({{site.baseurl}}/images/general_49.png)
 
 
 
