@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
 ##**Getting Started**  
 
 Before you are able to see information in the Reputation tab, you will need to retrieve your hotel ID that you will need to load in your Frontdesk Anywhere. In order to retireve that information, please send a request to our Support team at help@frontdeskanywhere.com.  
