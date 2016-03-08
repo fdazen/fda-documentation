@@ -10,8 +10,15 @@ published: true
 
 
 
+
   
-  
+
+**v3.1.27.3**   
+
+
+Enhancement | Description  
+--------|----------  
+New Feature - Reputation Tab | Reputation tab is now available for all accounts. You can find this on top of your Tape Chart. It is readily available for all users under _All Access/ Super Administrator_ User Level; all other User Levels might need to be adjusted in order include the display of this area. The Reputation tab offers the last five reviews for the property, a breakdown of the number of reviews from channels and the property's ranking. Properties will need to have at least a Tripadvisor page: before anything gets displayed in the tab, you will need to contact our Operation Team at help@frontdeskanywhere.com to place a request to retrieve the Hotel ID. The Reputation tab is powered by _Revinate_: detailed information in this manual, under section _Reputation_
   
   
   
