@@ -93,6 +93,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 
 
 
+
   
  - You will see a list of some defaulted amenities.
  
@@ -141,6 +142,7 @@ A room class is a general concept referring to any extra organizational level yo
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
  
+
 ![room_classes_1.png]({{site.baseurl}}/images/room_classes_1.png)
 
 
@@ -192,7 +194,9 @@ We have now come to the point where you need to build your hotel's room types: a
  - Start by clicking on the link **Room Types** under section _Rooms_ in the Admin Settings:  
  
  
+
 ![room_types_1.png]({{site.baseurl}}/images/room_types_1.png)
+
 
 
 
@@ -275,6 +279,7 @@ We have now come to the point where you need to build your hotel's room types: a
 You can now load in the system all of the rooms at your property, and organize them around the room types, classes and floors you have created.  
 
 - In the Admin Settings, click on the blue link **Rooms** under section _Rooms_:  
+
 
 
 ![rooms_1.png]({{site.baseurl}}/images/rooms_1.png)
@@ -377,6 +382,7 @@ You will have two options to create multiple rooms.
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
 
+
 ![order_room_type_1.png]({{site.baseurl}}/images/order_room_type_1.png)
 
 
@@ -399,7 +405,7 @@ You will have two options to create multiple rooms.
 - To order with which your rooms are listed under each type, click on the blue link _Order Rooms_, under section **Rooms**:  
 
 
-![order_rooms_1.png]({{site.baseurl}}/images/order_rooms_1.png)  
+
 
 
 - A list of all your rooms will appear, along with an editable box on the right side: order your rooms by placing them in progressive order. When finished, click on the blue button _Save_:  
@@ -419,6 +425,7 @@ Frontdesk Anywhere allows you to take some rooms off all channels or to increase
 
 
 ![published_rooms_1.png]({{site.baseurl}}/images/published_rooms_1.png)
+
 
 
  
@@ -458,7 +465,8 @@ Running the Tape Chart ensures that all amendments made to rooms or room types a
 - To run the Tape Chart, click on the link _Tape Chart_ under section **Rooms**:  
 
 
-![tape_chart_run_1.png]({{site.baseurl}}/images/tape_chart_run_1.png)  
+![tape_chart_run_1.png]({{site.baseurl}}/images/tape_chart_run_1.png)
+
 
 
 
