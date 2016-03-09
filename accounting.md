@@ -17,6 +17,7 @@ published: true
 
 
 
+
 #**Accounting**  
 
 The Accounting section is about all of those settings that have to do payments and accounting. From here you can set up currency and accepted pay types and credit card types, number invoices, set up discount reasons and most importantly configure your Revenue Labels and Categories around which your reports are organized.  
@@ -29,6 +30,7 @@ During the intial system set-up it is important for you to configure the right c
 
 
 ![accounting_1.png]({{site.baseurl}}/images/accounting_1.png)
+
 
 
  
@@ -65,6 +67,7 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 
 
+
  - Select the month and the year of your fiscal year by following the format below: your current fiscal year is also displayed, in case you forgot!  
  
 ![Accounting_6.png]({{site.baseurl}}/images/Accounting_6.png)
@@ -79,6 +82,7 @@ Each property has a different starting date for their Fiscal Year, depending on 
  
 
 ![accounting_7.png]({{site.baseurl}}/images/accounting_7.png)
+
 
 
  
@@ -110,7 +114,10 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 Along with Pay Types you can also configure all credit cards accepted at your property. Note that all accepted cards will show on your booking engine as available payment methods for your guests, and it is for this reason important to have them up to date.
 
+
 - Click on the blue link **Credit Card Types** under section _Accounting_:  
+
+
 
 ![accounting_12.png]({{site.baseurl}}/images/accounting_12.png)
 
@@ -145,6 +152,7 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 
 ![accounting_16.png]({{site.baseurl}}/images/accounting_16.png)
+
 
 
 
@@ -225,6 +233,7 @@ You can check the number of your invoices with a simple click!
 
 
 
+
  
   - The number of your Invoices will show at the center of the panel:  
   
@@ -235,6 +244,7 @@ You can check the number of your invoices with a simple click!
   
  ##**Discount Reasons**
 
+
 You may want to set up a list of reasons for those discounts that your hotel gives out regularly. Setting them up on your Frontdesk Anywhere account allows you to keep track of the reasons why discounts are given.  
 
 - In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
@@ -242,6 +252,7 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 
 ![accounting_27.png]({{site.baseurl}}/images/accounting_27.png)
+
 
 
  
@@ -293,10 +304,13 @@ Scroll down the menu with the tag _Select Adjustment Reason_:
 
 ##**Discount Reasons: Department Options**  
 
+
+
 You can create Department options for the discount reasons you created, to make sure that all your discounts are approved and listed under the right department!  
 
  - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
  
+
 
 ![accounting_35.png]({{site.baseurl}}/images/accounting_35.png)
 
@@ -353,6 +367,7 @@ You can create Department options for the discount reasons you created, to make 
  
  ##**Revenue Account Labels**  
  
+ 
  Revenue Account Labels are customizable tags that will help you organizing your reports. Thanks to these Labels you can group together similar items you are selling at your property (where _item_ is understood here as anything that produces revenue), and have a much better overview of where your earnings come from.  
  
  - In the Admin Settings, click on the blue link **Revenue Account Labels**:  
@@ -360,6 +375,7 @@ You can create Department options for the discount reasons you created, to make 
  
 
 ![accounting_43.png]({{site.baseurl}}/images/accounting_43.png)
+
 
 
  
@@ -403,6 +419,7 @@ Revenue Account Categories are used to group together Revenue Account Lables. Th
 
 
 ![accounting_49.png]({{site.baseurl}}/images/accounting_49.png)
+
 
 
 
