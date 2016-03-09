@@ -25,6 +25,7 @@ As a first thing, you will need to set up all applicable fees and taxes.
 
  - In the Admin Settings, click on the link **Taxes** under section _Rates_:  
 
+
 ![tazes_1.png]({{site.baseurl}}/images/tazes_1.png)
 
 
