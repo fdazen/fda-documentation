@@ -11,6 +11,16 @@ published: true
 
 
 
+
+
+**v3.2.1.2**   
+
+Enhancement | Description  
+--------|----------  
+Improvement - New Availability Architecture | We have changed the way our application handles availability across channels. Sending updates on availability is now a faster process. 
+Enhancement - Protecting Availability on Different Channels | You can now protect availability on different channels, for different values. Check out section _Published Roms_ of section **Rooms** in this manual.  
+
+
   
 
 **v3.1.27.3**   
