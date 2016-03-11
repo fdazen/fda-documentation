@@ -4,7 +4,7 @@ tags:
   - yield management
 keywords: "yield management, yield rules, yield settings"
 last_updated: "November 18th, 2015"
-summary: "Learn how to have your system perform automatic rate change based on your occupancy level!"
+summary: "The Yield Management is a powerful tool of your PMS: it triggers automatic rate changes based on the occupancy level of a room type or your run of house. The price change is governed by rules that you will have to configure in the system, in order to define how the rates should change when certain conditions apply. "
 published: true
 ---
 
@@ -13,20 +13,15 @@ published: true
 
 
 
-
-  
-
-#**Yield Management**  
-
-The _Yield Management_ is a powerful tool of your PMS: it triggers automatic rate changes based on the occupancy level of a room type or your run of house. The price change is governed by rules that you will have to configure in the system, in order to define how the rates should change when certain conditions apply.  
-
 ##**Yield Management Rules**  
 
 Let us start by defining what rules you want the system to follow.  
 
   - Click on the blue link **Yield Managament Rules** under section _Rates_:  
   
-![Yield_1.png]({{site.baseurl}}/images/Yield_1.png)
+
+![yield_1.png]({{site.baseurl}}/images/yield_1.png)
+
 
 
   
@@ -41,8 +36,7 @@ Let us start by defining what rules you want the system to follow.
 ![Yield_3.png]({{site.baseurl}}/images/Yield_3.png)
 
 
-  
-  **NOTE**: Choosing '1' as a starting day **does not** mean that the Yield Manager will run on the current day, but on the following one. We currently do not support same-day yielding.
+ {{site.data.alerts.note}} Choosing '1' as a starting day **does not** mean that the Yield Manager will run on the current day, but on the following one. We currently do not support same-day yielding. {{site.data.alerts.end}} 
   
   - Choose your conditions by selecting the relevant choices from the scroll down menus:  
   
@@ -75,13 +69,13 @@ Let us start by defining what rules you want the system to follow.
 
  
  
- To **DEACTIVATE** a Yield Management Rule, go back to the rule list and un-check the box under the column _Status_ on the right hand side of the rule you want to make inactive: 
+ To <span class="label label-info">DEACTIVATE</span> a Yield Management Rule, go back to the rule list and un-check the box under the column _Status_ on the right hand side of the rule you want to make inactive: 
  
 ![Yield_9.png]({{site.baseurl}}/images/Yield_9.png)
 
 
 
-To **EDIT** a rule, click on the blue link _Edit_ oin the rule list panel:  
+To <span class="label label-default">EDIT</span> a rule, click on the blue link _Edit_ oin the rule list panel:  
 
 ![Yield_10.png]({{site.baseurl}}/images/Yield_10.png)
 
@@ -94,7 +88,9 @@ Once the Yield Management Rules are created, you will need to specify how often 
 
  - Click on the link **Yield Management Settings** under section _Rates_:  
  
-![Yield_11.png]({{site.baseurl}}/images/Yield_11.png)
+
+![yield_11.png]({{site.baseurl}}/images/yield_11.png)
+
 
 
  
@@ -112,7 +108,9 @@ The time frame you choose in the Yield Management Settings will ensure that the 
 
  - To manually run the Yield Manager, click on link _Yield Management Rules_:  
  
-![Yield_1.png]({{site.baseurl}}/images/Yield_1.png)
+
+![yield_1.png]({{site.baseurl}}/images/yield_1.png)
+
 
 
  
@@ -127,5 +125,4 @@ The time frame you choose in the Yield Management Settings will ensure that the 
 ![Yield_14.png]({{site.baseurl}}/images/Yield_14.png)
 
 
-{{site.data.alerts.important}} The Yield Manager won't override rates that have been manually changed in the <em>Daily Rate Grid</em>, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!{{site.data.alerts.end}}  
- 
+{{site.data.alerts.important}} The Yield Manager won't override rates that have been manually changed in the <em>Daily Rate Grid</em>, so make sure that the rate has not been previously edited on the grid, otherwise the Yield won't work!{{site.data.alerts.end}}

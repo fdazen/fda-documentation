@@ -4,16 +4,15 @@ tags:
   - general
 keywords: "languages, modes of arrival, identification types, sources of business, markets, display colors, guest information, reservation information, custom fields, alerts, tape chart."
 last_updated: "November 19th, 2015"
-summary: "The _General_ section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones."
+summary: "The General section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  "
 published: true
 ---
 
 
 
 
-#**General**  
 
-The _General_ section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  
+
 
 
 ##**Languages**  
@@ -22,7 +21,9 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
 
  - In the Admin Settings click on the link **Languages** under section _General_:  
  
-![General_1.png]({{site.baseurl}}/images/General_1.png)
+ 
+![general_1.png]({{site.baseurl}}/images/general_1.png)
+
 
 
 
@@ -45,8 +46,8 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
 
  
  
- **NOTE** Making a certain language the default one does not mean that all users will have the same language upon log-in. Each user can choose a different language for the same account and they can set this up on the _Preferences_ area:  
- 
+{{site.data.alerts.note}} Making a certain language the default one does not mean that all users will have the same language upon log-in. Each user can choose a different language for the same account and they can set this up on the _Preferences_ area:   {{site.data.alerts.end}} 
+
 ![General_5.png]({{site.baseurl}}/images/General_5.png)
 
 
@@ -60,7 +61,8 @@ Create your guest's modes of arrival to keep track of how they come to your prop
 
  - In the Admin Settings, click on the link **Modes of Arrival** under section _General_:  
  
-![General_6.png]({{site.baseurl}}/images/General_6.png)
+
+![general_6.png]({{site.baseurl}}/images/general_6.png)
 
 
  
@@ -113,8 +115,8 @@ You configure all the Identification Types that are accepted at your property in
 
 - In the Admin Settings, click on the link **Identification Types** under section _General_:  
 
-![General_14.png]({{site.baseurl}}/images/General_14.png)
 
+![general_14.png]({{site.baseurl}}/images/general_14.png)
 
 
 - Your account comes with some defaulted identification types. To create a new identification type, click on the blue button _Add Identification Type_ at the bottom of the page: 
@@ -160,7 +162,8 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 - In the Admin Settings, click on the link **Markets** under section _General_:  
 
-![General_21.png]({{site.baseurl}}/images/General_21.png)
+
+![general_21.png]({{site.baseurl}}/images/general_21.png)
 
 
 
@@ -216,7 +219,8 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
 
  - In the Admin Settings, click on the link _Guest Information: Custom Fields_:  
  
-![General_29.png]({{site.baseurl}}/images/General_29.png)
+
+![general_29.png]({{site.baseurl}}/images/general_29.png)
 
  
  
@@ -232,7 +236,7 @@ The links _Reservation Information: Custom Fields_ and _Guest Information: Custo
 
 
  
- **Note**: it is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it **Inactive**.  
+{{site.data.alerts.note}} It is currently impossible to erase a field. If you do not wish to have a field showing in your folios, you will simply need to make it **Inactive**.  {{site.data.alerts.end}}
  
  - For any field, select whether the field is required by checking/unchecking the box under column _Required_:  
 
@@ -307,7 +311,8 @@ When you mark a field as **Required**, the system will force agents to insert th
 
  - In the Admin Settings, click on the blue link **Display Colors** under section _General_: 
  
-![General_42.png]({{site.baseurl}}/images/General_42.png)
+
+![general_423.png]({{site.baseurl}}/images/general_423.png)
 
 
  
@@ -353,7 +358,8 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 - In the Admin Settings, click on the link **Alerts** under section _General_:  
 
-![General_49.png]({{site.baseurl}}/images/General_49.png)
+
+![general_49.png]({{site.baseurl}}/images/general_49.png)
 
 
 
@@ -375,7 +381,9 @@ From time to time it might happen that you will need to update your Tape Chart: 
 
  - In the Admin Settings, click on the link **Tape Chart**, under section _General_:  
  
-![General_52.png]({{site.baseurl}}/images/General_52.png)
+
+![general_52.png]({{site.baseurl}}/images/general_52.png)
+
 
  
  
@@ -388,4 +396,3 @@ From time to time it might happen that you will need to update your Tape Chart: 
  - To run the Tape Chart, click on the blue button _Run Tape Chart_:  
  
 ![General_54.png]({{site.baseurl}}/images/General_54.png)
-

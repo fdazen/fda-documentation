@@ -9,6 +9,7 @@ published: true
 
 
 
+
 # **Welcome!**
 
 Welcome to Frontdesk Anywhere!
@@ -32,7 +33,10 @@ To get started, see these three topics:
 1. Room Confirguration
 2. Rate Set Up
 3. Users
-
+  
+  
+ {{site.data.alerts.tip}} We recommend using Google Chrome for your Frontdesk Anywhere account! {{site.data.alerts.end}}  
+  
 {% comment %}
 
 ## PDF Download 

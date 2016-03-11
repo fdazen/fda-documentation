@@ -4,7 +4,7 @@ tags:
   - users
 keywords: "users, user levels, user restrictions, shifts, permissions."
 last_updated: "November 23rd, 2015"
-summary: Learn how to create different system access level for your users.
+summary: "Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what each can do and tailor-made what is displayed for each of them upon login."
 published: true
 ---
 
@@ -12,17 +12,20 @@ published: true
 
 
 
-#**Users**
 
-Frontdesk Anywhere allows you to create as many users as you want, and as many access levels as you need. Although the login page will be the same for all users, you can limit what each can do and tailor-made what is displayed for each of them upon login.
 
-##**User Levels**  
+
+
+
+
+##**Creating User Levels**  
 
 Creating different access levels for the system may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account. Our first step will be to create those User Levels; once that is done we will need to assign each user to their respective level.
 
  - In the Admin Settings, click on the blue link **User Levels** under section _Users_:  
  
-![Users_1.png]({{site.baseurl}}/images/Users_1.png)
+
+![users_1.png]({{site.baseurl}}/images/users_1.png)
 
 
 
@@ -34,7 +37,7 @@ Creating different access levels for the system may be necessary to protect cert
 
 
  
- - To **Edit** a User Level, click on the blue link _Edit_ on the right hand side of any level:  
+ - To <span class="label label-primary">EDIT</span> a User Level, click on the blue link _Edit_ on the right hand side of any level:  
  
 ![Users_3.png]({{site.baseurl}}/images/Users_3.png)
 
@@ -56,7 +59,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
   
 
- - To **Add** a User Level, click on the blue button _Add a New User Level_:  
+ - To <span class="label label-warning">ADD</span> a User Level, click on the blue button _Add a New User Level_:  
  
 ![Users_6.png]({{site.baseurl}}/images/Users_6.png)
 
@@ -69,13 +72,16 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 
 
- 
- **Edit Permissions for a User Level**
+
+###**Edit Permissions for a User Level**
+
  
  Now that you have created your User Levels, you can go more in depth and edit access permissions within each level.
  
  - In the User Level List, click on the blue link _Permissions_:  
- 
+
+
+
 ![Users_8.png]({{site.baseurl}}/images/Users_8.png)
 
 
@@ -98,14 +104,14 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  
  You can also duplicate a User Level, if you need to create a similar one to the level you just edited: simply click on the blue button _Save and Duplicate User Level_.  
  
- - To **Delete** User Levels, select the box on the left hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
+ - To <span class="label label-danger">DELETE</span> User Levels, select the box on the left hand side of any level you wish to erase, and click on the blue button _Delete Selected User Levels_:  
  
 ![Users_11.png]({{site.baseurl}}/images/Users_11.png)
 
 
 
  
- - To **Deactivate** a User Level, simply un-check the box on the right hand side of the User Levels List, under column _Status_:  
+ - To <span class="label label-info">DEACTIVATE</span> a User Level, simply un-check the box on the right hand side of the User Levels List, under column _Status_:  
  
 ![Users_12.png]({{site.baseurl}}/images/Users_12.png)
 
@@ -113,25 +119,28 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
  
  
- ##**Create Users** 
+##**User Creation**
+
  
- It is currently not possible to create users directly within your account: if you wish to create a new user, please contact our Support Team at support@frontdeskanywhere.com! 
+ It is currently not possible to create users directly within your account: if you wish to create a new user, please contact our Support Team at **help@frontdeskanywhere.com**
  
  
- 
- **Apply User Levels**  
+
+##**Apply User Levels**  
+
  
  - All of your system users appear in the _Users_ list. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
-![Users_13.png]({{site.baseurl}}/images/Users_13.png)
+
+![users_13.png]({{site.baseurl}}/images/users_13.png)
 
 
 
 
 - You will see a list of all the currently created users: click on blue link _Edit_ on the right hand side of any user:  
 
-![Users_14.png]({{site.baseurl}}/images/Users_14.png)
 
+![Users_14.png]({{site.baseurl}}/images/Users_14.png)
 
 
 
@@ -156,14 +165,15 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 
 
-- To **Deactivate** a user, un-check the box under column _Status_ on the right hand side of any user:  
+- To <span class="label label-info">DEACTIVATE</span> a user, un-check the box under column _Status_ on the right hand side of any user:  
 
 ![Users_18.png]({{site.baseurl}}/images/Users_18.png)
 
 
 
+{{site.data.alerts.warning}} It is currently not possible to delete a user. However, if a user has been made inactive there will be no chance of them accessing the system. {{site.data.alerts.end}}
 
-**Note**: it is currently not possible to delete a user! However, if a user has been made inactive there will be no chance of them accessing the system.
+
 
 - If you have a lot of users, you might find it useful to filter them by level. You can do that by using the scroll down menu on the top right hand side of the screen:  
 
@@ -179,7 +189,8 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
  - In the Admin Settings, click on the link **Shifts** under section _Users_:  
  
-![Users_20.png]({{site.baseurl}}/images/Users_20.png)
+
+![users_20.png]({{site.baseurl}}/images/users_20.png)
 
 
 
@@ -214,7 +225,7 @@ Setting up shifts is a useful tool for auditing and for checking operations that
 
 The process is the same as editing one!  
 
-- To **Deactivate** a shift, simply un-check the box under the column _Status_ on the right hand side of the screen:  
+- To <span class="label label-info">DEACTIVATE</span> a shift, simply un-check the box under the column _Status_ on the right hand side of the screen:  
 
 ![Users_25.png]({{site.baseurl}}/images/Users_25.png)
 

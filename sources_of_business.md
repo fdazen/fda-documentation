@@ -2,9 +2,9 @@
 title: Sources of Business
 tags: 
   - sources
-keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
-last_updated: "November 17th, 2015"
-summary: "Sources of Business help you track the origin of your reservations. Learn how to set them up in your account before starting to receive reservations in your system!"
+keywords: "sources, source tags, sources of business rules, sources of business categories, "
+last_updated: "November 27th, 2015"
+summary: " Sources of Business track the origin of reservations. You can report on these sources to find out where people come to know about your property, or to check the production level for each channel.  "
 published: true
 ---
 
@@ -13,15 +13,16 @@ published: true
 
 
 
-#**Sources of Business**    
 
 
-Sources of Business track the origin of reservations. You can report on these sources to find out where people come to know about your property, or to check the production level for each channel.  
+##**Getting Familiar with Sources** 
+
+
 Each reservation that automatically interfaces with your PMS comes with a _source tag_ that your system will pick up and store: you will need to organize these incoming sources via the set up of automatic rules that the system will follow. Before starting configuring those up, let's explore some system terminology that will come useful during the set up: 
   
   
   
-**Source of Business Item**: this is the _source tag_ that identifies where a reservation comes from. These Sources come with the reservation _file_ that interfaces with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_ or _Expedies_. As these items come from external sources you won't need to create them, but only organize them into _Sources of Business Categories_.
+**Source of Business Item**:  this is the _source tag_ that identifies where a reservation comes from. These Sources come with the reservation _file_ that interfaces with the system. Since they are sent from external channels, we have no power of controlling it. For example, Expedia might send as its source the tag _EQC_ or _Expedia_. As these items come from external sources you won't need to create them, but only organize them into _Sources of Business Categories_.
   
   
   
@@ -31,12 +32,13 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 **Sources of Business Rules**: they are used to configure Source Items into Categories. They are the rules under which the system operates.  
 
 
- ## 1.**Create your Source Categories** 
+##**Create Your Source Categories** 
 
  - In the _Admin Settings_ click on the link **Sources of Business** under section _General_:  
 
-![Sources_1.png]({{site.baseurl}}/images/Sources_1.png)
 
+
+![sources_1.png]({{site.baseurl}}/images/sources_1.png)
 
 
 
@@ -67,7 +69,7 @@ Each reservation that automatically interfaces with your PMS comes with a _sourc
 ![Sources_5.png]({{site.baseurl}}/images/Sources_5.png)
  
  
- ##2. **Create your Source of Business Rules**  
+##**Create your Source of Business Rules**  
  
  Sources of Business Rules will turn Source Items into Categories. All rules **must be set up upon first receipt of a new reservation source tag/item**. If you are not connected with any channel (including your OBE), you can skip the following instructions.
  Once you start connecting with channels and receive reservations, you will need to define what the system has to do: 

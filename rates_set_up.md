@@ -12,23 +12,27 @@ published: true
 
 
 
-  
 
-#**Rates**
 
-This section covers everything you need to know about rates set-up, taxes, fees and add-ons. We will start with tax and fee creation before going on to explain the different ways you can reproduce your rate structure in your Frontdesk Anywhere account.  
+
 
 
 ##**Taxes and Fees**
 
+  
+As a first thing, you will need to set up all applicable fees and taxes.  
+
+
  - In the Admin Settings, click on the link **Taxes** under section _Rates_:  
 
-![Taxes_1.png]({{site.baseurl}}/images/Taxes_1.png)
+
+![tazes_1.png]({{site.baseurl}}/images/tazes_1.png)
 
 
 
 
 You will see a list of the existing taxes in the system: your Frontdesk Anywhere comes with three default taxes. At the moment although it is possible to deactivate a tax, it is not possible to erase it: hence, we advise to edit the existing ones, before creating new ones, as this will help keep your account cleaner.
+
 
  - To edit a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
  
@@ -58,16 +62,16 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
  
 
-###**TAX OPERATIONS**  
+###**Tax Operations**  
 
- - **Deactivate**: to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
+<span class="label label-info">Deactivate</span> to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
+
 
 ![Tax_6.png]({{site.baseurl}}/images/Tax_6.png)
 
 
+{{site.data.alerts.note}} As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system.  {{site.data.alerts.end}}
 
-
-As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system. 
 
 
 ##**Rates Set-Up**  
@@ -81,14 +85,15 @@ A **Season Period** is the area of the Rate Class where you place the actual pri
 The **Daily Rate Grid** is where you can view and perform adjustments on the rate for any day of the year.
 
 
-##**Rate Classes**
+###**Rate Classes**
 
 Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
 
  - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
 
 
-![Rate_Classes_1.png]({{site.baseurl}}/images/Rate_Classes_1.png)
+
+![rate_classes_1.png]({{site.baseurl}}/images/rate_classes_1.png)
 
 
 
@@ -138,10 +143,10 @@ In the example below I am creating a weekly rate:
 
 Keep in mind that if you create a multiple nights rate, the latter will not show up anywhere unless the minimum number of nights are selected.  
 
-**Note**: If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement:  
+{{site.data.alerts.important}}  If you create a Nightly rate, you will still be given the option to place a minimum night stay requirement: {{site.data.alerts.end}}
 
+ 
 ![Rate_Classes_7.png]({{site.baseurl}}/images/Rate_Classes_7.png)
-
 
  
 
@@ -152,9 +157,9 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 ![Rate_Classes_8.png]({{site.baseurl}}/images/Rate_Classes_8.png)
 
 
-
+###**Season Periods**
  
- - Let us now set up the value for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
+ - It is now time to set up the _value_ for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
 
 ![Rate_Classes_9.png]({{site.baseurl}}/images/Rate_Classes_9.png)
@@ -173,7 +178,8 @@ Click on the button _Save_ when done.
 
  -  You will now see your Season Period saved:  
  
-![Rate_Classes_11.png]({{site.baseurl}}/images/Rate_Classes_11.png)
+
+![rate_classes_11.png]({{site.baseurl}}/images/rate_classes_11.png)
 
 
 
@@ -196,7 +202,8 @@ The three icons that appear under the column _Action_ are used to visualize/edit
  
  - You can continue to create more Season Periods by clicking on the button _Add Period_:  
  
-![Rate_Classes_14.png]({{site.baseurl}}/images/Rate_Classes_14.png)
+
+![rate_classes_14.png]({{site.baseurl}}/images/rate_classes_14.png)
 
 
   
@@ -212,6 +219,7 @@ The three icons that appear under the column _Action_ are used to visualize/edit
 You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): most of these channels are only available for integration purposes, hence you can ignore them as they require the assistance of one of our integration member team. You can take care of the first two, _IBE_ and _FRONTDESK_: the first box will enable the rate on your online booking engine, the second will enable it for your Tape Chart
  
  - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
+ 
  
 ##**Duplicate a Rate**  
  
@@ -285,7 +293,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
  
- -You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
+ - You can also move across rate classes by selecting another rate from the scroll down calendar on the right hand side of the screen:  
  
 ![Rate_Classes_25.png]({{site.baseurl}}/images/Rate_Classes_25.png)
 
@@ -321,7 +329,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
 
- ##**Deriving a Rate**  
+##**Deriving a Rate**  
  
  You can create a new rate by applying a certain discount/premium on the value of an existing Rate Class: the new rate is called a _Derived Rate_. Derived rates are linked to the master rate (the one you are deriving them from) in virtue of a certain adjustment you set up. For example, if you are running a 10% promotion for returning guests, you can create these promotional rates by deriving it from the master rate and set an adjustment of a 10% discount. Every time you change the master rate, the derived rate will also be automatically calculated.
  
@@ -380,7 +388,9 @@ Unless you order your rates, they will appear randomly in the folio: for example
 
   - In the Admin Settings, click on **Rate Priority** under section _Rates_:  
  
-![Rate_Classes_36.png]({{site.baseurl}}/images/Rate_Classes_36.png)
+ 
+![rate_classes_36.png]({{site.baseurl}}/images/rate_classes_36.png)
+
 
 
 

@@ -12,9 +12,10 @@ published: true
 
 
 
-#**Housekeeping**  
 
-The Housekeeping section in your Frontdesk Anywhere helps you set up certain rules to govern the change in housekeeping status for each room at your property. This is necessary, in turn, to define what your Housekeeping Team will need to: in other words, you will be able to define in what occasions the system should report a certain room to be 'dirty' or 'clean', thus making it easier for the housekeepers to know what action is required of them!
+
+
+
 
 ##**Housekeeping Status**    
 
@@ -22,13 +23,19 @@ Housekeeping Statuses serve to indicate whether a certain room needs attention f
 
   - In the Admin Settings, click on the blue link **Housekeeping Statuses** under section _Housekeeping_:  
   
-![Housekeeping_1.png]({{site.baseurl}}/images/Housekeeping_1.png)
+
+
+![housekeeping_1.png]({{site.baseurl}}/images/housekeeping_1.png)
+
 
 
   
   - You will see a list of available Housekeeping Statuses:  
   
-![Housekeeping_2.png]({{site.baseurl}}/images/Housekeeping_2.png)
+
+
+![housekeeping_2.png]({{site.baseurl}}/images/housekeeping_2.png)
+
 
 
 Here is a breakdown of what they mean:  
@@ -39,10 +46,12 @@ Here is a breakdown of what they mean:
 
 3. **Dirty**: Room is currently rented but needs action from Houssekeepers.  
 
-4. **Dirty Vacant**: Room is not currently rented, it needs full operations from housekeeping.  
+4. **Dirty Vacant**: Room is not currently rented, it needs full operations from housekeeping.    
+
+5. **Dirty Departing**: Room is due to check-out on the current day.
 
 
-**NOTE**: It is currently not possible to add or edit an Housekeeping Status.  
+{{site.data.alerts.note}} It is currently not possible to add or edit an Housekeeping Status.   {{site.data.alerts.end}} 
 
 
 ##**Housekeeping Rules**  
@@ -51,7 +60,8 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
 
  - In the Admin Settings, click on the blue link **Housekeeping Rules**, under section _Housekeeping_:  
  
-![Housekeeping_3.png]({{site.baseurl}}/images/Housekeeping_3.png)
+
+![housekeeping_3.png]({{site.baseurl}}/images/housekeeping_3.png)
 
  
  
@@ -122,4 +132,3 @@ You can also choose the rule to be triggered by a specific event (check-in/out d
  You will see your Housekeeping Rules and Statuses in action by going in the _Housekeeping_ tab on top of your Tape Chart:  
  
 ![Housekeeping_12.png]({{site.baseurl}}/images/Housekeeping_12.png)
-

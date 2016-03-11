@@ -4,7 +4,7 @@ tags:
   - formatting
 keywords: "rooms, amenities, classes, room types, order rooms"
 last_updated: "November 16, 2015"
-summary: "Learn how to set up your rooms in Frontdesk Anywhere!"
+summary: "Setting up your rooms in your Frontdesk Anywhere is a good way to start building your account and make it look like your hotel. This operation involves not only creating rooms, but also building amentities, define the levels you wish to have rooms organize, load pictures and much more.    In the sections below you will learn the best ways to create your hotel room structure."
 published: true
 ---
 
@@ -14,24 +14,30 @@ published: true
 
 
 
-  
-#**Rooms Set Up**   
 
-Setting up your rooms in your Frontdesk Anywhere is a good way to start building your account and make it look like your hotel. This operation involves not only creating rooms, but also building amentities, define the levels you wish to have rooms organize, load pictures and much more.   
-In the sections below you will learn the best ways to create your hotel room structure.
 
-##**1. Floors**  
+
+
+
+
+
+
+##**Floors**  
+
+
 
 Let's start by set up the number of floors in your property. This is important as you will be able to group your rooms by the floor they are on!  
 
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
-![Floors_1.png]({{site.baseurl}}/images/Floors_1.png)
+
+![floors_1.png]({{site.baseurl}}/images/floors_1.png)
 
 
 
 
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
+ 
  
 ![Floors_2.png]({{site.baseurl}}/images/Floors_2.png)
 
@@ -40,10 +46,10 @@ Let's start by set up the number of floors in your property. This is important a
  Click on the blue button _Save_ when done.  
  
  
- **NOTE**: you can either number your floors (1,2,3, etc.) or name them (First, Second, etc).  
- 
+ {{site.data.alerts.note}} You can either number your floors (1,2,3, etc.) or name them (First, Second, etc).   {{site.data.alerts.end}}
 
- - To **EDIT** a floor, click on the blue link _Edit_ on the relevant row:
+ 
+- To <span class="label label-primary"> EDIT </span> <span class="label label-info"></span> a floor, click on the blue link _Edit_ on the relevant row:
 
 ![Floors_3.png]({{site.baseurl}}/images/Floors_3.png)
 
@@ -51,40 +57,46 @@ Let's start by set up the number of floors in your property. This is important a
  
 The same small window will pop-up: edit the name and click on the button _Save_ when done.  
 
- - To **DEACTIVATE** a floor, un-check the box under column _Status_ for the relevant row:  
+- To <span class="label label-info">DEACTIVATE</span> a floor, un-check the box under column _Status_ for the relevant row:  
 
 ![Floors_4.png]({{site.baseurl}}/images/Floors_4.png)
 
 
  
 
-- To **DELETE** a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
+- To <span class="label label-danger">DELETE</span> a floor, select it by checking the check-box on the left hand side of the relevant row, and click _Delete Selected Floor_:   
 
 ![Floors_5.png]({{site.baseurl}}/images/Floors_5.png)
 
 
 
 
-- **HOW TO USE FLOORS**: When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ to visualize your rooms grouped by floors.
+###**How To Use Floors**  
+
+When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ to visualize your rooms grouped by floors.
 
 ![Floors_6.png]({{site.baseurl}}/images/Floors_6.png)
 
 
 
 
-##**2. Amenities**
+##**Amenities**
+
 
 Before creating your rooms, you will need to configure the amenities that are available in your rooms. Make sure to create _all_ of the amenities, independently of the type or room level in which they appear.  
 
 
-  - In the Admin Settings, click on the link **Room Amenities**:
+ - In the Admin Settings, click on the link **Room Amenities**:
   
-![Room_amenities_1 (2).png]({{site.baseurl}}/images/Room_amenities_1 (2).png)
+
+![room_amenities_1.png]({{site.baseurl}}/images/room_amenities_1.png)
+
 
 
 
   
-  - You will see a list of some defaulted amenities.
+ - You will see a list of some defaulted amenities.
+ 
  
 ![Room_amenities_2.png]({{site.baseurl}}/images/Room_amenities_2.png)
 
@@ -101,7 +113,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 ![Room_amenities_4.png]({{site.baseurl}}/images/Room_amenities_4.png)
 
   
-  - To **ADD** a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
+  - To <span class="label label-warning">ADD</span> a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
   
 ![Room_amenities_5.png]({{site.baseurl}}/images/Room_amenities_5.png)
 
@@ -111,23 +123,27 @@ Before creating your rooms, you will need to configure the amenities that are av
 
   
   
-  - To **DEACTIVATE** an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
+  - To <span class="label label-info"> DEACTIVATE </span> an amenity, uncheck the box under the column _Status_, corresponding to the relevant row:
   
 ![Room_amenities_7.png]({{site.baseurl}}/images/Room_amenities_7.png)
 
 
 
   
-##**3. Room Classes**
+##**Room Classes**
+
 
 A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability.  
 
 
-**Note**: a class is different from a room _type_. If you do not need classes and types suffice, you can skip to the next section _Room Types_
+{{site.data.alerts.important}} A class is different from a room type. If you do not need classes and types suffice, you can skip to the next section Room Types {{site.data.alerts.end}}
+
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
  
-![Room_classes_1.png]({{site.baseurl}}/images/Room_classes_1.png)
+ 
+
+![room_classes_1.png]({{site.baseurl}}/images/room_classes_1.png)
 
 
 
@@ -139,7 +155,7 @@ A room class is a general concept referring to any extra organizational level yo
 
 
 
- - To **EDIT** a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
+ - To <span class="label label-primary">EDIT</span> a class, click on the blue button _Edit_ on the right hand side of the class you wish to amend:  
  
 ![Room_classes_3.png]({{site.baseurl}}/images/Room_classes_3.png)
 
@@ -147,20 +163,24 @@ A room class is a general concept referring to any extra organizational level yo
  Insert the updated name and click on the button _Save_     
  
  
- - To **DELETE** a class, check the box on the left side of the class you wish to erase, and click on the blue button _Delete Selected Class_:  
+ - To <span class="label label-danger">DELETE</span> a class, check the box on the left side of the class you wish to erase, and click on the blue button _Delete Selected Class_:  
  
 ![Room_classes_4.png]({{site.baseurl}}/images/Room_classes_4.png)
 
 
 
  
- - To **DEACTIVATE** a class, un-check the box under column _Status_ relevant to the class you wish to make inactive:  
+ - To <span class="label label-info">DEACTIVATE</span> a class, un-check the box under column _Status_ relevant to the class you wish to make inactive:  
  
 ![Room_classes_5.png]({{site.baseurl}}/images/Room_classes_5.png)
 
 
 
- **HOW TO USE CLASSES**: When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Class_ in order to have your rooms grouped by classes:  
+###**How to Use Classes**  
+
+
+
+When you log in into your account, go to the Frontdesk tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Class_ in order to have your rooms grouped by classes:  
  
 ![Room_classes_6.png]({{site.baseurl}}/images/Room_classes_6.png)
 
@@ -173,12 +193,16 @@ We have now come to the point where you need to build your hotel's room types: a
 
  - Start by clicking on the link **Room Types** under section _Rooms_ in the Admin Settings:  
  
-![Room_types_1.png]({{site.baseurl}}/images/Room_types_1.png)
+ 
+
+![room_types_1.png]({{site.baseurl}}/images/room_types_1.png)
+
 
 
 
  
  - To create a new room type, click on the blue button _Add a Room Type_:  
+ 
  
 ![Room_types_2.png]({{site.baseurl}}/images/Room_types_2.png)
 
@@ -186,53 +210,42 @@ We have now come to the point where you need to build your hotel's room types: a
  
  - Fill up the fields with the requested information: place the name of the room type in the field _Title_ and the accronym you want to use: the latter will show up before the actual room number for all those rooms listed under this type. Place a small description of your type, too:
  
-![Room_types_3.png]({{site.baseurl}}/images/Room_types_3.png)
+ 
+![room_types_3.png]({{site.baseurl}}/images/room_types_3.png)
 
 
 
  
  - From the _Room Alias_ drop down menu select whether the room type should be considered as different from a 'room': if you are a hostel, for example, you would probably choose 'bed' and if you are a campground, you will choose 'site':  
 
-![Room_types_4.png]({{site.baseurl}}/images/Room_types_4.png)
 
+![room_types_4.png]({{site.baseurl}}/images/room_types_4.png)
 
  
-
- - Choose whether your room is to be gender-based: choosing _yes_ will prompt the system to have you choose what gender you want to default the room to:  
- 
-![Room_types_5.png]({{site.baseurl}}/images/Room_types_5.png)
-
-
-
  
  - Select the maximum and default occupancy, and select the amenities applicable to this type of room: you will see two small panels, one called _Available Amenities_ and another called _Selected Amenities_, with two arrows in the middle:  
  
-![Room_types_6.png]({{site.baseurl}}/images/Room_types_6.png)
+
+![room_types_6.png]({{site.baseurl}}/images/room_types_6.png)
 
 
  
  To select the amenities applicable to this room type, select them among the available ones and use the arrows to move them from one panel to another: the ones under panel _Selected Amenities_ will be the one showing up in the system:  
- 
-![Room_types_7.png]({{site.baseurl}}/images/Room_types_7.png)
+
+
+
+![room_types_7.png]({{site.baseurl}}/images/room_types_7.png)
 
 
  
- - Select whether this room type has to have an OBA. The OBA (**O**ver**b**ooking **A**llowance) will enable the room type to receive more bookings than the posted availability: you can decide how many overbookings you wish to allow by placing a numeric value in the box that appears when you check the box _OBA_:  
- 
-![Room_types_8.png]({{site.baseurl}}/images/Room_types_8.png)
+- Click _Save_ when finished:  
+
+
+![room_types_8.png]({{site.baseurl}}/images/room_types_8.png)
 
 
 
-**Note**: we advise to keep this box un-checked, unless you specifically want to enable the room to overbook. If you need more information, please contact our Support Team at support@frontdeskanywhere.com  
-
-
- - Finally, you can constraint the room type and make it visible only to certain user levels: simply un-check the box of the levels for which the room should _not_ be visible:  
-
-![Room_types_9.png]({{site.baseurl}}/images/Room_types_9.png)
-
-
-
-##**Load Room Type Pictures**  
+###**Load Room Type Pictures**  
 
  - Go back to the Room Types List (Admin Settings - Room Types) and click on the blue link _Images_ on the right hand side of the relevant room type: 
  
@@ -267,53 +280,81 @@ You can now load in the system all of the rooms at your property, and organize t
 
 - In the Admin Settings, click on the blue link **Rooms** under section _Rooms_:  
 
-![Rooms_1.png]({{site.baseurl}}/images/Rooms_1.png)
+
+
+![rooms_1.png]({{site.baseurl}}/images/rooms_1.png)
 
 
 
 
 
-Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to edit the existing rooms before creating new ones, as rooms **cannot be erased** once created but only deactivated. Hence once you click on _Rooms_ , you will be presented with a list of existing rooms.  
+{{site.data.alerts.important}} Your Frontdesk Anywhere account comes with a few rooms already built, and we advise to edit the existing rooms before creating new ones, as rooms cannot be deleted once created, but only deactivated. {{site.data.alerts.end}}
 
-- To edit a room, click on the blue link _Edit_ on the right hand side of a room:  
+
+- To <span class="label label-primary">EDIT</span> a room, click on the blue link _Edit_ on the right hand side of a room:  
 
 ![Rooms_2.png]({{site.baseurl}}/images/Rooms_2.png)
 
 
 
- - Insert the room name or number, the type it belongs to, the floor and the class. Once done, you can click on the blue button _Save_:  
+ - Insert the room name or number, the type it belongs to, the floor and the class. Use the drop down calendar to decide when the room availability should start: you can choose a past or future date. Once done, you can click on the blue button _Save_:  
  
-![Rooms_3.png]({{site.baseurl}}/images/Rooms_3.png)
 
+![rooms_3.png]({{site.baseurl}}/images/rooms_3.png)
 
- 
- - To create a new room, scroll down the list of rooms and click on the button _Add a Room_ and follow the instructions above:  
- 
-![Rooms_4.png]({{site.baseurl}}/images/Rooms_4.png)
 
 
  
- - You can also create multiple rooms at a time: click on the button _Add Multiple Room_ on the bottom of the page:  
+ - To create a new room, scroll down the list of rooms and click on the button _Add a Room_:  
  
-![Rooms_5.png]({{site.baseurl}}/images/Rooms_5.png)
+
+![rooms_4.png]({{site.baseurl}}/images/rooms_4.png)
+
+
+- Select the option _Single Room_ from the top options, and fill in all the information. Click _Save_ when finished:  
+
+
+![rooms_4.1.png]({{site.baseurl}}/images/rooms_4.1.png)
+
 
  
-Depending on whether you wish to enter room names or room numbers, select the right circle box so to be able to make the right fields editable. If you want to insert different room names, make sure to only place a coma as a separator between the names:  
-
-![Rooms_6.png]({{site.baseurl}}/images/Rooms_6.png)
-
-
-
-If you wish to create room numbers, place the prefix for your rooms and the from/to number value in the boxes, as in the example below:  
+ ###**Creating Multiple Rooms**  
+ 
+ 
+You will have two options to create multiple rooms.
 
 
-![Rooms_7.png]({{site.baseurl}}/images/Rooms_7.png)
+- To create rooms that are under the same type, but have different names or numbers, select the option _Multiple Rooms - Comma Separated_:  
+
+
+![rooms_4.2.png]({{site.baseurl}}/images/rooms_4.2.png)
+
+ 
+- Enter all room names/numbers in the editable box, separating each name/number with a comma and no space. Fill in all other information and when finished, click on the button _Save_:  
 
 
 
-Complete the rest of the information by selecting the right option from the scroll down menu and click on the blue button _Save_:  
+![rooms_4.3.png]({{site.baseurl}}/images/rooms_4.3.png)  
 
-![Rooms_8.png]({{site.baseurl}}/images/Rooms_8.png)
+
+
+
+- If your rooms are numbered in a progressive order, you may want to use the option to create _Multiple Rooms - Incremental Room Numbers_. Select this option by clicking on the circle box on the top of the room creation panel:  
+
+
+![rooms_4.4.png]({{site.baseurl}}/images/rooms_4.4.png)  
+
+
+
+- Place a Prefix, and insert the first and last number of the progressive room order. In the example below, all rooms between 101 and 110 are going to be automatically built:  
+
+
+![rooms_4.6.png]({{site.baseurl}}/images/rooms_4.6.png)
+
+
+{{site.data.alerts.important}} The Prefix will be added to the room accronym. If you do not need both accronym and prefix before the room number, you may leave the Prefix field empty. {{site.data.alerts.end}}
+
+
   
 
  - As mentioned above, rooms cannot be erased but they can be made inactive. Inactive rooms won't appear in your account anywhere. To make a room inactive, un-check the box under the _Status_ column for the relevant row:  
@@ -323,7 +364,7 @@ Complete the rest of the information by selecting the right option from the scro
 
 
  
- **Note**: Before making a room inactive, make sure to move all reservations currently existing in the room by placing them into another room (or cancelling them).  
+{{site.data.alerts.warning}}  Before making a room inactive, make sure to move all reservations currently existing in the room by placing them into another room (or cancelling them). {{site.data.alerts.end}} 
  
  - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specific room:  
  
@@ -333,13 +374,18 @@ Complete the rest of the information by selecting the right option from the scro
 
  
  
- ##**Order Room Types**  
+##**Order Room Types**  
  
  You can decide the order in which your room types are displayed on your Tape Chart with just one click.  
  
+ 
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
-![Order_Rooms_1.png]({{site.baseurl}}/images/Order_Rooms_1.png)
+
+
+![order_room_type_1.png]({{site.baseurl}}/images/order_room_type_1.png)
+
+
 
 
  
@@ -350,28 +396,100 @@ Complete the rest of the information by selecting the right option from the scro
 
 
 
-**Note**: in order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order.  
+{{site.data.alerts.note}} In order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order. {{site.data.alerts.end}} 
+
+
+##**Order Rooms**  
+
+
+- To order with which your rooms are listed under each type, click on the blue link _Order Rooms_, under section **Rooms**:  
+
+
+
+
+
+- A list of all your rooms will appear, along with an editable box on the right side: order your rooms by placing them in progressive order. When finished, click on the blue button _Save_:  
+
+
+![order_rooms_2.png]({{site.baseurl}}/images/order_rooms_2.png)
+
+
 
 
 ##**Published Rooms**  
 
 
-Frontdesk Anywhere allows you to take some rooms off all channels while still enabling you to operate on those rooms on the internal side. This can be handy when you do not want to advertise all of your availability, but prefer keeping a certain number of rooms for yourself or for internal purposes only.  
+Frontdesk Anywhere allows you to take some rooms off all channels or to increase the availability value. You will have both the ability to select how many rooms you wish to protect and decide by how many reservations you wish to overbook. 
 
 - In the Admin Settings, click on the blue link **Published Rooms** under section _Rooms_:  
 
-![Published_Rooms_1.png]({{site.baseurl}}/images/Published_Rooms_1.png)
+
+![published_rooms_1.png]({{site.baseurl}}/images/published_rooms_1.png)
+
 
 
  
 
-- You will see a list of all your room types, and three columns: the **Real** column shows the real availability for each type, meaning the number of rooms actually created and listed under a type; the **OBA** column shows the number of rooms you have set up in the Overbooking Allowance; the **Total** column shows the sum between the Real and the OBA column. In the example below, no OBA has been set up, hence the number of Real rooms is equal to the number of Total rooms:  
+- You will see a list of all your room types, and four columns: the **Real** column shows the real availability for each type, meaning the number of rooms actually created and listed under a type; it is uneditable. The **OBA** column stands for **O**ver**b**ooking **A**llowance: you can edit this field and add the number of reservations by which you want to overbook.  In the **Protect** column you will need to place the number of rooms you want to _hide_ or protect from all channels. The **Total** column will show the final availability value; the latter is calculated in the following simple formula:  
 
-![Published_Rooms_2.png]({{site.baseurl}}/images/Published_Rooms_2.png)
-
-
+Real Availability + Overbooking Allowance - Protected Rooms = Total Availability  
 
 
-- For each room type, insert the number of rooms you want to 'protect' or 'hide' for any external channel. When done, click on the button _Save_:  
+![protect_rooms_1.png]({{site.baseurl}}/images/protect_rooms_1.png)
 
-![Published_Rooms_3.png]({{site.baseurl}}/images/Published_Rooms_3.png)
+
+
+
+- For each room type, insert the number of rooms you want to protect and the number by which you want to enable overbookings for any external channel:
+
+
+![protect_rooms_2.png]({{site.baseurl}}/images/protect_rooms_2.png)  
+
+
+- Notice that there is a drop-down menu, defaulted to option _Frontdesk_: make sure to choose the right channel, before placing the OBA, or to protect rooms. You can configure different values for different channels:  
+
+
+
+![protect_rooms_3.png]({{site.baseurl}}/images/protect_rooms_3.png)
+
+
+
+
+##**Tape Chart/Refresh Your Availability**  
+  
+  
+  
+Running the Tape Chart ensures that all amendments made to rooms or room types are effective on the Tape Chart. It is also useful to refresh inventory on all integrated channels!  
+
+
+- To run the Tape Chart, click on the link _Tape Chart_ under section **Rooms**:  
+
+
+![tape_chart_run_1.png]({{site.baseurl}}/images/tape_chart_run_1.png)
+
+
+
+
+- You will see a panel, called **Tape Chart Update**:  
+
+
+
+![tape_chart_run_2.png]({{site.baseurl}}/images/tape_chart_run_2.png)  
+
+
+
+The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means that all integrated channels will receive from Frontdesk Anywhere up to two years worth of availability values. The _Nightly Update Next Run Date_ will tell you when the Tape Chart is due to automatically refresh.  
+
+
+  
+  
+- If you want to manually refresh your availability, or if you have made changes in the room type/rooms configuration, you can use the scroll down calendars to select the date range you want to send the refresh for:  
+
+
+![tape_chart_run_3.png]({{site.baseurl}}/images/tape_chart_run_3.png)  
+
+
+- You can also choose to update only a selected room type, and not all room types. Choose the relevant option from the drop down menu _Update Room Type_:  
+
+
+![tape_chart_run_4.png]({{site.baseurl}}/images/tape_chart_run_4.png)

@@ -3,20 +3,26 @@ title: "Rate Add-Ons"
 tags: 
   - rate add ons
 keywords: "add-ons"
-last_updated: "November 18th, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+last_updated: "December 18th, 2016"
+summary: "If you have extra charges that are related to but not part of room charges, you can set them up via the Add-ons items. The latter are available to add for each reservation."
 published: true
 ---
 
 
 
 
-#**Rate Add-Ons**  
 
 
- - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
+##**Configure Your Add-Ons**
 
-![Add_ons_1.png]({{site.baseurl}}/images/Add_ons_1.png)
+
+
+
+ - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _POS/Add-Ons_:  
+ 
+
+![add-ons_1.png]({{site.baseurl}}/images/add-ons_1.png)
+
 
 
 
@@ -60,21 +66,20 @@ published: true
 
 
 
-- To **DEACTIVATE** an Add-On, simply un-check the box under column _Status_ on the right side of the Add-On List:  
+- <span class="label label-info">DEACTIVATE</span> an Add-On, simply un-check the box under column _Status_ on the right side of the Add-On List:  
 
 ![Add_ons_7.png]({{site.baseurl}}/images/Add_ons_7.png)
 
 
 
 
- - To **Delete** an Add-On, select it by checking the box on its left side and click on the blue button _Delete Selected Add-Ons_:  
+ - To <span class="label label-info">DELETE</span>an Add-On, select it by checking the box on its left side and click on the blue button _Delete Selected Add-Ons_:  
 
 ![Add_ons_8.png]({{site.baseurl}}/images/Add_ons_8.png)
 
 
 
 
-- To **EDIT** an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
+- To <span class="label label-primary">EDIT</span>an Add-On, simply click on the blue link _Edit_ on the right side of the Add-Ons List: the procedure is the same as adding a new one!  
 
 ![Add_ons_9.png]({{site.baseurl}}/images/Add_ons_9.png)
-

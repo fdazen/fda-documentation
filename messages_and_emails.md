@@ -1,23 +1,31 @@
 ---
 title: Guest Messages and Emails
 tags: 
-  - guest msg
+  - guest messages
   - guest email
 keywords: "guest messages, emails, automated emails, email rules, confirmation email, invoice, templates, email templates"
-last_updated: "November 19th, 2015"
-summary: "The Guest Messages are messages that will appear in some areas of your Frontdesk Anywhere Online Booking Engine (for example Terms and Conditons) and on your Email Templates. You can think of them as _snippet_ messages that will then be applied to all communications you will set up to have with your guests.  "
+last_updated: "December 1st, 2015"
+summary: "Through Guest Messages you are able to set up all those information about your property that you need to communicate to your guests, for example your Cancellation Policy, or your Terms and Conditions. These messagages will appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or on your Email Templates. You can think of them as snippet messages that will then be applied to all communications you will set up to have with your guests.  "
 published: true
 ---
 
 
 
+
+
+
+
+
+
+
+
 ##**Guest Messages**  
 
-Through Guest Messages you are able to set up all those information about your property that you need to communicate to your guests, for example you Cancellation Policy, or your Terms and Conditions. These messagages will appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or on your Email Templates. You can think of them as _snippet_ messages that will then be applied to all communications you will set up to have with your guests.  
 
  - In the Admin Settings, click on the link **Guest Messages** under section _General_:  
  
 ![Guest_Messages_1.png]({{site.baseurl}}/images/Guest_Messages_1.png)
+
 
 
  
@@ -57,19 +65,25 @@ Through Guest Messages you are able to set up all those information about your p
 
 
  
- ##**Email Templates**  
+##**Templates**  
 
-Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and they can be easily editable; however, your account already comes with some defaults templates that you can enable and start using.  
+Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and their _content_ can be easily editable!  
 
- - In the Admin Settings, click on the blue link **Email Templates** under section _General_:  
+{{site.data.alerts.warning}} Be aware that the templates design have been built so to ensure they will render good when sent via emails on both computers and mobile devices. If you want to change the design, we do not guarantee that the template will render as good as the default ones. {{site.data.alerts.end}}  
+
+
+
+ - In the Admin Settings, click on the blue link **Templates** under section _General_:  
  
 
 ![Guest_Messages_8.png]({{site.baseurl}}/images/Guest_Messages_8.png)
+
 
  
  - You will see a list of all the types of templates that the system offers: the name of each template appears on the top left hand side of each message panel.
  
 ![Guest_Messages_9.png]({{site.baseurl}}/images/Guest_Messages_9.png)
+
 
 
  
@@ -79,7 +93,7 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
 
 
- - To create a new template, click on the button _New template_ on the top left hand side of the screen:  
+ - To create a new template, click on the blue button _New Template_ on the top left hand side of the screen:  
  
 ![Guest_Messages_11.png]({{site.baseurl}}/images/Guest_Messages_11.png)
 
@@ -97,9 +111,10 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
 
  
- - The template you have just created will appear as the first template in the apposite panel:  
+ - The template you have just created will be listed under the apposite header:  
  
 ![Guest_Messages_14.png]({{site.baseurl}}/images/Guest_Messages_14.png)
+
 
 
  
@@ -121,11 +136,18 @@ Frontdesk Anywhere allows you to customize all communications with your guests: 
 
 
  
+- To <span class="label label-danger">DELETE</span> a template, just click on the red button _Remove_ next to the relevant template:  
+
+![Guest_Messages_33.png]({{site.baseurl}}/images/Guest_Messages_33.png)
+
+
+ 
 Here is a quick breakdown of what each box means:  
 
-If you check the box _Invoices_, your template will show up in any reservation folio, by clicking on the blue link _Invoice_:  
+If you check the box _Invoices_, your template will show up in any reservation folio, in the Invoice section of the link _Payments_:  
  
 ![Guest_Messages_18.png]({{site.baseurl}}/images/Guest_Messages_18.png)
+
 
 
  
@@ -149,13 +171,19 @@ If the box _Group Messages_ is checked, the newly create template will appear in
  
  Finally, if you check on the _Profile Documents_, the template will show in the _Profiles_ area:  
  
-![Guest_Messages_22.png]({{site.baseurl}}/images/Guest_Messages_22.png)
+
+![guest_messages_22.png]({{site.baseurl}}/images/guest_messages_22.png)
+
 
 
  
  - When finished, click on the button _Save_ at the bottom of the screen.
  
- **NOTE**: if you wish to have customized guest messages, please contact our support team at support@frontdeskanywhere.com  
+
+
+{{site.data.alerts.note}} If your property has any inclusive tax or fee that you want to show on your Invoice tax, please contact our team at help@frontdeskanywhere.com: our team will be able to change the template for you! {{site.data.alerts.end}}
+
+
 
 
 ##**Automated Emails**  
@@ -167,22 +195,34 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 ![Guest_Messages_23.png]({{site.baseurl}}/images/Guest_Messages_23.png)
 
 
+
  
- - The first column _Folio Status Action_ defines what change in the status of any reservation folio will trigger the automatic email
+ - The first column _Folio Status Action_ identifies what change of  reservation status will trigger the automatic email.
+
 
 ![Guest_Messages_24.png]({{site.baseurl}}/images/Guest_Messages_24.png)
 
+
+Note that the status _Automatically Send Email Upon Folio Creation_ only interests those folios manually created on your Tape Chart. If you want to have the system send an automatic email when your guests book online, you will need to active the _Automatically Send IBE Confirmation Email_.  
+
  
+ - Under column _Automated E-mail Status_ check the box corresponding to the action you want the system to perform. In the example below I am choosing to have the system to send an automatic email any time a reservation is created on the Tape Chart:  
  
- - Under column _Automated E-mail Status_ check the box corresponding to the action you want the system to perform. In the example below I am choosing to have the system to send an automatic email any time a reservation is created:  
  
 ![Guest_Messages_25.png]({{site.baseurl}}/images/Guest_Messages_25.png)
 
-  
 
- - Select what email template you want to use by choosing one in the scroll down menu: 
+ 
+
+ - Select what email template you want to use by choosing one from the available options in the scroll down menu: 
+
 
 ![Guest_Messages_26.png]({{site.baseurl}}/images/Guest_Messages_26.png)
+
+ 
+- Finally, enter the email address you want to send a copy of the email to:  
+
+![Guest_Messages_34.png]({{site.baseurl}}/images/Guest_Messages_34.png)
 
 
 
@@ -197,10 +237,12 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 
 _Email rules_ is the tool that enables you to send automatic emails outside the sphere of any key event proper of a guest’s stay (reservation confirmation, check-in, check-out, and cancellation). Differently from the _Automated Emails_ where those emails are triggered by some change in the status of a reservation folio, _Email Rules_ do not have any constrain in terms of the time at which the email is sent: you simply set the condition yourself! This comes useful when you want to send a remainder to your guests for their upcoming arrival or at times when you want to send a "thank you" message to your guests after their stay.  
 
-**Note**: you will have to have both _Email Templates_ enabled and _Guest Messages_ set up before placing Email Rules. 
+
+{{site.data.alerts.important}} You will have to have both Email Templates enabled and Guest Messages set up before placing Email Rules. {{site.data.alerts.end}} 
 
  - In the Admin Settings, click on the link **Email Rules** under section _General_:  
  
+
 ![Guest_Messages_28.png]({{site.baseurl}}/images/Guest_Messages_28.png)
 
 
@@ -226,4 +268,3 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
  - When finished, click on the blue button _Add Rule_ at the bottom of the page:  
 
 ![Guest_Messages_32.png]({{site.baseurl}}/images/Guest_Messages_32.png)
-

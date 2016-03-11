@@ -1,18 +1,20 @@
 ---
 title: Group Reservations
 tags: 
-  - formatting
-keywords: "labels, buttons, bootstrap, api methods"
-last_updated: "August 12, 2015"
-summary: Labels are just a simple Bootstrap component that you can include in your pages as needed. They represent one of many Bootstrap options you can include in your theme.
+  - group reservation
+keywords: "groups, group reservation, group rules"
+last_updated: December 22nd 2015
+summary: "This section guides you through making a group booking, adding additional rooms for a group, and set up payment group rules."
 published: true
 ---
 
 
 
-#** MULTIPLE ROOMS RESERVATION ** 
-Creating a multiple rooms reservation for small or large groups is easy in Frontdesk Anywhere: from only one panel you are able to streamline the reservation process, manage booking status, set up payment rules and print/send group messages.       
-##**Step 1. New Group**      
+
+
+       
+##**New Group**      
+
   - Begin by clicking on the blue button _NEW GROUP_ on top of your Tape Chart:   
   
 ![group_reservation_1.png]({{site.baseurl}}/images/group_reservation_1.png)
@@ -23,7 +25,7 @@ Creating a multiple rooms reservation for small or large groups is easy in Front
 ![group_reservation_2.png]({{site.baseurl}}/images/group_reservation_2.png)
    
  
-##**Step 2. Choose the group’s stay date and the room information**     
+##**Choose the group’s stay date and the room information**     
 
 
    - Using the two scroll down calendars, select the check-in and check-out dates of the group. If you need shoulder dates, or if part of the group is staying longer/shorter, you will be able to adjust details in the next step.   
@@ -61,7 +63,7 @@ Click on the yellow button **Update** to save your changes.
 
 Select your option and click on the blue button **Add Rooms**.   
 
-##**Step 3. Manual Assignment (skip to Step 4 if not applicable)**   
+##**Manual Assignment**   
 - If you chose the Manual Assignment option, the following panel will pop-up:   
 ![group_reservation_8.png]({{site.baseurl}}/images/group_reservation_8.png)
  
@@ -73,7 +75,7 @@ Make your choice and click on the button **Select** when done:
 
 Click on the blue button **Add Rooms*.   
 
-##**Step 4. Select Group Reservation Status**   
+##**Select Group Reservation Status**   
 
 - Once the rooms are added, there will appear a brief summary of the group details: you will now need to choose the group reservation status.   
 
@@ -94,7 +96,7 @@ If you select a _Manual Release_ for the rooms, the rooms will stay in a Hold st
 
 If you select _Automatic Release_ you will need to choose a certain date from the scroll down calendar: the system will automatically release the rooms on that date, if the latter have not been reserved up to then.   
 
-##**Step 5. Removing a room from the Room Queue**   
+##**Removing a room from the Room Queue**   
 - If you made a mistake and reserved too many rooms, you can remove the extra ones by clicking on the button _Remove_:‘Remove’:   
 ![group_reservation_12.png]({{site.baseurl}}/images/group_reservation_12.png)
  
@@ -103,9 +105,10 @@ If you select _Automatic Release_ you will need to choose a certain date from th
 
 When ready, you can click on the button **Next** to go to the next step.   
 
-**NOTE**: If you wish to add more room types to the reservation, you will need to repeat **Step 2**.   
 
-##**Step 6. Group Rules**   
+{{site.data.alerts.note}} If you wish to add more room types to the reservation, you will need to repeat **from Step 2**. {{site.data.alerts.end}}      
+
+##**Group Rules**   
 
 Group Rules are used to set up group payments: you can decide to transfer charges to an onsite or offsite payer, split the payment among the reservations that are part of the group, group chargestogether, and so on. When a group is created, all charges are by default transferred to one reservation folio, which represents the group's leader. If you want to distribute charges differently, you will need to modify the Group Rules.   
 
@@ -142,7 +145,7 @@ As mentioned above, all charges are transferred to the first reservation folio. 
 
 Overriding past transactions will wipe out existing rules and substitute them with the newly created one; simply saving the rule will add a new one to the existing rules, without amending the latter.  
 
-#**Step 7. Transferring Charges to a Company (Direct Billing)**  
+##**Transferring Charges to a Company**  
 
 You can transfer charges to any Guest or Company profile. This is a step-by-step process, and you will need to make sure that the profile you wish to transfer charges to is currently existing in the system. Also, you will need to make sure that an Invoice is created for that profile.  
 
@@ -174,11 +177,11 @@ You can transfer charges to any Guest or Company profile. This is a step-by-step
 ![group_reservation_26.png]({{site.baseurl}}/images/group_reservation_26.png)
 
 
-#**Step 8. Group Operations**   
+##**Group Operations**   
 
 From the group folio, you are able to perform bulk operations, like change the status of the group reservation or edit the name for individual reservations.  
 
-###**BULK UPDATES**
+###**Bulk Updates**
 - In the Group Folio, click on the tab _Details_:   
 
 ![group_reservation_27.png]({{site.baseurl}}/images/group_reservation_27.png)
@@ -196,7 +199,7 @@ In the example, the current folios status is _Reserved_; hence the available ope
 ![group_reservation_29.png]({{site.baseurl}}/images/group_reservation_29.png)
 
 
-###**EDIT/CHANGE A RESERVATION FOLIO THAT IS PART OF A GROUP FOLIO**  
+###**Edit/Change a Reservation Folio That is Part of a Group Folio**  
 
 - If you want to assign names to the single reservations that are part of the group, you can click on the button _Edit_ on the right hand side of each folio:  
 
@@ -205,11 +208,10 @@ In the example, the current folios status is _Reserved_; hence the available ope
 
 - If you want to change an existing guest (i.e. substitute an existing guest profile), then click on the button _Change_ on the right hand side of a folio.  
 
-###**ACCESS SINGLE FOLIO WITHIN A GROUP**
+###**Access a Single Folio Within a Group**
 
 You can easily access each of the folios that are part of a group directly from the Group Reservation folio.  
 
 - To access a reservation that is part of a group, click on the reservation number on the left hand side of each folio:  
 
 ![group_reservation_31.png]({{site.baseurl}}/images/group_reservation_31.png)
-

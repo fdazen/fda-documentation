@@ -2,9 +2,9 @@
 title: Point of Sale
 tags: 
   - POS
-keywords: "labels, buttons, bootstrap, api methods"
-last_updated: "November 24th, 2015"
-summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section."
+keywords: "POS Items, POS Categories, POS Products, Point of Sale"
+last_updated: "December 24th, 2015"
+summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section. POS products are organized around POS Points and POS Categories. You can think of a POS Point as being, for example, a ‘restaurant’ or a ‘coffee shop’, a POS Category as being ‘food’ or ‘beverages’, and a POS Item as being ‘walnuts’ or ‘coffee’"
 published: true
 ---
 
@@ -13,17 +13,17 @@ published: true
 
 
 
-#**POINT OF SALE**
 
-If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section. POS products are organized around POS Points and POS Categories. You can think of a POS Point as being, for example, a ‘restaurant’ or a ‘coffee shop’, a POS Category as being ‘food’ or ‘beverages’, and a POS Item as being ‘walnuts’ or ‘coffee’.  
+
 
 ##**POS Points**
 
 Start by creating your POS Points.  
 
-- In the Admin Settings, click on the link **POS Point** link under section _POS_:
+- In the Admin Settings, click on the link **POS Point** link under section _POS/Add-Ons_:
 
-![Pos_1.png]({{site.baseurl}}/images/Pos_1.png)
+
+![pos_point_1.png]({{site.baseurl}}/images/pos_point_1.png)
 
 
 
@@ -40,7 +40,7 @@ Start by creating your POS Points.
 
  
  
- - To **Add** a POS Point, click on the blue button _Add a POS Point_:  
+ - To <span class="label label-warning">ADD</span> a POS Point, click on the blue button _Add a POS Point_:  
  
 ![Pos_4.png]({{site.baseurl}}/images/Pos_4.png)
 
@@ -49,7 +49,7 @@ Start by creating your POS Points.
  The process will be the same as editing one.  
 
 
- - To **Deactivate** a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
+ - To <span class="label label-info">DEACTIVATE</span> a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
  
 ![Pos_5.png]({{site.baseurl}}/images/Pos_5.png)
 
@@ -58,19 +58,24 @@ Start by creating your POS Points.
  
  - Your POS Point will be accessible via the POS tab on top of your Tape Chart:  
  
-![Pos_6.png]({{site.baseurl}}/images/Pos_6.png)
 
+
+![pos_6.png]({{site.baseurl}}/images/pos_6.png)
 
 
  
  
- ##**POS Categories**  
+##**POS Categories**
+
  
  Once POS Points are created, you can go ahead and create your Categories.
  
- - In the Admin Settings, click on the link **Categories**, under section _POS_:  
+ - In the Admin Settings, click on the link **Categories**, under section _POS/Add-Ons_:  
  
-![Pos_7.png]({{site.baseurl}}/images/Pos_7.png)
+ 
+ 
+ ![pos_point_7.png]({{site.baseurl}}/images/pos_point_7.png)
+
 
 
 
@@ -91,7 +96,7 @@ Start by creating your POS Points.
 
 Click on the blue button _Edit POS Category_ when done.  
 
-- To **Add** a POS Category, click on the button _Add a POS Category_:  
+- To <span class="label label-warning">ADD</span> a POS Category, click on the button _Add a POS Category_:  
 
 ![Pos_10.png]({{site.baseurl}}/images/Pos_10.png)
 
@@ -100,14 +105,14 @@ Click on the blue button _Edit POS Category_ when done.
 
 The process is the same as editing one.
 
-- To **Deactivate** a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
+- To <span class="label label-info">DEACTIVATE</span> a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
 
 ![Pos_11.png]({{site.baseurl}}/images/Pos_11.png)
 
 
 
 
-- To **Delete** a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
+- To <span class="label label-danger">DELETE</span> a POS Category, check the box on the left side of the category you want to erase, and click on the button _Delete Selected POS Categories_:  
 
 ![Pos_12.png]({{site.baseurl}}/images/Pos_12.png)
 
@@ -119,9 +124,10 @@ The process is the same as editing one.
 
 After creating your POS Points and Categories, you can finally proceed to set up all items you want to sell!
 
- - In the Admin Settings, click on the link **Products** under section _POS_:  
+ - In the Admin Settings, click on the link **Products** under section _POS/Add-Ons_:  
  
-![Pos_13.png]({{site.baseurl}}/images/Pos_13.png)
+
+![pos_point_13.png]({{site.baseurl}}/images/pos_point_13.png)
 
 
  
@@ -149,21 +155,21 @@ After creating your POS Points and Categories, you can finally proceed to set up
 ![Pos_17.png]({{site.baseurl}}/images/Pos_17.png)
 
  
- - To **Deactivate** a POS product, just uncheck the box under column _Status_:  
+ - To <span class="label label-info">DEACTIVATE</span> a POS product, just uncheck the box under column _Status_:  
  
 
 ![Pos_18.png]({{site.baseurl}}/images/Pos_18.png)
 
  
  
- - To **Delete** a POS Product, select it by checking the box on the left hand side of its name and click on the blue button _Delete Selected POS Product_:  
+ - To <span class="label label-danger">DELETE</span> a POS Product, select it by checking the box on the left hand side of its name and click on the blue button _Delete Selected POS Product_:  
  
 ![Pos_19.png]({{site.baseurl}}/images/Pos_19.png)
 
 
  
  
- - To **Edit** a POS Product, click on the blue link _Edit_ on the right hand side of any product:  
+ - To <span class="label label-primary">EDIT</span> a POS Product, click on the blue link _Edit_ on the right hand side of any product:  
  
 ![Pos_20.png]({{site.baseurl}}/images/Pos_20.png)
 
@@ -191,6 +197,7 @@ The procedure is the same as adding a new one!
 
 - Add a POS product charge from any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
 
+
 ![Pos_23.png]({{site.baseurl}}/images/Pos_23.png)
 
 
@@ -212,4 +219,3 @@ The procedure is the same as adding a new one!
  - You can also report on POS Products: the most specific report will be the _Additional Revenue Breakdown_ report, under tab Analytics:  
 
 ![Pos_26.png]({{site.baseurl}}/images/Pos_26.png)
-
