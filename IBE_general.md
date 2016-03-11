@@ -1,6 +1,9 @@
 ---
 title: Internet Booking Engine
-tags: [internet booking engine, IBE, online booking engine]
+tags: 
+  - internet booking engine
+  - IBE
+  - online booking engine
 keywords: "internet booking engine, IBE, online booking engine"
 last_updated: "January 11th, 2016"
 summary: This section describes how to customize the Internet Booking Engine (IBE).
@@ -11,15 +14,21 @@ published: true
 
 
 
+
 #**Internet Booking Engine Customization**  
 
-Frontdesk Anywhere enables properties to offer real-time commissionless online bookings on their website through IBE. IBE is the name for the Frontdesk Anywhere 'Internet Booking Engine'. Configuring the booking engine is fast, simple and user friendly. IBE 3.5 offers a wide variety of customizations, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
+
+Frontdesk Anywhere offers real-time commissionless online bookings on their website through IBE (Internet Booking Engine). Configuring the booking engine is fast, simple and user friendly. IBE 3.5 offers a wide variety of customizations, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
 
 Your account's booking engine can be accessed using the below URL:
 
 https://bookings.frontdeskanywhere.net/#account/XXXXXXXX
 
-Replace XXXXXXX with your Frontdesk Anywhere account number.
+Replace XXXXXXX with your Frontdesk Anywhere account number. You can find this number on the Frontdesk homepage, right next to your property's name:  
+
+
+![ibe.png]({{site.baseurl}}/images/ibe.png)
+
 
 This guide covers the set-up of IBE 3.5 and selling POS products on your website.
 
@@ -177,6 +186,3 @@ https://bookings.frontdeskanywhere.net/3_5/#account/XXXXXXXX?rt=1,2,3,4&rate=285
 When the guest is sent to the above link for your property it will take them directly to the available rooms page and show only rates 285 and 286 for room types 1, 2, 3 and 4 for the night of December 14, 2012. The source on the reserved folio will automatically be set to facebook.
 
 Only the checkin and checkout parameters must be used together. The other options may be excluded or used separately as desired.
-
-
-
