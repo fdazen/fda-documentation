@@ -32,9 +32,15 @@ Replace XXXXXXX with your Frontdesk Anywhere account number. You can find this n
 
 This guide covers the set-up of IBE 3.5 and selling POS products on your website.
 
+
 ##**IBE Customization**  
 
-**Access:** Only the Administrator can access your property administration control panel. After logging in, the Administrator will see an “Admin Settings” tab at the top of the screen. Clicking on this tab will open the Control Panel where all of the property’s settings are managed.
+In order to configure and personalize your IBE, you will need to have access to the _Admin Settings_ control panel in your Frontdesk Anywhere account.
+
+You will see a full list of links dedicated to IBE:  
+
+![ibe2.png]({{site.baseurl}}/images/ibe2.png)
+
 
 Here they will find a list of the main settings that need to be configured in order to begin using the Frontdesk Anywhere booking engine.
 
