@@ -252,7 +252,7 @@ entries:
           product: all
           version: all
         - title: Publish IBE
-          url: /publishing_IBE.htmll
+          url: /publishing_IBE.html
           audience: writers, designers
           platform: all
           product: all
