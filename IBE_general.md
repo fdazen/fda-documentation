@@ -256,7 +256,7 @@ _Authorize Only_: If you do not want to charge your guests, bu you only want to 
 
 Additional settings that are used by IBE can be found in other areas of the Admin Settings.
 
-**Logo** (under section _Property Info_). In order to create the best appearance, you should upload a company logo for IBE. 
+**Logo** (under section _Property Info_). In order to create the best appearance, you should upload a company [logo](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/property_info.html) for IBE. 
 
 {{site.data.alerts.important}} Any logo used should have a white background color and be in JPEG format. {{site.data.alerts.end}}
 
