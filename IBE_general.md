@@ -104,9 +104,24 @@ Click on the button _Save Promo Code_ when finished.
 {{site.data.alerts.warning}} If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code. {{site.data.alerts.end}}
 
 
-**Guest Requests:** Set-up pre-defined options that you want to offer your guests. Options appear as check boxes that can be selected on IBE by the customer. Selected options conveniently appear as notes in the guest folio's comments section.
+##**Guest Requests**
 
-**Confirmation Type:** Choose your booking confirmation as either Email or Credit Card. With either selection the email is required but you can choose to omit the requirement of providing a credit card so the guest is not charged immediately. The email only option is not supported if Credit Card Processing is enabled for your account.
+You can set up pre-defined options to offer your guests. These options will conveniently appear at the time the guest finalizes their reservation, and they will be delivered in each folio's _Comment_ box.
+
+
+##**Confirmation Type**
+
+IBE gives you the ability to choose whether you want reservations get confirmed as either Email or Credit Card. With either selection the email is required but you can choose to omit the requirement of providing a credit card so the guest is not charged immediately. 
+
+- To choose your online reservation confirmation type, click on the link _Confirmation Type_ in the Admin Settings, under section**IBE**:  
+
+![IBE_9.png]({{site.baseurl}}/images/IBE_9.png)
+
+- Select your choice using the scroll down menu, and when finished, click on the blue button _Save Changes_:
+
+
+![IBE_10.png]({{site.baseurl}}/images/IBE_10.png)
+
 
 **Assign Room Logic:** 
 Assign rooms to IBE bookings: Set whether web bookings are saved with a room assigned or as unassigned.
