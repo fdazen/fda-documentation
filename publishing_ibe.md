@@ -1,6 +1,6 @@
 
 
--------
+---
 title: Publish IBE
 tags: 
   - publish IBE
@@ -70,4 +70,3 @@ https://bookings.frontdeskanywhere.net/#account/XXXXXXXX?rt=1,2,3,4&rate=285,286
 When the guest is sent to the above link for your property it will take them directly to the available rooms page and show only rates 285 and 286 for room types 1, 2, 3 and 4 for the night of December 14, 2012. The source on the reserved folio will automatically be set to facebook.
 
 Only the checkin and checkout parameters must be used together. The other options may be excluded or used separately as desired.
-
