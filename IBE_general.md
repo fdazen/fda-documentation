@@ -15,6 +15,7 @@ published: true
 
 
 
+
 #**Internet Booking Engine Customization**  
 
 
@@ -42,17 +43,21 @@ You will see a full list of links dedicated to IBE:
 ![ibe2.png]({{site.baseurl}}/images/ibe2.png)
 
 
-Here they will find a list of the main settings that need to be configured in order to begin using the Frontdesk Anywhere booking engine.
+Here you  will find a list of the main settings that need to be configured in order to begin using the Frontdesk Anywhere booking engine.
 
 
-##**IBE Options**  
+##**Promo Code List**
 
-Under the 'IBE' section you can configure various attributes of your booking engine
+IBE allows you to create special promotions that will only be visible to certain customers. For example, you may want to create a special rate valid only for returning customers: giving them a promo code will enable these guests to access a discounted or specific negotiated rates. 
 
-**Promo Codes:**
-IBE features a powerful promo code function that may be used for promotional rates or group specific negotiated rates. Setting up a promo code is a three-step process.
+Setting up a promo code is a three-step process.
 
-First, [set-up the rate](http://docs.frontdeskanywhere.net/build/rates_set_up.html) for your promotion, making sure to tag it as available on the IBE channel.
+1. [Set-up the rate](http://docs.frontdeskanywhere.net/build/rates_set_up.html) for your promotion, making sure to tag it as available on the IBE channel. 
+
+
+![IBE_2.png]({{site.baseurl}}/images/IBE_2.png)
+
+
 
 Second, go to the 'Promo Code List' in the 'IBE' drop down and select 'Add a Promo Code'. Enter the promo code (not case sensitive, no spaces), descriptive name for your reference and the start and end sale dates and finally tag the rate(s) which you created in the first step.
 
