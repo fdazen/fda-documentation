@@ -1,5 +1,3 @@
-
-
 ---
 title: Publish IBE
 tags: 
