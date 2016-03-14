@@ -192,17 +192,31 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 ![IBE_18.png]({{site.baseurl}}/images/IBE_18.png)
 
 
-**Advanced Options:** There are many different advanced options that may be configured.
 
-- Background Image: Upload an image to use as the background for IBE (JPEG only).
+##**Advanced Options**
 
-- Background Image Options: Decide whether to display the background image only on the first page of IBE or throughout the whole booking process (default is first page only).
+There are many different advanced options that may be configured for IBE!
 
-- Promo Code Field: If for some reason you would like to disable all promo codes, you can choose to hide the field here. Otherwise IBE will display the promo code field if there are any valid promo codes.
+_Background Image_: Upload an image to use as the background for IBE (JPEG only). Click on the button _Choose File_ to browse one from your PC.    
 
-- Google Analytics ID: Use this to add in your Google Analytics ID to enable Google Analytics tracking on IBE.
+_Background Image Options_: Decide whether to display the background image only on the first page of IBE or throughout the whole booking process (default is first page only).
 
-- Button Color: Choose the color for buttons as well as the calendar in IBE. Customers usually match or find a complementary color to their logo color.
+![IBE_19.png]({{site.baseurl}}/images/IBE_19.png)
+
+
+_Promo Code Field_: You can make the _Promo Code_ field dynamic, meanining that IBE can display that field only if there is anactive promo code in your account.
+
+
+_Google Analytics ID_: Use this to add in your Google Analytics ID to enable Google Analytics tracking on IBE. Click on the word **here** to have more information about Google Analytics:  
+
+![IBE_20.png]({{site.baseurl}}/images/IBE_20.png)
+
+
+
+_Button Color_: Choose the color for IBE buttons as well as  for the IBE calendar. Customers usually match or find a complementary color to their logo color.  
+
+
+
 
 **Payment Collection Rules**
 For Payment Collection Rules to work, make sure that you already have a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) for IBE. Also make sure that your confirmation type is set to 'Credit Card'.
