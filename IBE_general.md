@@ -85,11 +85,16 @@ Setting up a promo code is a three-step process.
 ![IBE_6.png]({{site.baseurl}}/images/IBE_6.png)
 
 
+Click on the button _Save Promo Code_ when finished.
 
 
+3. Go back to the Admin Settings, and to the _Rate Edit_ panel for the rates applied to the Promo Code:  
 
 
-3. Go back to the edit screens for the rates you just tagged. Scroll down towards the bottom and you will now see a checkbox allowing you to hide this rate from general availability unless the customer enters the promo code. If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code.
+![IBE_7.png]({{site.baseurl}}/images/IBE_7.png)
+
+
+. Scroll down towards the bottom and you will now see a checkbox allowing you to hide this rate from general availability unless the customer enters the promo code. If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code.
 
 **Guest Requests:** Set-up pre-defined options that you want to offer your guests. Options appear as check boxes that can be selected on IBE by the customer. Selected options conveniently appear as notes in the guest folio's comments section.
 
