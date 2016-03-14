@@ -226,13 +226,19 @@ These rules are to set up the system to automatically charge your guests when th
 ![IBE_21.png]({{site.baseurl}}/images/IBE_21.png)
 
 
+- You will need to choose your option from the ones available ont he screen. Here is a breakdown:  
 
-You may choose one option from the following four radio boxes:
+
+_Collect First Night Rent_: choose this option if you want to charge your guests only on the price of the first night of their booking. You will need to specify either a percentage or an amount: the latter will be calculated on the first night rent only:  
+
+![IBE_22.png]({{site.baseurl}}/images/IBE_22.png)
 
 
-- Collect First Night Rent: for this option you must choose either a percentage of the first night's rent or a fixed amount.
+_Collect Sum of Entire Stay_: this option will have the system charge the guest a specific percentage which is calculated on the sum of their entire stay.   
 
-- Collect Sum of Entire Stay: for this option you must choose the percentage value (usually 100).
+
+![IBE_23.png]({{site.baseurl}}/images/IBE_23.png)
+
 
 - Collect Higher Amount From Options Above: selecting this option will choose whichever total amount is higher from the above options. Make sure that the above percent or fixed fields are filled out properly.
 
