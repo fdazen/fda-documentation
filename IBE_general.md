@@ -155,12 +155,25 @@ You can configure how many months in advance you want your inventory to be avail
 
 ![IBE_13.png]({{site.baseurl}}/images/IBE_13.png)
 
+- Choose your selection from the scroll down menu. Values between 2 and 36 months are allowed. When finished, click on the button _Save_.   
+
+![IBE_14.png]({{site.baseurl}}/images/IBE_14.png)
 
 
 
-Values between 2 and 36 months are allowed.
+##**Upsell Items** 
 
-**Upsell Items:** Offer items in your POS inventory to be sold at the time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. IBE 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
+You can sell any active POS item on your IBE. Items will appear on the guest’s confirmation email, and they will appear in each folio, under the POS section.
+You can also add pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
+
+Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_of_sale.html) to learn how to set up your POS items.  
+
+
+- To add POS items to your IBE, click on the link _Upsell Items_:  
+
+![IBE_15.png]({{site.baseurl}}/images/IBE_15.png)
+
+
 
 **Advanced Options:** There are many different advanced options that may be configured.
 
