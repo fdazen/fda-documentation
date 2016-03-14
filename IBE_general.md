@@ -43,7 +43,7 @@ You will see a full list of links dedicated to IBE:
 Here you  will find a list of the main settings that need to be configured in order to begin using the Frontdesk Anywhere booking engine.
 
 
-##**Promo Code List**
+###**Promo Code List**
 
 IBE allows you to create special promotions that will only be visible to certain customers. For example, you may want to create a special rate valid only for returning customers: giving them a promo code will enable these guests to access a discounted or specific negotiated rates. 
 
@@ -101,12 +101,12 @@ Click on the button _Save Promo Code_ when finished.
 {{site.data.alerts.warning}} If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code. {{site.data.alerts.end}}
 
 
-##**Guest Requests**
+###**Guest Requests**
 
 You can set up pre-defined options to offer your guests. These options will conveniently appear at the time the guest finalizes their reservation, and they will be delivered in each folio's _Comment_ box.
 
 
-##**Confirmation Type**
+###**Confirmation Type**
 
 IBE gives you the ability to choose whether you want reservations get confirmed as either Email or Credit Card. With either selection the email is required but you can choose to omit the requirement of providing a credit card so the guest is not charged immediately. 
 
@@ -120,7 +120,7 @@ IBE gives you the ability to choose whether you want reservations get confirmed 
 ![IBE_10.png]({{site.baseurl}}/images/IBE_10.png)
 
 
-##**Assign Room Logic** 
+###**Assign Room Logic** 
 
 You can choose if and how you want to assign rooms for reservations coming from your IBE.  
 
@@ -144,7 +144,7 @@ Click on the button _Save Changes_ once all selection has been made:
 ![IBE_12.png]({{site.baseurl}}/images/IBE_12.png)
 
 
-##**Advanced Booking Period**
+###**Advanced Booking Period**
 
 You can configure how many months in advance you want your inventory to be available online for sale. 
 
@@ -158,7 +158,7 @@ You can configure how many months in advance you want your inventory to be avail
 
 
 
-##**Upsell Items** 
+###**Upsell Items** 
 
 You can sell any active POS item on your IBE. Items will appear on the guest’s confirmation email, and they will appear in each folio, under the POS section.
 You can also add pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
@@ -190,7 +190,7 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 
 
 
-##**Advanced Options**
+###**Advanced Options**
 
 There are many different advanced options that may be configured for IBE!
 
