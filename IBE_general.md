@@ -174,12 +174,22 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 
 ![IBE_15.png]({{site.baseurl}}/images/IBE_15.png)
 
-- Click on the check-box _Allow Packages_ to enable upselling extra items on IBE:  
+- Click on the check-box _Allow Packages_ to enable upselling extra items on IBE: 
 
 
 ![IBE_16.png]({{site.baseurl}}/images/IBE_16.png)
 
 
+- You can amend the text that will be shown on IBE in the Upsell Items section, when a guest is reserving their room:  
+
+
+![IBE_17.png]({{site.baseurl}}/images/IBE_17.png)  
+
+
+- Check the box next to the item you want to offer on IBE, and when finished, click on the blue button _Save Changes_.     
+
+
+![IBE_18.png]({{site.baseurl}}/images/IBE_18.png)
 
 
 **Advanced Options:** There are many different advanced options that may be configured.
