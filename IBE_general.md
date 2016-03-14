@@ -123,7 +123,18 @@ IBE gives you the ability to choose whether you want reservations get confirmed 
 ![IBE_10.png]({{site.baseurl}}/images/IBE_10.png)
 
 
-**Assign Room Logic:** 
+##**Assign Room Logic** 
+
+You can choose if and how you want to assign rooms for reservations coming from your IBE.  
+
+
+- In the Admin Settings, click on the link _Assign Room Logic_:  
+
+
+![IBE_11.png]({{site.baseurl}}/images/IBE_11.png)
+
+
+
 Assign rooms to IBE bookings: Set whether web bookings are saved with a room assigned or as unassigned.
 Enable split IBE bookings: Enable this feature to sell down to the last room available by splitting reservations if a single room is not available for the entire duration. Disabling this feature will prevent splits but will also prevent bookings even though there may still be availability at the property.
 
