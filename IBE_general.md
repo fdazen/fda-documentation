@@ -79,7 +79,17 @@ Setting up a promo code is a three-step process.
 
 {{site.data.alerts.tip}} The start/end date does not need to coincide with the rate availability dates. For example, you can offer an Early Bird discount for people researching in the month of March for a stay in August. The promo code would be invalid if used in any time outside the promo code calendars scope, and in that case, your guests would only see the normal rates available during that time. {{site.data.alerts.end}} 
 
-Third, go back to the edit screens for the rates you just tagged. Scroll down towards the bottom and you will now see a checkbox allowing you to hide this rate from general availability unless the customer enters the promo code. If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code.
+
+- Place a title and a descriptin and finally, select the rates that will be applicable for the Promo Code:  
+
+![IBE_6.png]({{site.baseurl}}/images/IBE_6.png)
+
+
+
+
+
+
+3. Go back to the edit screens for the rates you just tagged. Scroll down towards the bottom and you will now see a checkbox allowing you to hide this rate from general availability unless the customer enters the promo code. If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code.
 
 **Guest Requests:** Set-up pre-defined options that you want to offer your guests. Options appear as check boxes that can be selected on IBE by the customer. Selected options conveniently appear as notes in the guest folio's comments section.
 
