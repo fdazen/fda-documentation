@@ -256,32 +256,27 @@ _Authorize Only_: If you do not want to charge your guests, bu you only want to 
 
 Additional settings that are used by IBE can be found in other areas of the Admin Settings.
 
-**Contact Details:** (under 'Property Info') In order to create the best appearance, you should upload a company logo for IBE 3.5. Note - Any logo used should have a white background color and be in JPEG format.
+**Logo** (under section _Property Info_). In order to create the best appearance, you should upload a company logo for IBE. 
 
-**Room Types:** (under 'Rooms') You may add as many images to IBE as you like and they will display in a gallery. This is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG.
+{{site.data.alerts.important}} Any logo used should have a white background color and be in JPEG format. {{site.data.alerts.end}}
 
-You may also change the ‘room alias’. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. IBE will replace the word ‘room’ with the chosen room alias in IBE. Be aware that the title, description, max occupancy, default occupancy, and selected amenities are all displayed by IBE.
+**Room Types Pictures** (under section _Rooms_). You may add as many images to IBE as you like, and they will display in a gallery. This is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG.
 
-**Stay Restrictions:** (under 'Rates') Set special stay restrictions for your online booking guests. Typically, this is used for minimum night stays but can also advertise promotions. Simply enter a start and end date for the period and a message to your guests.
+You may also change the _Room Alias_. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. IBE will replace the word ‘room’ with the chosen room alias in IBE. Be aware that the title, description, max occupancy, default occupancy, and selected amenities are all displayed by IBE.
 
-**Close Out Periods:** Use the ‘Stay Restrictions’ option under the Rates tab to close out the dates that people can book rooms for your property online. These close out periods may be for as little as one night or for several months at a time. Create a period by selecting a date range and select the room type(s) to close for that period. An optional description for your reference may be added.
+**Stay Restrictions** (under section _Rates_). Set special restrictions for IBE.
 
-**Published Rooms:** (under 'Rooms') This feature closes out or “protects” a room type from being booked by IBE and the OTA/GDS services.
-A value of 0 will free sell all available rooms each night.
-A value equal to the total number of rooms in a room type will close it from being sold online.
-A value in between 0 and the total for a room type will stop selling that room type when your room availability is down to the number entered.
 
-**Categories:** (under POS) Define the categories that will be displayed on IBE for POS items. Only categories that have POS items that are assigned to be shown on IBE will be displayed.
+**Published Rooms:** (under section _Rooms_). You can check how to hide inventory from your online booking engine by clicking [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
 
-**Products:** (under POS) Any POS item that will be included in IBE should be accompanied by an image that illustrates the item for sale. You must keep POS item descriptions under 255 characters long.
 
-**Guest Messages:** (under 'General') IBE uses three of the guest messages during the booking process.
+**Guest Messages** (under section _General_) IBE uses three of the [guest messages](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html) during the booking process. 
 
-- **Invoice message:** shown to the guest on the booking page, confirmation page and sent in the confirmation email
+**Invoice message:** shown to the guest on the booking page, confirmation page and sent in the confirmation email
 
-- **Cancellation Policy:** shown to the guest on the booking and confirmation pages.
+**Cancellation Policy:** shown to the guest on the booking and confirmation pages.
 
-- **Terms & Conditions:** Shown in a separate window that the guest must click on a link to open. Guests must check a box stating they agree to the terms prior to the booking being made.
+**Terms & Conditions:** Shown in a separate window that the guest must click on a link to open. Guests must check a box stating they agree to the terms prior to the booking being made.
 
 
 ##**Publishing the IBE Site**  
