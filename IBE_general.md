@@ -134,9 +134,15 @@ You can choose if and how you want to assign rooms for reservations coming from 
 ![IBE_11.png]({{site.baseurl}}/images/IBE_11.png)
 
 
+You will see different option:
 
-Assign rooms to IBE bookings: Set whether web bookings are saved with a room assigned or as unassigned.
-Enable split IBE bookings: Enable this feature to sell down to the last room available by splitting reservations if a single room is not available for the entire duration. Disabling this feature will prevent splits but will also prevent bookings even though there may still be availability at the property.
+_Assign Rooms to IBE Bookings_: if this option is turned on (ON), the system will automatically assign rooms to incoming reservations. If the option is turned off (OFF), all bookings will come in _Unassigned_ status.
+
+{{site.data.alerts.note}} Unassign bookings are not overbookings. An Unassign booking is a booking that does not have any room assigned to it, yet. {{site.data.alerts.end}}
+
+_Enable Split IBE Bookings_: if one single room is not available for the entire reservation duration, but some other room is, the option **ON** will split the reservation into whatever rooms are available. Disabling this feature (OFF) will prevent splits, but will also prevent bookings even though there may still be availability at the property across rooms.
+
+
 
 **Advanced Booking Period:** Set how many months in advance you allow your inventory to be available online for sale. Values between 2 and 36 months are allowed.
 
