@@ -13,9 +13,6 @@ published: true
 
 
 
-
-
-
 #**Internet Booking Engine Customization**  
 
 
@@ -213,12 +210,10 @@ _Google Analytics ID_: Use this to add in your Google Analytics ID to enable Goo
 
 
 
-_Button Color_: Choose the color for IBE buttons as well as  for the IBE calendar. Customers usually match or find a complementary color to their logo color.  
+_Button Color_: Choose the color for IBE buttons as well as  for the IBE calendar. Customers usually match or find a complementary color to their logo color.
 
 
-
-
-**Payment Collection Rules**
+##**Payment Collection Rules**
 For Payment Collection Rules to work, make sure that you already have a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) for IBE. Also make sure that your confirmation type is set to 'Credit Card'.
 
 You may choose one option from the following four radio boxes:
