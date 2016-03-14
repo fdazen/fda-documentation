@@ -58,8 +58,21 @@ Setting up a promo code is a three-step process.
 ![IBE_2.png]({{site.baseurl}}/images/IBE_2.png)
 
 
+2. Click on the link _Promo Code List_ under section **IBE**:
 
-Second, go to the 'Promo Code List' in the 'IBE' drop down and select 'Add a Promo Code'. Enter the promo code (not case sensitive, no spaces), descriptive name for your reference and the start and end sale dates and finally tag the rate(s) which you created in the first step.
+
+
+
+
+
+
+ - Click on the blue button _Add a Promo Code_:  
+
+
+
+
+
+Enter the promo code (not case sensitive, no spaces), descriptive name for your reference and the start and end sale dates and finally tag the rate(s) which you created in the first step.
 
 The start and end sale dates lets you offer your promotions only during a set period which does not need to coincide with the stay/rate availability dates. For example, you can offer an “EarlyBird” discount for people researching in the month of March for a stay in August. The promo code would be invalid if used in any other month and the person would see the normal rates available during that time.
 
