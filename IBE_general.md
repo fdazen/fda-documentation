@@ -61,14 +61,14 @@ Setting up a promo code is a three-step process.
 2. Click on the link _Promo Code List_ under section **IBE**:
 
 
+![IBE_3.png]({{site.baseurl}}/images/IBE_3.png)
 
 
 
+- Click on the blue button _Add a Promo Code_:  
 
 
- - Click on the blue button _Add a Promo Code_:  
-
-
+![IBE_4.png]({{site.baseurl}}/images/IBE_4.png)
 
 
 
