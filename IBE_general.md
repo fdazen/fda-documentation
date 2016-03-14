@@ -142,9 +142,23 @@ _Assign Rooms to IBE Bookings_: if this option is turned on (ON), the system wil
 
 _Enable Split IBE Bookings_: if one single room is not available for the entire reservation duration, but some other room is, the option **ON** will split the reservation into whatever rooms are available. Disabling this feature (OFF) will prevent splits, but will also prevent bookings even though there may still be availability at the property across rooms.
 
+Click on the button _Save Changes_ once all selection has been made:  
+
+![IBE_12.png]({{site.baseurl}}/images/IBE_12.png)
 
 
-**Advanced Booking Period:** Set how many months in advance you allow your inventory to be available online for sale. Values between 2 and 36 months are allowed.
+##**Advanced Booking Period**
+
+You can configure how many months in advance you want your inventory to be available online for sale. 
+
+- Click on the link _Advanced Booking Period_ under section **IBE**:  
+
+![IBE_13.png]({{site.baseurl}}/images/IBE_13.png)
+
+
+
+
+Values between 2 and 36 months are allowed.
 
 **Upsell Items:** Offer items in your POS inventory to be sold at the time of booking. Items appear on the guest’s bill. Items must first be entered as POS products and then can be selected on this screen. IBE 3.5 allows for pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
 
