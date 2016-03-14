@@ -213,10 +213,22 @@ _Google Analytics ID_: Use this to add in your Google Analytics ID to enable Goo
 _Button Color_: Choose the color for IBE buttons as well as  for the IBE calendar. Customers usually match or find a complementary color to their logo color.
 
 
-##**Payment Collection Rules**
-For Payment Collection Rules to work, make sure that you already have a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) for IBE. Also make sure that your confirmation type is set to 'Credit Card'.
+##**Payment Collection Rules**   
+
+
+Payment Collection Rules only work if you have already a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) which is also active for IBE. The confirmation type for IBE also is to be set to _Credit Card_.
+These rules are to set up the system to automatically charge your guests when they finalize their reservations. 
+
+
+- Click on the link _Payment Collection Rules_ under section IBE:  
+
+
+![IBE_21.png]({{site.baseurl}}/images/IBE_21.png)
+
+
 
 You may choose one option from the following four radio boxes:
+
 
 - Collect First Night Rent: for this option you must choose either a percentage of the first night's rent or a fixed amount.
 
