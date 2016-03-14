@@ -22,6 +22,7 @@ published: true
 
 
 
+
 ##**Floors**  
 
 
@@ -473,8 +474,9 @@ Running the Tape Chart ensures that all amendments made to rooms or room types a
 - You will see a panel, called **Tape Chart Update**:  
 
 
+![tape_chart_2.png]({{site.baseurl}}/images/tape_chart_2.png)
 
-![tape_chart_run_2.png]({{site.baseurl}}/images/tape_chart_run_2.png)  
+
 
 
 
@@ -493,3 +495,14 @@ The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means th
 
 
 ![tape_chart_run_4.png]({{site.baseurl}}/images/tape_chart_run_4.png)
+
+
+###**Calculate Inventory**  
+
+Having the system Calculating Inventory depends on whether you want to send a _hard refresh_ of inventory to the channels, rather than a simple _push of inventory_. Choosing to re-calculating your inventory means to **re-build** all of the information loaded in your Tape Chart and then send it to the channels. A simple push of inventory, on the other hand, means to send whatever information are already displayed on the Tape Chart to the channels.
+
+Calculating Inventory might take a lot of time, especially if you have a big properties or a lot of information there. We do recommend to calculate your inventory from time to time, however try to do this during the night or when the need to access your system is low.  
+
+
+
+
