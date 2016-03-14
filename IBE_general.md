@@ -171,6 +171,7 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 
 - To add POS items to your IBE, click on the link _Upsell Items_:  
 
+
 ![IBE_15.png]({{site.baseurl}}/images/IBE_15.png)
 
 
