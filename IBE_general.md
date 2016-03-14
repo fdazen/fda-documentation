@@ -174,6 +174,12 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 
 ![IBE_15.png]({{site.baseurl}}/images/IBE_15.png)
 
+- Click on the check-box _Allow Packages_ to enable upselling extra items on IBE:  
+
+
+![IBE_16.png]({{site.baseurl}}/images/IBE_16.png)
+
+
 
 
 **Advanced Options:** There are many different advanced options that may be configured.
