@@ -488,7 +488,8 @@ The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means th
 - If you want to manually refresh your availability, or if you have made changes in the room type/rooms configuration, you can use the scroll down calendars to select the date range you want to send the refresh for:  
 
 
-![tape_chart_run_3.png]({{site.baseurl}}/images/tape_chart_run_3.png)  
+![tape_chart_3.png]({{site.baseurl}}/images/tape_chart_3.png)
+ 
 
 
 - You can also choose to update only a selected room type, and not all room types. Choose the relevant option from the drop down menu _Update Room Type_:  
