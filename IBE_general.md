@@ -240,13 +240,15 @@ _Collect Sum of Entire Stay_: this option will have the system charge the guest 
 ![IBE_23.png]({{site.baseurl}}/images/IBE_23.png)
 
 
-- Collect Higher Amount From Options Above: selecting this option will choose whichever total amount is higher from the above options. Make sure that the above percent or fixed fields are filled out properly.
+_Collect Higher Amount From Options Above_: selecting this option will have the system charge whichever total amount is higher among the options defined before. Hence, if you choose to go for this option, make sure the previous two are defined.  
 
-- Authorize Only: This will authorize the credit card for $1.00 to make sure it is a valid credit card, but will not actually charge the customer.
 
-You may also choose the time period within which the rule will be activated as well as create multiple rules. For example, you may wish to create one rule which collects 100% of the entire stay that is enforced only if the arrival date is within one week of the booking date and a second rule which simply authorizes the card for bookings farther than a week away.
+_Authorize Only_: If you do not want to charge your guests, bu you only want to authorize theirt card, then you will need to choose this option. This comes handy if your only goal is to make sure that the guest is using a valid credit card for their booking. The authorization that will be processed is of $1.00 and it will not be charged on your guest's bill or credit card bill.
 
-These rules are only checked once at the time the booking is made. For instance, using the above example if I made a booking on IBE two months in advance of my arrival date, my credit card would only be authorized. Even when today's date falls within one week of my arrival date, I would not automatically be charged 100% of the entire stay since the rules are only checked at the time the booking is made.
+
+ - You will also need to choose the time period within which the rule will remain active as well as create multiple rules. For example, you may wish to create one rule which collects 100% of the entire stay that is enforced only if the arrival date is within one week of the booking date, and a second rule which simply authorizes the card for bookings farther than a week away.
+
+{{site.data.alerts.note}} Payment Collection rules are only checked once at the time the booking is made. {{site.data.alerts.end}}
 
 
 
