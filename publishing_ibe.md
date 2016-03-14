@@ -13,7 +13,6 @@ summary: "Follow these simple instructions to embed your IBE in your website and
 
 
 
-
 ##**Publishing IBE on your Website**  
 
 Publishing your IBE site is easy to do and requires very little HTML skills. We offer IBE 3.5 in a responsive format that will automatically adjust the width down to 320 pixels.  IBE’s responsiveness works well for mobile devices and embedding into websites ensuring a smooth booking process no matter what the platform.
