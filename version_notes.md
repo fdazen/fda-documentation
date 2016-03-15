@@ -11,6 +11,15 @@ published: true
 
 
 
+**v3.2.3.1** 
+
+Enhancement | Description  
+--------|----------  
+Bug Fix - Housekeeping Checklist printing Extra Pages | We have taken off the number of extra pages that were being printed with the Housekeeping Checklist.  
+Bug Fix - Ability to Save Templates | All templates can now be saved in the _Admin Settings_, including the InvoiceBaseTemplate.  
+Improvement - New Credit Card Swiper Panel in POS tab | Credit Card Manager in the POS tab has now been improved to have all card fields non-editable when card information is loaded into the system via credit card swiper.  
+Enhancement - Options to Push Availability to Channels | You can now decide whether to perform a simple push of information to your integrated channels, or whether you want to re-calculate the availability and push it to all channels.
+
 
 
 **v3.2.1.2**   
