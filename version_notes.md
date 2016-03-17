@@ -12,6 +12,13 @@ published: true
 
 
 **v3.2.3.1** 
+Enhancement | Description  
+--------|----------  
+Improvement - Clean CSS font | Improvement made on CSS for font.
+
+
+
+**v3.2.3.1** 
 
 Enhancement | Description  
 --------|----------  
