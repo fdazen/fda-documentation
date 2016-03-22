@@ -113,7 +113,21 @@ The second row of filters are used to assign workload, change housekeeping statu
 - The _Rooms Status - Tonight_  column will give information of the expected status of the room at the end of the day. This column will be useful to prioritize workload: housekeepers will have information about whether a room will be checking-in or whether it is going to be available, thus enabling them to organize their work more efficiently:  
 
 
-![Housekeeping_tab_17.png]({{site.baseurl}}/images/Housekeeping_tab_17.png)
+![Housekeeping_tab_17.png]({{site.baseurl}}/images/Housekeeping_tab_17.png)  
+
+
+- The _Housekeeper_ column displays the name of the employees to whom the room has been assigned: note that it displays _Unassigned_ until you are going to assign the workload to a certain employee:  
+
+
+![Housekeeping_tab_18.png]({{site.baseurl}}/images/Housekeeping_tab_18.png)  
+
+
+- The column _Housekeeping Priority_ will show the relevant priority assigned to the rooms:  
+
+
+![Housekeeping_tab_19.png]({{site.baseurl}}/images/Housekeeping_tab_19.png)
+
+
 
 
 
