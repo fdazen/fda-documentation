@@ -129,6 +129,14 @@ The second row of filters are used to assign workload, change housekeeping statu
 
 
 
+###**How To Read The Displayed Information**  
+
+- Let us look at the following example:  
+
+
+![Housekeeping_tab_20.png]({{site.baseurl}}/images/Housekeeping_tab_20.png)  
+
+
 
 
 
