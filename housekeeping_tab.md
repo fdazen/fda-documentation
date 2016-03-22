@@ -88,7 +88,14 @@ The second row of filters are used to assign workload, change housekeeping statu
 
 - Start by choosing your preferred view by using the _Housekeeping View_ filter. In the exmaple below I am using the _View by Floor_ to display all of my hotel's daily housekeeping workload organized by floors:  
 
-![Housekeeping_tab_13.png]({{site.baseurl}}/images/Housekeeping_tab_13.png)
+
+![Housekeeping_tab_13.png]({{site.baseurl}}/images/Housekeeping_tab_13.png)  
+
+
+- Notice that the system will always keep a count of the items displayed: the count of rooms is dynamic, meaning that if I choose to display only the Dirty Rooms, the number will remind only to how many Dirty room there are:  
+
+
+![Housekeeping_tab_14.png]({{site.baseurl}}/images/Housekeeping_tab_14.png)
 
 
 
