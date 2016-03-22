@@ -32,13 +32,15 @@ The first filter, called _Housekeeping Status_ is multi-option filter, and you w
 ![Housekeeping_tab_3.png]({{site.baseurl}}/images/Housekeeping_tab_3.png)  
 
 
-- Another panel will pop up: fill in the details you deem important, and when finished, click on the button _Save_ at the bottom of the page:  
+- Another panel will pop up: fill in the details you deem important, and when finished click on the button _Save_ at the bottom of the page:  
 
 ![Housekeeping_tab_5.png]({{site.baseurl}}/images/Housekeeping_tab_5.png)
 
 
+- To add more employees, click on the green button _Add an Employee_:  
 
 
+![Housekeeping_tab_6.png]({{site.baseurl}}/images/Housekeeping_tab_6.png)
 
 
 
