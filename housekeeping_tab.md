@@ -149,7 +149,45 @@ The second row of filters are used to assign workload, change housekeeping statu
 
 - In order to assign rooms to the employees, you will simply need to selected the rooms by checking the check-box on the left hand side and use the _Assign Housekeeper_ filter to complete the action:  
 
-![Housekeeping_tab_21.png]({{site.baseurl}}/images/Housekeeping_tab_21.png)
+
+![Housekeeping_tab_21.png]({{site.baseurl}}/images/Housekeeping_tab_21.png)  
+
+
+- If you want to assign rooms on the basis of the current _Housekeeping Status_, you can first filter by status, and then proceed to assign it. In the example below I am displaying all _Dirty Departing_ and _Dirty Vacant_ rooms:  
+
+
+
+![Housekeeping_tab_22.png]({{site.baseurl}}/images/Housekeeping_tab_22.png)  
+
+
+
+- You will now be able to change the Housekeeping View to _View by Housekeeper_, in order to get information on all assigned workload:  
+
+
+![Housekeeping_tab_23.png]({{site.baseurl}}/images/Housekeeping_tab_23.png)  
+
+
+- You will also have the chance to print all the workload by clicking on the button _Print_; you can do this for any view you choose:  
+
+
+![Housekeeping_tab_24.png]({{site.baseurl}}/images/Housekeeping_tab_24.png)  
+
+
+##**How to Change the Housekeeping Status**  
+
+As the day goes by and work gets done by your employees, your Housekeepers will need to change the Housekeeping Status, ideally to status _Clean_.
+
+- Select the rooms for which you wish to change the status by selecting the check-boxes on the left side. Use the _Assign Housekeeping Status_ to choose the right status:  
+
+
+![Housekeeping_tab_25.png]({{site.baseurl}}/images/Housekeeping_tab_25.png)
+
+
+The updated status will appear in real-time to the Frontdesk users on the left hand side of any room. The statuses are color coded, and the Frontdesk users will need to refresh the page to get the most updated information: 
+
+![Housekeeping_tab_26.png]({{site.baseurl}}/images/Housekeeping_tab_26.png)
+
+
 
 
 
