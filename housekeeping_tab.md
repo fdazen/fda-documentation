@@ -95,7 +95,28 @@ The second row of filters are used to assign workload, change housekeeping statu
 - Notice that the system will always keep a count of the items displayed: the count of rooms is dynamic, meaning that if I choose to display only the Dirty Rooms, the number will remind only to how many Dirty room there are:  
 
 
-![Housekeeping_tab_14.png]({{site.baseurl}}/images/Housekeeping_tab_14.png)
+![Housekeeping_tab_14.png]({{site.baseurl}}/images/Housekeeping_tab_14.png)  
+
+
+- For any view you choose, the information will be grouped under pre-defined columns. The column _Room_ refers to the room number and room type in question. The column _Housekeeping Status_ displays the the current Housekeeping status:  
+
+
+![Housekeeping_tab_15.png]({{site.baseurl}}/images/Housekeeping_tab_15.png)  
+
+
+- The _Expected Status_ column is used to identify the expected status of the room after the hotel's check-out time:  
+
+
+![Housekeeping_tab_16.png]({{site.baseurl}}/images/Housekeeping_tab_16.png)  
+
+
+- The _Rooms Status - Tonight_  column will give information of the expected status of the room at the end of the day. This column will be useful to prioritize workload: housekeepers will have information about whether a room will be checking-in or whether it is going to be available, thus enabling them to organize their work more efficiently:  
+
+
+![Housekeeping_tab_17.png]({{site.baseurl}}/images/Housekeeping_tab_17.png)
+
+
+
 
 
 
