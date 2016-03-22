@@ -78,6 +78,11 @@ The second row of filters are used to assign workload, change housekeeping statu
 ![Housekeeping_tab_11.png]({{site.baseurl}}/images/Housekeeping_tab_11.png)
 
 
+- The last filter, marked with the tag _Assign Housekeeping ROom Priority_ can be used to prioritize workload:  
+
+
+![Housekeeping_tab_12.png]({{site.baseurl}}/images/Housekeeping_tab_12.png)
+
 
 
 
