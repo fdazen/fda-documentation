@@ -81,7 +81,16 @@ The second row of filters are used to assign workload, change housekeeping statu
 - The last filter, marked with the tag _Assign Housekeeping ROom Priority_ can be used to prioritize workload:  
 
 
-![Housekeeping_tab_12.png]({{site.baseurl}}/images/Housekeeping_tab_12.png)
+![Housekeeping_tab_12.png]({{site.baseurl}}/images/Housekeeping_tab_12.png)  
+
+
+##**How to Assign the Daily Workload**  
+
+- Start by choosing your preferred view by using the _Housekeeping View_ filter. In the exmaple below I am using the _View by Floor_ to display all of my hotel's daily housekeeping workload organized by floors:  
+
+![Housekeeping_tab_13.png]({{site.baseurl}}/images/Housekeeping_tab_13.png)
+
+
 
 
 
