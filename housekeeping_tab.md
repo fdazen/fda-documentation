@@ -16,3 +16,10 @@ Click on the tab _Housekeeping_ on the top of the screen:
 
 ![Housekeeping_tab_1.png]({{site.baseurl}}/images/Housekeeping_tab_1.png)
 
+
+You will see a panel with different filters. Here is how the screen is organized.  
+
+- There are two different types of filters. The top ones need to be used to visualize or order the housekeeping list. The first filter is multi-option and you will need to use it to define what housekeeping statuses you wish to display:  
+
+
+![Housekeeping_tab_2.png]({{site.baseurl}}/images/Housekeeping_tab_2.png)
