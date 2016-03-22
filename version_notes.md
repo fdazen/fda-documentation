@@ -12,6 +12,7 @@ published: true
 
 
 
+
 **v3.2.6.1**   
 
 Enhancement | Description  
@@ -25,6 +26,7 @@ Bug Fix - Frontdesk User Defined Colors Reverting to Default Colors | We found t
 
 
 **v3.2.4.1** 
+
 Enhancement | Description  
 --------|----------  
 Improvement - Clean CSS font | Improvement made on CSS for font.
