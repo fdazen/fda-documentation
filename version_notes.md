@@ -11,7 +11,20 @@ published: true
 
 
 
-**v3.2.3.1** 
+
+**v3.2.6.1**   
+
+Enhancement | Description  
+--------|----------  
+Improvement - Housekeeping Tab | We have enhanced the Housekeeping tab to be fully functionable: the _Daily Check-list_ link has disappeared, and it has been replaced by a full printable module. Check-out the _Housekeeping Tab_ section of this manual to get all information on how to use our Housekeeping module.  
+Improvement - Order Rooms Link | You can now order your rooms on your Frontdesk Module and decide room assignment priority for all reservations coming from third-parties sited and your booking engine.   
+Improvement - Check-in List Loading Graphic | We have improved our graphic for loading information: the display now gives you a hint that the search is being undergone.  
+Bug Fix - Filters in the Reservation Lists | Our room types filters are now working correctly for the Check-in/out lists and the Reservation List.  
+Bug Fix - Comments do not impact Reservation List | Comments placed in reservation folios were updating the date the reservation was made to the date the comment was inserted.  
+Bug Fix - Frontdesk User Defined Colors Reverting to Default Colors | We found that certain system configuration types were causing Frontdesk User Defined Colors to change overnight. We have enlarged the scope to include al types of configuration and ensured that colors that are user defined will not revert to the original color.
+
+
+**v3.2.4.1** 
 Enhancement | Description  
 --------|----------  
 Improvement - Clean CSS font | Improvement made on CSS for font.
