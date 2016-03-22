@@ -142,6 +142,14 @@ The second row of filters are used to assign workload, change housekeeping statu
 **Room K-04**: The current Status is _Dirty Departing_, hence the guest currently in-house is _Expected_ to check-out. We also know that tonight the room will be vacant.  
 **Room QQ-03**:  The current Status is _Dirty Vacant_, meaning that the guest has already checked-out: indeed, the expected status is _Checking-Out_, and we know that a guest will be checking-in the room tonight.  
 **Room QQ-01**: The current Status is _Dirty_, as the guest is not due to check-out today. Indeed, both expected status at check-out time and the status tonight is _Stay Over_.
+ 
+ 
+
+##**How to Assign Workload**  
+
+- In order to assign rooms to the employees, you will simply need to selected the rooms by checking the check-box on the left hand side and use the _Assign Housekeeper_ filter to complete the action:  
+
+![Housekeeping_tab_21.png]({{site.baseurl}}/images/Housekeeping_tab_21.png)
 
 
 
