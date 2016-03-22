@@ -84,7 +84,7 @@ The second row of filters are used to assign workload, change housekeeping statu
 ![Housekeeping_tab_12.png]({{site.baseurl}}/images/Housekeeping_tab_12.png)  
 
 
-##**How to Assign the Daily Workload**  
+##**How to Visualize the Daily Workload**  
 
 - Start by choosing your preferred view by using the _Housekeeping View_ filter. In the exmaple below I am using the _View by Floor_ to display all of my hotel's daily housekeeping workload organized by floors:  
 
