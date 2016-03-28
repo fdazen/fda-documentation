@@ -140,7 +140,20 @@ You can apply an existent payment to a selected charge.
 - On the Payment tab, click on the icon with three horizontal lines, on the left hand side: select _Apply Payments_:  
 
 
-![payments_19.png]({{site.baseurl}}/images/payments_19.png)
+![payments_19.png]({{site.baseurl}}/images/payments_19.png)  
+
+
+- You will notice that the payment amount disappeared from column _Unapplied Payment_: this is because that payment is now, indeed, applied!  
+
+![payments_20.png]({{site.baseurl}}/images/payments_20.png)
+
+
+- Note also that the balance from _Uninvoiced Transactions_ has also diminished by the amount applied to the charge; the same goes for the charge to which the payment has been applied:  
+
+![payments_21.png]({{site.baseurl}}/images/payments_21.png)
+
+
+
 
 
 ###**Payment Operations**  
