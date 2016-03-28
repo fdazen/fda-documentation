@@ -64,8 +64,6 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 ![payments_6.png]({{site.baseurl}}/images/payments_6.png)
 
 
-
-
 - Place the amount the guest is paying in the box on the left:   
 
 
@@ -73,10 +71,12 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 
 
 
+
 - If applicable, write down the receipt number in the _Receipt Number_ box and a description in the box with the tag _Description_:  
 
 
 ![payments_8.png]({{site.baseurl}}/images/payments_8.png)
+
 
 
 - To record the transaction as a pyament, click on the green button _Pay Now_:  
