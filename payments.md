@@ -38,10 +38,11 @@ The Payment panel can be separated into three main sections:
 In the example above, the guest is being charged for one Add-Ons item, one POS item and one Room Charge. 
 
 
- - The **Payments** drop down menu lists all payment operations and payment details successfully made for the folio:  
+ - The **Payments** drop down menu lists all payment details and operations recorded for the folio. It also brings information about what payments have been applied to certain charges, and what not: indeed, the **U/A** tag means **Unapplied** (Payments) and reminds to the amount of payments that have not or not yet been applied to charges.  
 
 
- ![payments_4.png]({{site.baseurl}}/images/payments_4.png)
+![payments_4.png]({{site.baseurl}}/images/payments_4.png)
+
 
 
 The **Total** field shows the total amount of payment received, while the **Balance** will show the remaining balance the guest owes.  
