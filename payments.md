@@ -28,10 +28,12 @@ published: true
    
 The Payment panel can be separated into three main sections:     
  
- - The **Uninvoiced Transactions** drop down menu contains a list of all uninvoiced charges broken down by charge type and by date. You can visualize them by clicking on the small arrow on the left hand side of the tag _Uninvoiced Transactions_:  
+ - The **Uninvoiced Transactions** drop down menu contains a list of all uninvoiced charges broken down by charge type. You can visualize them by clicking on the small arrow on the left hand side of the tag _Uninvoiced Transactions_:  
  
  
-![payments_3.png]({{site.baseurl}}/images/payments_3.png)  
+![payments_3.png]({{site.baseurl}}/images/payments_3.png)
+  
+
 
 In the example above, you can see that the guest is being charged three Add-Ons items, one POS items and three Room Charges. 
 
