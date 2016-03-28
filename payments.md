@@ -107,7 +107,7 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
 
 
-##**Recording a Payment and Apply it to a Selected Charge**  
+###**Recording a Payment and Apply it to a Selected Charge**  
 
 
 - If your guest wants to pay for certain items only instead of a fixed amount, the system can calculate the sum of those items and apply the payment only to those charges. Click on the scroll down _Uninvoiced Transactions_ to visualize all items on the guest's bill and select the items the guest wishes to pay for, by checking the box on the left hand side of each item:  
@@ -124,7 +124,23 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
 
 
-**Important**: charges and corresponding payments are not linked in the reporting engine: this means that invoices and reports won't record that a certain payment has been submitted for a certain charge.  
+**Important**: charges and corresponding payments are not linked in the reporting engine: this means that reports won't record that a certain payment has been submitted for a certain charge.  
+
+
+###**Applying an Existent Payment to a Selected Charge**  
+
+You can apply an existent payment to a selected charge.  
+
+
+- Expand both _Uninvoiced Transactions_ and _Payments_ tab and select the payment line and the charge you wish to link together:  
+
+![payments_18.png]({{site.baseurl}}/images/payments_18.png)
+
+
+- On the Payment tab, click on the icon with three horizontal lines, on the left hand side: select _Apply Payments_:  
+
+
+![payments_19.png]({{site.baseurl}}/images/payments_19.png)
 
 
 ###**Payment Operations**  
