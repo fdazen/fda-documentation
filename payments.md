@@ -35,7 +35,7 @@ The Payment panel can be separated into three main sections:
   
 
 
-In the example above, you can see that the guest is being charged three Add-Ons items, one POS items and three Room Charges. 
+In the example above, the guest is being charged for one Add-Ons item, one POS item and one Room Charge. 
 
 
  - The **Payments** drop down menu lists all payment operations and payment details successfully made for the folio:  
