@@ -87,7 +87,14 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 
 
 
-- You will see the message _Payment Successful_ once the action has been finalized. You will be able to see the payment details by clicking on the _Payments_ drop down menu:  
+- You will see the message _Payment Successful_ once the action has been finalized:  
+
+
+
+![payments_10.png]({{site.baseurl}}/images/payments_10.png)
+
+
+You will be able to see the payment details by clicking on the _Payments_ drop down menu:  
 
 
 ![payments_10.png]({{site.baseurl}}/images/payments_10.png)
