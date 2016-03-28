@@ -124,8 +124,7 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
 
 
-
-However, note that **charges and corresponding payments are not linked in the system**: this means that invoices and reports won't record that a certain payment has been submitted for a certain charge.  
+**Important**: charges and corresponding payments are not linked in the reporting engine: this means that invoices and reports won't record that a certain payment has been submitted for a certain charge.  
 
 
 ###**Payment Operations**  
