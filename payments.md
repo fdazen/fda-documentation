@@ -66,7 +66,7 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 
 
 
-- Fill in the _Cheque_ box with the check number, if you are recording a cheque payment, otherwise place the amount the guest is paying in the box on the left:   
+- Place the amount the guest is paying in the box on the left:   
 
 
 ![payments_7.png]({{site.baseurl}}/images/payments_7.png)
