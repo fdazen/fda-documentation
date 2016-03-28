@@ -45,8 +45,6 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 
 
 
-The **Total** field shows the total amount of payment received, while the **Balance** will show the remaining balance the guest owes.  
-
 
  - The **Payment Type** section is where you actually submit the payments:    
  
@@ -57,10 +55,14 @@ The **Total** field shows the total amount of payment received, while the **Bala
 
 ##**Recording a Payment**
 
-  - To record a payment, select the Payament Type by choosing the appropriate choice from the ones available in the drop down menu:    
+
+###**Recording a Payment Without Applying it to a Charge**  
+
+ - To record a payment, first select the _Payment Type_ by choosing the appropriate choice from the ones available in the drop down menu:    
   
   
 ![payments_6.png]({{site.baseurl}}/images/payments_6.png)
+
 
 
 
