@@ -79,10 +79,11 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 
 
 
-- To record the transaction as a pyament, click on the green button _Pay Now_:  
+- To record the transaction, click on the green button _Pay Now_:  
 
 
 ![payments_9.png]({{site.baseurl}}/images/payments_9.png)
+
 
 
 
