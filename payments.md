@@ -10,6 +10,7 @@ published: true
 
 
 
+
    
 ##**The Payment Panel**  
 
@@ -19,6 +20,7 @@ published: true
 
 
  - Clicking on the link will bring up a pop up panel from where you can perform all operations related to payments:  
+ 
  
 ![payments_2.png]({{site.baseurl}}/images/payments_2.png)
  
