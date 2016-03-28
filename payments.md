@@ -117,10 +117,15 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
 
 
+- As items are being selected, the sum will change in the _Amount_ field where payments are recorded: in the example above, the guest is only paying for the POS charge, for a total sum of $8.80:  
+
+
+![payments_17.png]({{site.baseurl}}/images/payments_17.png)
 
 
 
-Note that as items are being selected, the sum will change in the apposite field: in the example above, the guest is only paying for the additional items, for a total sum of $85. This comes very hand when the bill needs to be split among different people. However, note that **charges and corresponding payments are not linked in the system**: this means that invoices and reports won't record that a certain payment has been submitted for a certain charge.  
+
+However, note that **charges and corresponding payments are not linked in the system**: this means that invoices and reports won't record that a certain payment has been submitted for a certain charge.  
 
 
 ###**Payment Operations**  
