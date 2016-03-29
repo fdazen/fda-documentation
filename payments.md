@@ -447,16 +447,18 @@ If your account is integrated with a Payment Gateway, you will be able to _proce
 - Enter the credit card type from the _Card Type_ drop down menu. Note that if the guest has a credit card loaded in the folio, there will be an option to select that card:  
 
 
-![payments_48.png]({{site.baseurl}}/images/payments_48.png)
+![payments_48.png]({{site.baseurl}}/images/payments_48.png)  
 
 
 
+In the case you select the existent card, all relevant fields will be automatically filled in; otherwise, you can select the card type and insert the card number and the expiration dates.    
 
-In the case you select the existent card, all relevant fields will be automatically filled in; otherwise, you can select the card type and insert the card number and the expiration dates.  
+
 
 - Place the amount you want to charge the guest:  
 
- ![payments_24.png]({{site.baseurl}}/images/payments_24.png)
+
+![payments_49.png]({{site.baseurl}}/images/payments_49.png)
 
 
 
