@@ -287,15 +287,17 @@ You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amaz
 
 
 ###**Deleting an Invoice**  
-
+  
+  
 - To delete an Invoice, click on the three horizontal bars on the left hand side of the relevant Invoice, and select the option _Delete Invoice_:  
 
 
 ![payments_37.png]({{site.baseurl}}/images/payments_37.png)  
 
 
-
-{site.data.alerts.warning}} You cannot delete an Invoice that contains charges. If the Invoice you are trying to delete contains charges, you will see the following message: {{site.data.alerts.end}}  
+  
+  
+{site.data.alerts.warning}} You cannot delete an Invoice that contains charges.If the Invoice you are trying to delete contains charges, you will see the following message: {{site.data.alerts.end}}  
 
 
 ![payments_38.png]({{site.baseurl}}/images/payments_38.png)
