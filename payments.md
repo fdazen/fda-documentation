@@ -340,7 +340,8 @@ You will need to first move all charges to another invoice, and then proceed to 
 - If you open the _Payments_ drop down menu, you will see that the sum is recorded in the system as a _Deposit_, and not under _Amount_:  
 
 
-![payments_13.png]({{site.baseurl}}/images/payments_13.png)
+
+![payments_42.png]({{site.baseurl}}/images/payments_42.png)
 
   
 
