@@ -106,6 +106,7 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 
 Note that if the recorded payment has not been or not yet been applied to a specific charge, the amount the guest paid will also appear under column _Unapplied Payment_:  
 
+
 ![payments_11.png]({{site.baseurl}}/images/payments_11.png)
 
 
@@ -121,10 +122,12 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
 
 
+
 - As items are being selected, the sum will change in the _Amount_ field where payments are recorded: in the example above, the guest is only paying for the POS charge, for a total sum of $8.80:  
 
 
 ![payments_17.png]({{site.baseurl}}/images/payments_17.png)
+
 
 
 
