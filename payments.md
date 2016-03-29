@@ -171,10 +171,24 @@ If you made a mistake, you can amend the amount of payment that has been applied
 ![payments_22.png]({{site.baseurl}}/images/payments_22.png)
 
 
-- Click on the green button _Payment_ to visualize detailed information about the selected payment:  
+- Click on the green button _Payment_ to visualize detailed information about the
+ selected payment:  
+ 
+ 
+ 
+ ![payments_23.png]({{site.baseurl}}/images/payments_23.png)  
+ 
 
 
-![payments_23.png]({{site.baseurl}}/images/payments_23.png)
+
+- The section _Applied to Transactions_ bears information about payments that have been applied to charges:   
+
+
+
+![payments_24.png]({{site.baseurl}}/images/payments_24.png)
+
+
+
 
 ##**Payment Operations**  
 
