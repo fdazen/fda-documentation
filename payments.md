@@ -469,24 +469,26 @@ In the case you select the existent card, all relevant fields will be automatica
 
 
 
-
 **Authorizing** the card will place a hold on the guest's card for the amount you selected.  
 **Pay Now** will automatically charge the guest's card for the selected amount.  
 
 
-- If you choose to authorize the card, you will receive a _Payment Successful_ message on the screen. You can open the Payments drop down menu to look up the authorization:  
+
+- If you choose to authorize the card, you will receive a _Payment Successful_ message on the screen. You can open the _Payments_ drop down menu to look up the authorization: the latter will appear in a blue color:  
+
+
+![payments_51.png]({{site.baseurl}}/images/payments_51.png)
 
 
 
-![payments_26.png]({{site.baseurl}}/images/payments_26.png)
+The amount corresponding to the authorization appears in light grey, and the overall balance is not affected by it.  
 
-
-As you can see from the example above, the amount corresponding to the Authorization appears in light grey, and the balance is not being affected by it.  
 
 - If you click on the _Authorization_ blue button, you will be able to access the details and see the available actions that you can perform:  
 
 
-![payments_27.png]({{site.baseurl}}/images/payments_27.png)
+![payments_52.png]({{site.baseurl}}/images/payments_52.png)
+
 
 
 
