@@ -12,6 +12,7 @@ published: true
 
 
 
+
    
 ##**The Payment Panel**  
 
@@ -280,7 +281,9 @@ Each invoice has its own balance, corresponding to the charges it contains and t
 ![payments_36.png]({{site.baseurl}}/images/payments_36.png)
 
 
-{{site.data.alerts.note}} If you do not see any template in the pop-up panel, contact your manager and make sure that the right template has been enabled for the Profile Documents. You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html) to get more information! {{site.data.alerts.end}}  
+{{site.data.alerts.note}} If you do not see any template in the pop-up panel, contact your manager and make sure that the right template has been enabled for the Profile Documents.{{site.data.alerts.end}}   
+
+You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html) to get more information! 
 
 
 ###**Deleting an Invoice**  
@@ -657,6 +660,3 @@ You will be able to perform adjustments to charges, directly from each folio:
 
 
 ![payments_70.png]({{site.baseurl}}/images/payments_70.png)
-
-
-
