@@ -370,17 +370,13 @@ You will need to first move all charges to another invoice, and then proceed to 
 
 
 
-- This will bring up information about the payment, and all possible operations that are available to perform:  
+- Click on the green button _Convert To Payment_:  
 
 
+ 
+ ![payments_46.png]({{site.baseurl}}/images/payments_46.png)
 
- **Convert To Payment** will turn the security deposits into a payment.
- **Void** will annul the payment.  
- **Refund** will allow you to record a refund: note that there is an editable box next to the green button _Refund_ where you can choose the amount to refund:  
- 
- 
- 
-![payments_20.png]({{site.baseurl}}/images/payments_20.png)
+
 
  
 
