@@ -295,9 +295,8 @@ You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amaz
 ![payments_37.png]({{site.baseurl}}/images/payments_37.png)  
 
 
-  
-  
-{site.data.alerts.warning}} You cannot delete an Invoice that contains charges.If the Invoice you are trying to delete contains charges, you will see the following message:{{site.data.alerts.end}}  
+{{site.data.alerts.note}}You cannot delete an Invoice that contains charges.If the Invoice you are trying to delete contains charges, you will see the following message  {{site.data.alerts.end}}
+
 
 
 ![payments_38.png]({{site.baseurl}}/images/payments_38.png)
