@@ -595,7 +595,10 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 - In the _Profile Search_ field, insert the Profile ID number: all available invoices for that profile will appear. Select the one of your choice:  
 
 
-![payments_43.png]({{site.baseurl}}/images/payments_43.png)
+
+![payments_63.png]({{site.baseurl}}/images/payments_63.png)
+
+
 
 
   
@@ -603,7 +606,8 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 - You will be able to see the charges transferred by going into the relevant profile and select the Invoice where you transferred those charges:  
 
 
-![payments_44.png]({{site.baseurl}}/images/payments_44.png)
+
+![payments_64.png]({{site.baseurl}}/images/payments_64.png)
 
 
   
