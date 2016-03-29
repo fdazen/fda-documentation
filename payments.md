@@ -222,9 +222,22 @@ In order to transfer charges/applied payments, you will first need to create a n
 
 ![payments_27.png]({{site.baseurl}}/images/payments_27.png)
 
+  
+- You will see a new invoice appearing below the _Uninvoiced Transaction_ drop down menu:    
 
 
 
+![payments_28.png]({{site.baseurl}}/images/payments_28.png)
+
+
+- To change the name of the newly created invoice, simply click on the written _New Invoice_, and the field will become editable. Insert the new name and **click on the button Enter on your keyboard**:  
+  
+  
+  
+![payments_29.png]({{site.baseurl}}/images/payments_29.png)
+  
+  
+{{site.data.alerts.warning}} Before you proceed to transfer charges, let the system refresh with the new changes: simply close the whole Payment Tab and open it again.  {{site.data.alerts.end}}
 
 ##**Payment Operations**  
 
