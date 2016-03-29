@@ -349,7 +349,8 @@ You will need to first move all charges to another invoice, and then proceed to 
 - In the folio screen, the amount submitted as deposit will appear in the field _Security Deposits_:  
 
 
-![payments_14.png]({{site.baseurl}}/images/payments_14.png)
+![payments_43.png]({{site.baseurl}}/images/payments_43.png)
+
 
   
   
