@@ -203,6 +203,24 @@ If you made a mistake, you can amend the amount of payment that has been applied
 
 
 All changes will be reflected both in the Payment section and in the relevant Invoice containing the charge where the payment had been previously applied.
+  
+  
+  
+  
+##**Invoices in the Payment Screen**  
+
+You can create different invoices within the same folio, directly in the Payment screen. This is extremely handy when having to isolate charges or split bills for your guests, along with printing the associated receipts.  
+In the _Payment_ screen of each reservation folio there will alwasy be an _Uninvoiced Transactions_ default invoice that will bear all charges and record applied payments if no charge gets moved to another folio. If you do need to isolate any of the charges and associated payments, just follow these simple instructions!  
+
+
+###**Create a New Invoice**  
+
+In order to transfer charges/applied payments, you will first need to create a new invoice.  
+
+- In the _Payment_ tab, click on the button _Create Invoice_:  
+
+
+![payments_27.png]({{site.baseurl}}/images/payments_27.png)
 
 ##**Payment Operations**  
 
