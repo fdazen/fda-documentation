@@ -283,6 +283,25 @@ Each invoice has its own balance, corresponding to the charges it contains and t
 {{site.data.alerts.note}} If you do not see any template in the pop-up panel, contact your manager and make sure that the right template has been enabled for the Profile Documents. You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html) to get more information! {{site.data.alerts.end}}  
 
 
+###**Deleting an Invoice**  
+
+- To delete an Invoice, click on the three horizatal bars on the left hand side of the relevant Invoice, and select the option _Delete Invoice_:  
+
+
+![payments_37.png]({{site.baseurl}}/images/payments_37.png)  
+
+
+
+{site.data.alerts.warning}} You cannot delete an Invoice that contains charges. If the Invoice you are trying to delete contains charges, you will see the following message: {{site.data.alerts.end}}  
+
+
+![payments_38.png]({{site.baseurl}}/images/payments_38.png)
+
+
+You will need to first move all charges to another invoice, and then proceed to delete the invoice.
+
+
+
 
 ##**Payment Operations**  
 
