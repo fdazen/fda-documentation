@@ -621,50 +621,42 @@ You will be able to perform adjustments to charges, directly from each folio:
 - Click on the blue link _Adjustments_ on the right hand side of the reservation folio:  
 
 
-![payments_45.png]({{site.baseurl}}/images/payments_45.png)
+![payments_65.png]({{site.baseurl}}/images/payments_65.png)
 
 
 
-- Another panel will pop up: you will be able to see a list of all charges.  
+
+- Another panel will pop up: you will be able to see a list of all charges. Select the charges on which you want to perform the adjustment by checking the relevant box:  
 
 
+![payments_66.png]({{site.baseurl}}/images/payments_66.png)
 
-![payments_46.png]({{site.baseurl}}/images/payments_46.png)  
 
-
-- Select the charges on which you want to perform the adjustment:  
-
-![payments_47.png]({{site.baseurl}}/images/payments_47.png)  
 
 - Choose whether to adjust a percentage or a fixed amount by clicking on the right circle-box:  
 
-![payments_48.png]({{site.baseurl}}/images/payments_48.png)  
 
-- Select a Department, if applicable, and place the adjustment amount (fixed or percentage). If you give a discount, be advised you need to place a '-' sign in front of the value.  The amount you set will be taken off from each of the charge item you chose to adjust:  
+![payments_67.png]({{site.baseurl}}/images/payments_67.png)
 
 
-![payments_49.png]({{site.baseurl}}/images/payments_49.png)
+- Select a Department, if applicable, and place the adjustment amount (fixed or percentage). If you give a discount, be advised **you need to place a '-' sign in front of the amount**.  The amount you set will be taken off from each of the charge item you chose to adjust:  
+
+
+
+![payments_68.png]({{site.baseurl}}/images/payments_68.png)
   
   
 - Select the Adjustment Reason, if applicable, and check the box next to the tag _Adjust Taxes_ if you wish to have the tax value adjusted, too. When finished, click on the green button _Adjust_: 
 
 
-![payments_50.png]({{site.baseurl}}/images/payments_50.png)  
+![payments_69.png]({{site.baseurl}}/images/payments_69.png)
+
 
 
 - Adjustments will be shown in the folio, in the apposite area:
 
 
-![payments_51.png]({{site.baseurl}}/images/payments_51.png)  
+![payments_70.png]({{site.baseurl}}/images/payments_70.png)
 
 
 
-###**Balance Display**  
-
-
-On your Tape Chart, all reservation folios with an outstanding balance will appear with an exclamation point:  
-
-![payments_52.png]({{site.baseurl}}/images/payments_52.png)  
-
-
-This will enable you to have a good understanding of outstanding balances just by looking at your Tape Chart.
