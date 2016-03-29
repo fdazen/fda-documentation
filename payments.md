@@ -432,6 +432,7 @@ You can use the Swiper in the _Profile_ tab, in the relevant Payment section:
 
 ##**Processing Payments with Payment Processing**  
 
+
 If your account is integrated with a Payment Gateway, you will be able to _process_ payments for credit cards directly into the Payment screen.  
 
 - To process a payment, click on the blue link _Payments_ in the folio, and select **Credit card** from the Payment Type drop down menu:  
