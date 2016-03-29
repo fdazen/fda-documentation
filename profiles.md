@@ -32,6 +32,9 @@ Before you learn how to create and use the different profiles available for your
 
 {{site.data.alerts.warning}} If you need to transfer charges to a profile, you will need to first create a relevant invoice in the Transactions section of the profile that is bound to receive the charges. You can check out the Payment section of this manual to learn how to create a New Invoice. {{site.data.alerts.end}}
 
+
+
+
 ##**Single Profile**  
 
 
