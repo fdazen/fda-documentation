@@ -185,8 +185,14 @@ If you made a mistake, you can amend the amount of payment that has been applied
 
 
 
-![payments_24.png]({{site.baseurl}}/images/payments_24.png)
+![payments_24.png]({{site.baseurl}}/images/payments_24.png)  
 
+
+
+- To change the amount applied, just edit the _Applied Amount_ box with the new value and click on the green button _Update_:  
+
+
+![payments_25.png]({{site.baseurl}}/images/payments_25.png)
 
 
 
