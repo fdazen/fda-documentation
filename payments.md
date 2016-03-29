@@ -306,13 +306,14 @@ You will need to first move all charges to another invoice, and then proceed to 
 ##**Payment Operations**  
 
 
-- To perform operations on submitted payments, click on the Payments drop down menu, and under column _Type_ click on the green box _Payment_ for the payment you wish to perform your operations:  
+- To perform operations on submitted payments, click on the Payments drop down menu, and then on the green box _Payment_ for the payment on which you wish to perform your operations:  
 
 
-![payments_21.png]({{site.baseurl}}/images/payments_21.png)
+![payments_39.png]({{site.baseurl}}/images/payments_39.png)
 
 
-**Convert to Deposit** will move the payment from being recorded as a payment proper and it will turn it into a Security Deposit.  
+
+**Convert to Deposit** will change the payment from being recorded as a payment proper into a Security Deposit.  
 **Void** will annul the payment.  
 **Refund** will enable you to refund part or the whole of the payment. If you wish to partially refund your guests, fill in the box with the amount you wish to refund and click on the box _Refund_.
 
