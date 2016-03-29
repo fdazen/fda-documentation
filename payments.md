@@ -100,7 +100,8 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 - You will be able to see the payment details by clicking on the _Payments_ drop down menu. From this panel you can see the type of operation performed, the type of payment used and the date and time when the operation was successfully recorded in the system:  
 
 
-![payments_10.png]({{site.baseurl}}/images/payments_10.png)
+![payments_10_1.png]({{site.baseurl}}/images/payments_10_1.png)
+
 
 
 Note that if the recorded payment has not been or not yet been applied to a specific charge, the amount the guest paid will also appear under column _Unapplied Payment_:  
