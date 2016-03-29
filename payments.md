@@ -325,13 +325,15 @@ You will need to first move all charges to another invoice, and then proceed to 
 - You can record security deposits directly from the same Payment screen. Choose the Pay Type and insert the amount you want to have recorded as a deposit:  
 
 
-![payments_11.png]({{site.baseurl}}/images/payments_11.png)
+![payments_40.png]({{site.baseurl}}/images/payments_40.png)
+
 
 
 - Check the box with the tag _Take as Deposit_ and click on the button _Pay Now_:  
 
 
-![payments_12.png]({{site.baseurl}}/images/payments_12.png)
+![payments_41.png]({{site.baseurl}}/images/payments_41.png)
+
 
 
 
