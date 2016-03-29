@@ -465,7 +465,8 @@ In the case you select the existent card, all relevant fields will be automatica
 - When Payment Gateway is active you will have the option to either charge the card, or authorize it:  
 
 
-![payments_25.png]({{site.baseurl}}/images/payments_25.png)
+![payments_50.png]({{site.baseurl}}/images/payments_50.png)
+
 
 
 
