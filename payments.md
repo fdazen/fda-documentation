@@ -378,36 +378,6 @@ You will need to first move all charges to another invoice, and then proceed to 
 
 
 
- 
-
-- If you select the items to charge directly by choosing them from the _Uninvoiced Transactions_ drop down menu, you will be able to refund an amount corresponding to the items. As mentioned, start by choosing what charges you want the guest to pay off:  
-
-
-![payments_53.png]({{site.baseurl}}/images/payments_53.png)  
-
-
-- Choose your payment type and click on the button _Pay Now_:  
-
-
-![payments_54.png]({{site.baseurl}}/images/payments_54.png)  
-
-
-
-- If you click on the _Payments_ drop down menu, and then you click on the green button _Payment_ corresponding to the action you just performed, you will be able to see another panel called _Applied to Transactions_:  
-
-![payments_55.png]({{site.baseurl}}/images/payments_55.png)
-
-
-There will be one line for each of the charge items.
-
-- You can refund the payment for a specific charge item by clicking on the red button _Remove_:  
-
-
-![payments_56.png]({{site.baseurl}}/images/payments_56.png)
-
-
-
-
 ##**Capturing Credit Card Details With Credit Card Swiper**  
     
     
