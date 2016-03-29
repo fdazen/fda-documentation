@@ -11,6 +11,15 @@ published: true
 
 
 
+**v3.2.9.1**   
+ 
+Enhancement | Description  
+--------|----------  
+Bug Fix - No Rate Error coming up in Group Reservation module | Room types that have no rates assigned are now appearing with an _No Rate Available_ error before the user can complete the action.  
+Bug Fix - No Rooms Left Error coming up in Group Reservation module | Implemented an automatic error _No Rooms Left_ to show in the Group module for users trying to book room types with no inventory available.  
+Improvement - Ability to add extra items with a 0 quantity | Extra Items with zero quantity will now figure in the Invoices with a $0 value.
+Enhancement - New Payment Screen | We have implemented a new payment screen, to keep track of applied and unapplied payments. We are also showing the remaining balance in the Payment module, as well as in the reservation folio.  
+
 
 
 **v3.2.6.1**   
