@@ -166,10 +166,15 @@ If you made a mistake, you can amend the amount of payment that has been applied
   
   
 - Expand the _Payment_ tab to visualize all payments made:  
-
+  
+  
 ![payments_22.png]({{site.baseurl}}/images/payments_22.png)
 
 
+- Click on the green button _Payment_ to visualize detailed information about the selected payment:  
+
+
+![payments_23.png]({{site.baseurl}}/images/payments_23.png)
 
 ##**Payment Operations**  
 
