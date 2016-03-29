@@ -222,6 +222,10 @@ In order to transfer charges/applied payments, you will first need to create a n
 
 ![payments_27.png]({{site.baseurl}}/images/payments_27.png)
 
+
+
+
+
 ##**Payment Operations**  
 
 
