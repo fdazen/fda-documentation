@@ -357,21 +357,17 @@ You will need to first move all charges to another invoice, and then proceed to 
 ###**Turning a Security Deposit into a Payment**  
 
 
-- It might often happen that your guests will want to turn their security deposits into payments to set their bills. This is easily done: expand the _Payment_ tab to visualize to individuate the deposit:  
+- It might often happen that your guests will want to turn their security deposits into payments to set their bills. This is easily done: expand the _Payment_ tab to individuate the deposit:    
+
 
 ![payments_44.png]({{site.baseurl}}/images/payments_44.png)
 
 
+- Expand the payment to visualize the details and operations available by clicking on the green button associated with the deposit:
 
 
+![payments_45.png]({{site.baseurl}}/images/payments_45.png)
 
-
-
-
-- Under column _Type_, click on the box _Payment_ green box, corresponding to the security deposit:  
-
-
-![payments_18.png]({{site.baseurl}}/images/payments_18.png)
 
 
 - This will bring up information about the payment, and all possible operations that are available to perform:  
