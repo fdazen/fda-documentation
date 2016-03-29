@@ -57,7 +57,9 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 ##**Recording a Payment**
 
 
-###**Recording a Payment Without Applying it to a Charge**  
+###**Recording a Payment Without Applying it to a Charge**    
+  
+  
 
  - To record a payment, first select the _Payment Type_ by choosing the appropriate choice from the ones available in the drop down menu:    
   
