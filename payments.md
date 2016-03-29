@@ -237,7 +237,52 @@ In order to transfer charges/applied payments, you will first need to create a n
 ![payments_29.png]({{site.baseurl}}/images/payments_29.png)
   
   
-{{site.data.alerts.warning}} Before you proceed to transfer charges, let the system refresh with the new changes: simply close the whole Payment Tab and open it again.  {{site.data.alerts.end}}
+{{site.data.alerts.warning}} Before you proceed to transfer charges, allow the system to refresh with the new changes: simply close the whole Payment Tab and open it again.  {{site.data.alerts.end}}
+
+
+- Expand the invoice that currently lists the charges you wish to transfer and proceed to select the relevant ones by checking the boxes on the left side. In the example below, I am transferring charges from the _uninvoiced Transactions_ invoice to the _Test Invoice_:   
+
+
+![payments_30.png]({{site.baseurl}}/images/payments_30.png)
+
+
+- Click on the button _Transfer Charges_ on the right corner of the screen: you will see a list of all the invoices created in the folio. In the example below, we have only created the _Test Invoice_ in the folio, and this is indeed the only one that there appears:  
+
+
+![payments_31.png]({{site.baseurl}}/images/payments_31.png)  
+
+
+- Select that invoice by clicking on the name:  
+
+
+![payments_32.png]({{site.baseurl}}/images/payments_32.png)
+
+
+- The charge will now appear on the new invoice: you can expand the invoices to see all changes being reflected. Note that if payment had been previously applied to the charge you moved, that payment also will be moved and reflected in the new invoice:  
+
+
+![payments_34.png]({{site.baseurl}}/images/payments_34.png)
+
+
+###**Printing an Invoice**  
+
+Each invoice has its own balance, corresponding to the charges it contains and the payment that have been applied to those charges. From time to time you might need to separate the bills and print receipts that will only show certain charges/payments.  
+
+- To print a receipt, simply click on the three horizontal bars, next to the right invoice:    
+
+
+![payments_35.png]({{site.baseurl}}/images/payments_35.png)  
+
+
+- Click on the option _Invoice_ to bring up the printable receipt:  
+
+
+![payments_36.png]({{site.baseurl}}/images/payments_36.png)
+
+
+{{site.data.alerts.note}} If you do not see any template in the pop-up panel, contact your manager and make sure that the right template has been enabled for the Profile Documents. You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html) to get more information! {{site.data.alerts.end}}  
+
+
 
 ##**Payment Operations**  
 
