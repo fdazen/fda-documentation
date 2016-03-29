@@ -199,7 +199,10 @@ If you made a mistake, you can amend the amount of payment that has been applied
 - To undo the action altogether and revert an applied payment back to an unapplied payment status, simply click on the red button _Remove_ :  
 
 
-![payments_26.png]({{site.baseurl}}/images/payments_26.png)
+![payments_26.png]({{site.baseurl}}/images/payments_26.png)  
+
+
+All changes will be reflected both in the Payment section and in the relevant Invoice containing the charge where the payment had been previously applied.
 
 ##**Payment Operations**  
 
