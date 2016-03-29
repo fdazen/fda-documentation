@@ -131,7 +131,7 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
 
 
-**Important**: charges and corresponding payments are not linked in the reporting engine: this means that reports won't record that a certain payment has been submitted for a certain charge.  
+**Important**: charges and applied payments are _not linked in the reporting engine_: this means that reports won't record that a certain payment has been submitted for a certain charge.  
 
 
 ###**Applying an Existent Payment to a Selected Charge**  
@@ -160,10 +160,18 @@ You can apply an existent payment to a selected charge.
 ![payments_21.png]({{site.baseurl}}/images/payments_21.png)
 
 
+###**Undo/Change the Payment Amount Applied to a Charge**  
+
+If you made a mistake, you can amend the amount of payment that has been applied to a certain charge.  
+  
+  
+- Expand the _Payment_ tab to visualize all payments made:  
+
+![payments_22.png]({{site.baseurl}}/images/payments_22.png)
 
 
 
-###**Payment Operations**  
+##**Payment Operations**  
 
 
 - To perform operations on submitted payments, click on the Payments drop down menu, and under column _Type_ click on the green box _Payment_ for the payment you wish to perform your operations:  
