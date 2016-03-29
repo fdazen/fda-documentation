@@ -26,6 +26,7 @@ Before you learn how to create and use the different profiles available for your
 
 - The templates you added will show in the Profile tab, under tab _Documents_:  
 
+
 ![profiles_72.png]({{site.baseurl}}/images/profiles_72.png)
 
 
