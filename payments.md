@@ -573,41 +573,21 @@ Before you follow the instruction below, make sure you note down the folio numbe
 - Similarly, the folio that has received the charges, will have the corresponding amount appearing next to the link _Transfers Received_:  
 
 
-![payments_38.png]({{site.baseurl}}/images/payments_38.png)
+![payments_61.png]({{site.baseurl}}/images/payments_61.png)
+
 
 
 
 ###**Transferring Charges from Folio to a Profile** 
  
 
-You will be able to send charges from a folio to a Profile invoice. Before you follow the instructions below, make sure that the Profile you want to send charges to has at least one invoice created; if it does not, you will need to create one. To do so, follow the instructions on the _Profile_ section of this manual. It is also recommendable having the Profile ID number handy, in order to avoid confusion in case there are multiple profiles with the same name.    
+You will be able to send charges from a folio to a Profile invoice. Before you follow the instructions below, make sure that the Profile you want to send charges to **has at least one invoice created**; if it does not, you will need to create one. You can follow instructions [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/profiles.html).To do so, follow the instructions on the _Profile_ section of this manual. It is also recommendable having the Profile ID number handy, in order to avoid confusion in case there are multiple profiles with the same name.    
 
 
-- In the folio, click on the link _Payments_:  
-
-![payments_39.png]({{site.baseurl}}/images/payments_39.png)
+- Access the _Payment_ panel in the folio you wish to transfer the charges from, and click on the on the drop down menu _Uninvoiced Transactions_. Select the charges you want to transfer and click on the button _Transfer Charges_:  
 
 
-
-
-- Click on the drop down menu _Uninvoiced Transactions_: there will appear a list of all those transactions that need to be invoiced:  
-
-![payments_40.png]({{site.baseurl}}/images/payments_40.png)
-
-
-
-
-- Select the charges you want to transfer to the Profile:  
-
-
-![payments_41.png]({{site.baseurl}}/images/payments_41.png)
-
-
-
-- Click on the button _Transfer Charges_ on the top right corner:  
-
-
-![payments_42.png]({{site.baseurl}}/images/payments_42.png)
+![payments_62.png]({{site.baseurl}}/images/payments_62.png)
 
  
 
