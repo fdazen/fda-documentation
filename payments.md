@@ -106,8 +106,8 @@ In the example above, the guest is being charged for one Add-Ons item, one POS i
 
 Note that if the recorded payment has not been or not yet been applied to a specific charge, the amount the guest paid will also appear under column _Unapplied Payment_:  
 
-
 ![payments_11.png]({{site.baseurl}}/images/payments_11.png)
+
 
 
 
