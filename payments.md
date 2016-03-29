@@ -288,7 +288,7 @@ You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amaz
 
 ###**Deleting an Invoice**  
 
-- To delete an Invoice, click on the three horizatal bars on the left hand side of the relevant Invoice, and select the option _Delete Invoice_:  
+- To delete an Invoice, click on the three horizontal bars on the left hand side of the relevant Invoice, and select the option _Delete Invoice_:  
 
 
 ![payments_37.png]({{site.baseurl}}/images/payments_37.png)  
