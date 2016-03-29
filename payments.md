@@ -491,44 +491,33 @@ The amount corresponding to the authorization appears in light grey, and the ove
 
 
 
-
 - If you need to release the authorized amount, simply click on the red button _Release_:  
 
- ![payments_28.png]({{site.baseurl}}/images/payments_28.png)
+
+![payments_53.png]({{site.baseurl}}/images/payments_53.png)
 
 
 
-- If you want to capture the amount, or part of the authorized amount (held), insert the relevant value in the box and click on the blue button _Capture_:  
-
-![payments_29.png]({{site.baseurl}}/images/payments_29.png)
+- If you want to capture the amount, or part of the authorized amount, insert the relevant value in the box and click on the blue button _Capture_:  
 
 
-
- - You will see two options: to capture the chosen amount and retain the rest of the authorized amount (hold), click on the button _Capture and Retain_:  
-
-
-![payments_30.png]({{site.baseurl}}/images/payments_30.png)
+![payments_54.png]({{site.baseurl}}/images/payments_54.png)
 
 
-Note that the Authorized Amount will be, in this case, reduced by the amount captured. In the example above, the original amount authorized was $70, we have decided to capture $50 and retain the rest, so the current hold is of $20.  
+- There will be two available options:
+
+**Capture and Release**: the amount specified in the editable box will be turned into a payment proper, while the rest will be released.  
+**Capture and Retain**: the amount specified in the editable box will be turned into a payment proper, and the rest will remain as an authorization.  
 
 
-- To capture the selected amount and release the rest of the authorized amount, click on the button _Capture and Release_:    
 
-![payments_31.png]({{site.baseurl}}/images/payments_31.png)
+{{site.data.alerts.important}}  When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the refund option is only available for charges that have already been processed by the merchant account; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.{{site.data.alerts.end}}
 
-  
-  
- The _Authorization_ has disappeared, as we have released the held on the sum selected.  
-
-
-{{site.data.alerts.important}}  When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the **refund option is only available for charges that have already been processed by the merchant account**; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.{{site.data.alerts.end}}
 
 
 ##**Transferring Charges**      
 
 You have the ability to transfer all or part of a folio charges either to another folio or to a Profile.  
-
   
   
   
@@ -538,37 +527,44 @@ You have the ability to transfer all or part of a folio charges either to anothe
 Before you follow the instruction below, make sure you note down the folio number you wish to send the charges **to**.  
 
 
-- Pull up the folio you want to transfer all charges and click on the blue link _Transfers Sent_, on the right hand column:  
+- Pull up the folio from which you want to transfer all charges and click on the blue link _Transfers Sent_, on the right hand column:  
 
 
-![payments_32.png]({{site.baseurl}}/images/payments_32.png)  
+
+![payments_55.png]({{site.baseurl}}/images/payments_55.png)
 
 
-- Another panel will pop-up, and you will see a breakdown of all charges by night. Note that the column _Amount_ will list the charges with not taxes, while the column _Total Amount_ will list the same charges with the total amount of taxes.  
+
+- Another panel will pop-up, and you will see a breakdown of all charges by night. Note that the column _Amount_ will list the charges without taxes, while the column _Total Amount_ will list the same charges with the total amount of taxes.  
 
 
-![payments_33.png]({{site.baseurl}}/images/payments_33.png)    
+![payments_56.png]({{site.baseurl}}/images/payments_56.png)
+
 
 
 - Using the check-boxes on the left hand side of each charge, select the ones you wish to transfer:  
 
 
-![payments_34.png]({{site.baseurl}}/images/payments_34.png)  
+![payments_57.png]({{site.baseurl}}/images/payments_57.png)
+
 
 
 - Insert the folio number where you want those charges to be sent and click on the blue button _Transfer_:  
 
 
-![payments_35.png]({{site.baseurl}}/images/payments_35.png)  
+![payments_58.png]({{site.baseurl}}/images/payments_58.png)
+
 
 
 - Once the Transfers have been sent out, you can undo your action by clicking on the red buttons _Undo_:  
 
 
-![payments_36.png]({{site.baseurl}}/images/payments_36.png)  
+![payments_59.png]({{site.baseurl}}/images/payments_59.png)
 
 
-- If you now go back to the folio screen, you will see that the sum you chose to transfer will now appear next to the link _Traansfer Sent_:  
+
+
+- If you now go back to the folio screen, you will see that the sum you chose to transfer will appear next to the link _Traansfer Sent_:  
 
 
 ![payments_37.png]({{site.baseurl}}/images/payments_37.png)  
