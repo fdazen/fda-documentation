@@ -8,7 +8,7 @@ published: true
 ---
 
 
-
+table(.variable-table).
 | Hotel Information Variables                                               |  Information                       |
 |---------------------------------------------------------------------------|:-----------------------------------|
 | ``` {fda module="hotel"}email{/fda}  ```                                  | Hotel E-Mail                       |
