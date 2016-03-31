@@ -1,6 +1,6 @@
 ---
 title: Application Resources
-tags: 
+tags:
   - application resources
 keywords: "guest messages, guest documents"
 summary: Learn how to populate your custom message document with information regarding a folio.
@@ -8,37 +8,28 @@ published: true
 ---
 
 
-#Using Frontdesk Anywhere system variables to help use live data in your documents.
-
-
-#Guest Messages Variables
-
-
-##**Hotel Information**
 
 | Hotel Information Variables                                               |  Information                       |
 |---------------------------------------------------------------------------|:-----------------------------------|
 | ``` {fda module="hotel"}email{/fda}  ```                                  | Hotel E-Mail                       |
 | ``` {fda module="hotel"}phone{/fda}  ```                                  | Hotel Phone                        |
-| ``` {fda module="hotel"}fax{/fda}  ```                                    | Hotel Fax                          |
 | ``` {fda module="logo"}url{/fda}  ```                                     | Hotel Logo Url                     |
-| ``` {fda module="hotel"}web_url{/fda}  ```                                | Hotel Web Url                      | ## not yet implemented on backend
-| ``` {fda module="hotel"}hotel_address{/fda}  ```                          | Hotel Address                      | ## not yet implemented on backend
-| ``` {fda module="hotel"}hotel_name{/fda}  ```                             | Hotel Name                         | ## not yet implemented on backend
+| ``` {fda module="hotel"}hotel_address{/fda}  ```                          | Hotel Address (Street)             |
+| ``` {fda module="hotel"}city{/fda}  ```                                   | Hotel City                         |
+| ``` {fda module="hotel"}state{/fda}  ```                                  | Hotel State                        |
+| ``` {fda module="hotel"}country{/fda}  ```                                | Hotel Country                      |
+| ``` {fda module="hotel"}zip{/fda}  ```                                    | Hotel Zip                          |
+| ``` {fda module="hotel"}hotel_name{/fda}  ```                             | Hotel Name                         |
 
-##**Guest Information**
 
 | Guest Information Variables                                               |  Information                       |
 |---------------------------------------------------------------------------|:-----------------------------------|
-| ``` {fda module="guest"}loyalty_id{/fda}  ```                             | Loyalty ID                         |
 | ``` {fda module="guest"}full_name{/fda}  ```                              | Full Name                          |
 | ``` {fda module="guest"}first_name{/fda} ```                              | First Name                         |
 | ``` {fda module="guest"}last_name{/fda}  ```                              | Last Name                          |
-| ``` {fda module="guest"}id_type{/fda}  ```                                | Guest Identification Type          |
+| ``` {fda module="guest" type="profile"}id{/fda}  ```                      | Profile ID                         |
 |                                                                           |                                    |
 
-
-##**Inventory Information**
 
 | Inventory Information Variables                                              | Information                  |
 | -----------------------------------------------------------------------------|:-----------------------------|
@@ -49,7 +40,7 @@ published: true
 | ``` {fda module="inventory"}num_guests_total{/fda} ```                       | Number of Guests (total)     | ## not yet implemented on backend
 | ``` {fda module="inventory"}pos_item{/fda} ```                               | Point of Sale Items (single) | ## not yet implemented on backend
 | ``` {fda module="inventory"}pos_item_total{/fda} ```                         | Point of Sale Items (total)  | ## not yet implemented on backend
- 
+
 
 
 ##**Folio Information**
