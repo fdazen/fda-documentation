@@ -14,7 +14,7 @@ published: true
 #Guest Messages Variables
 
 
-##Hotel Information
+##**Hotel Information**
 
 | Hotel Information Variables                                               |  Information                       |
 |---------------------------------------------------------------------------|:-----------------------------------|
@@ -26,7 +26,7 @@ published: true
 | ``` {fda module="hotel"}hotel_address{/fda}  ```                          | Hotel Address                      | ## not yet implemented on backend
 | ``` {fda module="hotel"}hotel_name{/fda}  ```                             | Hotel Name                         | ## not yet implemented on backend
 
-##Guest Information
+##**Guest Information**
 
 | Guest Information Variables                                               |  Information                       |
 |---------------------------------------------------------------------------|:-----------------------------------|
@@ -38,7 +38,7 @@ published: true
 |                                                                           |                                    |
 
 
-## Inventory Information
+##**Inventory Information**
 
 | Inventory Information Variables                                              | Information                  |
 | -----------------------------------------------------------------------------|:-----------------------------|
@@ -52,7 +52,7 @@ published: true
  
 
 
-## Folio Information
+##**Folio Information**
 
 | Folio Information Variables                                                  | Information             |
 | -----------------------------------------------------------------------------|:------------------------|
@@ -73,7 +73,7 @@ published: true
 | ```` {fda module="folio"}balance{/fda}           ````                        | Balance                 | ## not yet implemented on backend
 |                                                                              |                         |
 
-## Group Folio Information
+##**Group Folio Information**
 
 | Group Folio Information Variables                                            | Information                   |
 | -----------------------------------------------------------------------------|:------------------------------|
@@ -95,7 +95,7 @@ published: true
 | ```` {fda module="group_folio"}group_balance{/fda}    ````                   | Group Balance                 | ## not yet implemented on backend
 
 
-## Arraival/Departure
+##**Arraival/Departure**
 
 | Arraival Departure Detail Variables                                          | Information        |
 |------------------------------------------------------------------------------|:-------------------|
@@ -105,7 +105,7 @@ published: true
 |                                                                              |                    |
 
 
-##  Booking Object Variables
+## **Booking Object Variables**
 Any variable from the booking object should be accesible from the format below
 
 | Booking Obj                                                                  | Information        |
