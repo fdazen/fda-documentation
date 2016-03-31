@@ -9,7 +9,7 @@ published: true
 
 
 
-{: .table .table-striped}
+
 | Hotel Information Variables                                               |  Information                       |
 |---------------------------------------------------------------------------|:-----------------------------------|
 | ``` {fda module="hotel"}email{/fda}  ```                                  | Hotel E-Mail                       |
