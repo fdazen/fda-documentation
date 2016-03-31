@@ -66,13 +66,15 @@ published: true
 
 
  
-##**Templates**  
+##**Templates**    
+
+
 
 Frontdesk Anywhere allows you to customize all communications with your guests: all templates are in a html format, and their _content_ can be easily editable!  
 
 {{site.data.alerts.warning}} Be aware that the templates design have been built so to ensure they will render good when sent via emails on both computers and mobile devices. If you want to change the design, we do not guarantee that the template will render as good as the default ones. {{site.data.alerts.end}}  
 
-For all available variables you can use in the html formats!
+Click [here](http://docs.frontdeskanywhere.net/build/application_resources.html) to check out all available variables you can use in the html templates!
 
  - In the Admin Settings, click on the blue link **Templates** under section _General_:  
  
