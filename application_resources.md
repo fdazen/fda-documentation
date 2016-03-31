@@ -7,7 +7,8 @@ summary: Learn how to populate your custom message document with information reg
 published: true
 ---
 
-## Using Frontdesk Anywhere system variables to help use live data in your documents.
+
+#Using Frontdesk Anywhere system variables to help use live data in your documents.
 
 
 #Guest Messages Variables
@@ -124,6 +125,3 @@ Any variable from the booking object should be accesible from the format below
 |------------------------------------------------------------------------------|:-------------------|
 | ```  {fda module="system"}current_time{/fda}   ```                           | Current Time       |
 | ```  {fda module="system"}current_date{/fda}   ```                           | Current Date       |
-
-
- 
