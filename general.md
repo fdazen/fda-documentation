@@ -15,6 +15,7 @@ published: true
 
 
 
+
 ##**Languages**  
 
 Frontdesk Anywhere comes with a few optional languages that you can set up as default for both your OBE and your PMS.
@@ -365,13 +366,19 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 - You will see a list of possible warnings that can be enabled in the system:  
 
-![General_50.png]({{site.baseurl}}/images/General_50.png)
+![general_50.png]({{site.baseurl}}/images/general_50.png)
 
 
+Here is the legend of what each actions does:  
 
-- For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; if you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_:  
+**Early Check-Out Alert**: will alert the user in case a guest is being checked out prior to their scheduled departure date.  
+**Check-Out with Balance**: will alert the user in case they are trying to check-out a folio with a balance due.  
+**Check-Out with Security Deposit Alert**: will alert the user if they a folio is being checked-out with a security deposit.  
+**Check-in Prior Guest Alert**: will alert the user if a new folio is being checked-in in a room where the previous guest has not yet been checked-out.  
+**Reservation Status: Check-in alert if housekeeping status not**: choose the right housekeeping status from the drop down menu; if a user is trying to check-in a guest in a room that has not the housekeeping status defined here an alert will pop-up.  
 
-![General_51.png]({{site.baseurl}}/images/General_51.png)
+
+- For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; in this case the user will visualize the alert but won't be prevented from completing the action. If you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_:  
 
  
 
