@@ -10,6 +10,13 @@ published: true
 
 
 
+**v3.2.11.1**
+Enhancement | Description   
+--------|----------  
+Bug Fix - Alerts | Alerts functionality scope has been limited to pre-defined cases: the user is now able to define exactly what housekeeping status should trigger a certain alert.
+Improvement - Housekeeping Colors Legend | The slide panel for color legend has been updated with the Housekeeping colors.  
+Improvement - Templates Optimization | Optimization on templates has been performed: all templates are now rendering good when sent via email.  
+
 
 **v3.2.9.1**   
  
