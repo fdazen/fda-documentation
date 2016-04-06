@@ -11,6 +11,16 @@ published: true
 
 
 
+**v3.2.12.3**  
+ 
+Enhancement | Description   
+--------|----------  
+Improvement - Ability to deactivate rooms containing cancelled reservations | Cancelled reservations were previously preventing users from deactivate room types: we have amended this, and enable room type/room deactivation where cancelled reservations are present.  
+Bug Fix - Room Order Link | Room Order link in the Admin Settings got previously broken but it has ow been fixed!  
+Bug Fix - Ability to apply _Authorizations_ to folio charges | Authorization cannot be applied anymore to room charges: if they are, they do not count towards the balance of the invoice containing the charges.  
+Improvement - IBE showing **Sold Out** message | When looking for rooms on your IBE, your guests will now be able to see all room types available at the property: the ones with no availability will appear with a _Sold Out_ message!  
+
+
 **v3.2.11.1**  
 
 Enhancement | Description   
