@@ -10,6 +10,13 @@ published: true
 
 
 
+  
+**v3.2.14.1**  
+ 
+Enhancement | Description   
+--------|----------    
+Bug Fix - Display Issue | Display Issues in the Special request page under the Admin Setting Section _IBE_ has been corrected.  
+Enhancement - Currency | The Moroccan currency Dirham (D) has been added to the system.  
 
 **v3.2.12.3**  
  
