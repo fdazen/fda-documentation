@@ -1,6 +1,6 @@
 ---
 title: Application Resources
-tags:
+tags: 
   - application resources
 keywords: "guest messages, guest documents"
 summary: Learn how to populate your custom message document with information regarding a folio.
@@ -21,6 +21,8 @@ published: true
 | ``` {fda module="hotel"}country{/fda}  ```                                | Hotel Country                      |
 | ``` {fda module="hotel"}zip{/fda}  ```                                    | Hotel Zip                          |
 | ``` {fda module="hotel"}hotel_name{/fda}  ```                             | Hotel Name                         |
+| ``` {fda module="hotel" type="system_message"}term_and_conditions{/fda} ```| Terms and Conditions Output       |
+
 
 
 | Guest Information Variables                                               |  Information                       |
