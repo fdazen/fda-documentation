@@ -351,7 +351,7 @@ Note that all charges will appear to be _Pending_ until you save the folio: once
 
 
 
-##**Moving a Room into a Different Room**  
+##**Moving a Reservation into a Different Room**  
 
 Any folio can be moved to a different room and room type, independently of the status of the reservation itself. 
 
