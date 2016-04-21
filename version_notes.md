@@ -11,6 +11,12 @@ published: true
 
 
 
+**v3.2.14.1**  
+ 
+Enhancement | Description   
+--------|----------      
+Improvement - Order Floors in Housekeeping Tab | Floors in the Housekeeping Tab are now organized in a progressive order if the floors are numbered, or in alphabetican order, if the floos names are spelled out.
+Improvement - Clean Up Payment Gateway Authorization Capture | Users are not anymore allowed to perform an authorization on a credit card with a $0 amount; we have also implemented error messages that will inform users of errors that might come up when transactions fail on payment gateway. These messages are feeding from the payment gateway response to the user's transaction.    
   
 **v3.2.14.1**  
  
@@ -23,7 +29,7 @@ Enhancement - Currency | The Moroccan currency Dirham (D) has been added to the 
  
 Enhancement | Description   
 --------|----------  
-Improvement - Ability to deactivate rooms containing cancelled reservations | Cancelled reservations were previously preventing users from deactivate room types: we have amended this, and enable room type/room deactivation where cancelled reservations are present.  
+Improvement - Ability to Edit Rooms | Ability to deactivate rooms containing cancelled reservations | Cancelled reservations were previously preventing users from deactivate room types: we have amended this, and enable room type/room deactivation where cancelled reservations are present.  
 Bug Fix - Room Order Link | Room Order link in the Admin Settings got previously broken but it has ow been fixed!  
 Bug Fix - Ability to apply _Authorizations_ to folio charges | Authorization cannot be applied anymore to room charges: if they are, they do not count towards the balance of the invoice containing the charges.  
 Improvement - IBE showing **Sold Out** message | When looking for rooms on your IBE, your guests will now be able to see all room types available at the property: the ones with no availability will appear with a _Sold Out_ message!  
