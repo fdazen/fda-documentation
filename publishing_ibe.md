@@ -4,7 +4,8 @@ tags:
   - publish IBE
 keywords: "publish, IBE, website"
 last_updated: "March 14th, 2016"
-summary: "Follow these simple instructions to embed your IBE in your website and start receiving bookings!"  
+summary: "Follow these simple instructions to embed your IBE in your website and start receiving bookings!"
+published: true
 ---
 
 
@@ -13,13 +14,15 @@ summary: "Follow these simple instructions to embed your IBE in your website and
 
 ##**Publishing IBE on your Website**  
 
-Publishing your IBE site is easy to do and requires very little HTML skills. We offer IBE 3.5 in a responsive format that will automatically adjust the width down to 320 pixels.  IBE’s responsiveness works well for mobile devices and embedding into websites ensuring a smooth booking process no matter what the platform.
+Publishing your IBE site is easy to do and requires very little HTML skills. We offer IBE 3.5 in a responsive format that will automatically adjust the width down to 320 pixels.  IBE’s responsiveness works well for mobile devices, and embedding it into websites ensures a smooth booking process, no matter what platform you are using!
 
 There are two easy ways to add IBE to your site:
 
-- **Button link (recommended):** Place a link on your website that takes people directly to your IBE page.  Since the link is responsive, the booking engine will be optimized for a variety of mobile devices. This is the recommended option as guests will have the optimal booking experience through using a button link.
+- **_Book Now_ link (recommended):** Place a link on your website that will take your guests directly to your IBE. Since the link is responsive, the booking engine will be optimized for a variety of mobile devices. This is our recommended option as guests will have the optimal booking experience through using a button link.
 
-- **Iframe:** You can embed your IBE page within your website using an iframe. There are many tutorials online to show you how to do this. Your webmaster can do this is in just a matter of a few minutes. We do NOT recommend iframes for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site.
+- **I-frame:** You can embed your IBE within your website using an i-frame. There are many tutorials online to show you how to do this. Your webmaster can do this in just a matter of a few minutes.   
+
+{% include warning.html content="We do NOT recommend iframes for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site." %}
 
 Below is an example iframe code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
 ```
