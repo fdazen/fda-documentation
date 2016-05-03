@@ -265,7 +265,7 @@ entries:
           platform: all
           product: all
           version: all
-
+          
         - title: Publish IBE
           url: /publishing_ibe.html
           audience: writers, designers
