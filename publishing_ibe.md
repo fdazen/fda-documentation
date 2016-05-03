@@ -22,7 +22,7 @@ There are two easy ways to add IBE to your site:
 
 - **I-frame:** You can embed your IBE within your website using an i-frame. There are many tutorials online to show you how to do this. Your webmaster can do this in just a matter of a few minutes.   
 
-<!-- {% include warning.html content="We do NOT recommend i-frames for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site." %} -->
+
 {{site.data.alerts.important}} We do NOT recommend i-frames for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site. {{site.data.alerts.end}}
 
 Below is an example i-frame code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
