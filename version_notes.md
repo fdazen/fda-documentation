@@ -8,7 +8,24 @@ summary: "In this section you will find notes about any enhancement made to the 
 published: true
 ---
 
+  
+  
+  
+  
+  
+  
 
+
+**v3.2.17.1**  
+ 
+Enhancement | Description     
+--------|----------          
+Improvement - Email Rules Functionality Rebuild | The email rules functionality that handles scheduled emails has been rebuilt to diminish the chance of issues when multiple rules are configured.   
+Bug Fix - Released Folios appearing on Tape Chart as Hold | A case where released reservations appeared on the Tape Chart was reported. The issue has now been fixed, and we placed some checks to prevent these cases from happening in the future.  
+Bug Fix - Issue in saving details to Travel Agent/Company profiles | Details saved to TA or Company profiles types were not showing in the profile tab, causing issues with operations performed on those profiles.
+Bug Fix - Failed IBE reservations appearing as Hold rooms on the Tape Chart | Reservations that failed on IBE were appearing as Hold rooms on the Tape Chart. We have placed checks and improved handling of these cases.
+Improvement - Improved consistency across Email Templates | Templates previously appeared in two forms, we have now built consistency around the template type.
+  
 
 
 **v3.2.15.1**  
