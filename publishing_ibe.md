@@ -70,10 +70,10 @@ IBE uses the following URL parameters to restrict the results offered to the use
 
 **source**= Use the source name. The source will automatically be entered into the folio
 
-##**Example Link**
+###**Example Link**
 
 https://bookings.frontdeskanywhere.net/#account/XXXXXXXX?rt=1,2,3,4&rate=285,286&checkin=2012-12-14&checkout=2012-12-15&promocode=test&source=facebook
 
-When the guest is sent to the above link for your property it will take them directly to the available rooms page and show only rates 285 and 286 for room types 1, 2, 3 and 4 for the night of December 14, 2012. The source on the reserved folio will automatically be set to facebook.
+When the guest is sent to the above link for your property it will take them directly to the available rooms page and show only rates 285 and 286 for room types 1, 2, 3 and 4 for the night of December 14, 2012. The source on the reserved folio will automatically be set to _facebook_.
 
 Only the checkin and checkout parameters must be used together. The other options may be excluded or used separately as desired.
