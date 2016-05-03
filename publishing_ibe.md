@@ -22,21 +22,25 @@ There are two easy ways to add IBE to your site:
 
 - **I-frame:** You can embed your IBE within your website using an i-frame. There are many tutorials online to show you how to do this. Your webmaster can do this in just a matter of a few minutes.   
 
-{% include warning.html content="We do NOT recommend iframes for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site." %}
+{% include warning.html content="We do NOT recommend i-frames for mobile websites because it creates a much clumsier user experience as well as possibly interfering with some of the responsiveness of the site." %}
 
-Below is an example iframe code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
+Below is an example i-frame code for embedding IBE on your website. Replace the XXXXXXX in the URL with your account ID.
 ```
 	<iframe src="https://bookings.frontdeskanywhere.net/#account/XXXXXXXX/"style="border: none;" frameborder="0" width="100%" height="700px" scrolling="no"></iframe>
 ```
 
 Be sure to place the link to your booking page prominently on every page of your site!
 
-**SSL Features**
-Your IBE booking engine is protected by SSL encryption, which means you and your guests’ data is secure during transmission. If you use an embedded iframe, your guests will not be aware that their data is protected. You may wish to purchase an SSL certificate for your website so that these guests have even further reassurance that their information is safe.
+**SSL Features**  
 
+
+Your IBE booking engine is protected by _SSL encryption_, which means you and your guests’ data is secure during transmission. If you use an embedded iframe, your guests will not be aware that their data is protected. You may wish to purchase an SSL certificate for your website so that these guests have even further reassurance that their information is safe.
+  
+  
 ##**IBE Booking Link Parameters**
 
-There are several parameters that can be used with IBE in order to give a more customized experience to your guests. Used in conjunction with a calendar picker booking widget this enables you to provide a highly customized experience for your users. With the link parameters you can:
+There are several parameters that can be used with IBE in order to give a more customized experience to your guests. Used in conjunction with a calendar picker booking widget this enables you to provide a highly customized experience for your users.  
+With the link parameters you can:
 
 - Display only desired room types for a given promotion
 
