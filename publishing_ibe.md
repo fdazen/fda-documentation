@@ -39,36 +39,38 @@ Your IBE booking engine is protected by _SSL encryption_, which means you and yo
   
 ##**IBE Booking Link Parameters**
 
-There are several parameters that can be used with IBE in order to give a more customized experience to your guests. Used in conjunction with a calendar picker booking widget this enables you to provide a highly customized experience for your users.  
+There are several parameters that can be used with IBE in order to give your guests a more customized experience. Used in conjunction with a calendar picker booking widget this will enable you to provide a great experience for your users.    
+
 With the link parameters you can:
 
-- Display only desired room types for a given promotion
+- Display only desired room types for a given promotion.
 
-- Display only the rate available for a promotion
+- Display only the rate available for a promotion.
 
-- Bypass the calendar page and skip to the available rooms
+- Bypass the calendar page and skip to the available rooms page.
 
-- Display the rates and associated rooms tied to a promo code
+- Display the rates and associated rooms tied to a promo code.  
 
-- Define a specific source, for example if you embed IBE on your Facebook Business page
-
+- Define a specific source, for example if you embed IBE on your Facebook Business page.
+  
+  
 **IBE Link Parameter**
 
-IBE uses the following URL parameters to restrict the results offered to the user.
+IBE uses the following URL parameters to restrict the results offered to the user:
 
-rt= Shows only the room type(s) selected. Use commas to separate multiple room types.
+**rt**= Shows only the room type(s) selected. Use commas to separate multiple room types.
 
-rate= Shows only the rate(s) selected. Use commas to separate multiple rates.
+**rate**= Shows only the rate(s) selected. Use commas to separate multiple rates.
 
-checkin= Use for the arrival date. Format is YYYY-MM-DD
+**checkin**= Use for the arrival date. Format is YYYY-MM-DD
 
-checkout= Use for the departure date. Format is YYYY-MM-DD
+**checkout**= Use for the departure date. Format is YYYY-MM-DD
 
-promocode= Pass the promo code entered by the user
+**promocode**= Pass the promo code entered by the user
 
-source= Use the source name. The source will automatically be entered into the folio
+**source**= Use the source name. The source will automatically be entered into the folio
 
-**Example Link**
+##**Example Link**
 
 https://bookings.frontdeskanywhere.net/#account/XXXXXXXX?rt=1,2,3,4&rate=285,286&checkin=2012-12-14&checkout=2012-12-15&promocode=test&source=facebook
 
