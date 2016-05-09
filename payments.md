@@ -512,10 +512,6 @@ The amount corresponding to the authorization appears in light grey, and the ove
 ![payments_54.png]({{site.baseurl}}/images/payments_54.png)
 
 
-- There will be two available options:
-
-**Capture and Release**: the amount specified in the editable box will be turned into a payment proper, while the rest will be released.  
-**Capture and Retain**: the amount specified in the editable box will be turned into a payment proper, and the rest will remain as an authorization.  
 
 
 
