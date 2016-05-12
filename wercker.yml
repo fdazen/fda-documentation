@@ -3,7 +3,7 @@
 # Read more about containers on our dev center
 # http://devcenter.wercker.com/docs/containers/index.html
 box:
-  id: jekyll/builder:latest
+  id: jekyll/builder:3.0.4
   cmd: /bin/sh
 # You can also use services such as databases. Read more on our dev center:
 # http://devcenter.wercker.com/docs/services/index.html
