@@ -12,7 +12,8 @@ published: true
   
   
   
-**v3.2.21.3**  
+**v3.2.21.3**    
+
 Enhancement | Description  
 --------|----------  
 Improvement - Server Optimization | Our server has been optimized to enhance the speed of the application.  
