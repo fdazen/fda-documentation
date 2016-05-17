@@ -17,7 +17,7 @@ Enhancement | Description
 --------|----------  
 Improvement - Server Optimization | Our server has been optimized to enhance the speed of the application.  
 Bug Fix - Ability to load and print POS receipt | Pos receipts are now correctly loading and printing.
-Improvement - Currency Display  | The display of the user's selected currency has been conformed to be the same throughout the application.  
+Improvement - Currency Display  | The display of the user's selected currency is now consistent on all work area of the application.
 Bug Fix - Typos appearing in Templates  | Templates have been improved to display the correct values when more than four decimals appear in the folio balance.
 
 
