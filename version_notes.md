@@ -10,7 +10,11 @@ published: true
 
   
   
-  
+**v3.2.23.1**    
+
+Enhancement | Description  
+--------|----------  
+Bug Fix - Guest Custom Fields | Custom fields have been fixed and will now show up on folios.   
   
 **v3.2.21.3**    
 
