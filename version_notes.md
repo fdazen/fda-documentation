@@ -10,6 +10,16 @@ published: true
 
   
   
+
+
+
+**v3.2.24.7**    
+
+Enhancement | Description  
+--------|----------  
+Bug Fix - Mods not dropping into PMS | OTA modifications were failing and not dropping into PMS. This has been fixed and confirmed to be working.
+
+
 **v3.2.23.1**    
 
 Enhancement | Description  
