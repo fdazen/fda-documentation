@@ -1,15 +1,25 @@
 ---
 title: Version Notes
-tags: 
+tags:
   - Version Notes
-keywords: "version, notes, enhancement"
-last_updated: "February 26th, 2016"
-summary: "In this section you will find notes about any enhancement made to the software and the corresponding version!"
+keywords: 'version, notes, enhancement'
+last_updated: 'February 26th, 2016'
+summary: >-
+  In this section you will find notes about any enhancement made to the software
+  and the corresponding version!
 published: true
 ---
 
   
   
+
+
+**v3.2.27.1**    
+
+Enhancement | Description  
+--------|----------  
+Improvement - Reputation Tab | The Reputation tab has been improved to guarantee a better user experience.  
+New Feature - CC email functinality for Email Rules | It is now possible to add multiple email addresses to cc messages sent to guests via the Email Rules functionality.
 
 
 
