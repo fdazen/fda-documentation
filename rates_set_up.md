@@ -423,4 +423,4 @@ Unless you order your rates, they will appear randomly in the folio: for example
 
 
  
- Remember to log out and log back in into the system in order to see changes being effective!
+You might need to log out and log back into the system in order to see changes being effective!
