@@ -1,10 +1,16 @@
 ---
 title: Rooms Set up
-tags: 
+tags:
   - formatting
-keywords: "rooms, amenities, classes, room types, order rooms"
-last_updated: "November 16, 2015"
-summary: "Setting up your rooms in your Frontdesk Anywhere is a good way to start building your account and make it look like your hotel. This operation involves not only creating rooms, but also building amentities, define the levels you wish to have rooms organize, load pictures and much more.    In the sections below you will learn the best ways to create your hotel room structure."
+keywords: 'rooms, amenities, classes, room types, order rooms'
+last_updated: 'November 16, 2015'
+summary: >-
+  Setting up your rooms in your Frontdesk Anywhere is a good way to start
+  building your account and make it look like your hotel. This operation
+  involves not only creating rooms, but also building amentities, define the
+  levels you wish to have rooms organize, load pictures and much more.    In the
+  sections below you will learn the best ways to create your hotel room
+  structure.
 published: true
 ---
 
@@ -137,7 +143,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability.  
 
 
-{{site.data.alerts.important}} A class is different from a room type. If you do not need classes and types suffice, you can skip to the next section Room Types {{site.data.alerts.end}}
+{{site.data.alerts.important}} A class is different from a room type. If you do not need classes and types suffice, you can skip to the next section. {{site.data.alerts.end}}
 
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
@@ -502,8 +508,4 @@ The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means th
 
 Having the system Calculating Inventory depends on whether you want to send a _hard refresh_ of inventory to the channels, rather than a simple _push of inventory_. Choosing to re-calculating your inventory means to **re-build** all of the information loaded in your Tape Chart and then send it to the channels. A simple push of inventory, on the other hand, means to send whatever information are already displayed on the Tape Chart to the channels.
 
-Calculating Inventory might take a lot of time, especially if you have a big properties or a lot of information there. We do recommend to calculate your inventory from time to time, however try to do this during the night or when the need to access your system is low.  
-
-
-
-
+Calculating Inventory might take a lot of time, especially if you have a big properties or a lot of information there. We do recommend to calculate your inventory from time to time, however try to do this during the night or when the need to access your system is low.
