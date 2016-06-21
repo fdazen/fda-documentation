@@ -1,10 +1,16 @@
 ---
 title: Rates Set Up
-tags: 
+tags:
   - rate set up
-keywords: "rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily rate grid, season periods"
-last_updated: "November 17th, 2015"
-summary: "This section covers everything you need to know about rates set-up, taxes, fees and add-ons. We will start with tax and fee creation before going into the different ways you can reproduce your rate structure into Frontdesk Anywhere."
+keywords: >-
+  rates, taxes, add-ons, master rates, derived rates, duplicate rates, daily
+  rate grid, season periods
+last_updated: 'November 17th, 2015'
+summary: >-
+  This section covers everything you need to know about rates set-up, taxes,
+  fees and add-ons. We will start with tax and fee creation before going into
+  the different ways you can reproduce your rate structure into Frontdesk
+  Anywhere.
 published: true
 ---
 
@@ -221,7 +227,7 @@ You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): 
  - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
  
  
-##**Duplicate a Rate**  
+##**Duplicating a Rate**  
  
  Duplicating a rate will come handy when you are trying to set up different rates for different room types. We are starting from the idea that although the value of the rate will be different, your Season Periods will probably be the same: a High Season, for example, is defined by the starting/ending date. Hence, instead of having to re-build all Season periods for each of your room type, you can duplicate an existing Rate Class with all its Season Periods, and simply place a different value in it!
  
