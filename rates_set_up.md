@@ -249,6 +249,7 @@ You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): 
 
 ##**Daily Rate Breakdown - Rate Grid**  
 
+
 The Rate Grid is the tool via which you can see and change the rates on a daily basis. It is also a great tool to change rates for shorter time frames like 'New Years Eve'!  
 
  - In the _Rate Classes_, click on the blue link **View** on the right hand side of any rate:  
