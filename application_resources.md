@@ -31,8 +31,7 @@ published: true
 |---------------------------------------------------------------------------|:-----------------------------------|
 | ``` {fda module="guest"}full_name{/fda}  ```                              | Full Name                          |
 | ``` {fda module="guest"}first_name{/fda} ```                              | First Name                         |
-| ``` {fda module="guest"}last_name{/fda}  ```                              | Last Name                          |
-| ``` {fda module="guest" type="profile"}id{/fda}  ```                      | Profile ID                         |
+| ``` {fda module="guest"}last_name{/fda}  ```                              | Last Name                                          |
 |                                                                           |                                    |
 
 
