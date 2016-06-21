@@ -386,6 +386,9 @@ You will have two options to create multiple rooms.
  You can decide the order in which your room types are displayed on your Tape Chart with just one click.  
  
  
+ {{site.data.alerts.important}} If your account has already a few room types already built from your demo, we advise to edit the existing ones before creating new ones, as room types cannot be deleted once created, but only deactivated. {{site.data.alerts.end}}
+ 
+ 
  - In the Admin Settings, click on the blue link **Order Room Types** under section _Rooms_:  
  
 
