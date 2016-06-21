@@ -282,13 +282,8 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
 
 
 
- 
-  - Select the email template you want to send among the ones you have previously created. You will also need to select what room type and rates you want to enable for this rule:  
-  
-![Guest_Messages_31.png]({{site.baseurl}}/images/Guest_Messages_31.png)
 
 
 
- - When finished, click on the blue button _Add Rule_ at the bottom of the page:  
+ - When finished, click on the blue button _Save_ at the bottom of the page.
 
-![Guest_Messages_32.png]({{site.baseurl}}/images/Guest_Messages_32.png)
