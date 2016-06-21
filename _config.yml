@@ -30,7 +30,7 @@ exclude:
 
 # same for all
 host: 127.0.0.1
-feedback_email: support@frontdeskanywhere.com
+feedback_email: help@frontdeskanywhere.com
 sidebar_accordion: true
 markdown: redcarpet
 print: true
