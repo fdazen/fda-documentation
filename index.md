@@ -1,7 +1,7 @@
 ---
 title: Introduction
-tags: 
-  - "getting-started"
+tags:
+  - getting-started
 type: first_page
 homepage: true
 published: true
@@ -12,8 +12,9 @@ published: true
 
 # **Welcome!**
 
-Welcome to Frontdesk Anywhere!
-We have gathered here all the documentation and training notes that will help you set up and make the best of your Frontdesk Anywhere PMS. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme! 
+Welcome to Frontdesk Anywhere!  
+
+We have gathered here all the documentation and training notes that will help you set up and make the best of your Frontdesk Anywhere software. Here you can learn how to set-up your system, but also important tips on different ways to use it. We'd like to remind you that we also have a dedicated support staff that will be happy to answer all questions and help you with any doubts you might have: simply send an email to [help@frontdeskanywhere.com](help@frontdeskanywhere.com).
 
 ## Overview
 
