@@ -34,7 +34,7 @@ This section will teach you how to place a Minimum Stay Restriction or a Close o
 - You will see different fields that you have to fill up. Start by placing a short description of the restriction.   
 
 
-{{site.data.alerts.note}} The description you place will be displayed on the booking engine any time a guest is not able to book because of the special requirement. This is to instruct your guests and to help you maximize bookings in case your guests have flexible dates. Hence, try to keep the wording simple for your guests.  {{site.data.alerts.end}}
+{{site.data.alerts.note}} The description you place will be displayed on the booking engine any time a guest is not able to book because of the special requirement. This is to instruct your guests and to help you maximize bookings in case your guests have flexible dates. Hence, try to keep the wording simple for your guests.  {{site.data.alerts.end}}  
 
 
 
