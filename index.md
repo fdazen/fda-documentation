@@ -16,25 +16,30 @@ Welcome to Frontdesk Anywhere!
 
 We have gathered here all the documentation and training notes that will help you set up and make the best of your Frontdesk Anywhere software. Here you can learn how to set-up your system, but also important tips on different ways to use it. We'd like to remind you that we also have a dedicated support staff that will be happy to answer all questions and help you with any doubts you might have: simply send an email to [help@frontdeskanywhere.com](help@frontdeskanywhere.com).
 
-## Overview
-
-Some of the more prominent features of this theme include the following:
-
-* System Configuration
-* Reporting
-* User Guide
-* Notes and tips about Integrations
-* External Resources
 
 
-## Getting started
+## Getting started - Property Set Up
+​
+To get started setting up your system, we recommend you to check out the following topics:
+​
+1. [Room Set Up](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
+2. [Rate Set Up](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rates_set_up.html)
+3. [Users](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/users.html)
 
-To get started, see these three topics:
 
-1. Room Confirguration
-2. Rate Set Up
-3. Users
-  
+
+
+## Post set up - How to use the system
+
+For those of you who have completed the set-up, we recommend checking-out the following threads:
+
+* [How to make a reservation](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/users.html)
+* [How to Use Payments](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/payments.html)
+* [Set up your Internet Booking Engine](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/IBE_general.html)
+* [Learn about our reports](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/reports.html)
+
+
+
   
  {{site.data.alerts.tip}} We recommend using Google Chrome for your Frontdesk Anywhere account! {{site.data.alerts.end}}  
   
