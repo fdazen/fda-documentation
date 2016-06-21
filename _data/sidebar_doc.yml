@@ -152,7 +152,7 @@ entries:
           product: all
           version: all      
 
-    - title: Reservations
+    - title: Operating with the System
       audience: writers, designers
       platform: all
       product: all
