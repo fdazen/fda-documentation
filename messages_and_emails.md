@@ -1,11 +1,20 @@
 ---
 title: Guest Messages and Emails
-tags: 
+tags:
   - guest messages
   - guest email
-keywords: "guest messages, emails, automated emails, email rules, confirmation email, invoice, templates, email templates"
-last_updated: "December 1st, 2015"
-summary: "Through Guest Messages you are able to set up all those information about your property that you need to communicate to your guests, for example your Cancellation Policy, or your Terms and Conditions. These messagages will appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or on your Email Templates. You can think of them as snippet messages that will then be applied to all communications you will set up to have with your guests.  "
+keywords: >-
+  guest messages, emails, automated emails, email rules, confirmation email,
+  invoice, templates, email templates
+last_updated: 'December 1st, 2015'
+summary: >-
+  Through Guest Messages you are able to set up all those information about your
+  property that you need to communicate to your guests, for example your
+  Cancellation Policy, or your Terms and Conditions. These messagages will
+  appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or
+  on your Email Templates. You can think of them as snippet messages that will
+  then be applied to all communications you will set up to have with your
+  guests.  
 published: true
 ---
 
@@ -238,7 +247,7 @@ Note that the status _Automatically Send Email Upon Folio Creation_ only interes
 
 ##**Email Rules**  
 
-_Email rules_ is the tool that enables you to send automatic emails outside the sphere of any key event proper of a guest’s stay (reservation confirmation, check-in, check-out, and cancellation). Differently from the _Automated Emails_ where those emails are triggered by some change in the status of a reservation folio, _Email Rules_ do not have any constrain in terms of the time at which the email is sent: you simply set the condition yourself! This comes useful when you want to send a remainder to your guests for their upcoming arrival or at times when you want to send a "thank you" message to your guests after their stay.  
+_Email rules_ is the tool that enables you to send automatic emails outside the sphere of any folio activity (reservation confirmation, check-in, check-out, and cancellation). Differently from the _Automated Emails_ where those emails are triggered by some change in the status of a reservation folio, _Email Rules_ do not have any constrain in terms of the time at which the email is sent: you simply set the condition yourself! This comes useful when you want to send a remainder to your guests for their upcoming arrival or at times when you want to send a "thank you" message to your guests after their stay.  
 
 
 {{site.data.alerts.important}} You will have to have both Email Templates enabled and Guest Messages set up before placing Email Rules. {{site.data.alerts.end}} 
@@ -250,15 +259,27 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
 
 
  
- - Start by clicking on the blue button _Add Rule_:  
+ - Start by clicking on the blue button _Add_:  
+ 
  
 ![Guest_Messages_29.png]({{site.baseurl}}/images/Guest_Messages_29.png)
 
 
+
  
- - Fill in all the information: place a title, and select the right options from the scroll down menus:  
+ - You will be promopted to fill in some fields:  
  
-![Guest_Messages_30.png]({{site.baseurl}}/images/Guest_Messages_30.png)
+ ![Guest_Messages_30.png]({{site.baseurl}}/images/Guest_Messages_30.png)
+
+ 
+  
+ **Title**: the _Title_ field will appear as the email subject of the message.  
+ **Status**: the _Status_ checkbox controls whether the email rule is active or not.  
+ **CC Email Addresses**: you can insert this field if you want to have a copy of each message that gets sent. Note that you can enter multiple addresses, just make sure to have them separated by one coma.  
+ **Trigger**: this is how you decide when to send the message. You will see three drop down menus, you will simply need to make your selection.  
+ **Messages**: this is where you decide which message you want to include in the email: the list of messages  will reflect the templates that you have currently active.  
+ **Room Type & Rates**: emails to be sent are individuated on a rate level: for each room type, select the rate/s you want the rule to include. For example, if you check the box _King_, the email will be sent only to those folios to which this particular rate is assigned. 
+
 
 
  
