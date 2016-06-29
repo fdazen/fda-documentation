@@ -11,7 +11,13 @@ published: true
 ---
 
   
-  
+
+
+**v3.2.31.3**    
+
+Enhancement | Description  
+--------|----------  
+Improvement - Tax Strategy display in Tax Invoice template | We have enhanced the power of display different tax strategy in our Invoice Tax template
 
 
 **v3.2.27.1**    
