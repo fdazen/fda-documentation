@@ -11,6 +11,11 @@ published: true
 ---
 
   
+**v3.2.32.1**  
+
+Enhancement | Description  
+--------|----------  
+Improvement - Ability to handle currencies with no decimals | Payments sent to the Payment Gateway for certain currencies won't be broken down into decimals, in order to ensure correct charges of guests' cards.  
 
 
 **v3.2.31.3**    
