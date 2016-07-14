@@ -11,7 +11,8 @@ published: true
 ---
 
 
-**v3.2.33.2**  
+**v3.2.33.2**
+
 Enhancement | Description  
 --------|----------    
 Bug Fix - Erasing transferred charges causing inaccessible folios | When transferred charges were erased from the original folio, the latter would become corrupted and it was thus inaccessible. We have now fixed this.  
