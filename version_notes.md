@@ -10,6 +10,16 @@ summary: >-
 published: true
 ---
 
+**v3.2.33.3**  
+
+Enhancement | Description  
+--------|----------    
+Bug Fix - Erasing transferred charges causing inaccessible folios | When transferred charges were erased from the original folio, the latter would become corrupted and it was thus inaccessible. We have now fixed this.  
+Bug Fix - Handling deleted charges on folios | When extra items were assigned to a certain reservation date, and the reservation was shortened by the day assigned to that charge, the folio became inaccessible.
+Bug Fix - Issue with uploading background images on IBE | Background IBE picture could not be changed once a pciture had been previously uploaded. 
+Bug Fix - Night Audit time out | We have improved the speed for Night Audit function, thus solving the issue where Night Audit was not running because of a time-out.
+Improvement - Handling and refreshing availability | We have inserted a delay in the Update Tape Chart function to prevent users from double clicking on the button and cause double entry on the Tape Chart.  
+
   
 **v3.2.32.1**  
 
