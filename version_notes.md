@@ -11,6 +11,16 @@ published: true
 ---
 
 
+
+**3.2.34.2**  
+
+Enhancement | Description    
+--------|----------      
+New Feature - Booking.com and Expedia Direct Connection | Frontdesk Anywhere is happy to let you know you can now connect directly to both Expedia and Booking.com.  
+Improvement - Visual Distinction between weekdays and weekend days on the Tape Chart | The Tape Chart now displays the weekend days into a slightly darker grey.  
+Improvement - Swiss Franc Currency has now been added to the list of available currencies | CHF currency is now available to select in your account.  
+Bug Fix - Yield Management timing out | We have fixed an issue that prevented the Yield Manager to run correctly. 
+
 **v3.2.33.3**
 
 Enhancement | Description  
