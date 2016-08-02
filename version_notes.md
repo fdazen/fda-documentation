@@ -12,6 +12,17 @@ published: true
 
 
 
+**3.2.35.2** 
+
+Enhancement | Description    
+--------|----------      
+Bug Fix - Night Audit throwing a 500 error | Night audit is once again producing expected functionality.
+Bug Fix - HK rule not sticking in the folio dropdown menu | Rule now populates in folio dropdown menu.
+Bug Fix - Yield management not running automatically 
+
+
+
+
 **3.2.34.2**  
 
 Enhancement | Description    
