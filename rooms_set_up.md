@@ -510,3 +510,16 @@ The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means th
 Having the system Calculating Inventory depends on whether you want to send a _hard refresh_ of inventory to the channels, rather than a simple _push of inventory_. Choosing to re-calculating your inventory means to **re-build** all of the information loaded in your Tape Chart and then send it to the channels. A simple push of inventory, on the other hand, means to send whatever information are already displayed on the Tape Chart to the channels.
 
 Calculating Inventory might take a lot of time, especially if you have a big properties or a lot of information there. We do recommend to calculate your inventory from time to time, however try to do this during the night or when the need to access your system is low.
+
+
+
+##**Choosing room priority for reservations**    
+  
+
+Frontdesk Anywhere allows you to establish a priority for where newly created reservation interfacing with the software will be placed. This comes handy if you want your best rooms to always have reservations assigned, and by the same token, if you want certain rooms always to be filled up at last.  
+
+
+- In the Room Order link, you will notice that there is a drop down menu on top of the panel:
+  
+  
+![room_priority_1.png]({{site.baseurl}}/images/room_priority_1.png)
