@@ -11,6 +11,15 @@ published: true
 ---
 
 
+**3.2.38.1** 
+
+Enhancement | Description    
+--------|----------      
+Bug Fix - Fatal Error with Unassigned Reservations| When unassigned, cancelling the reservation resulted in a 'task failed' error.
+Bug Fix - Fatal Error with Modifying Reservations | Modified reservations from siteminder are now receiving success messages.
+ 
+
+
 
 **3.2.35.2** 
 
