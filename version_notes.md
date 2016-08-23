@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.2.39.1** 
+
+Enhancement | Description    
+--------|----------      
+Bugfix - Invoices do not show payments applied to transferred charges | N/A
+Bugfix - Guest receipt showing remaining balance for transferred charges | N/A
+
+
 **3.2.38.1** 
 
 Enhancement | Description    
