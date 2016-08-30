@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.2.40.1** 
+
+Enhancement | Description
+--------|---------- 
+Improvement - Internet Booking Engine | Updated Calendar Thai Language
+
+
 **3.2.39.1** 
 
 Enhancement | Description    
