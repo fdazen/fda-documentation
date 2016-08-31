@@ -10,6 +10,11 @@ summary: >-
 published: true
 ---
 
+**3.2.41.3**
+
+Enhancement | Description
+--------|---------- 
+Improvement - Updated SiteMinder URL | N/A
 
 **3.2.40.1** 
 
