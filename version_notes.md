@@ -10,6 +10,15 @@ summary: >-
 published: true
 ---
 
+
+**3.2.42.1**
+
+Enhancement | Description
+--------|---------- 
+Bug Fix - Failed OTA modifications | N/A
+
+
+
 **3.2.41.3**
 
 Enhancement | Description
