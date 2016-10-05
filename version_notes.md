@@ -10,6 +10,16 @@ summary: >-
 published: true
 ---
 
+**3.2.43.1**
+
+Enhancement | Description
+--------|---------- 
+Improvement | Adding Taiwanese dollars to the currency list
+Bug Fix |  Folio changes triggering emails incorrectly
+Bug Fix | Currency symbol fix
+Bug Fix | Internet Booking Engine IE8 fix
+
+
 
 **3.2.42.1**
 
