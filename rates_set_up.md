@@ -54,7 +54,7 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
 
  
- - If you are creating an inclusive tax, tick the box with the tag _Inclusive Tax_: if this box is checked, the tax will only appear when reporting, and it won't show anywhere in reservations. 
+ - If you are creating an inclusive tax, tick the box with the tag _Inclusive Tax_: if this box is checked, the tax will only appear when reporting, and it won't show anywhere in reservations. Please consult with a qualified tax professional before creating an inclusive tax.
  
 ![Taxes_4.png]({{site.baseurl}}/images/Taxes_4.png)
 
