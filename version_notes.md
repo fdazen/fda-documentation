@@ -10,6 +10,14 @@ summary: >-
 published: true
 ---
 
+**3.2.45.1**
+Enhancement | Description
+--------|---------
+Improvement | Option to back Out Night Audit Functionality
+Bug Fix | Close shift report not matching cashier report detail
+Bug Fix | POS template won't load
+
+
 **3.2.44.2**
 Enhancement | Description
 --------|---------
