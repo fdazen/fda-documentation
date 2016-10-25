@@ -11,6 +11,16 @@ published: true
 ---
 
 
+**3.2.47.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Remove the calculate inventory option
+Bug Fix | Close Shift Label Missing in Some Work Areas
+Bug Fix | Clicking Support Button Opens 2 Tabs
+Bug Fix | Invoice printing multiple page layout fix
+Bug Fix | Unable to edit profiles if required information is enabled
+
 **3.2.46.1**
 
 Enhancement | Description
