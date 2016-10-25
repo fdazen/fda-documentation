@@ -14,6 +14,7 @@ published: true
 
 
 **3.2.44.2**
+
 Enhancement | Description
 --------|---------
 Bug Fix | Thai Language login fix
