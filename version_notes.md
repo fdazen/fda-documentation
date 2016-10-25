@@ -11,6 +11,15 @@ published: true
 ---
 
 
+**3.2.46.1**
+
+Enhancement | Description
+--------|---------
+Bug Fix | POS template displaying incorrect charges and totals
+
+
+
+
 **3.2.45.1**
 
 Enhancement | Description
