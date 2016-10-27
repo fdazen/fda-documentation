@@ -11,6 +11,13 @@ published: true
 ---
 
 
+
+**3.2.48.1**
+
+Enhancement | Description
+--------|---------
+Bug Fix | Capturing invalid amounts
+
 **3.2.47.1**
 
 Enhancement | Description
