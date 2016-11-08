@@ -12,6 +12,19 @@ published: true
 
 
 
+**3.2.49.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Change header in Email Rules from 'Title' to 'Email Subject'
+Improvement | Add Payment Type into POS Receipt
+Improvement | Show room status in the housekeeping section
+Bug Fix | Ability to No Show people in the future
+Bug Fix | Font color on list reports doesnt take background color into account
+Bug Fix | POS Invoice Base Template Mapping fix
+Bug Fix | Prevent future group reservations from Check In and Check Out
+
+
 **3.2.48.1**
 
 Enhancement | Description
