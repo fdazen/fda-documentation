@@ -11,6 +11,12 @@ published: true
 ---
 
 
+**3.2.50.1**
+
+Enhancement | Description
+--------|---------
+Bug Fix | Email Rules fail without email address
+
 
 **3.2.49.1**
 
