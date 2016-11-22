@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.2.51.1**
+
+Enhancement | Description
+--------|---------
+Bug Fix | Invoice template text overlapping
+Bug Fix | Users can't disable on *users* page
+
+
 **3.2.50.1**
 
 Enhancement | Description
