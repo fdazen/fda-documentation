@@ -14,7 +14,7 @@ published: true
 
 **3.2.52.1**
 
-<div style="padding:8px;border:solid 1px #ccc">There are no enhancements or bug fixes to report with this release.</div>
+<div style="padding:8px;border-left:solid 1px #444;margin-bottom:20px;">There are no enhancements or bug fixes to report with this release.</div>
 
 
 **3.2.51.1**
