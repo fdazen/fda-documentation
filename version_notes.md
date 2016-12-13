@@ -14,7 +14,7 @@ published: true
 
 **3.2.52.1**
 
-{{site.data.callout.default}} There are no enhancements or fixes to report with this release. {{site.data.callout.end}}
+<div style="padding:8px;border:solid 1px #ccc">There are no enhancements or bug fixes to report with this release.</div>
 
 
 **3.2.51.1**
