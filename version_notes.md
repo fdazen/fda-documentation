@@ -14,7 +14,7 @@ published: true
 
 **3.2.52.1**
 
-No Enhancements or fixes to the PMS.
+{% include callout.html content="No enhancements or fixes to report" type="default" %} 
 
 
 **3.2.51.1**
