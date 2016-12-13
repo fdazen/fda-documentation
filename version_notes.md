@@ -14,7 +14,7 @@ published: true
 
 **3.2.52.1**
 
-{% include callout.html content="No enhancements or fixes to report" type="default" %} 
+{{site.data.callouts.default}} There are no enhancements or fixes to report with this release. {{site.data.callouts.end}}
 
 
 **3.2.51.1**
