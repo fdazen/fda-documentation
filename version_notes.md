@@ -12,6 +12,18 @@ published: true
 
 
 
+**3.2.53.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Guest Id By Range Endpoint
+Improvement | Add GHS Currency
+Improvement | Add ISK Currency
+Bug Fix | Missing Info error when removing POS
+Bug Fix | Sending emails from previously created folios not working
+
+
+
 **3.2.52.1**
 
 <div style="padding:8px;border-left:solid 2px #444;margin-bottom:20px;">There are no enhancements or bug fixes to report with this release.</div>
