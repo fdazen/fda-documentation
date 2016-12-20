@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.2.55.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Published room filter design update
+Bug Fix |  Group receipt showing cancelled and released reservations
+
+
 
 **3.2.54.1**
 
