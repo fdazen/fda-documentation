@@ -11,6 +11,16 @@ published: true
 ---
 
 
+
+**3.2.56.1**
+
+Enhancement | Description
+--------|---------
+Improvement |  Add Singapore dollar to currencies
+Bug Fix |  Updates to the POS transactions API
+
+
+
 **3.2.55.1**
 
 Enhancement | Description
