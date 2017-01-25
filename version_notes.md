@@ -12,6 +12,16 @@ published: true
 
 
 
+**3.2.57.3**
+
+Enhancement | Description
+--------|---------
+Improvement |  POS API fix channel
+
+
+
+
+
 **3.2.56.1**
 
 Enhancement | Description
