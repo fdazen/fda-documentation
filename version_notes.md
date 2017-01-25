@@ -12,6 +12,15 @@ published: true
 
 
 
+**3.2.58.1**
+
+Enhancement | Description
+--------|---------
+Improvement |  Add ability to show/hide external reference ID
+Bug fix |  Bookings endpoint doesn't return rooms on checkout date
+
+
+
 **3.2.57.3**
 
 Enhancement | Description
