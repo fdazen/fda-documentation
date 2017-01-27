@@ -66,9 +66,24 @@ When finished, click on the blue button **Save** at the bottom of the page.
 
 ###**Important - Overlapping Minimum Stay Restrictions on Channel Integration**    
 
-If you have multiple minimum stay restrictions enabled for the same dates like in the following example:
+If you have multiple minimum stay restrictions enabled for the same dates like in the following example, it is important to understand how the channel manager receives the updates when one of those restriction is made inactive:
 
-![stay_6.png]({{site.baseurl}}/images/stay_6.png)
+![stay_6.png]({{site.baseurl}}/images/stay_6.png)  
+
+In the above example, there is one stay restriction (Maximum Stay 30 days) which overlaps with the other two minimum nights requirement.
+
+If you deactivate any of the minimum stay requirements, please note that this **will also affect the maximum stay requirement**.  Here is how it works:
+
+- When you deactivate a stay requirement, the value we send to the channel manager for those dates is of '1'. For example, if I have a 3 Nights minium stay on the nights of February 9th, 10th and 11th, the value we send to the channel manager for those dates is '3'.  
+If you deactivate this stay restriction, the PMS will automatically send an update to the channel manager that for those nights the minimum stay requirement is '1', instead of '3'.
+
+![stay_7.png]({{site.baseurl}}/images/stay_7.png)
+
+In the example above, I have the 3 Nights minimum stay deactivated but there is still the Maximum Stay requirement set to 30 days which overlaps with those three February days.    
+Since we have deactivated the 3 night minimum stay, the value that will be sent to the channel manager is now '1': this value will automatically cancel out the 30 day Maximum Stay requirement. In order to avoid any issues, we strongly advise to resave the Maximum Stay Requirement.  
+
+Hence, before deactivating any stay restriction, please take a moment to check if you have any overlapping restriction active: if so, resave those restrictions to ensure the latter are still implemented.
+
 
   
 
