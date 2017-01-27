@@ -80,9 +80,33 @@ If you deactivate this stay restriction, the PMS will automatically send an upda
 ![stay_7.png]({{site.baseurl}}/images/stay_7.png)
 
 In the example above, I have the 3 Nights minimum stay deactivated but there is still the Maximum Stay requirement set to 30 days which overlaps with those three February days.    
-Since we have deactivated the 3 night minimum stay, the value that will be sent to the channel manager is now '1': this value will automatically cancel out the 30 day Maximum Stay requirement. In order to avoid any issues, we strongly advise to resave the Maximum Stay Requirement.  
+Since we have deactivated the 3 night minimum stay, the value that will be sent to the channel manager is now '1': **this value will automatically cancel out the 30 day Maximum Stay requirement**. In order to avoid any issues, we strongly advise to resave the Maximum Stay Requirement.  
 
 Hence, before deactivating any stay restriction, please take a moment to check if you have any overlapping restriction active: if so, resave those restrictions to ensure the latter are still implemented.
+
+
+##**Setting up a Close-out**   
+
+  
+- In the Stay Restriction panel, click on the button **Add Close-Out Period**:  
+
+![stay_8.png]({{site.baseurl}}/images/stay_8.png)  
+
+- Place a brief description for the close-out. Note: this will be displayed on your booking engine as a reason why guests cannot book.  
+
+![stay_9.png]({{site.baseurl}}/images/stay_9.png)  
+
+  
+Select the date range, relative days of the week and choose whether to limit arrivals, departures or both for the selected date range.  
+
+- Check the **Status** box to activate the restriction upon saving the page. Also select the applicable channels and rates you want to have closed.     
+
+![stay_10.png]({{site.baseurl}}/images/stay_10.png)
+
+
+
+
+
 
 
   
