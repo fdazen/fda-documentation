@@ -25,3 +25,11 @@ These actions are all on rate level: for any configured rate, you can define a m
 ##**Add Min/Max Stay Requirement**  
 
 
+- To add a minimum stay restriction or to limit the amount of consecutive days guests can stay at your property, click on the blue button **Add Min/Max Requirement**:  
+
+![stay_2.png]({{site.baseurl}}/images/stay_2.png)
+  
+  
+ - Start inserting the information requested:
+ 
+ ![stay_3.png]({{site.baseurl}}/images/stay_3.png)
