@@ -47,3 +47,29 @@ Here is what this means: in the example above, I have set-up a minimum stay rest
 
 If you want to allow a one night reservation for 12/21, then date 12/22 should not be included in the restriction. 
 
+- Choose how the system should enforce the restriction:  
+![stay_4.png]({{site.baseurl}}/images/stay_4.png)
+  
+  
+If you want the restriction to limit guest stay if their arrival date falls within the selected period range, click on _Arrival must be within period_; if you want the restriction to limit guest stay if their departure falls within the period, choose the box _Departure must be within period_. You may also leave both boxes unchecked if you want the restriction to be applied to both arrival and departure date.  
+
+Proceed to select the channels where the restriction should be applied to.  
+  
+
+- Finally, for each room type select the rate that should be restricted:  
+
+![stay_5.png]({{site.baseurl}}/images/stay_5.png)
+  
+  
+When finished, click on the blue button **Save** at the bottom of the page.
+
+
+###**Important - Overlapping Minimum Stay Restrictions on Channel Integration**    
+
+If you have multiple minimum stay restrictions enabled for the same dates like in the following example:
+
+![stay_6.png]({{site.baseurl}}/images/stay_6.png)
+
+  
+
+
