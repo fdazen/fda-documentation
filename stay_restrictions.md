@@ -1,4 +1,12 @@
-
+---
+title: Stay Restrictions
+tags:
+  - Stay Restrictions
+keywords: 'stay restrictions, maximum/minimum stay requirement, close out'
+last_updated: 'January 27th, 2017'
+summary: "Learn how to restrict availability or rates on Frontdesk Anywhere!"
+published: true
+---
  
  
 #**Stay Restrictions**  
