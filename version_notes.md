@@ -12,6 +12,14 @@ published: true
 
 
 
+**3.2.59.2**
+
+Enhancement | Description
+--------|---------
+Bug fix |  Invoice printing too small with A4 paper size
+
+
+
 **3.2.58.1**
 
 Enhancement | Description
