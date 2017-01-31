@@ -11,6 +11,12 @@ published: true
 ---
 
 
+**3.2.60.1**
+
+Enhancement | Description
+--------|---------
+Bug fix |  Invoice A4 printing fix update
+
 
 **3.2.59.2**
 
