@@ -134,47 +134,71 @@ In order to transfer charges/applied payments, you will first need to create a n
 ![pay2.png]({{site.baseurl}}/images/pay2.png)
 
   
-- A pop-up panel will come up.  You will see a transaction drop down menu which, if expanded, will list all charges contained in the folio. You will also see a transfer transactions button which enable you to move any of those listed charges
+- A pop-up panel will come up.  You will see a transaction drop down menu which, if expanded, will list all charges contained in the folio. You will also see a transfer transactions button which enable you to move any of those listed charges:
     
 
 
 ![pay3.png]({{site.baseurl}}/images/pay3.png)
 
 
-- To change the name of the newly created invoice, simply click on the written _New Invoice_, and the field will become editable. Insert the new name and **click on the button Enter on your keyboard**:  
+- The first step to split charges into an invoice is to actually create the invoice. You can only transfer charges, if there is an invoice where to transfer charges to. 
+To create a new invoice, click on the button **Transfer Transactions**:
   
   
   
-![payments_29.png]({{site.baseurl}}/images/payments_29.png)
+  
+![pay4.png]({{site.baseurl}}/images/pay4.png)
   
   
-{{site.data.alerts.warning}} Before you proceed to transfer charges, allow the system to refresh with the new changes: simply close the whole Payment Tab and open it again.  {{site.data.alerts.end}}
+- Expand section _Transfer to Invoice_ by clicking on the three dots on the right hand side and then click on the button **Create Invoice**:
+
+![pay8.png]({{site.baseurl}}/images/pay8.png)
 
 
-- Expand the invoice that currently lists the charges you wish to transfer and proceed to select the relevant ones by checking the boxes on the left side. In the example below, I am transferring charges from the _uninvoiced Transactions_ invoice to the _Test Invoice_:   
 
 
-![payments_30.png]({{site.baseurl}}/images/payments_30.png)
+- After clicking on the button create invoice, a new invoice will drop down menu will appear on the screen. If you want to rename the invoice, click on the red written _New Invoice_ to make the field editable and type in a new name:
+  
 
 
-- Click on the button _Transfer Charges_ on the right corner of the screen: you will see a list of all the invoices created in the folio. In the example below, we have only created the _Test Invoice_ in the folio, and this is indeed the only one that there appears:  
+![pay9.png]({{site.baseurl}}/images/pay9.png)
 
 
-![payments_31.png]({{site.baseurl}}/images/payments_31.png)  
+- Select the charges to transfer to the newly created invoice by checking the boxes on any charges listed under menu transactions. To transfer those selected charges, click on the small arrow icon on section _Transfer to Invoice_:
 
 
-- Select that invoice by clicking on the name:  
+
+![pay10.png]({{site.baseurl}}/images/pay10.png)
 
 
-![payments_32.png]({{site.baseurl}}/images/payments_32.png)
+- Transferred charges will appear under the _Newly Created Invoice_. Note that they also remain listed under _Transactions_, although with a $0 balance as they have now been placed under the invoice:
 
 
-- The charge will now appear on the new invoice: you can expand the invoices to see all changes being reflected. Note that if payment had been previously applied to the charge you moved, that payment also will be moved and reflected in the new invoice:  
+![pay11.png]({{site.baseurl}}/images/pay11.png)
 
 
-![payments_34.png]({{site.baseurl}}/images/payments_34.png)
+- The invoice will be in a **Draft** status until it is issued, meaning it is finalized or confirmed. You can change the status of the invoice by clicking on the three bars action button on the right hand side of the screen. **A draft invoice can be deleted, issued or have the transfer undone**:
+  
 
 
+![pay12.png]({{site.baseurl}}/images/pay12.png)
+
+
+
+  
+- When an invoice is issued, it will be tagged with a unique number:
+
+![pay13.png]({{site.baseurl}}/images/pay13.png)  
+
+
+- Note that once an invoice has been issued, it can only be cancelled. When this happens, all charges that were originally transferred to the invoice will be re-listed under section transfers:
+
+![pay14.png]({{site.baseurl}}/images/pay14.png)
+
+
+
+
+  
 ###**Printing an Invoice**  
 
 Each invoice has its own balance, corresponding to the charges it contains and the payment that have been applied to those charges. From time to time you might need to separate the bills and print receipts that will only show certain charges/payments.  
