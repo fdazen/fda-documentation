@@ -1,10 +1,19 @@
 ---
 title: Payments
-tags: 
+tags:
   - Payments
-keywords: "payments, recording a payment, swiping credit card, processing credit cards, transferring charges, transfers to folio, transfers to profile"
-last_updated: "February 22nd, 2016"
-summary: "This section will guide you through how to perform basic and advanced payment operations: you will learn about how our payment screen is organized, how to record payments, how to transfer charges and, if applicable, how to capture credit card details. If you are integrated with a payment gateway and/or a credit card swiper, this will also be the place where you can learn how to process your guests' credit cards directly from your Frontdesk Anywhere account."
+keywords: >-
+  payments, recording a payment, swiping credit card, processing credit cards,
+  transferring charges, transfers to folio, transfers to profile
+last_updated: 'February 22nd, 2016'
+summary: >-
+  This section will guide you through how to perform basic and advanced payment
+  operations: you will learn about how our payment screen is organized, how to
+  record payments, how to transfer charges and, if applicable, how to capture
+  credit card details. If you are integrated with a payment gateway and/or a
+  credit card swiper, this will also be the place where you can learn how to
+  process your guests' credit cards directly from your Frontdesk Anywhere
+  account.
 published: true
 ---
 
@@ -24,21 +33,13 @@ published: true
  - Clicking on the link will bring up a pop up panel from where you can perform all operations related to payments:  
  
  
-![payments_2.png]({{site.baseurl}}/images/payments_2.png)
+![pay1.png]({{site.baseurl}}/images/pay1.png)
+
  
    
    
-The Payment panel can be separated into three main sections:     
+The Payment panel can be separated into two main sections:     
  
- - The **Uninvoiced Transactions** drop down menu contains a list of all uninvoiced charges broken down by charge type. You can visualize them by clicking on the small arrow on the left hand side of the tag _Uninvoiced Transactions_:  
- 
- 
-![payments_3.png]({{site.baseurl}}/images/payments_3.png)
-  
-
-
-In the example above, the guest is being charged for one Add-Ons item, one POS item and one Room Charge. 
-
 
  - The **Payments** drop down menu lists all payment details and operations recorded for the folio. It also brings information about what payments have been applied to certain charges, and what not: indeed, the **U/A** tag means **Unapplied** (Payments) and reminds to the amount of payments that have not or not yet been applied to charges.  
 
@@ -113,115 +114,24 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
 
 
-###**Recording a Payment and Apply it to a Selected Charge**  
-
-
-- If your guest wants to pay for certain items only instead of a fixed amount, the system can calculate the sum of those items and apply the payment only to those charges. Click on the scroll down _Uninvoiced Transactions_ to visualize all items on the guest's bill and select the items the guest wishes to pay for, by checking the box on the left hand side of each item:  
-
-
-![payments_16.png]({{site.baseurl}}/images/payments_16.png)
-
-
-
-
-- As items are being selected, the sum will change in the _Amount_ field where payments are recorded: in the example above, the guest is only paying for the POS charge, for a total sum of $8.80:  
-
-
-![payments_17.png]({{site.baseurl}}/images/payments_17.png)
-
-
-
-
-**Important**: charges and applied payments are _not linked in the reporting engine_: this means that reports won't record that a certain payment has been submitted for a certain charge.  
-
-
-###**Applying an Existent Payment to a Selected Charge**  
-
-You can apply an existent payment to a selected charge.  
-
-
-- Expand both _Uninvoiced Transactions_ and _Payments_ tab and select the payment line and the charge you wish to link together:  
-
-![payments_18.png]({{site.baseurl}}/images/payments_18.png)
-
-
-- On the Payment tab, click on the icon with three horizontal lines, on the left hand side: select _Apply Payments_:  
-
-
-![payments_19.png]({{site.baseurl}}/images/payments_19.png)  
-
-
-- You will notice that the payment amount disappeared from column _Unapplied Payment_: this is because that payment is now, indeed, applied!  
-
-![payments_20.png]({{site.baseurl}}/images/payments_20.png)
-
-
-- Note also that the balance from _Uninvoiced Transactions_ has also diminished by the amount applied to the charge; the same goes for the charge to which the payment has been applied:  
-
-![payments_21.png]({{site.baseurl}}/images/payments_21.png)
-
-
-###**Undo/Change the Payment Amount Applied to a Charge**  
-
-If you made a mistake, you can amend the amount of payment that has been applied to a certain charge.  
-  
-  
-- Expand the _Payment_ tab to visualize all payments made:  
-  
-  
-![payments_22.png]({{site.baseurl}}/images/payments_22.png)
-
-
-- Click on the green button _Payment_ to visualize detailed information about the
- selected payment:  
- 
- 
- 
- ![payments_23.png]({{site.baseurl}}/images/payments_23.png)  
- 
-
-
-
-- The section _Applied to Transactions_ bears information about payments that have been applied to charges:   
-
-
-
-![payments_24.png]({{site.baseurl}}/images/payments_24.png)  
-
-
-
-- To change the amount applied, just edit the _Applied Amount_ box with the new value and click on the green button _Update_:  
-
-
-![payments_25.png]({{site.baseurl}}/images/payments_25.png)
-
 
   
-- To undo the action altogether and revert an applied payment back to an unapplied payment status, simply click on the red button _Remove_ :  
-
-
-![payments_26.png]({{site.baseurl}}/images/payments_26.png)  
-
-
-All changes will be reflected both in the Payment section and in the relevant Invoice containing the charge where the payment had been previously applied.
   
-  
-  
-  
-##**Invoices in the Payment Screen**  
+##**Invoices**  
 
-You can create different invoices within the same folio, directly in the Payment screen. This is extremely handy when having to isolate charges or split bills for your guests, along with printing the associated receipts.  
-In the _Payment_ screen of each reservation folio there will alwasy be an _Uninvoiced Transactions_ default invoice that will bear all charges and record applied payments if no charge gets moved to another folio. If you do need to isolate any of the charges and associated payments, just follow these simple instructions!  
+Each folio has a dedicated section called _Invoices_ : this is the place where you can isolate existent folio charges into different invoices. This feature is used when having to split bills for your guests, along with printing the associated receipts.  
+
+If you do need to isolate any of the charges and associated payments, just follow these simple instructions!  
 
 
 ###**Create a New Invoice**  
 
 In order to transfer charges/applied payments, you will first need to create a new invoice.  
 
-- In the _Payment_ tab, click on the button _Create Invoice_:  
+- In the folio, click on the link _Invoice_:
 
 
-![payments_27.png]({{site.baseurl}}/images/payments_27.png)
+![pay2.png]({{site.baseurl}}/images/pay2.png)
 
   
 - You will see a new invoice appearing below the _Uninvoiced Transaction_ drop down menu:    
