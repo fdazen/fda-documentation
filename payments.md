@@ -247,7 +247,7 @@ Each invoice has its own balance, corresponding to the charges it contains and t
 - To print a receipt, simply click on the three horizontal bars, next to the right invoice:    
 
 
-![payments_35.png]({{site.baseurl}}/images/payments_35.png)  
+![pay23.png]({{site.baseurl}}/images/pay23.png)
 
 
 - Click on the option _Invoice_ to bring up the printable receipt:  
@@ -259,25 +259,6 @@ Each invoice has its own balance, corresponding to the charges it contains and t
 {{site.data.alerts.note}} If you do not see any template in the pop-up panel, contact your manager and make sure that the right template has been enabled for the Profile Documents.{{site.data.alerts.end}}   
 
 You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html) to get more information! 
-
-
-###**Deleting an Invoice**  
-  
-  
-- To delete an Invoice, click on the three horizontal bars on the left hand side of the relevant Invoice, and select the option _Delete Invoice_:  
-
-
-![payments_37.png]({{site.baseurl}}/images/payments_37.png)  
-
-
-{{site.data.alerts.note}}You cannot delete an Invoice that contains charges. If the Invoice you are trying to delete contains charges, you will see the following message  {{site.data.alerts.end}}
-
-
-
-![payments_38.png]({{site.baseurl}}/images/payments_38.png)
-
-
-You will need to first move all charges to another invoice, and then proceed to delete the invoice.
 
 
 
