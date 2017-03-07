@@ -134,11 +134,11 @@ In order to transfer charges/applied payments, you will first need to create a n
 ![pay2.png]({{site.baseurl}}/images/pay2.png)
 
   
-- You will see a new invoice appearing below the _Uninvoiced Transaction_ drop down menu:    
+- A pop-up panel will come up.  You will see a transaction drop down menu which, if expanded, will list all charges contained in the folio. You will also see a transfer transactions button which enable you to move any of those listed charges
+    
 
 
-
-![payments_28.png]({{site.baseurl}}/images/payments_28.png)
+![pay3.png]({{site.baseurl}}/images/pay3.png)
 
 
 - To change the name of the newly created invoice, simply click on the written _New Invoice_, and the field will become editable. Insert the new name and **click on the button Enter on your keyboard**:  
