@@ -196,6 +196,47 @@ To create a new invoice, click on the button **Transfer Transactions**:
 ![pay14.png]({{site.baseurl}}/images/pay14.png)
 
 
+###**Applying Payments to Charges**    
+
+When you split charges into different invoices, you will need to reflect payments in the folio that are relative to those charges, so that the invoice will show a balance of $0.
+
+We call this feature **Apply Payments**: it is the ability to associated payments to certain charges. 
+**Note**: payments can only be applied to those charges that are listed under an _Issued_ invoice.  
+
+
+- To apply payments to charges, click on the link _Payments_ on the right hand side of the folio:
+
+![pay15.png]({{site.baseurl}}/images/pay15.png)
+  
+  
+- Expand the payments list and expand the payment details relative to the credit that needs to be applied to the invoice. At the bottom you will see a _Transactions_ drop down menu which will show you all invoices created on the folio with all the relative listed charges:  
+
+![pay17.png]({{site.baseurl}}/images/pay17.png)  
+
+
+- Select those charges you want to have linked to the payments and type in the amount you want to apply. In the example below I am applying the full $50 payment to one $110 charge.
+When done, click on the yellow button **Apply to Payments**:
+
+![pay18.png]({{site.baseurl}}/images/pay18.png)
+
+
+- A _Successful_ message will appear at the top in green. A summary of applied charges will also appear at the bottom of the payments list:
+
+![pay20.png]({{site.baseurl}}/images/pay20.png)
+  
+  
+  
+- If you now open the _Invoice_ blue link back in the folio, you will notice that the balance of the invoice will go down by the amount of the applied payments.
+
+![pay21.png]({{site.baseurl}}/images/pay21.png)
+
+  
+
+
+
+  
+
+
 
 
   
