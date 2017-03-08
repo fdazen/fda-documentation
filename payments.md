@@ -588,7 +588,8 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 - A successful message will come up on the top of the screen in green and the transactions list will show a $0 under column _Uninvoiced_, for those transferred charges:
 
 
-  
+  ![inc10.png]({{site.baseurl}}/images/inc10.png)
+
   
 ##**Adjustments**  
 
