@@ -123,6 +123,17 @@ Each folio has a dedicated section called _Invoices_ : this is the place where y
 
 If you do need to isolate any of the charges and associated payments, just follow these simple instructions!  
 
+**BEFORE STARTING**:  Invoices have some unique statuses that are key to understand as they impact what actions can be done to them.  
+
+
+1. **Draft**: A newly created Invoice will appear in Draft status until it is issued. Draft invoices can be Deleted, Issued or have Transfers Reversed.  
+2. **Delete**: Remove all references to a draft invoice. 
+3. **Issued**: Confirm a draft invoice and generate a unique number.  
+4. **Cancel**: Voids an issued invoice. The invoice name and number will remain for record keeping purposes.  
+
+
+
+
 
 ###**Create a New Invoice**  
 
@@ -161,7 +172,7 @@ To create a new invoice, click on the button **Transfer Transactions**:
   
 
 
-![pay9.png]({{site.baseurl}}/images/pay9.png)
+![pay54.png]({{site.baseurl}}/images/pay54.png)
 
 
 - Select the charges to transfer to the newly created invoice by checking the boxes on any charges listed under menu transactions. To transfer those selected charges, click on the small arrow icon on section _Transfer to Invoice_:
