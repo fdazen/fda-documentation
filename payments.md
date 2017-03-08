@@ -146,8 +146,8 @@ To create a new invoice, click on the button **Transfer Transactions**:
   
   
   
-  
-![pay4.png]({{site.baseurl}}/images/pay4.png)
+ ![pay4.png]({{site.baseurl}}/images/pay4.png)
+ 
   
   
 - Expand section _Transfer to Invoice_ by clicking on the three dots on the right hand side and then click on the button **Create Invoice**:
