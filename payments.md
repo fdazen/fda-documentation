@@ -555,26 +555,32 @@ Before you follow the instruction below, make sure you note down the folio numbe
 You will be able to send charges from a folio to a Profile invoice. Before you follow the instructions below, make sure that the Profile you want to send charges to **has at least one invoice created**; if it does not, you will need to create one. You can follow instructions [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/profiles.html).To do so, follow the instructions on the _Profile_ section of this manual. It is also recommendable having the Profile ID number handy, in order to avoid confusion in case there are multiple profiles with the same name.    
 
 
-- Access the _Payment_ panel in the folio you wish to transfer the charges from, and click on the on the drop down menu _Uninvoiced Transactions_. Select the charges you want to transfer and click on the button _Transfer Charges_:  
+- Access the _Invoice_ panel in the folio you wish to transfer the charges from:
 
 
-![payments_62.png]({{site.baseurl}}/images/payments_62.png)
+![inc3.png]({{site.baseurl}}/images/inc3.png)
+
 
  
+- Expand the _Transactions_ drop down menu to visualize the charges in the folio, and then click on the button **Transfer Transactions** :
 
-
-- In the _Profile Search_ field, insert the Profile ID number: all available invoices for that profile will appear. Select the one of your choice:  
-
-
-
-![payments_63.png]({{site.baseurl}}/images/payments_63.png)
+![inc4.png]({{site.baseurl}}/images/inc4.png)
 
 
 
 
+- Click on the three dots button next to the tag _Transfer to Profile_. A search  field will come up, enter the profile id number or the name of the profile you want to send the charges to. Search results will immediately appear underneath the search box: click on the suggestion as shown below:  
+
+![inc7.png]({{site.baseurl}}/images/inc7.png)
+
+
+
+
+ 
+- Once the profile is selected, the system will automatically list all invoices that have been created for that profile. Select the right invoice, then select the charges you wish to transfer and click on the small arrow button to initiate the transfer:
   
   
-- You will be able to see the charges transferred by going into the relevant profile and select the Invoice where you transferred those charges:  
+![inc9.png]({{site.baseurl}}/images/inc9.png)
 
 
 
