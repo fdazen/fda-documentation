@@ -1,9 +1,17 @@
 ---
-tags: 
+tags:
   - Profiles
-keywords: "profiles, guest profile, company profile, travel agent profile, invoice profile, search profile, create profile"
-last_updated: "February 16th, 2016"
-summary: "The Profile Tab contains information about your guests, travel agents, companies, and any business source your hotels uses or has a partnership with. You can think of profiles as sort of special containers that gather a wide range of information, from demographics to payment history to guest preferences. Profiles are also very useful when creating new reservations, as information is stored and prompted as suggestions in the folios."
+keywords: >-
+  profiles, guest profile, company profile, travel agent profile, invoice
+  profile, search profile, create profile
+last_updated: 'February 16th, 2016'
+summary: >-
+  The Profile Tab contains information about your guests, travel agents,
+  companies, and any business source your hotels uses or has a partnership with.
+  You can think of profiles as sort of special containers that gather a wide
+  range of information, from demographics to payment history to guest
+  preferences. Profiles are also very useful when creating new reservations, as
+  information is stored and prompted as suggestions in the folios.
 published: true
 ---
 
@@ -207,7 +215,7 @@ The credit card information will appear in the folio whenever you pull down the 
 
 
 
-##**Creating a Travel Agent or Company Profile**  
+##**Creating a Travel Agent, Company Profile or A/R Profile**  
 
 
 A **Company Profile** contains information about companies with which the hotel has special partnerships with: you will be able to transfer guest charges directly to the profile, create separate invoices, and keep track of payments.   
@@ -215,16 +223,24 @@ A **Company Profile** contains information about companies with which the hotel 
 
 A **Travel Agent** profile is useful to track charges to apply to the Travel Agents or calculate commissions.
 
+A **A/R Profile** is a profile that is linked to the reporting engine. Information about credit limit, and aging invoices are available. 
 
-Although they serve different purposes, creation and usage of both profiles is the same, so the information below can be used interchangeably.  
-
-
-
-###**Adding Customizable Fields for Travel Agent/Company Profiles**  
+**NOTE**: If you are looking to create a corporate profile with payments plans and invoice agreements and if you are looking to have reporting abilities on those profiles, make sure to create your third party profiles as **A/R Profiles**.
 
 
-As a first thing, you will need to add all those fields you want to be applicable and required for Travel Agents and Companies: differently from a Guest Profile, 
+
+
+
+Although they serve different purposes, creation and usage of the three types of profiles is the same, so the information below can be used interchangeably.  
+
+
+
+###**Adding Customizable Fields for Travel Agent/Company/AR Profiles**  
+
+
+As a first thing, you will need to add all those fields you want to be applicable and required for creating this kind of profile: differently from a Guest Profile, 
 fields for Company/Travel Agent profiles may be drastically different from one hotel to another: for this reason there are no fields loaded in the system, and you will have to create them all.  
+For A/R types of profiles, fields are already created.
 
 Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/general.html#guest-information-and-reservation-information-custom-fields) for instructions on how to create custom fields.  
 
@@ -233,7 +249,7 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 ![profiles_26.png]({{site.baseurl}}/images/profiles_26.png)
 
 
-###**Create Travel Agent/Company Profile**  
+###**Create Travel Agent/Company/AR Profile**  
 
 
 - Click on the tab _Profile_ tab on top of the Tape Chart:  
