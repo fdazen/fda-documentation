@@ -588,8 +588,46 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 - A successful message will come up on the top of the screen in green and the transactions list will show a $0 under column _Uninvoiced_, for those transferred charges:
 
 
-  ![inc10.png]({{site.baseurl}}/images/inc10.png)
+ ![inc10.png]({{site.baseurl}}/images/inc10.png)
 
+  
+  
+- If you now go back to the profile you will see transferred charges listed under the selected invoice:  
+
+![inc111.png]({{site.baseurl}}/images/inc111.png)
+
+  
+  
+###**Applying Payments to Charges**   
+
+
+When you transfer charges to different invoices, you will need to reflect payments that are relative to those charges, so that the invoice will show a balance of $0.
+
+We call this feature _Apply Payments_: it is the ability to associated payments to certain charges. 
+**Note**: payments can only be applied to those charges that are listed under an Issued invoice.  
+
+- Expand the payment you wish to apply and click on the drop down menu none selected under tag _Transactions_: the system will give you a list of the existent issued invoices created for that profile:  
+
+
+![inc21.png]({{site.baseurl}}/images/inc21.png)
+  
+
+- Once the right invoice is selected, enter the amount you want to apply to those charges: note that you can either apply a partial amount or the total amount. Click on the yellow button **Apply** once done:  
+
+
+![inc222.png]({{site.baseurl}}/images/inc222.png)  
+
+
+- Going back to the invoice tab, if the invoice shows $0 balance, it will appear with the tag paid in yellow. To print or send the invoice via email, click on the three bar on the right side of the module and click on the link _Invoice_ :  
+
+![inc234.png]({{site.baseurl}}/images/inc234.png)
+
+
+
+
+
+  
+  
   
 ##**Adjustments**  
 
