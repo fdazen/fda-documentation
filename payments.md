@@ -580,11 +580,12 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 - Once the profile is selected, the system will automatically list all invoices that have been created for that profile. Select the right invoice, then select the charges you wish to transfer and click on the small arrow button to initiate the transfer:
   
   
-![inc9.png]({{site.baseurl}}/images/inc9.png)
+![inc9.png]({{site.baseurl}}/images/inc9.png)  
 
 
 
-![payments_64.png]({{site.baseurl}}/images/payments_64.png)
+
+- A successful message will come up on the top of the screen in green and the transactions list will show a $0 under column _Uninvoiced_, for those transferred charges:
 
 
   
