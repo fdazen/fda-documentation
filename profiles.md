@@ -249,7 +249,7 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 ![profiles_26.png]({{site.baseurl}}/images/profiles_26.png)
 
 
-###**Create Travel Agent/Company/AR Profile**  
+###**Create Travel Agent/Company/Account Receivable (AR) Profile**  
 
 
 - Click on the tab _Profile_ tab on top of the Tape Chart:  
@@ -267,7 +267,7 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 - Choose the kind of profile you want to create by selecting the relevant from the drop down menu, next to the tag _Profile Type_:   
 
 
-![profiles_29.png]({{site.baseurl}}/images/profiles_29.png)  
+![pro1.png]({{site.baseurl}}/images/pro1.png)
 
 
 - Fill in all required information and when done, click on the green button _Save_:  
@@ -284,14 +284,7 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 - You will also have the chance to perform an advanced search that will enable you to look up specific Profile Types. To do this, click on the button _Advanced_ and select the right option:  
 
-![profiles_33.png]({{site.baseurl}}/images/profiles_33.png)
-
-
-- Some of the fields created for the profile will also appear in the search panel, which will be useful to narrow down your search:  
-
-
-![profiles_34.png]({{site.baseurl}}/images/profiles_34.png)  
-
+![pro2.png]({{site.baseurl}}/images/pro2.png)
 
 
 
@@ -300,161 +293,79 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 Transferring charges from individual or group folios to a Profile enables you to keep track of credits/debts of each hotel partner associated with the Profile. This operation is a two-step process.
 
 
-###**Step 1 - Create an Invoice for the Profile**  
-
-Before starting with our transfer, we need to make sure there is a place where we can transfer charges _to_: for this reason, we will need to create an Invoice directly in the Profile tab, corresponsing to the relative Profile!  
-
-- Click on the Profile tab on top of your Tape Chart:  
-
-![profiles_42.png]({{site.baseurl}}/images/profiles_42.png)  
-
-- Look up your Profile and click on the _Transactions_ tab on the left hand side of the screen:  
-
-![profiles_43.png]({{site.baseurl}}/images/profiles_43.png)
+- Access the _Invoice_ panel in the folio you wish to transfer the charges from:
 
 
-- Click on the button _Create Invoice_:  
+![inc3.png]({{site.baseurl}}/images/inc3.png)
 
 
-![profiles_44.png]({{site.baseurl}}/images/profiles_44.png)  
+ 
+- Expand the _Transactions_ drop down menu to visualize the charges in the folio, and then click on the button **Transfer Transactions** :
 
-
-- A new drop down menu with the tag _New Invoice_ will appear below the Create Invoice button:  
-
-
-![profiles_45.png]({{site.baseurl}}/images/profiles_45.png)  
-
-
-- Click on the written _New Invoice_, and the field will become editable: place the name you want to give the Invoice and **click ENTER on your keyboard** to save your changes:  
-
-
-![profiles_46.png]({{site.baseurl}}/images/profiles_46.png)
-
-  
-- Make sure you note down the Profile Number associated with the newly created invoice:  
-
-
-![profiles_47.png]({{site.baseurl}}/images/profiles_47.png)  
-
-
-###**Step 2 - Transferring Charges to The Profile Invoice**    
-
-
-Now that you have your Invoice created for the right Profile, you can proceed to transfer charges from the folio/s.  
-
-- Open the folio you want to transfer charges from:  
-
-
-![profiles_48.png]({{site.baseurl}}/images/profiles_48.png)  
-
-
-- Click on the blue link _Payments_ to access the payment panel:  
-
-
-![profiles_49.png]({{site.baseurl}}/images/profiles_49.png)  
-
-
-- Click on the _Uninvoiced Transactions_ drop down menu to visualize all charges that have not yet been invoiced and that you can transfer to the Profile:  
-
-
-![profiles_50.png]({{site.baseurl}}/images/profiles_50.png)  
-
-
-- Select the charges you wish to transfer by clicking on the check-boxes on the left hand side of each charge type:  
-
-
-![profiles_51.png]({{site.baseurl}}/images/profiles_51.png)  
-
-
-- Click on the button _Transfer Charges_ on the top left hand side of the screen: you will see a small editable box with the written _Profile Search_. 
-
-
-![profiles_52.png]({{site.baseurl}}/images/profiles_52.png)  
-
-
-- In the _Profile Search_ box place the number of the profile you want to transfer charges to: a suggestion will be prompted to you.
-
-![profiles_53.png]({{site.baseurl}}/images/profiles_53.png)  
-
-
-- Click on the prompted suggestion and all created invoices for that Profile will appear as clickable options. In the example below, our Profile has only one Invoice created, called _Wedding Party_:  
-
-![profiles_54.png]({{site.baseurl}}/images/profiles_54.png)  
-
-- When charges are transferred, you won't be able to see them in the _Uninvoiced Transaction List_ anymore, and they will be taken off the overrall balance of the folio. A new drop down menu will appear, called _Trasferred Transactions_ and it will bear information on all transferred charges:  
-
-
-![profiles_55.png]({{site.baseurl}}/images/profiles_55.png)
+![inc4.png]({{site.baseurl}}/images/inc4.png)
 
 
 
 
-{{site.data.alerts.important}} Clicking on the Invoice will have the system automatically transfer the charges. Although charges are easily reversable, take extra care to select the right Invoice! {{site.data.alerts.end}}
+- Click on the three dots button next to the tag _Transfer to Profile_. A search  field will come up, enter the profile id number or the name of the profile you want to send the charges to. Search results will immediately appear underneath the search box: click on the suggestion as shown below:  
+
+![inc7.png]({{site.baseurl}}/images/inc7.png)
+
+
+
+
+ 
+- Once the profile is selected, the system will automatically list all invoices that have been created for that profile. Select the right invoice, then select the charges you wish to transfer and click on the small arrow button to initiate the transfer:
   
   
-  
-- The charges that have been transferred to the Profile will now appear in the selected invoice, in the Profile Tab:  
-  
-
-
-![profiles_56.png]({{site.baseurl}}/images/profiles_56.png)
+![inc9.png]({{site.baseurl}}/images/inc9.png)  
 
 
 
-###**Reversing Transfers From a Profile Invoice to a Folio**  
 
-If you made a mistake when transferring charges to the profile, you may reverse transfers easily, directly from the folio.  
-
-
-- Click on the folio where transfers have been sent from:  
+- A successful message will come up on the top of the screen in green and the transactions list will show a $0 under column _Uninvoiced_, for those transferred charges:
 
 
-![profiles_57.png]({{site.baseurl}}/images/profiles_57.png)  
-
-
-- Click on the blue link _Payments_ and access the payment panel:  
-
-![profiles_58.png]({{site.baseurl}}/images/profiles_58.png)  
-
-  
-- As a first thing, you will need to create a new invoice that is to receive the transfers back into the folio. The _Uninvoiced Transactions_ drop down menu is not properly an Invoice, as it displays charges but does not _contains_ them. Hence, click on the button _Create Invoice_ on the top right hand side of the panel: 
-
-
-![profiles_60.png]({{site.baseurl}}/images/profiles_60.png)
-
-
-- A new drop down menu with the tag _New Invoice_ will appear: click on the name, and the field will become editable thus enabling you to give the new Invoice a name. Type in a new name and **press the button ENTER** on your keyboard:  
-
-
-![profiles_61.png]({{site.baseurl}}/images/profiles_61.png)
+ ![inc10.png]({{site.baseurl}}/images/inc10.png)
 
   
   
-- Now that you have created an Invoice in the folio to revert the transfers to, you can finally transfer the charges. Click on the drop down menu with the written _Transferred Transactions_ and select those charges that have been transferred to the Profile Invoice and that you want to revert to the folio:  
+- If you now go back to the profile you will see transferred charges listed under the selected invoice:  
+
+![inc111.png]({{site.baseurl}}/images/inc111.png)
+
+  
+  
+###**Applying Payments to Charges**   
 
 
-![profiles_59.png]({{site.baseurl}}/images/profiles_59.png)  
+When you transfer charges to different invoices, you will need to reflect payments that are relative to those charges, so that the invoice will show a balance of $0.
+
+We call this feature _Apply Payments_: it is the ability to associated payments to certain charges. 
+**Note**: payments can only be applied to those charges that are listed under an Issued invoice.  
+
+- Expand the payment you wish to apply and click on the drop down menu none selected under tag _Transactions_: the system will give you a list of the existent issued invoices created for that profile:  
 
 
-- Click on the button _Transfer Charges_:  
+![inc21.png]({{site.baseurl}}/images/inc21.png)
+  
+
+- Once the right invoice is selected, enter the amount you want to apply to those charges: note that you can either apply a partial amount or the total amount. Click on the yellow button **Apply** once done:  
 
 
-![profiles_62.png]({{site.baseurl}}/images/profiles_62.png)  
+![inc222.png]({{site.baseurl}}/images/inc222.png)  
 
 
-- A drop dow menu will pop up: notice that all created invoices for the folio will appear right below the editable box for the Profile Search:  
+- Going back to the invoice tab, if the invoice shows $0 balance, it will appear with the tag paid in yellow. To print or send the invoice via email, click on the three bar on the right side of the module and click on the link _Invoice_ :  
 
-
-![profiles_63.png]({{site.baseurl}}/images/profiles_63.png)  
-
-
-- Select the Invoice you want to transfer the charges to: the transfers will be automatically moved from the Profile Invoice back to the selected Invoice in the folio:  
-
-
-![profiles_64.png]({{site.baseurl}}/images/profiles_64.png)  
+![inc234.png]({{site.baseurl}}/images/inc234.png)
 
 
 
+
+
+  
+  
 
 ##**Storing a Credit Card for a Profile**  
 
