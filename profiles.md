@@ -246,7 +246,6 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 {{site.data.alerts.note}} Remember to select the right option from the custom fields page when creating fields for Companies or Travel Agents: {{site.data.alerts.end}}
 
-![profiles_26.png]({{site.baseurl}}/images/profiles_26.png)
 
 
 ###**Create Travel Agent/Company/Account Receivable (AR) Profile**  
@@ -274,6 +273,13 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 
 ![profiles_30.png]({{site.baseurl}}/images/profiles_30.png)  
+
+
+
+- If you are creating an A/R profile type, you will see pre-defined fields to fill in that are specific to companies for which payment plans and invoice agreements have already been set. Most of the fields straightforwardly point to company information, like contact details or company reference ID. However, there is one field called **Due Date** which governs the aging of the invoices that will be listed under this company.
+Fill in this field with the number of days allowed for invoices to be paid off. In the example below, my test company has 30 days before invoices will start aging.   
+
+
 
 
 
