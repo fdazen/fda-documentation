@@ -246,7 +246,6 @@ Check out section [Guest Custom Fields](http://docs.frontdeskanywhere.net.s3-web
 
 {{site.data.alerts.note}} Remember to select the right option from the custom fields page when creating fields for Companies or Travel Agents: {{site.data.alerts.end}}
 
-![profiles_26.png]({{site.baseurl}}/images/profiles_26.png)
 
 
 ###**Create Travel Agent/Company/Account Receivable (AR) Profile**  
