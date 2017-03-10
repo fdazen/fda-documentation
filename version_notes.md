@@ -10,6 +10,13 @@ summary: >-
 published: true
 ---
 
+**3.3.1.1**
+
+Enhancement | Description
+--------|---------
+New Feature |  Accounts Receivable
+Improvement |  Sort Stay Restrictions by date and status
+
 
 **3.2.60.1**
 
