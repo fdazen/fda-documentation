@@ -72,13 +72,24 @@
 | ```` {fda module="group_folio"}number_children{/fda}    ````                 | Number Of Children In Group   |
 
 
-## Arraival/Departure
+## Arrival/Departure
 
-| Arraival Departure Detail Variables                                          | Information        |
+| Arrival Departure Detail Variables                                           | Information        |
 |------------------------------------------------------------------------------|:-------------------|
 | ```  {fda module="arrdep"}checkin{/fda}   ```                                | Check In           |
 | ```  {fda module="arrdep"}checkout{/fda}  ```                                | Check Out          |
 | ```  {fda module="arrdep"}no_nights{/fda} ```                                | Number Of Nights   |
+|                                                                              |                    |
+
+## Invoices
+
+| Invoice Variables                                                            | Information        |
+|------------------------------------------------------------------------------|:-------------------|
+| ```  {fda module="invoice"}name{/fda}        ```                             | Invoice Name       |
+| ```  {fda module="invoice"}number{/fda}      ```                             | Invoice Number     |
+| ```  {fda module="invoice"}status{/fda}      ```                             | Invoice Status     |
+| ```  {fda module="invoice"}due_date{/fda}    ```                             | Due Date           |
+| ```  {fda module="invoice"}issued_date{/fda} ```                             | Issued Date        |
 |                                                                              |                    |
 
 
