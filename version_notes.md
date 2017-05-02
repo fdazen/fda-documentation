@@ -10,6 +10,17 @@ summary: >-
 published: true
 ---
 
+**3.3.2.9**
+Enhancement | Description
+--------|---------
+New Feature | Promo Code Discounts
+New Feature | Booking Windows
+New Feature | Payment Collection Rules by rate
+New Feature | Rate Policies
+Improvement | Accounts Receivable migrations for existing accounts
+Improvement | Rename Rate Classes to Rate Manager
+Improvement | Update EQC endpoints
+Bug fix     | Housekeeping Rules do not run for checkout date based rules
 
 **3.3.1.1**
 
