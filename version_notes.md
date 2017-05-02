@@ -10,6 +10,92 @@ summary: >-
 published: true
 ---
 
+
+**3.3.11.2**
+
+Enhancement | Description
+--------|---------
+Bug fix     | promo code id default value fix
+
+
+**3.3.10.1**
+
+Enhancement | Description
+--------|---------
+Bug fix     | availability response avg price incorrect
+
+
+**3.3.9.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Add Australian Dollar to list of currencies
+Bug fix     | Stay Restrictions for IBE not Working
+Bug fix     | Profile invoice template fails when items are transferred from pos areas
+
+
+**3.3.8.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Store Promo codes with the reservation
+Bug fix     | Multiple payment collection rules stack deposit Amount
+Bug fix     | Promo code price bug on IBE
+Bug fix     | IBE promo code is not saved
+
+
+**3.3.7.1**
+
+Enhancement | Description
+--------|---------
+Bug fix     | Fix Payments on POS Invoice Message
+Bug fix     | Update Base Templates File
+
+
+**3.3.6.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Modify Invoice Message Base Template
+Improvement | Add Guest Info+Folio No to Add-on/POS charges
+Bug fix     | Expedia rates not updating
+Bug fix     | POS Invoice Breaking with A/R changes
+
+
+**3.3.5.4**
+
+Enhancement | Description
+--------|---------
+Improvement | Add due dates to existing AR Profile invoices
+Improvement | Add more Invoice Information to Guest Messages
+Bug fix     | Payment Collection rule page does not finish loading
+Bug fix     | Change Time of arrival input type to time
+
+
+**3.3.4.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Set Invoice Due Date
+Improvement | Restrict Input type on Due Date
+Bug fix     | Run Frequency in Housekeeping Rules doesn't save
+Bug fix     | Credit card pay type shown as "Null" in "Cashier Report Detail"
+Bug fix     | Fix AR Profile Balance Updating on save request
+Bug fix     | AR Profile Balance not updating correctly
+
+
+**3.3.3.1**
+
+Enhancement | Description
+--------|---------
+Improvement | Booking Window screen updates
+Improvement | Tape chart tooltip update on rate edit
+Improvement | Include transfers on the audit trail
+Bug fix     | Housekeeping chart room status bug
+Bug fix     | Accounts receivable credit limit fix
+Bug fix     | OTA reservations with "UNKNOWN" guest name
+
+
 **3.3.2.9**
 
 Enhancement | Description
@@ -22,6 +108,7 @@ Improvement | Accounts Receivable migrations for existing accounts
 Improvement | Rename Rate Classes to Rate Manager
 Improvement | Update EQC endpoints
 Bug fix     | Housekeeping Rules do not run for checkout date based rules
+
 
 **3.3.1.1**
 
