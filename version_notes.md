@@ -10,6 +10,14 @@ summary: >-
 published: true
 ---
 
+**3.3.12.4**
+
+Enhancement | Description
+--------|---------
+Improvement | Option to Hide rate if there is no promo code
+Improvement | Display Additional Guest on Invoices
+Bug fix     | Invoice amount is incorrect for charges with multiple quantities
+    
 
 **3.3.11.2**
 
