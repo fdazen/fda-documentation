@@ -10,6 +10,13 @@ summary: >-
 published: true
 ---
 
+**3.3.13.2**
+
+Enhancement | Description
+--------|---------
+Bug fix     | FDAV3-2700 - Multiple night availability returns multiple rates when a single rate is available
+
+
 **3.3.12.4**
 
 Enhancement | Description
@@ -17,7 +24,7 @@ Enhancement | Description
 Improvement | Option to Hide rate if there is no promo code
 Improvement | Display Additional Guest on Invoices
 Bug fix     | Invoice amount is incorrect for charges with multiple quantities
-    
+
 
 **3.3.11.2**
 
