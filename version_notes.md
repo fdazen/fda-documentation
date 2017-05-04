@@ -14,7 +14,7 @@ published: true
 
 Enhancement | Description
 --------|---------
-Bug fix     | FDAV3-2700 - Multiple night availability returns multiple rates when a single rate is available
+Bug fix     | Multiple night availability returns multiple rates when a single rate is available
 
 
 **3.3.12.4**
