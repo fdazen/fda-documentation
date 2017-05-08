@@ -23,7 +23,7 @@ We have gathered here all the documentation and training notes that will help yo
 To get started setting up your system, we recommend you to check out the following topics:
 ​  
 
-1. [Room Set Up][http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/single_reservation.html](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/single_reservation.html)
+1. [Room Set Up](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/single_reservation.html)
 
 2. [Rate Set Up](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rates_set_up.html)  
 
