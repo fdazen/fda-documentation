@@ -1,11 +1,11 @@
 ---
 title: Internet Booking Engine
-tags: 
+tags:
   - internet booking engine
   - IBE
   - online booking engine
-keywords: "internet booking engine, IBE, online booking engine"
-last_updated: "January 11th, 2016"
+keywords: 'internet booking engine, IBE, online booking engine'
+last_updated: 'January 11th, 2016'
 summary: This section describes how to customize the Internet Booking Engine (IBE).
 published: true
 ---
@@ -47,58 +47,48 @@ Here you  will find a list of the main settings that need to be configured in or
 
 IBE allows you to create special promotions that will only be visible to certain customers. For example, you may want to create a special rate valid only for returning customers: giving them a promo code will enable these guests to access a discounted or specific negotiated rates. 
 
-Setting up a promo code is a three-step process.
-
-1. [Set-up the rate](http://docs.frontdeskanywhere.net/build/rates_set_up.html) for your promotion, making sure to tag it as available on the IBE channel. 
+{{site.data.alerts.note}} We recommend to use Promo Codes for those promotional rates available all year long. Promo codes are accessible if the stay dates coincide with the booking window. In other words, it is currently not possible to book for future dates by using a promo code {{site.data.alerts.end}}
 
 
-![IBE_2.png]({{site.baseurl}}/images/IBE_2.png)
+
+1. In the click on the lnk **Promo Codes List** under section _IBE_:
 
 
-2. Click on the link _Promo Code List_ under section **IBE**:
+![p1.png]({{site.baseurl}}/images/p1.png)
+
+
+2. Click on the button _Add Promo Code_ :
 
 
 ![IBE_3.png]({{site.baseurl}}/images/IBE_3.png)
 
 
 
-- Click on the blue button _Add a Promo Code_:  
+- Type in the Promo Code in the first textbox: this will be the code you will give out to guests. Enter the booking dates where the promo is going to be available. As mentioned above, make sure the starting date for the pormo code is the current day. Also, place a small description.
 
 
 ![IBE_4.png]({{site.baseurl}}/images/IBE_4.png)
 
 
-- Enter the promo code keeping in mind that the promo code is case sensitive and that there should not be any spaces. Using the scroll down calendars, select the start and end date for the promotion:  
-
-
-![IBE_5.png]({{site.baseurl}}/images/IBE_5.png)
+- Enter the discount amount in the box _Discount Amount_ and select from the drop down menu whether the amount should be a fixed price (symbol **$**) or a percentage (symbol **%**). Make sure the checkbox next to the tag _Status_ is checked: this is very important as this checkbox activates the Promo Code. You will also need to select to what rate the discount should be applied: simply check the box next to the rate/s:
 
 
 
-{{site.data.alerts.tip}} The start/end date does not need to coincide with the rate availability dates. For example, you can offer an Early Bird discount for people researching in the month of March for a stay in August. The promo code would be invalid if used in any time outside the promo code calendars scope, and in that case, your guests would only see the normal rates available during that time. {{site.data.alerts.end}} 
+
+![ibe_5.png]({{site.baseurl}}/images/ibe_5.png)
 
 
-- Place a title and a descriptin and finally, select the rates that will be applicable for the Promo Code:  
 
-![IBE_6.png]({{site.baseurl}}/images/IBE_6.png)
+
+- Click on the blue _Save Promo Code_ button to save your work
+
+
+![ibe_6.png]({{site.baseurl}}/images/ibe_6.png)
 
 
 Click on the button _Save Promo Code_ when finished.
 
 
-3. Go back to the Admin Settings, and to the _Rate Edit_ panel for the rates applied to the Promo Code:  
-
-
-![IBE_7.png]({{site.baseurl}}/images/IBE_7.png)
-
-
-- Scroll down at the bottom and you will now see a check-box allowing you to hide this rate from general availability unless the guest enters the promo code:  
-
-
-![IBE_8.png]({{site.baseurl}}/images/IBE_8.png)
-
-
-{{site.data.alerts.warning}} If this is left unchecked, the rate will be searchable by anyone on IBE regardless of whether they entered the correct promo code. {{site.data.alerts.end}}
 
 
 ###**Guest Requests**
