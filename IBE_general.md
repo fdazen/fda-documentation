@@ -64,10 +64,11 @@ IBE allows you to create special promotions that will only be visible to certain
 
 
 
+
 - Type in the Promo Code in the first textbox: this will be the code you will give out to guests. Enter the booking dates where the promo is going to be available. As mentioned above, make sure the starting date for the pormo code is the current day. Also, place a small description.
 
 
-![IBE_4.png]({{site.baseurl}}/images/IBE_4.png)
+![ibe_4.png]({{site.baseurl}}/images/ibe_4.png)
 
 
 - Enter the discount amount in the box _Discount Amount_ and select from the drop down menu whether the amount should be a fixed price (symbol **$**) or a percentage (symbol **%**). Make sure the checkbox next to the tag _Status_ is checked: this is very important as this checkbox activates the Promo Code. You will also need to select to what rate the discount should be applied: simply check the box next to the rate/s:
