@@ -23,7 +23,7 @@ We have gathered here all the documentation and training notes that will help yo
 To get started setting up your system, we recommend you to check out the following topics:
 ​  
 
-1. [Room Set Up](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/single_reservation.html)
+1. [Room Set Up] (http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
 
 2. [Rate Set Up](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rates_set_up.html)  
 
@@ -36,7 +36,7 @@ To get started setting up your system, we recommend you to check out the followi
 
 For those of you who have completed the set-up, we recommend checking-out the following threads:
 
-* [How to make a reservation](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/users.html)
+* [How to make a reservation](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/single_reservation.html)
 * [How to Use Payments](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/payments.html)
 * [Set up your Internet Booking Engine](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/IBE_general.html)
 * [Learn about our reports](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/reports.html)
