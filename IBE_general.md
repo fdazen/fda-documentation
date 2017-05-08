@@ -87,7 +87,6 @@ IBE allows you to create special promotions that will only be visible to certain
 ![ibe_6.png]({{site.baseurl}}/images/ibe_6.png)
 
 
-Click on the button _Save Promo Code_ when finished.
 
 
 
