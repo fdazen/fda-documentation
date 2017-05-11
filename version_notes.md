@@ -10,6 +10,17 @@ summary: >-
 published: true
 ---
 
+**3.3.14.1**
+
+Enhancement | Description
+--------|---------
+
+Improvement | Add alert for no priority selected on sources
+Improvement | Remove Doc Button in Guest Messages
+Bug fix     | Protected rooms for BDC Not Working
+Bug fix     | Errors on POS Categories Page
+
+
 **3.3.13.2**
 
 Enhancement | Description
