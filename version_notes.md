@@ -14,7 +14,6 @@ published: true
 
 Enhancement | Description
 --------|---------
-
 Improvement | Add alert for no priority selected on sources
 Improvement | Remove Doc Button in Guest Messages
 Bug fix     | Protected rooms for BDC Not Working
