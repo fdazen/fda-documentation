@@ -10,6 +10,12 @@ summary: >-
 published: true
 ---
 
+**3.3.15.1**
+
+Enhancement | Description
+--------|---------
+Bug fix     | Undelivered OTA reservations
+
 **3.3.14.1**
 
 Enhancement | Description
