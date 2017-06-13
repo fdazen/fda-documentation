@@ -10,6 +10,14 @@ summary: >-
 published: true
 ---
 
+**3.3.17.1**
+
+Enhancement | Description
+------------|---------
+Improvement | Admin section updates
+Bug fix     | Invoice template not loading
+
+
 **3.3.16.1**
 
 Enhancement | Description
