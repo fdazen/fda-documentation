@@ -10,6 +10,14 @@ summary: >-
 published: true
 ---
 
+**3.4.1.2**
+
+Enhancement | Description
+------------|---------
+New Feature | Availability periods
+Improvement | Availability updates
+
+
 **3.3.17.1**
 
 Enhancement | Description
