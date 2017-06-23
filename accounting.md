@@ -366,7 +366,7 @@ You can create Department options for the Adjustment reasons you created, to mak
 
  
  
- ##**Revenue Account Labels**  
+  ##**Revenue Account Labels**  
  
  
  Revenue Account Labels are customizable tags that will help you organizing your reports. Thanks to these Labels you can group together similar items you are selling at your property (where _item_ is understood here as anything that produces revenue), and have a much better overview of where your earnings come from.  
@@ -380,7 +380,7 @@ You can create Department options for the Adjustment reasons you created, to mak
 
 
  
- - You will notice that your account comes with four default labels which are commonly used by hotels.  To add a new Label, click on the blue link _Add Label_:  
+ - To add a new Label, click on the blue link _Add Label_:  
  
 ![Accounting_44.png]({{site.baseurl}}/images/Accounting_44.png)
 
@@ -413,7 +413,7 @@ You can create Department options for the Adjustment reasons you created, to mak
 ##**Revenue Account Categories**  
 
 
-Revenue Account Categories are used to group together Revenue Account Lables. This will offer you yet another organizational level!
+Revenue Account Categories are used to group together Revenue Account Lables.
 
 -  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
 
@@ -464,7 +464,7 @@ The Revenue Account Manager helps you associating the irght Revenue Label and Ca
 -  In the Admin Settings, click on the blue link **Revenue Account Manager**, under section _Accounting_:    
 
 
-![accounting_55.png]({{site.baseurl}}/images/accounting_55.png)
+![accouning_55.png]({{site.baseurl}}/images/accouning_55.png)
 
 
 
