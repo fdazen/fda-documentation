@@ -276,30 +276,30 @@ You may want to set up a list of reasons for those discounts/adjustments that yo
 ![accounting_30.png]({{site.baseurl}}/images/accounting_30.png)
 
 
-{{site.data.alerts.note}} Make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.  {{site.data.alerts.end}}
+{{site.data.alerts.note}} Make sure that you have at least one Adjustment Reason built in your account, as the system won't allow you to erase all of them.  {{site.data.alerts.end}}
   
 
-- You can **UN-DELETE** a previously deleted Discount Reason: on the top right hand side, select 'Deleted' from the scroll down menu with the written 'Active.  
+- You can **UN-DELETE** a previously deleted Adjustment Reason: on the top right hand side, select _Deleted_ from the scroll down menu with the written _Active_.  
 
-![Accounting_31.png]({{site.baseurl}}/images/Accounting_31.png)
-
-
-
-- Select the Discount Reason you want to re-activate by checking the box on the left hand side of the panel; then click on the blue button _Undelete Selected Discount Reason_:  
-
-![Accounting_32.png]({{site.baseurl}}/images/Accounting_32.png)
+![accounting_31.png]({{site.baseurl}}/images/accounting_31.png)
 
 
 
-Your active Discount Reasons will appear on each reserved folio, under section _Adjustment_:  
+- Select the Adjustment Reason you want to re-activate by checking the box on the left  side of the panel; then click on the blue button _Undelete Selected Adjustment Reason_:  
 
-![Accounting_33.png]({{site.baseurl}}/images/Accounting_33.png)
+![accounting_32.png]({{site.baseurl}}/images/accounting_32.png)
+
+
+
+Your active Adjustment Reasons will appear on each reserved folio, under section _Adjustments_:  
+
+![acounting_33.png]({{site.baseurl}}/images/acounting_33.png)
 
 
 
 Scroll down the menu with the tag _Select Adjustment Reason_:  
 
-![Accounting_34.png]({{site.baseurl}}/images/Accounting_34.png)
+![accounting_34.png]({{site.baseurl}}/images/accounting_34.png)
 
  
 
@@ -308,14 +308,13 @@ Scroll down the menu with the tag _Select Adjustment Reason_:
 
 
 
-You can create Department options for the discount reasons you created, to make sure that all your discounts are approved and listed under the right department!  
+You can create Department options for the Adjustment reasons you created, to make sure that all your discounts are approved and listed under the right department.  
 
  - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
  
 
 
 ![accounting_35.png]({{site.baseurl}}/images/accounting_35.png)
-
 
 
 
