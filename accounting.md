@@ -148,9 +148,8 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 ##**Payment Processing**  
 
-Frontdesk Anywhere allows you to integrate with many secure payment gateways that will make charging a guest's card much faster and your check-in process much easier! 
+Your PMS can integrate with many secure payment gateways that will make charging a guest's card much faster and your check-in process much easier! 
 
-**Note**: before starting, you will need to make sure to have enabled this feature in the system. Ask your Account Manager about it!
 
 - In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
 
@@ -167,19 +166,19 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 
 
-- Choose your gateway among the ones in the list. Note that they are listed in alphabetic order! In my example below, I am choosing Authorize.net:
+- Find your gateway among the ones in the list. 
 
 ![Accounting_18.png]({{site.baseurl}}/images/Accounting_18.png)
 
 
 
-- Scroll all the way down and go to the bottom of the page: name the gateway by editing the _Payment Gateway Label_ textbox. Enter the username and password for the gateway and click on the blue button _Add Gateway_:
+- Scroll all the way down and go to the bottom of the page: type in the gateway name in the _Payment Gateway Label_ textbox. Enter the username and password for the gateway and click on the blue button _Add Gateway_:
 
 
 ![Accounting_19.png]({{site.baseurl}}/images/Accounting_19.png)
 
 
-{{site.data.alerts.note}} the username and password should be provided to you by your Payment Gateway company.  {{site.data.alerts.end}}
+{{site.data.alerts.note}} the username and password might not be called 'username' and 'password'. Each gateway has its own name for API credentials. We advise you to speak to your gateway;s representative if you are unable to find this information. If you have any questions or issues during the set up of Payment Processing, send an email to help@frontdeskanywhere.com  {{site.data.alerts.end}}
 
 
 
@@ -190,15 +189,14 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
  
 
-- All is left to do is enable the gateway on both/either the Frontdesk area and/or your Booking Engine. If the gateway is enabled on Frontdesk, you will be able to charge cards directly from the folios; making it active on the booking engine will enable automatic card charges when a guest finalizes a booking on your website:  
+- All is left to do is enable the gateway on both/either the Frontdesk area and/or your Booking Engine. Enabling the gateway on work area Frontdesk means guests' cards can be charged directly from the folio. Enabling the gateway on IBE means credit cards can be authenticated and processed when guests book online on your website:  
 
 ![Accounting_21.png]({{site.baseurl}}/images/Accounting_21.png)
 
 
 
 
-Remember to set up how you want to collect payments on your Booking Engine by setting up rules in section _IBE_.
-
+Learn how to configure the way the system is to charge your guests' cards on IBE by reading chapter [IBE](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/IBE_general.html), section _Payment Collection Rules_.
 
 ##**Credit Card Purge**
 
