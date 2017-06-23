@@ -201,7 +201,7 @@ Learn how to configure the way the system is to charge your guests' cards on IBE
 ##**Credit Card Purge**
 
 
-As a security measure Frontdesk Anywhere enables you to erase, on a regular basis, the details of your guests’ credit card stored in your account.  
+As a security measure Frontdesk Anywhere enables automatic erasing on a regular basis, the details of your guests’ credit card stored in your account.  
 
  - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
  
@@ -211,7 +211,7 @@ As a security measure Frontdesk Anywhere enables you to erase, on a regular basi
 
 
  
- - Edit the textbox with a number by keeping in mind that all credit card stored for more than the time frame you set, will be automatically erased. Click _Save_ when finished:
+ - Type in the textbox with a number by keeping in mind that all credit card stored for more than the time frame you set, will be automatically erased. Click _Save_ when finished:
  
 ![Accounting_23.png]({{site.baseurl}}/images/Accounting_23.png)
 
@@ -244,12 +244,12 @@ You can check the number of your invoices with a simple click!
 
   
   
- ##**Discount Reasons**
+##**Adjustment Reasons List **
 
 
-You may want to set up a list of reasons for those discounts that your hotel gives out regularly. Setting them up on your Frontdesk Anywhere account allows you to keep track of the reasons why discounts are given.  
+You may want to set up a list of reasons for those discounts/adjustments that your hotel happens to give out regularly. Setting them up  allows you to keep track of the reasons why discounts are given.  
 
-- In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
+- In the Admin Settings, click on the link **Adjustment Reasons List**, under section _Accounting_:  
  
 
 
@@ -258,22 +258,22 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 
  
- - Click on the blue button _Add a Discount Reason_:  
+ - Click on the blue button _Add an Adjustment Reason_:  
   
 
-![Accounting_28.png]({{site.baseurl}}/images/Accounting_28.png)
+![accounting_28.png]({{site.baseurl}}/images/accounting_28.png)
 
 
   
- - There will appear two editable fields: place the Discount Reason Code and the associated Discount Reasons. The first will appear in each folio as an option to select for a discount! Once ready, click on the blue button _Save Changes_ when finished:  
+ - Type in the name of the Adjustment Reason and a short code for it, if applicable otherwise simply re-type in the Adjustment name. Once ready, click on the blue button _Save Changes_ when finished:  
  
-![Accounting_29.png]({{site.baseurl}}/images/Accounting_29.png)
+![accounting_29.png]({{site.baseurl}}/images/accounting_29.png)
 
 
  
- - To **DELETE** a Discount Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Discount Reason_:  
+ - To **DELETE** an Adjustment Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Adjustment Reason_:  
  
-![Accounting_30.png]({{site.baseurl}}/images/Accounting_30.png)
+![accounting_30.png]({{site.baseurl}}/images/accounting_30.png)
 
 
 {{site.data.alerts.note}} Make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.  {{site.data.alerts.end}}
