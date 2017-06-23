@@ -1,10 +1,14 @@
 ---
 title: Accounting
-tags: 
+tags:
   - accounting
-keywords: "reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories, security deposit"
-last_updated: "November 25th, 2015"
-summary: The Accounting section is about all of those settings that have to do payments and accounting.
+keywords: >-
+  reports, payments, currency, pay types, credit card, invoices, discount
+  reasons, Revenue Labels, Revenue Categories, security deposit
+last_updated: 'November 25th, 2015'
+summary: >-
+  The Accounting section is about all of those settings that have to do payments
+  and accounting.
 published: true
 ---
 
@@ -20,7 +24,7 @@ published: true
 
 #**Accounting**  
 
-The Accounting section is about all of those settings that have to do payments and accounting. From here you can set up currency and accepted pay types and credit card types, number invoices, set up discount reasons and most importantly configure your Revenue Labels and Categories around which your reports are organized.  
+The Accounting section is the place here you configure all those settings that have to do with payments, currencies, credit cards, fiscal year, etc. Most importantly it is home to Revenue Management: you can build Revenue Labels and Categories around which your reports are organized.  
 
 ##**Currency**  
 
@@ -86,7 +90,7 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 
  
- - You will see a list of all the defaulted pay types enabled for your account:  
+ - You will see a list of some defaulted pay types already enabled for your account:  
  
 ![Accounting_8.png]({{site.baseurl}}/images/Accounting_8.png)
 
@@ -119,12 +123,12 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 
 
-![accounting_12.png]({{site.baseurl}}/images/accounting_12.png)
+![accounting12.png]({{site.baseurl}}/images/accounting12.png)
 
 
   
 
-- You will see a list of all active credit card types that by default comes with your account:  
+- You will see a list of some credit card types that by default are already active on your account:  
 
 ![Accounting_13.png]({{site.baseurl}}/images/Accounting_13.png)
 
