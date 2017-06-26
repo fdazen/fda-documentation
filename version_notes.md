@@ -9,7 +9,44 @@ summary: >-
   and the corresponding version!
 published: true
 ---
- 
+
+**3.4.6.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Tape chart tool tip updates on Booking updates
+
+
+**3.4.5.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Fix Tape chart layout
+Bug fix     | Ota bookings issue
+Bug fix     | Error on reservation creation
+
+
+**3.4.4.1**
+
+Enhancement | Description
+------------|---------
+Improvement | Performance updates
+
+
+**3.4.3.2**
+
+Enhancement | Description
+------------|---------
+Improvement | Memory increase
+
+
+**3.4.2.1**
+
+Enhancement | Description
+------------|---------
+Improvement | Memory increase
+
+
 **3.4.1.2**
 
 Enhancement | Description
