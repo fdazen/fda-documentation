@@ -525,5 +525,3 @@ The drop down menu lists all channels where reservations can interface with the 
   
   
 ![room_priority_2.png]({{site.baseurl}}/images/room_priority_2.png)
-  
-

@@ -1,11 +1,15 @@
 ---
 title: Property Info
-tags: 
+tags:
   - property info
   - company info
-keywords: "property info, logo, time zone, default guest settings, default guest county, guest settings, company info"
-last_updated: "November 25th, 2015"
-summary: This section is dedicated to information about your company and how guest information are displayed in your system.
+keywords: >-
+  property info, logo, time zone, default guest settings, default guest county,
+  guest settings, company info
+last_updated: 'November 25th, 2015'
+summary: >-
+  This section is dedicated to information about your company and how guest
+  information are displayed in your system.
 published: true
 ---
 
@@ -20,9 +24,9 @@ published: true
 
 As the name suggests, this section is dedicated to information about your company and how guest information are displayed in your system.  
 
-##**Company Info/Company Logo**  
+##**Logo Upload**  
 
- In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
+ In the Admin Settings, click on the link **Logo Upload** under section _Property Info_:  
  
 
 
@@ -37,7 +41,8 @@ As the name suggests, this section is dedicated to information about your compan
 
 
 
-Your Company Logo will appear in all system communication to your guests!  
+We recommend to upload a logo that is 300px x 100px.  
+Your logo will appear on guest communications and on IBE.  
 
 
 

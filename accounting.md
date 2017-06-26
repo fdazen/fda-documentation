@@ -1,10 +1,14 @@
 ---
 title: Accounting
-tags: 
+tags:
   - accounting
-keywords: "reports, payments, currency, pay types, credit card, invoices, discount reasons, Revenue Labels, Revenue Categories, security deposit"
-last_updated: "November 25th, 2015"
-summary: The Accounting section is about all of those settings that have to do payments and accounting.
+keywords: >-
+  reports, payments, currency, pay types, credit card, invoices, discount
+  reasons, Revenue Labels, Revenue Categories, security deposit
+last_updated: 'November 25th, 2015'
+summary: >-
+  The Accounting section is about all of those settings that have to do payments
+  and accounting.
 published: true
 ---
 
@@ -20,7 +24,7 @@ published: true
 
 #**Accounting**  
 
-The Accounting section is about all of those settings that have to do payments and accounting. From here you can set up currency and accepted pay types and credit card types, number invoices, set up discount reasons and most importantly configure your Revenue Labels and Categories around which your reports are organized.  
+The Accounting section is the place here you configure all those settings that have to do with payments, currencies, credit cards, fiscal year, etc. Most importantly it is home to Revenue Management: you can build Revenue Labels and Categories around which your reports are organized.  
 
 ##**Currency**  
 
@@ -86,7 +90,7 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 
  
- - You will see a list of all the defaulted pay types enabled for your account:  
+ - You will see a list of some defaulted pay types already enabled for your account:  
  
 ![Accounting_8.png]({{site.baseurl}}/images/Accounting_8.png)
 
@@ -119,12 +123,12 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 
 
-![accounting_12.png]({{site.baseurl}}/images/accounting_12.png)
+![accounting12.png]({{site.baseurl}}/images/accounting12.png)
 
 
   
 
-- You will see a list of all active credit card types that by default comes with your account:  
+- You will see a list of some credit card types that by default are already active on your account:  
 
 ![Accounting_13.png]({{site.baseurl}}/images/Accounting_13.png)
 
@@ -144,9 +148,8 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 ##**Payment Processing**  
 
-Frontdesk Anywhere allows you to integrate with many secure payment gateways that will make charging a guest's card much faster and your check-in process much easier! 
+Your PMS can integrate with many secure payment gateways that will make charging a guest's card much faster and your check-in process much easier! 
 
-**Note**: before starting, you will need to make sure to have enabled this feature in the system. Ask your Account Manager about it!
 
 - In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
 
@@ -163,19 +166,19 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
 
 
-- Choose your gateway among the ones in the list. Note that they are listed in alphabetic order! In my example below, I am choosing Authorize.net:
+- Find your gateway among the ones in the list. 
 
 ![Accounting_18.png]({{site.baseurl}}/images/Accounting_18.png)
 
 
 
-- Scroll all the way down and go to the bottom of the page: name the gateway by editing the _Payment Gateway Label_ textbox. Enter the username and password for the gateway and click on the blue button _Add Gateway_:
+- Scroll all the way down and go to the bottom of the page: type in the gateway name in the _Payment Gateway Label_ textbox. Enter the username and password for the gateway and click on the blue button _Add Gateway_:
 
 
 ![Accounting_19.png]({{site.baseurl}}/images/Accounting_19.png)
 
 
-{{site.data.alerts.note}} the username and password should be provided to you by your Payment Gateway company.  {{site.data.alerts.end}}
+{{site.data.alerts.note}} the username and password might not be called 'username' and 'password'. Each gateway has its own name for API credentials. We advise you to speak to your gateway;s representative if you are unable to find this information. If you have any questions or issues during the set up of Payment Processing, send an email to help@frontdeskanywhere.com  {{site.data.alerts.end}}
 
 
 
@@ -186,20 +189,19 @@ Frontdesk Anywhere allows you to integrate with many secure payment gateways tha
 
  
 
-- All is left to do is enable the gateway on both/either the Frontdesk area and/or your Booking Engine. If the gateway is enabled on Frontdesk, you will be able to charge cards directly from the folios; making it active on the booking engine will enable automatic card charges when a guest finalizes a booking on your website:  
+- All is left to do is enable the gateway on both/either the Frontdesk area and/or your Booking Engine. Enabling the gateway on work area Frontdesk means guests' cards can be charged directly from the folio. Enabling the gateway on IBE means credit cards can be authenticated and processed when guests book online on your website:  
 
 ![Accounting_21.png]({{site.baseurl}}/images/Accounting_21.png)
 
 
 
 
-Remember to set up how you want to collect payments on your Booking Engine by setting up rules in section _IBE_.
-
+Learn how to configure the way the system is to charge your guests' cards on IBE by reading chapter [IBE](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/IBE_general.html), section _Payment Collection Rules_.
 
 ##**Credit Card Purge**
 
 
-As a security measure Frontdesk Anywhere enables you to erase, on a regular basis, the details of your guests’ credit card stored in your account.  
+As a security measure Frontdesk Anywhere enables automatic erasing on a regular basis, the details of your guests’ credit card stored in your account.  
 
  - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
  
@@ -209,7 +211,7 @@ As a security measure Frontdesk Anywhere enables you to erase, on a regular basi
 
 
  
- - Edit the textbox with a number by keeping in mind that all credit card stored for more than the time frame you set, will be automatically erased. Click _Save_ when finished:
+ - Type in the textbox with a number by keeping in mind that all credit card stored for more than the time frame you set, will be automatically erased. Click _Save_ when finished:
  
 ![Accounting_23.png]({{site.baseurl}}/images/Accounting_23.png)
 
@@ -242,12 +244,12 @@ You can check the number of your invoices with a simple click!
 
   
   
- ##**Discount Reasons**
+##**Adjustment Reasons List **
 
 
-You may want to set up a list of reasons for those discounts that your hotel gives out regularly. Setting them up on your Frontdesk Anywhere account allows you to keep track of the reasons why discounts are given.  
+You may want to set up a list of reasons for those discounts/adjustments that your hotel happens to give out regularly. Setting them up  allows you to keep track of the reasons why discounts are given.  
 
-- In the Admin Settings, click on the link **Discount Reason List**, under section _Accounting_:  
+- In the Admin Settings, click on the link **Adjustment Reasons List**, under section _Accounting_:  
  
 
 
@@ -256,48 +258,48 @@ You may want to set up a list of reasons for those discounts that your hotel giv
 
 
  
- - Click on the blue button _Add a Discount Reason_:  
+ - Click on the blue button _Add an Adjustment Reason_:  
   
 
-![Accounting_28.png]({{site.baseurl}}/images/Accounting_28.png)
+![accounting_28.png]({{site.baseurl}}/images/accounting_28.png)
 
 
   
- - There will appear two editable fields: place the Discount Reason Code and the associated Discount Reasons. The first will appear in each folio as an option to select for a discount! Once ready, click on the blue button _Save Changes_ when finished:  
+ - Type in the name of the Adjustment Reason and a short code for it, if applicable otherwise simply re-type in the Adjustment name. Once ready, click on the blue button _Save Changes_ when finished:  
  
-![Accounting_29.png]({{site.baseurl}}/images/Accounting_29.png)
+![accounting_29.png]({{site.baseurl}}/images/accounting_29.png)
 
 
  
- - To **DELETE** a Discount Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Discount Reason_:  
+ - To **DELETE** an Adjustment Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Adjustment Reason_:  
  
-![Accounting_30.png]({{site.baseurl}}/images/Accounting_30.png)
+![accounting_30.png]({{site.baseurl}}/images/accounting_30.png)
 
 
-{{site.data.alerts.note}} Make sure that you have at least one Discount Reason built in your account, as the system won't allow you to erase all of them.  {{site.data.alerts.end}}
+{{site.data.alerts.note}} Make sure that you have at least one Adjustment Reason built in your account, as the system won't allow you to erase all of them.  {{site.data.alerts.end}}
   
 
-- You can **UN-DELETE** a previously deleted Discount Reason: on the top right hand side, select 'Deleted' from the scroll down menu with the written 'Active.  
+- You can **UN-DELETE** a previously deleted Adjustment Reason: on the top right hand side, select _Deleted_ from the scroll down menu with the written _Active_.  
 
-![Accounting_31.png]({{site.baseurl}}/images/Accounting_31.png)
-
-
-
-- Select the Discount Reason you want to re-activate by checking the box on the left hand side of the panel; then click on the blue button _Undelete Selected Discount Reason_:  
-
-![Accounting_32.png]({{site.baseurl}}/images/Accounting_32.png)
+![accounting_31.png]({{site.baseurl}}/images/accounting_31.png)
 
 
 
-Your active Discount Reasons will appear on each reserved folio, under section _Adjustment_:  
+- Select the Adjustment Reason you want to re-activate by checking the box on the left  side of the panel; then click on the blue button _Undelete Selected Adjustment Reason_:  
 
-![Accounting_33.png]({{site.baseurl}}/images/Accounting_33.png)
+![accounting_32.png]({{site.baseurl}}/images/accounting_32.png)
+
+
+
+Your active Adjustment Reasons will appear on each reserved folio, under section _Adjustments_:  
+
+![acounting_33.png]({{site.baseurl}}/images/acounting_33.png)
 
 
 
 Scroll down the menu with the tag _Select Adjustment Reason_:  
 
-![Accounting_34.png]({{site.baseurl}}/images/Accounting_34.png)
+![accounting_34.png]({{site.baseurl}}/images/accounting_34.png)
 
  
 
@@ -306,14 +308,13 @@ Scroll down the menu with the tag _Select Adjustment Reason_:
 
 
 
-You can create Department options for the discount reasons you created, to make sure that all your discounts are approved and listed under the right department!  
+You can create Department options for the Adjustment reasons you created, to make sure that all your discounts are approved and listed under the right department.  
 
  - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
  
 
 
 ![accounting_35.png]({{site.baseurl}}/images/accounting_35.png)
-
 
 
 
@@ -365,7 +366,7 @@ You can create Department options for the discount reasons you created, to make 
 
  
  
- ##**Revenue Account Labels**  
+  ##**Revenue Account Labels**  
  
  
  Revenue Account Labels are customizable tags that will help you organizing your reports. Thanks to these Labels you can group together similar items you are selling at your property (where _item_ is understood here as anything that produces revenue), and have a much better overview of where your earnings come from.  
@@ -379,7 +380,7 @@ You can create Department options for the discount reasons you created, to make 
 
 
  
- - You will notice that your account comes with four default labels which are commonly used by hotels.  To add a new Label, click on the blue link _Add Label_:  
+ - To add a new Label, click on the blue link _Add Label_:  
  
 ![Accounting_44.png]({{site.baseurl}}/images/Accounting_44.png)
 
@@ -412,7 +413,7 @@ You can create Department options for the discount reasons you created, to make 
 ##**Revenue Account Categories**  
 
 
-Revenue Account Categories are used to group together Revenue Account Lables. This will offer you yet another organizational level!
+Revenue Account Categories are used to group together Revenue Account Lables.
 
 -  In the Admin Settings, click on the blue link **Revenue Account Categories**, under section _Accounting_:  
 
@@ -463,7 +464,7 @@ The Revenue Account Manager helps you associating the irght Revenue Label and Ca
 -  In the Admin Settings, click on the blue link **Revenue Account Manager**, under section _Accounting_:    
 
 
-![accounting_55.png]({{site.baseurl}}/images/accounting_55.png)
+![accouning_55.png]({{site.baseurl}}/images/accouning_55.png)
 
 
 
