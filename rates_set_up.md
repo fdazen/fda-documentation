@@ -32,17 +32,15 @@ As a first thing, you will need to set up all applicable fees and taxes.
  - In the Admin Settings, click on the link **Taxes** under section _Rates_:  
 
 
-![tazes_1.png]({{site.baseurl}}/images/tazes_1.png)
+
+![tax_1.png]({{site.baseurl}}/images/tax_1.png)
 
 
 
 
-You will see a list of the existing taxes in the system: your Frontdesk Anywhere comes with three default taxes. At the moment although it is possible to deactivate a tax, it is not possible to erase it: hence, we advise to edit the existing ones, before creating new ones, as this will help keep your account cleaner.
-
-
- - To edit a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
+ - To add a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
  
-![Taxes_2.png]({{site.baseurl}}/images/Taxes_2.png)
+![taxes_2.png]({{site.baseurl}}/images/taxes_2.png)
 
 
  
@@ -58,6 +56,19 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
  
 ![Taxes_4.png]({{site.baseurl}}/images/Taxes_4.png)
 
+{{site.data.alerts.note}}  In Frontdesk Anywhere, the inclusive tax price is included in the charge that it is applied to. This means that you must enter the calculated tax percentage in the value field when defining your inclusive taxes.   
+
+
+As a basic example, a rate of $100 with a 7% inclusive tax applied to it means that the $100 is actually 107%. Therefore, you should enter 6.54206% (7/107 * 100) as your tax value. This results in a rate of $93.45794 ($93.46) and tax of $6.54. Expressed as a formula it is:  
+
+Tax Rate ÷ (Tax Rate + 100)  
+  
+  
+
+Multiply the result by 100 to get the integer to enter into Frontdesk Anywhere.  
+
+
+We advise you to speak to your accountant to go over these important details. {{site.data.alerts.end}}
 
 
 
