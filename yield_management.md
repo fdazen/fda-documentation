@@ -1,10 +1,15 @@
 ---
 title: Yield Management
-tags: 
+tags:
   - yield management
-keywords: "yield management, yield rules, yield settings"
-last_updated: "November 18th, 2015"
-summary: "The Yield Management is a powerful tool of your PMS: it triggers automatic rate changes based on the occupancy level of a room type or your run of house. The price change is governed by rules that you will have to configure in the system, in order to define how the rates should change when certain conditions apply. "
+keywords: 'yield management, yield rules, yield settings'
+last_updated: 'November 18th, 2015'
+summary: >-
+  The Yield Management is a powerful tool of your PMS: it triggers automatic
+  rate changes based on the occupancy level of a room type or your run of house.
+  The price change is governed by rules that you will have to configure in the
+  system, in order to define how the rates should change when certain conditions
+  apply. 
 published: true
 ---
 
