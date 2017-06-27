@@ -518,10 +518,9 @@ Frontdesk Anywhere allows you to establish a priority for where newly created re
   
 ![room_priority_1.png]({{site.baseurl}}/images/room_priority_1.png)  
 
-The drop down menu lists all channels where reservations can interface with the software (note that any channel apart from Frontdesk and IBE will require work from our team). Choose one channel.  
+The drop down menu lists all channels where reservations can interface with the software.   
   
-  
-- For each channel insert a numerical, progressive order in the apposite field, just like you were ordering your types or rooms. When done, click on Save: reservations interfacing with the system will first go to the rooms that have the highest priority.    
+- For any channel you currently use, insert a numerical, progressive order in the apposite field, just like you were ordering your types and your rooms on the Tape Chart. When done, click on Save: reservations interfacing with the system will first go to the rooms that have the highest priority.    
   
   
 ![room_priority_2.png]({{site.baseurl}}/images/room_priority_2.png)
