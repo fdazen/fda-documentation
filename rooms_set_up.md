@@ -33,7 +33,7 @@ published: true
 
 
 
-Let's start by set up the number of floors in your property. This is important as you will be able to group your rooms by the floor they are on!  
+Let's start by set up floors at your property as this is a requirement for room configuration. Floors also serve to group together your rooms on the Tape Chart and on the Housekeeping tab.  
 
  - In the Admin Settings, click on the link **Floors** under section _Property Info_:  
 
@@ -140,10 +140,10 @@ Before creating your rooms, you will need to configure the amenities that are av
 ##**Room Classes**
 
 
-A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability.  
+A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability. Room Classes represent a grouping level for rooms but only for internal purposes: your guests won't be able to see nor to book a rom listed under a specific class.
 
 
-{{site.data.alerts.important}} A class is different from a room type. If you do not need classes and types suffice, you can skip to the next section. {{site.data.alerts.end}}
+{{site.data.alerts.important}} Room Classes is a requirement for room configuration: if you think you may not need it, we recommend you build at least one class called All Availability.{{site.data.alerts.end}}
 
 
  - Start by clicking on the link _Room Classes_ in the Admin Settings:  
