@@ -87,7 +87,7 @@ We advise you to speak to your accountant to go over these important details. {{
 ![Tax_6.png]({{site.baseurl}}/images/Tax_6.png)
 
 
-{{site.data.alerts.note}} As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system.  {{site.data.alerts.end}}
+{{site.data.alerts.note}} It is currently not possible to erase a tax:  making a tax inactive will ensure that the tax won't show up anywhere in the system. Note that if a tax is made inactive, existing reservation where that is applied won't change the tax value. In order to update all taxes to a new tax value, you will need to reselct the rate on those reservations.  {{site.data.alerts.end}}
 
 
 
