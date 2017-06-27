@@ -8,13 +8,12 @@ keywords: >-
   invoice, templates, email templates
 last_updated: 'December 1st, 2015'
 summary: >-
-  Through Guest Messages you are able to set up all those information about your
-  property that you need to communicate to your guests, for example your
-  Cancellation Policy, or your Terms and Conditions. These messagages will
-  appear in some areas of your Frontdesk Anywhere like on the Booking Engine, or
-  on your Email Templates. You can think of them as snippet messages that will
-  then be applied to all communications you will set up to have with your
-  guests.  
+  Through Guest Messages you are able to set up information and policies for
+  your property, to communicate to your guests. Examples are your Cancellation
+  Policy, or  Terms and Conditions. These messagages will appear in some areas
+  of your Frontdesk Anywhere, like on the Booking Engine, or on your 
+  Templates.  Templates are the actual messages that your guests will receive.
+  Examples are Confirmation Email or Cancellation Email. 
 published: true
 ---
 
@@ -286,4 +285,3 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
 
 
  - When finished, click on the blue button _Save_ at the bottom of the page.
-
