@@ -39,20 +39,10 @@ Start by creating your POS Points.
 
 
  
- - Edit the name in the textbox and click on the blue button _Edit POS Point_:  
- 
-![Pos_3.png]({{site.baseurl}}/images/Pos_3.png)
+- Fill in the _Pos Point Titile_ field with the POS name and click on the button** Save POS Point**:
 
+![pos_3.png]({{site.baseurl}}/images/pos_3.png)
 
- 
- 
- - To <span class="label label-warning">ADD</span> a POS Point, click on the blue button _Add a POS Point_:  
- 
-![Pos_4.png]({{site.baseurl}}/images/Pos_4.png)
-
-
- 
- The process will be the same as editing one.  
 
 
  - To <span class="label label-info">DEACTIVATE</span> a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
