@@ -81,7 +81,7 @@ We advise you to speak to your accountant to go over these important details. {{
 
 ###**Tax Operations**  
 
-<span class="label label-info">Deactivate</span> to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
+<span class="label label-info">Deactivate</span> To make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
 
 ![Tax_6.png]({{site.baseurl}}/images/Tax_6.png)
