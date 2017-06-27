@@ -92,14 +92,13 @@ Start by creating your POS Points.
 
 Click on the blue button _Save POS Category_ when done.  
 
-- To <span class="label label-warning">ADD</span> a POS Category, click on the button _Add a POS Category_:  
+- To <span class="label label-warning">EDIT</span> a POS Category, click on the link _Edit_ on the elft side of the panel:
 
-![Pos_10.png]({{site.baseurl}}/images/Pos_10.png)
-
-
+![pos_10.png]({{site.baseurl}}/images/pos_10.png)
 
 
-The process is the same as editing one.
+
+
 
 - To <span class="label label-info">DEACTIVATE</span> a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
 
@@ -120,10 +119,10 @@ The process is the same as editing one.
 
 After creating your POS Points and Categories, you can finally proceed to set up all items you want to sell!
 
- - In the Admin Settings, click on the link **Products** under section _POS/Add-Ons_:  
+ - In the Admin Settings, click on the link **Products** under section _POS_:  
  
+![pos_13.png]({{site.baseurl}}/images/pos_13.png)
 
-![pos_point_13.png]({{site.baseurl}}/images/pos_point_13.png)
 
 
  
