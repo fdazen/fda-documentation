@@ -513,7 +513,7 @@ Calculating Inventory might take a lot of time, especially if you have a big pro
 Frontdesk Anywhere allows you to establish a priority for where newly created reservation interfacing with the software will be placed. This comes handy if you want your best rooms to always have reservations assigned, and by the same token, if you want certain rooms always to be filled up at last.  
 
 
-- In the Room Order link, you will notice that there is a drop down menu on top of the panel: 
+- In the Room Order panel, you will notice that there is a drop down menu on top of the panel: 
   
   
 ![room_priority_1.png]({{site.baseurl}}/images/room_priority_1.png)  
