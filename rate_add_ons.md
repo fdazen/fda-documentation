@@ -1,10 +1,13 @@
 ---
-title: "Rate Add-Ons"
-tags: 
+title: Rate Add-Ons
+tags:
   - rate add ons
-keywords: "add-ons"
-last_updated: "December 18th, 2016"
-summary: "If you have extra charges that are related to but not part of room charges, you can set them up via the Add-ons items. The latter are available to add for each reservation."
+keywords: add-ons
+last_updated: 'December 18th, 2016'
+summary: >-
+  If you have extra charges that are related to but not part of room charges,
+  you can set them up via the Add-ons items. The latter are available to add for
+  each reservation.
 published: true
 ---
 
@@ -18,10 +21,10 @@ published: true
 
 
 
- - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _POS/Add-Ons_:  
+ - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
  
 
-![add-ons_1.png]({{site.baseurl}}/images/add-ons_1.png)
+![rent_addon_1.png]({{site.baseurl}}/images/rent_addon_1.png)
 
 
 
