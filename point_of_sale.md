@@ -85,12 +85,12 @@ Start by creating your POS Points.
  
  - Type in the Category name in the field _Title_ and apply the category to the POS Point it belongs to, by using the scroll down menu next to the tag _POS Point_:  
  
-![Pos_9.png]({{site.baseurl}}/images/Pos_9.png)
+![pos_9.png]({{site.baseurl}}/images/pos_9.png)
 
 
 
 
-Click on the blue button _Edit POS Category_ when done.  
+Click on the blue button _Save POS Category_ when done.  
 
 - To <span class="label label-warning">ADD</span> a POS Category, click on the button _Add a POS Category_:  
 
