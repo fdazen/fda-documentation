@@ -33,9 +33,9 @@ Start by creating your POS Points.
 
 
 
-- You will see the list of POS Points: the system comes with a default one, and you can start by editing this before creating new ones: to do this click on the blue button _Edit POS Point_! 
+- To create a Pos Point, click on the blue _Add a POS Point_ button:
 
-![Pos_2.png]({{site.baseurl}}/images/Pos_2.png)
+![pos_2.png]({{site.baseurl}}/images/pos_2.png)
 
 
  
