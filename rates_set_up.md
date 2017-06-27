@@ -72,7 +72,7 @@ We advise you to speak to your accountant to go over these important details. {{
 
 
 
- - Once you have done, click on the _Save_ button: if you need to create a new tax, click on the blue button _Add a Tax_; the process is the same as editing one:  
+ - Once done, click on the _Save_ button: if you need to create a new tax, click on the blue button _Add a Tax_; the process is the same as editing one:  
 
 ![Taxes_5.png]({{site.baseurl}}/images/Taxes_5.png)
 
