@@ -26,10 +26,10 @@ published: true
 
 Start by creating your POS Points.  
 
-- In the Admin Settings, click on the link **POS Point** link under section _POS/Add-Ons_:
+- In the Admin Settings, click on the link **POS Point** link under section _POS_:
 
 
-![pos_point_1.png]({{site.baseurl}}/images/pos_point_1.png)
+![pos_1.png]({{site.baseurl}}/images/pos_1.png)
 
 
 
