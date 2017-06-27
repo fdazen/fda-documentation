@@ -104,9 +104,9 @@ The **Daily Rate Grid** is where you can view and perform adjustments on the rat
 
 ###**Rate Classes**
 
-Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
 
- - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
+
+ - In the Admin Settings, click on the blue link **Rate Manager** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
 
 
 
