@@ -32,17 +32,15 @@ As a first thing, you will need to set up all applicable fees and taxes.
  - In the Admin Settings, click on the link **Taxes** under section _Rates_:  
 
 
-![tazes_1.png]({{site.baseurl}}/images/tazes_1.png)
+
+![tax_1.png]({{site.baseurl}}/images/tax_1.png)
 
 
 
 
-You will see a list of the existing taxes in the system: your Frontdesk Anywhere comes with three default taxes. At the moment although it is possible to deactivate a tax, it is not possible to erase it: hence, we advise to edit the existing ones, before creating new ones, as this will help keep your account cleaner.
-
-
- - To edit a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
+ - To add a tax, click on the blue link _Edit_ on the right hand side of the tax you want to amend:  
  
-![Taxes_2.png]({{site.baseurl}}/images/Taxes_2.png)
+![taxes_2.png]({{site.baseurl}}/images/taxes_2.png)
 
 
  
@@ -58,10 +56,23 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
  
 ![Taxes_4.png]({{site.baseurl}}/images/Taxes_4.png)
 
+{{site.data.alerts.note}}  In Frontdesk Anywhere, the inclusive tax price is included in the charge that it is applied to. This means that you must enter the calculated tax percentage in the value field when defining your inclusive taxes.   
+
+
+As a basic example, a rate of $100 with a 7% inclusive tax applied to it means that the $100 is actually 107%. Therefore, you should enter 6.54206% (7/107 * 100) as your tax value. This results in a rate of $93.45794 ($93.46) and tax of $6.54. Expressed as a formula it is:  
+
+Tax Rate ÷ (Tax Rate + 100)  
+  
+  
+
+Multiply the result by 100 to get the integer to enter into Frontdesk Anywhere.  
+
+
+We advise you to speak to your accountant to go over these important details. {{site.data.alerts.end}}
 
 
 
- - Once you have done, click on the _Save_ button: if you need to create a new tax, click on the blue button _Add a Tax_; the process is the same as editing one:  
+ - Once done, click on the _Save_ button: if you need to create a new tax, click on the blue button _Add a Tax_; the process is the same as editing one:  
 
 ![Taxes_5.png]({{site.baseurl}}/images/Taxes_5.png)
 
@@ -70,13 +81,13 @@ You will need to choose whether to make the tax a fixed amount or a percentage b
 
 ###**Tax Operations**  
 
-<span class="label label-info">Deactivate</span> to make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
+<span class="label label-info">Deactivate</span> To make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
 
 ![Tax_6.png]({{site.baseurl}}/images/Tax_6.png)
 
 
-{{site.data.alerts.note}} As mentioned before, it is not possible to erase a tax: however, making a tax inactive will ensure that the tax won't show up anywhere in the system.  {{site.data.alerts.end}}
+{{site.data.alerts.note}} It is currently not possible to erase a tax:  making a tax inactive will ensure that the tax won't show up anywhere in the system. Note that if a tax is made inactive, existing reservation where that is applied won't change the tax value. In order to update all taxes to a new tax value, you will need to reselct the rate on those reservations.  {{site.data.alerts.end}}
 
 
 
@@ -93,9 +104,9 @@ The **Daily Rate Grid** is where you can view and perform adjustments on the rat
 
 ###**Rate Classes**
 
-Although the system comes with a couple of rates already built-in, it will be good to start by creating a brand new rate.  
 
- - In the Admin Settings, click on the blue link **Rate Classes** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
+
+ - In the Admin Settings, click on the blue link **Rate Manager** under section _Rates_ and click on the blue button _NEW_ at the bottom of the page:  
 
 
 

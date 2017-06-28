@@ -1,10 +1,12 @@
 ---
 title: Sources of Business
-tags: 
+tags:
   - sources
-keywords: "sources, source tags, sources of business rules, sources of business categories, "
-last_updated: "November 27th, 2015"
-summary: " Sources of Business track the origin of reservations. You can report on these sources to find out where people come to know about your property, or to check the production level for each channel.  "
+keywords: >-
+  sources, source tags, sources of business rules, sources of business
+  categories, 
+last_updated: 'November 27th, 2015'
+summary: ' Sources of Business track the origin of reservations. You can report on these sources to find out where people come to know about your property, or to check the production level for each channel.  '
 published: true
 ---
 

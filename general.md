@@ -1,10 +1,17 @@
 ---
 title: General
-tags: 
+tags:
   - general
-keywords: "languages, modes of arrival, identification types, sources of business, markets, display colors, guest information, reservation information, custom fields, alerts, tape chart."
-last_updated: "November 19th, 2015"
-summary: "The General section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  "
+keywords: >-
+  languages, modes of arrival, identification types, sources of business,
+  markets, display colors, guest information, reservation information, custom
+  fields, alerts, tape chart.
+last_updated: 'November 19th, 2015'
+summary: >-
+  The General section of your Frontdesk Anywhere helps you personalize your
+  account, set up hotel messages and configure automatic emails. You will also
+  be able to decide which fields are to be mandatory in any reservation folio,
+  and if necessary you will be given the option to create new ones.  
 published: true
 ---
 
@@ -210,7 +217,7 @@ Markets are used to group your guests into segments: you can report on this fiel
 Frontdesk Anywhere allows you to personalize the number and type of fields you want to have in your reservation folios. Before starting, let us look at a reservation folio:  
 
 
-![General_28.png]({{site.baseurl}}/images/General_28.png)
+![general_28.png]({{site.baseurl}}/images/general_28.png)
 
 
 
@@ -360,7 +367,8 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 - In the Admin Settings, click on the link **Alerts** under section _General_:  
 
 
-![general_49.png]({{site.baseurl}}/images/general_49.png)
+
+![general_423.png]({{site.baseurl}}/images/general_423.png)
 
 
 
@@ -378,28 +386,7 @@ Here is the legend of what each actions does:
 **Reservation Status: Check-in alert if housekeeping status not**: choose the right housekeeping status from the drop down menu; if a user is trying to check-in a guest in a room that has not the housekeeping status defined here an alert will pop-up.  
 
 
-- For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; in this case the user will visualize the alert but won't be prevented from completing the action. If you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_:  
+- For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; in this case the user will visualize the alert but won't be prevented from completing the action. If you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_.
 
  
 
-##**Tape Chart**  
-
-From time to time it might happen that you will need to update your Tape Chart: for example, if you are undergoing some display issue where a reservation does not have an updated status, running the Tape Chart will automatically refresh all of your bookings.
-
- - In the Admin Settings, click on the link **Tape Chart**, under section _General_:  
- 
-
-![general_52.png]({{site.baseurl}}/images/general_52.png)
-
-
- 
- 
- - The screen will show you when the Tape Chart was run last:  
- 
-![General_53.png]({{site.baseurl}}/images/General_53.png)
-
-
- 
- - To run the Tape Chart, click on the blue button _Run Tape Chart_:  
- 
-![General_54.png]({{site.baseurl}}/images/General_54.png)

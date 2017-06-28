@@ -102,13 +102,3 @@ Select the date range, relative days of the week and choose whether to limit arr
 - Check the **Status** box to activate the restriction upon saving the page. Also select the applicable channels and rates you want to have closed.     
 
 ![stay_10.png]({{site.baseurl}}/images/stay_10.png)
-
-
-
-
-
-
-
-  
-
-

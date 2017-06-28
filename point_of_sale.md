@@ -1,10 +1,16 @@
 ---
 title: Point of Sale
-tags: 
+tags:
   - POS
-keywords: "POS Items, POS Categories, POS Products, Point of Sale"
-last_updated: "December 24th, 2015"
-summary: "If your property offers extra items for sale, separate from lodging charges, you can operate on those by using the POS (Point Of Sale) section. POS products are organized around POS Points and POS Categories. You can think of a POS Point as being, for example, a ‘restaurant’ or a ‘coffee shop’, a POS Category as being ‘food’ or ‘beverages’, and a POS Item as being ‘walnuts’ or ‘coffee’"
+keywords: 'POS Items, POS Categories, POS Products, Point of Sale'
+last_updated: 'December 24th, 2015'
+summary: >-
+  If your property offers extra items for sale different from lodging charges,
+  you can operate on those by using the POS (Point Of Sale) section. POS
+  products are organized around POS Points and POS Categories. You can think of
+  a POS Point as being, for example, a ‘restaurant’ or a ‘coffee shop’, a POS
+  Category as being ‘food’ or ‘beverages’, and a POS Item as being ‘walnuts’ or
+  ‘coffee’
 published: true
 ---
 
@@ -20,33 +26,23 @@ published: true
 
 Start by creating your POS Points.  
 
-- In the Admin Settings, click on the link **POS Point** link under section _POS/Add-Ons_:
+- In the Admin Settings, click on the link **POS Point** link under section _POS_:
 
 
-![pos_point_1.png]({{site.baseurl}}/images/pos_point_1.png)
+![pos_1.png]({{site.baseurl}}/images/pos_1.png)
 
 
 
-- You will see the list of POS Points: the system comes with a default one, and you can start by editing this before creating new ones: to do this click on the blue button _Edit POS Point_! 
+- To create a Pos Point, click on the blue _Add a POS Point_ button:
 
-![Pos_2.png]({{site.baseurl}}/images/Pos_2.png)
-
-
- 
- - Edit the name in the textbox and click on the blue button _Edit POS Point_:  
- 
-![Pos_3.png]({{site.baseurl}}/images/Pos_3.png)
+![pos_2.png]({{site.baseurl}}/images/pos_2.png)
 
 
  
- 
- - To <span class="label label-warning">ADD</span> a POS Point, click on the blue button _Add a POS Point_:  
- 
-![Pos_4.png]({{site.baseurl}}/images/Pos_4.png)
+- Fill in the _Pos Point Titile_ field with the POS name and click on the button** Save POS Point**:
 
+![pos_3.png]({{site.baseurl}}/images/pos_3.png)
 
- 
- The process will be the same as editing one.  
 
 
  - To <span class="label label-info">DEACTIVATE</span> a POS Point, uncheck the box under the column _Status_ for the Point you wish to erase:  
@@ -74,36 +70,35 @@ Start by creating your POS Points.
  
  
  
- ![pos_point_7.png]({{site.baseurl}}/images/pos_point_7.png)
+![pos_7.png]({{site.baseurl}}/images/pos_7.png)
 
 
 
 
  
- - You will see a list of all your POS Categories: one category comes as default, and you can edit this before proceeding to create new ones! Click on the blue link _Edit_ on the right hand side of the panel:  
+ - To add a category, click on the button Add a POS Category:
  
-![Pos_8.png]({{site.baseurl}}/images/Pos_8.png)
+![pos_8.png]({{site.baseurl}}/images/pos_8.png)
 
 
 
  
- - Change the Category Title and apply the category to POS Point where it belongs, by using the scroll down menu next to the tag _POS Point_:  
+ - Type in the Category name in the field _Title_ and apply the category to the POS Point it belongs to, by using the scroll down menu next to the tag _POS Point_:  
  
-![Pos_9.png]({{site.baseurl}}/images/Pos_9.png)
+![pos_9.png]({{site.baseurl}}/images/pos_9.png)
 
 
 
 
-Click on the blue button _Edit POS Category_ when done.  
+Click on the blue button _Save POS Category_ when done.  
 
-- To <span class="label label-warning">ADD</span> a POS Category, click on the button _Add a POS Category_:  
+- To <span class="label label-warning">EDIT</span> a POS Category, click on the link _Edit_ on the elft side of the panel:
 
-![Pos_10.png]({{site.baseurl}}/images/Pos_10.png)
-
-
+![pos_10.png]({{site.baseurl}}/images/pos_10.png)
 
 
-The process is the same as editing one.
+
+
 
 - To <span class="label label-info">DEACTIVATE</span> a POS Category, uncheck the box under column _Status_ on the right hand side of any category:  
 
@@ -124,10 +119,10 @@ The process is the same as editing one.
 
 After creating your POS Points and Categories, you can finally proceed to set up all items you want to sell!
 
- - In the Admin Settings, click on the link **Products** under section _POS/Add-Ons_:  
+ - In the Admin Settings, click on the link **Products** under section _POS_:  
  
+![pos_13.png]({{site.baseurl}}/images/pos_13.png)
 
-![pos_point_13.png]({{site.baseurl}}/images/pos_point_13.png)
 
 
  
