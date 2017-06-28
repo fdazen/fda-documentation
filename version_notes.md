@@ -10,6 +10,15 @@ summary: >-
 published: true
 ---
 
+**3.4.7.1**
+
+Enhancement | Description
+------------|---------
+Improvement | Validation on room type deletion
+Bug fix     | Fix tape chart view
+Bug fix     | Update permissions
+
+
 **3.4.6.1**
 
 Enhancement | Description
