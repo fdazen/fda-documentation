@@ -206,8 +206,8 @@ _Button Color_: Choose the color for IBE buttons as well as  for the IBE calenda
 ##**Payment Collection Rules**   
 
 
-Payment Collection Rules only work if you have already a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) which is also active for IBE. The confirmation type for IBE also is to be set to _Credit Card_.
-These rules are to set up the system to automatically charge your guests when they finalize their reservations. 
+Payment Collection Rules only work if you have already a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) active for IBE. The confirmation type for IBE also must be set to _Credit Card_.
+The Payment Collection Rules are used to automatically charge your guests when they finalize their reservations. 
 
 
 - Click on the link _Payment Collection Rules_ under section IBE:  
