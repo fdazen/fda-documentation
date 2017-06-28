@@ -216,7 +216,19 @@ The Payment Collection Rules are used to automatically charge your guests when t
 ![IBE_21.png]({{site.baseurl}}/images/IBE_21.png)
 
 
-- You will need to choose your option from the ones available ont he screen. Here is a breakdown:  
+- Click on the button _Add Payment Collection Rule_:
+
+![INE_21_1.png]({{site.baseurl}}/images/INE_21_1.png)
+
+
+
+-Payment Collection Rules are configured on rate level: from the scroll down menu, choose what rate needs to be linked to the Rule you are creating:  
+
+![IBE_21_2.png]({{site.baseurl}}/images/IBE_21_2.png)
+
+   
+
+- Choose your option from the ones available on the screen. Here is a breakdown:  
 
 
 _Collect First Night Rent_: choose this option if you want to charge your guests only on the price of the first night of their booking. You will need to specify either a percentage or an amount: the latter will be calculated on the first night rent only:  
@@ -232,8 +244,14 @@ _Collect Sum of Entire Stay_: this option will have the system charge the guest 
 
 _Collect Higher Amount From Options Above_: selecting this option will have the system charge whichever total amount is higher among the options defined before. Hence, if you choose to go for this option, make sure the previous two are defined.  
 
+![IBE_23_1.png]({{site.baseurl}}/images/IBE_23_1.png)
+
+
 
 _Authorize Only_: If you do not want to charge your guests, bu you only want to authorize theirt card, then you will need to choose this option. This comes handy if your only goal is to make sure that the guest is using a valid credit card for their booking. The authorization that will be processed is of $1.00 and it will not be charged on your guest's bill or credit card bill.
+
+
+![OBE_23_2.png]({{site.baseurl}}/images/OBE_23_2.png)
 
 
  - You will also need to choose the time period within which the rule will remain active as well as create multiple rules. For example, you may wish to create one rule which collects 100% of the entire stay that is enforced only if the arrival date is within one week of the booking date, and a second rule which simply authorizes the card for bookings farther than a week away.
