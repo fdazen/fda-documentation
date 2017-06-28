@@ -1,10 +1,17 @@
 ---
 title: General
-tags: 
+tags:
   - general
-keywords: "languages, modes of arrival, identification types, sources of business, markets, display colors, guest information, reservation information, custom fields, alerts, tape chart."
-last_updated: "November 19th, 2015"
-summary: "The General section of your Frontdesk Anywhere helps you personalize your account, set up hotel messages and configure automatic emails. You will also be able to decide which fields are to be mandatory in any reservation folio, and if necessary you will be given the option to create new ones.  "
+keywords: >-
+  languages, modes of arrival, identification types, sources of business,
+  markets, display colors, guest information, reservation information, custom
+  fields, alerts, tape chart.
+last_updated: 'November 19th, 2015'
+summary: >-
+  The General section of your Frontdesk Anywhere helps you personalize your
+  account, set up hotel messages and configure automatic emails. You will also
+  be able to decide which fields are to be mandatory in any reservation folio,
+  and if necessary you will be given the option to create new ones.  
 published: true
 ---
 
