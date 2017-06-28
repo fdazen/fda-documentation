@@ -258,6 +258,9 @@ _Authorize Only_: If you do not want to charge your guests, bu you only want to 
 
 {{site.data.alerts.note}} Payment Collection rules are only checked once at the time the booking is made. {{site.data.alerts.end}}
 
+- Make sure to click on the green _Save_ button on the right side of the rule to save your work. After saving a rule, you will be able to add another one. Becareful not to configure conflicting Payment Collection Rules for the same rate:
+
+![IBE_44.png]({{site.baseurl}}/images/IBE_44.png)
 
 
 ##**Other Options**
