@@ -29,6 +29,7 @@ Let us start by defining what rules you want the system to follow.
 
 
 
+
   
   - You will notice that your account comes with a few rules already embedded. Click on the blue button _New_ to create your own rule:  
   
