@@ -368,7 +368,7 @@ Frontdesk Anywhere can help you reducing the margin of human error that is invol
 
 
 
-![general_423.png]({{site.baseurl}}/images/general_423.png)
+![general_223.png]({{site.baseurl}}/images/general_223.png)
 
 
 
