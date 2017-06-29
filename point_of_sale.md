@@ -119,9 +119,9 @@ Click on the blue button _Save POS Category_ when done.
 
 After creating your POS Points and Categories, you can finally proceed to set up all items you want to sell!
 
- - In the Admin Settings, click on the link **Products** under section _POS_:  
+ - In the Admin Settings, click on the link **Products** under section _POS/Add-Ons_:  
  
-![pos_13.png]({{site.baseurl}}/images/pos_13.png)
+![pos_88.png]({{site.baseurl}}/images/pos_88.png)
 
 
 
