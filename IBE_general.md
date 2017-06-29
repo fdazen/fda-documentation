@@ -294,7 +294,7 @@ You may also change the _Room Alias_. The default is ‘room’, but other optio
 **Stay Restrictions** [http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/stay_restrictions.html](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/stay_restrictions.html). Set special restrictions for IBE.
 
 
-**Published Rooms:** (under section _Rooms_). You can check how to hide inventory from your online booking engine by clicking [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
+**Published Rooms:** ([section Rooms](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)). You can check how to hide inventory from your online booking engine by clicking [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
 
 
 **Guest Messages** (under section _General_) IBE uses three of the [guest messages](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/messages_and_emails.html) during the booking process. 
