@@ -172,8 +172,7 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 
 - To add POS items to your IBE, click on the link _Upsell Items_:  
 
-
-![IBE_15.png]({{site.baseurl}}/images/IBE_15.png)
+![ibe_15.png]({{site.baseurl}}/images/ibe_15.png)
 
 - Click on the check-box _Allow Packages_ to enable upselling extra items on IBE: 
 
@@ -196,7 +195,10 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 
 ###**Advanced Options**
 
-There are many different advanced options that may be configured for IBE!
+There are many different advanced options that may be configured for IBE! Click on the link _Advanced Options_ under section IBE:  
+
+![ibe_15_1.png]({{site.baseurl}}/images/ibe_15_1.png)
+
 
 _Background Image_: Upload an image to use as the background for IBE (JPEG only). Click on the button _Choose File_ to browse one from your PC.    
 
@@ -285,11 +287,11 @@ Additional settings that are used by IBE can be found in other areas of the Admi
 
 {{site.data.alerts.important}} Any logo used should have a white background color and be in JPEG format. {{site.data.alerts.end}}
 
-**Room Types Pictures** (under section _Rooms_). You may add as many images to IBE as you like, and they will display in a gallery. This is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG.
+**Room Types Pictures** [section Rooms](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html). You may add as many images to IBE as you like, and they will display in a gallery. This is a great new feature to allow guests to get the full picture of the room they will be staying at. Simply add 3 pictures at a time, save and then add more. The preferred image type is JPEG.
 
 You may also change the _Room Alias_. The default is ‘room’, but other options can be ‘bed’ or ‘site’ for hostels and campgrounds respectively. IBE will replace the word ‘room’ with the chosen room alias in IBE. Be aware that the title, description, max occupancy, default occupancy, and selected amenities are all displayed by IBE.
 
-**Stay Restrictions** (under section _Rates_). Set special restrictions for IBE.
+**Stay Restrictions** [http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/stay_restrictions.html](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/stay_restrictions.html). Set special restrictions for IBE.
 
 
 **Published Rooms:** (under section _Rooms_). You can check how to hide inventory from your online booking engine by clicking [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/rooms_set_up.html)
