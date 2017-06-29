@@ -70,7 +70,7 @@ Create your guest's modes of arrival to keep track of how they come to your prop
  - In the Admin Settings, click on the link **Modes of Arrival** under section _General_:  
  
 
-![general_6.png]({{site.baseurl}}/images/general_6.png)
+![general_1_1.png]({{site.baseurl}}/images/general_1_1.png)
 
 
  
@@ -124,7 +124,7 @@ You configure all the Identification Types that are accepted at your property in
 - In the Admin Settings, click on the link **Identification Types** under section _General_:  
 
 
-![general_14.png]({{site.baseurl}}/images/general_14.png)
+![general_1_2.png]({{site.baseurl}}/images/general_1_2.png)
 
 
 - Your account comes with some defaulted identification types. To create a new identification type, click on the blue button _Add Identification Type_ at the bottom of the page: 
@@ -171,7 +171,7 @@ Markets are used to group your guests into segments: you can report on this fiel
 - In the Admin Settings, click on the link **Markets** under section _General_:  
 
 
-![general_21.png]({{site.baseurl}}/images/general_21.png)
+![general_1_3.png]({{site.baseurl}}/images/general_1_3.png)
 
 
 
@@ -217,7 +217,7 @@ Markets are used to group your guests into segments: you can report on this fiel
 Frontdesk Anywhere allows you to personalize the number and type of fields you want to have in your reservation folios. Before starting, let us look at a reservation folio:  
 
 
-![general_28.png]({{site.baseurl}}/images/general_28.png)
+![general2_2.png]({{site.baseurl}}/images/general2_2.png)
 
 
 
@@ -320,7 +320,7 @@ When you mark a field as **Required**, the system will force agents to insert th
  - In the Admin Settings, click on the blue link **Display Colors** under section _General_: 
  
 
-![general_423.png]({{site.baseurl}}/images/general_423.png)
+![general222.png]({{site.baseurl}}/images/general222.png)
 
 
  
@@ -387,6 +387,3 @@ Here is the legend of what each actions does:
 
 
 - For any action, you have two options: if you want to have the system only trigger a message alert, then check the box under the column _Status_; in this case the user will visualize the alert but won't be prevented from completing the action. If you want to have the system prevent the agent from pursuing the correspondent action, check the box under column _Force Correction of Alerts_.
-
- 
-
