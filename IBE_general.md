@@ -54,7 +54,7 @@ IBE allows you to create special promotions that will only be visible to certain
 1. In the click on the lnk **Promo Codes List** under section _IBE_:
 
 
-![p1.png]({{site.baseurl}}/images/p1.png)
+![p_1.png]({{site.baseurl}}/images/p_1.png)
 
 
 2. Click on the button _Add Promo Code_ :
@@ -95,6 +95,20 @@ IBE allows you to create special promotions that will only be visible to certain
 
 You can set up pre-defined options to offer your guests. These options will conveniently appear at the time the guest finalizes their reservation, and they will be delivered in each folio's _Comment_ box.
 
+- Click on the link _Guest Requests_ under section IBE:
+
+![p2.png]({{site.baseurl}}/images/p2.png)
+
+- Click on the button _Add Special Room Request_:
+
+
+![p4.png]({{site.baseurl}}/images/p4.png)  
+
+- Type in the special request and click on the button _Save Special Room Request_:  
+
+![p5.png]({{site.baseurl}}/images/p5.png)
+
+
 
 ###**Confirmation Type**
 
@@ -102,7 +116,7 @@ IBE gives you the ability to choose whether you want reservations get confirmed 
 
 - To choose your online reservation confirmation type, click on the link _Confirmation Type_ in the Admin Settings, under section**IBE**:  
 
-![IBE_9.png]({{site.baseurl}}/images/IBE_9.png)
+![ibe_9.png]({{site.baseurl}}/images/ibe_9.png)
 
 - Select your choice using the scroll down menu, and when finished, click on the blue button _Save Changes_:
 
@@ -118,7 +132,7 @@ You can choose if and how you want to assign rooms for reservations coming from 
 - In the Admin Settings, click on the link _Assign Room Logic_:  
 
 
-![IBE_11.png]({{site.baseurl}}/images/IBE_11.png)
+![ibe_11.png]({{site.baseurl}}/images/ibe_11.png)
 
 
 You will see different option:
@@ -140,7 +154,7 @@ You can configure how many months in advance you want your inventory to be avail
 
 - Click on the link _Advanced Booking Period_ under section **IBE**:  
 
-![IBE_13.png]({{site.baseurl}}/images/IBE_13.png)
+![ibe_13.png]({{site.baseurl}}/images/ibe_13.png)
 
 - Choose your selection from the scroll down menu. Values between 2 and 36 months are allowed. When finished, click on the button _Save_.   
 
