@@ -1,7 +1,7 @@
 ---
-title: Rate Add-Ons
+title: Rent Add-Ons
 tags:
-  - rate add ons
+  - Rent add ons
 keywords: add-ons
 last_updated: 'December 18th, 2016'
 summary: >-
