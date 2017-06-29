@@ -244,16 +244,16 @@ You can check the number of your invoices with a simple click!
 
   
   
-##**Adjustment Reasons List **
+##**Discount Reasons List **
 
 
 You may want to set up a list of reasons for those discounts/adjustments that your hotel happens to give out regularly. Setting them up  allows you to keep track of the reasons why discounts are given.  
 
-- In the Admin Settings, click on the link **Adjustment Reasons List**, under section _Accounting_:  
+- In the Admin Settings, click on the link **Discount Reasons List**, under section _Accounting_:  
  
 
 
-![accounting_27.png]({{site.baseurl}}/images/accounting_27.png)
+![accounting_27_1.png]({{site.baseurl}}/images/accounting_27_1.png)
 
 
 
@@ -265,13 +265,13 @@ You may want to set up a list of reasons for those discounts/adjustments that yo
 
 
   
- - Type in the name of the Adjustment Reason and a short code for it, if applicable otherwise simply re-type in the Adjustment name. Once ready, click on the blue button _Save Changes_ when finished:  
+ - Type in the name of the Discount Reason and a short code for it, if applicable otherwise simply re-type in the Discount name. Once ready, click on the blue button _Save Changes_ when finished:  
  
 ![accounting_29.png]({{site.baseurl}}/images/accounting_29.png)
 
 
  
- - To **DELETE** an Adjustment Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Adjustment Reason_:  
+ - To **DELETE** a Discount Reason, select it by checking the box on the left hand side and click on the blue button _Delete Selected Adjustment Reason_:  
  
 ![accounting_30.png]({{site.baseurl}}/images/accounting_30.png)
 
@@ -375,7 +375,7 @@ You can create Department options for the Adjustment reasons you created, to mak
  
  
 
-![accounting_43.png]({{site.baseurl}}/images/accounting_43.png)
+![accounting_45_1.png]({{site.baseurl}}/images/accounting_45_1.png)
 
 
 
@@ -419,15 +419,15 @@ Revenue Account Categories are used to group together Revenue Account Lables.
 
 
 
-![accounting_49.png]({{site.baseurl}}/images/accounting_49.png)
+![accounting_49_1.png]({{site.baseurl}}/images/accounting_49_1.png)
 
 
 
 
 
-- Your account comes with four default categories which remind to the existing items you have in your Frontdesk Anywhere account. To add a new Category, click on the blue link _Add Category_:  
+- To add a new Category, click on the blue link _Add Category_:  
 
-![Accounting_50.png]({{site.baseurl}}/images/Accounting_50.png)
+![accounting_49_2.png]({{site.baseurl}}/images/accounting_49_2.png)
 
  
 
@@ -464,7 +464,7 @@ The Revenue Account Manager helps you associating the irght Revenue Label and Ca
 -  In the Admin Settings, click on the blue link **Revenue Account Manager**, under section _Accounting_:    
 
 
-![accouning_55.png]({{site.baseurl}}/images/accouning_55.png)
+![accounting_50_1.png]({{site.baseurl}}/images/accounting_50_1.png)
 
 
 
