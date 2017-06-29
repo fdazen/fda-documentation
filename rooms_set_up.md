@@ -44,10 +44,10 @@ Let's start by set up floors at your property as this is a requirement for room 
 
 
 
- - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
+ - Click on the blue button _Add a Floor_ to add  floors; a small pop-up window will prompt you to place the name of the new floor:  
  
  
-![Floors_2.png]({{site.baseurl}}/images/Floors_2.png)
+![floors_2.png]({{site.baseurl}}/images/floors_2.png)
 
   
  
