@@ -206,7 +206,7 @@ As a security measure Frontdesk Anywhere enables automatic erasing on a regular 
  - In the Admin Settings, click on the blue link **Credit Card Purge** under section _Accounting_:  
  
 
-![accounting_22.png]({{site.baseurl}}/images/accounting_22.png)
+![cc_purge_1.png]({{site.baseurl}}/images/cc_purge_1.png)
 
 
 
