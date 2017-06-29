@@ -26,11 +26,11 @@ As the name suggests, this section is dedicated to information about your compan
 
 ##**Logo Upload**  
 
- In the Admin Settings, click on the link **Logo Upload** under section _Property Info_:  
+ In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
  
 
 
-![property_info_1.png]({{site.baseurl}}/images/property_info_1.png)
+![company_!.png]({{site.baseurl}}/images/company_!.png)
 
  
 
