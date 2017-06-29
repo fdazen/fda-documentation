@@ -10,6 +10,15 @@ summary: >-
 published: true
 ---
 
+**3.4.8.2**
+
+Enhancement | Description
+------------|---------
+Improvement | Fix room list display order
+Bug fix     | Group Folio occupancy default to 0
+Bug fix     | Incomplete unassigned bookings list
+
+
 **3.4.7.1**
 
 Enhancement | Description
