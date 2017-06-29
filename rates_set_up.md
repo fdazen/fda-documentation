@@ -479,6 +479,33 @@ This functionality allows you to specify a certain booking window for a specific
 
 
 
+##**Rate Policies**    
+
+Specifis terms and conditions for a selected rate can be configured via the Rate Policies.  
+
+- Click on the link _Rate Policies_ under section _Rates_:  
+
+![rate_policies_1.png]({{site.baseurl}}/images/rate_policies_1.png)
+
+  
+- Click on the blue _Add_ button:  
+
+![rate_policies_2.png]({{site.baseurl}}/images/rate_policies_2.png)
+  
+  
+- Type in a name for the policy: this can be the same as the name of the rate linked to it. Also type in the **policy content** in the second box:  
+
+![rate_policies_3.png]({{site.baseurl}}/images/rate_policies_3.png)
+  
+  
+- Activate the policy by checking the _Status_ box and select the rates where the policy should apply. When finished, click on the button _Save_:  
+
+![rate_policies_4.png]({{site.baseurl}}/images/rate_policies_4.png)
+
+  
+  
+  
+  
 
 
 
