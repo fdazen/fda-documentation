@@ -397,7 +397,7 @@ If you are building different rates for the same room type, you may want to cont
 
 When you open a folio, all applicable rates for the room type appear in the scroll down menu on the right hand side of the panel:  
 
-![rate_classes_35.png]({{site.baseurl}}/images/rate_classes_35.png)
+![rate_priority_22.png]({{site.baseurl}}/images/rate_priority_22.png)
 
 
 
@@ -501,13 +501,3 @@ Specifis terms and conditions for a selected rate can be configured via the Rate
 - Activate the policy by checking the _Status_ box and select the rates where the policy should apply. When finished, click on the button _Save_:  
 
 ![rate_policies_4.png]({{site.baseurl}}/images/rate_policies_4.png)
-
-  
-  
-  
-  
-
-
-
-
-
