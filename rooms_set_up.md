@@ -43,6 +43,7 @@ Let's start by set up floors at your property as this is a requirement for room 
 
 
 
+
  - You will see that two floors are already created by default. Click on the blue button _Add a Floor_ to add more floors; a small pop-up window will prompt you to place the name of the new floor:  
  
  
@@ -96,36 +97,33 @@ Before creating your rooms, you will need to configure the amenities that are av
  - In the Admin Settings, click on the link **Room Amenities**:
   
 
-![room_amenities_1.png]({{site.baseurl}}/images/room_amenities_1.png)
+![rooms_!.png]({{site.baseurl}}/images/rooms_!.png)
 
 
 
 
   
- - You will see a list of some defaulted amenities.
+- Click on the button _Add a New Amenity_:
  
  
-![Room_amenities_2.png]({{site.baseurl}}/images/Room_amenities_2.png)
+![room_amenity_1.png]({{site.baseurl}}/images/room_amenity_1.png)
 
 
-  
-  - Before creating new ones, you can first edit those that you won't need, as this will make your account cleaner. For example, if you do not offer a laundry service in any of the rooms, but you offer a complimentary bathrobe, just edit the laundry service and turn it into a bathrobe. To do this, click on the blue link _Edit_ on the right row:
-  
 
-![Room_amenities_3.png]({{site.baseurl}}/images/Room_amenities_3.png)
 
     
-  - Edit the name in the _Amenity Title_ field, and click on **Save** when done.
-  
-![Room_amenities_4.png]({{site.baseurl}}/images/Room_amenities_4.png)
+ - Type in the amenity name in the first field. You may leave empty the Descriptio box, as it is only used on this screen. Click _Save Amenity_ when done:  
+ 
+ ![room_amenity_2.png]({{site.baseurl}}/images/room_amenity_2.png)
 
   
-  - To <span class="label label-warning">ADD</span> a new amenity, click on the blue button **Add a New Amenity**: the procedure is the same as editing an amenity.
-  
-![Room_amenities_5.png]({{site.baseurl}}/images/Room_amenities_5.png)
 
   
-![Room_amenities_6.png]({{site.baseurl}}/images/Room_amenities_6.png)
+  - To <span class="label label-warning">EDIT</span> an amenity, click on the link **Edit** on the left side of the panel:  
+  
+
+  
+![room_amenity_4.png]({{site.baseurl}}/images/room_amenity_4.png)
 
 
   
