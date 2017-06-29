@@ -244,16 +244,16 @@ You can check the number of your invoices with a simple click!
 
   
   
-##**Discount Reasons List **
+##**Adjustment Reasons List **
 
 
 You may want to set up a list of reasons for those discounts/adjustments that your hotel happens to give out regularly. Setting them up  allows you to keep track of the reasons why discounts are given.  
 
-- In the Admin Settings, click on the link **Discount Reasons List**, under section _Accounting_:  
+- In the Admin Settings, click on the link **Adjustment Reasons List**, under section _Accounting_:  
  
 
 
-![discount_reasons.png]({{site.baseurl}}/images/discount_reasons.png)
+![adjustments_1.png]({{site.baseurl}}/images/adjustments_1.png)
 
 
 
@@ -304,17 +304,17 @@ Scroll down the menu with the tag _Select Adjustment Reason_:
  
 
 
-##**Discount Reasons: Department Options**  
+##**Adjustment Reasons: Department Options**  
 
 
 
 You can create Department options for the Adjustment reasons you created, to make sure that all your discounts are approved and listed under the right department.  
 
- - In the Admin Settings click on the blue link **Discount Reasons: Department Options** under section _Accounting_:  
+ - In the Admin Settings click on the blue link **Adjustment Reasons: Department Options** under section _Accounting_:  
  
 
 
-![accounting_35.png]({{site.baseurl}}/images/accounting_35.png)
+![adjustments222.png]({{site.baseurl}}/images/adjustments222.png)
 
 
 

@@ -33,7 +33,7 @@ published: true
 
  - In the Admin Settings, click on the link **Guest Messages** under section _General_:  
  
-![Guest_Messages_1.png]({{site.baseurl}}/images/Guest_Messages_1.png)
+![messages_1.png]({{site.baseurl}}/images/messages_1.png)
 
 
 
@@ -87,7 +87,7 @@ Click [here](http://docs.frontdeskanywhere.net/build/application_resources.html)
  - In the Admin Settings, click on the blue link **Templates** under section _General_:  
  
 
-![Guest_Messages_8.png]({{site.baseurl}}/images/Guest_Messages_8.png)
+![messages_88.png]({{site.baseurl}}/images/messages_88.png)
 
 
  
@@ -203,7 +203,7 @@ Once your _Email Templates_ are set up, you can configure the system to automati
 
  - In the Admin Settings, click on the link **Automated Emails** under section _General_:  
  
-![Guest_Messages_23.png]({{site.baseurl}}/images/Guest_Messages_23.png)
+![messages_23.png]({{site.baseurl}}/images/messages_23.png)
 
 
 
@@ -254,7 +254,7 @@ _Email rules_ is the tool that enables you to send automatic emails outside the 
  - In the Admin Settings, click on the link **Email Rules** under section _General_:  
  
 
-![Guest_Messages_28.png]({{site.baseurl}}/images/Guest_Messages_28.png)
+![messages_28.png]({{site.baseurl}}/images/messages_28.png)
 
 
  

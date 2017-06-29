@@ -136,7 +136,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
  - All of your system users appear in the _Users_ list. In the Admin Settings, click on the blue link **Users** under section _Users_:  
  
 
-![users_13.png]({{site.baseurl}}/images/users_13.png)
+![users_1_!.png]({{site.baseurl}}/images/users_1_!.png)
 
 
 
@@ -194,7 +194,7 @@ Setting up shifts is a useful tool for auditing and for checking operations that
  - In the Admin Settings, click on the link **Shifts** under section _Users_:  
  
 
-![users_20.png]({{site.baseurl}}/images/users_20.png)
+![users_1_11.png]({{site.baseurl}}/images/users_1_11.png)
 
 
 
