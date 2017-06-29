@@ -231,7 +231,7 @@ You can check the number of your invoices with a simple click!
  - Click on the link **Invoices** under section _Accounting_:  
  
  
-![accounting_25.png]({{site.baseurl}}/images/accounting_25.png)
+![invoices_1.png]({{site.baseurl}}/images/invoices_1.png)
 
 
 
