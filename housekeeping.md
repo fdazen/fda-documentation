@@ -28,7 +28,7 @@ Housekeeping Statuses serve to indicate whether a certain room needs attention f
   
 
 
-![housekeeping_1.png]({{site.baseurl}}/images/housekeeping_1.png)
+![hk_1.png]({{site.baseurl}}/images/hk_1.png)
 
 
 
@@ -64,7 +64,7 @@ Housekeeping Rules are necessary to establish how the system should use the Hous
  - In the Admin Settings, click on the blue link **Housekeeping Rules**, under section _Housekeeping_:  
  
 
-![housekeeping_3.png]({{site.baseurl}}/images/housekeeping_3.png)
+![hk_1111.png]({{site.baseurl}}/images/hk_1111.png)
 
  
  
