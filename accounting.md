@@ -33,7 +33,7 @@ During the intial system set-up it is important for you to configure the right c
 - Click on the blue link **Currency** under section _Accounting_:
 
 
-![accounting_1.png]({{site.baseurl}}/images/accounting_1.png)
+![accounting1.png]({{site.baseurl}}/images/accounting1.png)
 
 
 
@@ -67,7 +67,7 @@ Each property has a different starting date for their Fiscal Year, depending on 
 
 
 
-![accounting_5.png]({{site.baseurl}}/images/accounting_5.png)
+![accounting_3_1.png]({{site.baseurl}}/images/accounting_3_1.png)
 
 
 
@@ -85,7 +85,7 @@ Each property has a different starting date for their Fiscal Year, depending on 
  - In the Admin Settings, click on the blue link **Pay Types** under section _Accounting_:  
  
 
-![accounting_7.png]({{site.baseurl}}/images/accounting_7.png)
+![accounting_5_1.png]({{site.baseurl}}/images/accounting_5_1.png)
 
 
 
@@ -123,7 +123,7 @@ Along with Pay Types you can also configure all credit cards accepted at your pr
 
 
 
-![accounting12.png]({{site.baseurl}}/images/accounting12.png)
+![accounting_7_1.png]({{site.baseurl}}/images/accounting_7_1.png)
 
 
   
@@ -154,7 +154,7 @@ Your PMS can integrate with many secure payment gateways that will make charging
 - In the Admin Settings, click on the link **Payment Processing** under section _Accounting_:  
 
 
-![accounting_16.png]({{site.baseurl}}/images/accounting_16.png)
+![accounting_16_1.png]({{site.baseurl}}/images/accounting_16_1.png)
 
 
 
