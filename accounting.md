@@ -253,7 +253,7 @@ You may want to set up a list of reasons for those discounts/adjustments that yo
  
 
 
-![accounting_27_1.png]({{site.baseurl}}/images/accounting_27_1.png)
+![discount_reasons.png]({{site.baseurl}}/images/discount_reasons.png)
 
 
 
