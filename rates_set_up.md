@@ -29,11 +29,11 @@ published: true
 As a first thing, you will need to set up all applicable fees and taxes.  
 
 
- - In the Admin Settings, click on the link **Taxes** under section _Rates_:  
-
+ - In the Admin Settings, click on the link **Taxes** under section _Accounting_:  
 
 
 ![tax_1.png]({{site.baseurl}}/images/tax_1.png)
+
 
 
 
@@ -397,7 +397,7 @@ If you are building different rates for the same room type, you may want to cont
 
 When you open a folio, all applicable rates for the room type appear in the scroll down menu on the right hand side of the panel:  
 
-![Rate_Classes_35.png]({{site.baseurl}}/images/Rate_Classes_35.png)
+![rate_classes_35.png]({{site.baseurl}}/images/rate_classes_35.png)
 
 
 
@@ -434,4 +434,53 @@ Unless you order your rates, they will appear randomly in the folio: for example
 
 
  
-You might need to log out and log back into the system in order to see changes being effective!
+You might need to log out and log back into the system in order to see changes being effective!  
+
+
+
+
+##**Booking Window**  
+
+  
+  
+This functionality allows you to specify a certain booking window for a specific rate. Promotional rates usually have booking restrictions: for example, an Early Bird type of promotion allows price reduction for guests booking 60 or 90 days in advance  
+
+
+- Click on the link _Booking Window_ under section RATES:  
+
+![booking_window_1.png]({{site.baseurl}}/images/booking_window_1.png)  
+
+
+- Click on the blue _Add_ button:  
+
+![booking_window_2.png]({{site.baseurl}}/images/booking_window_2.png)  
+
+
+
+- Type in a title for the booking window, and place a short and meaningful description:  
+
+![booking_window_3.png]({{site.baseurl}}/images/booking_window_3.png)
+
+
+- The wirrten highlighted below describes how the restrictin applies to the rate: the rate will appear unavailable if the guest's arrival date is **greater/less** than **X number of days**.  
+
+![booking_window_4.png]({{site.baseurl}}/images/booking_window_4.png)  
+
+
+
+- Configure the booking conditions choosing an option from the _Arrival_ drop down menu and specify the number of days in the apposite box:  
+
+![booking_window_5.png]({{site.baseurl}}/images/booking_window_5.png)  
+
+
+- Make sure the _Status_ box is checked, and select the rates where the restriction should apply. When finished, click on the button _Save_:  
+
+![booking_window_6.png]({{site.baseurl}}/images/booking_window_6.png)
+
+
+
+
+
+
+
+
