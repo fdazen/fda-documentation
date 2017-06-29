@@ -21,10 +21,10 @@ published: true
 
 
 
- - In the Admin Settings, click on the blue link **Rate Add-Ons** under section _Rates_:  
+ - In the Admin Settings, click on the blue link **Add-Ons** under section _POS/Add-Ons_:  
  
 
-![rent_addon_1.png]({{site.baseurl}}/images/rent_addon_1.png)
+![addon_1.png]({{site.baseurl}}/images/addon_1.png)
 
 
 
