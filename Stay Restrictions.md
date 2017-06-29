@@ -19,7 +19,7 @@ These actions are all on rate level: for any configured rate, you can define a m
 - In the _Admin Settings_, click on the link **Stay Restrictions** under section RATES:  
 
 
-![stay_1.png]({{site.baseurl}}/images/stay_1.png)
+![stay1.png]({{site.baseurl}}/images/stay1.png)
 
 
 ##**Add Min/Max Stay Requirement**  
