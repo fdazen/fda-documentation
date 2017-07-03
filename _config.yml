@@ -32,16 +32,25 @@ exclude:
 host: 127.0.0.1
 feedback_email: help@frontdeskanywhere.com
 sidebar_accordion: true
-markdown: redcarpet
+# markdown: redcarpet
 print: true
 theme_file: theme-green.css
 # only use suffix if you need to force index.html to display
 # suffix: index.html
 
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "tables", "with_toc_data"]
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "tables", "with_toc_data"]
 
-highlighter: pygments
+# highlighter: pygments
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+highlighter: rouge
+
 
 collections:
   tooltips:
