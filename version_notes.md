@@ -9,7 +9,15 @@ summary: >-
   and the corresponding version!
 published: true
 ---
- 
+
+**3.4.9.2**
+
+Enhancement | Description
+------------|---------
+Improvement | Speed improvements
+Bug fix     | On guest creation cache is not updated
+
+
 **3.4.8.2**
 
 Enhancement | Description
