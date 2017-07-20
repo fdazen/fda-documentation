@@ -54,13 +54,21 @@ published: true
 |                                                                              |                         |
 
 
-| Arraival Departure Detail Variables                                          | Information        |
+| Arrival Departure Detail Variables                                          | Information        |
 |------------------------------------------------------------------------------|:-------------------|
 | ```  {fda module="arrdep"}checkin{/fda}   ```                                | Check In           |
 | ```  {fda module="arrdep"}checkout{/fda}  ```                                | Check Out          |
 |                                                                              |                    |
 
-
+  
+| Invoices Variables                                                           | Information        |
+|------------------------------------------------------------------------------|:-------------------|
+| ```  {fda module="invoice"}name{/fda}        ```                             | Invoice Name       |
+| ```  {fda module="invoice"}number{/fda}      ```                             | Invoice Number     |  
+| ```  {fda module="invoice"}status{/fda}      ```                             | Invoice Status     |
+| ```  {fda module="invoice"}due_date{/fda}    ```                             | Invoice Due Date   |  
+| ```  {fda module="invoice"}issued_date{/fda} ```                             | Issued Date        |  
+  
 | System Variable                                                              | Information        |
 |------------------------------------------------------------------------------|:-------------------|
 | ```  {fda module="system"}current_time{/fda}   ```                           | Current Time       |
