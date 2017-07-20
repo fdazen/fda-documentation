@@ -10,6 +10,13 @@ summary: >-
 published: true
 ---
 
+**3.5.1.1**
+
+Enhancement | Description
+------------|---------
+New Feature | Square integration
+
+
 **3.4.9.2**
 
 Enhancement | Description
