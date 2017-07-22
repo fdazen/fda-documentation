@@ -10,6 +10,15 @@ summary: >-
 published: true
 ---
 
+**3.5.2.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Unable to place confirmed IBE bookings
+Bug fix     | Saved cc are not appearing
+Bug fix     | Unable to apply payments to invoices
+
+
 **3.5.1.1**
 
 Enhancement | Description
