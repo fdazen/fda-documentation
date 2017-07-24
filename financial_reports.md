@@ -336,10 +336,41 @@ The _Posting Journal Report_ provides comprehensive information about posted pay
 
 - Select the folio statuses the report should account for: by default the report runs for Reserved, Checked-In and Hold folios because they identify reservations with confirmed or possible revenue and payment posting. Select the users from the last drop down menu and click on the button _Run Report_:
 
-![ps3.png]({{site.baseurl}}/images/ps3.png)
+![ps3.png]({{site.baseurl}}/images/ps3.png)  
 
 
+Here is an example of the report:  
 
+![p4.png]({{site.baseurl}}/images/p4.png)
+
+
+  
+###**Fields Legend**:  
+  
+**Room Number**: displays the room number associated with payment and revenue details.  
+**Revenue Category**: It displays whether the associated information is regarding payments or room revenue. Note that this field has nothing to do with Revenue Category Labels.  
+**Guests**: Guest name will be listed under this column.  
+**Folio No.**: displays associated folio number.  
+**Ref. No. Status**: this column gives more details regarding the type of item posted. Here is a breakdown:  
+
+ -_R = Revenue_ (Room Revenue)
+ -_P = Payment_   (Refunds will appear with a minus)
+ -_ADJ = Adjustment_  
+ -_POS = POS Item_
+ -_D = Deposit_  (Deposits are advanced payments, if a payment has been posted to a future folio, the system will mark it as a Deposit rather than a Payment)
+ -_RC = Reservation Cancelled  _  
+ 
+**Total**: Total payment/revenue amount.
+**Posting Date**: Time when revenue/payment was posted.  
+**Username**: User who posted revenue/payment. Note that this column may often show _Autopost_: this reminds to any automatic posting of payments and revenue made by the system, for example by Night Audit or IBE.  
+**Folio Status**: identifies the status of the folio. Here is a breakdown:  
+
+ -_I = In-House_
+ -_O = Checked-Out_  
+ -_R = Reserved_  
+ -_RC = Reservation Cancelled_  
+ 
+ 
 
 
 
