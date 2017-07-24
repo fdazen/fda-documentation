@@ -7,7 +7,7 @@ keywords: reports manager
 last_updated: "December 29th, 2015"
 summary: A description of the financial reports in FDA.
 
-##**Lodging Statistics Report (LSR)**
+## **Lodging Statistics Report (LSR)**
 
 - Get a day-by-day breakdown of your lodging information and revenue over a period of your choosing. You can look at historical data and forecast future information too. Can filter on source, market and room type.
 
