@@ -334,6 +334,9 @@ The _Posting Journal Report_ provides comprehensive information about posted pay
 ![ps2.png]({{site.baseurl}}/images/ps2.png)
 
 
+- Select the folio statuses the report should account for: by default the report runs for Reserved, Checked-In and Hold folios because they identify reservations with confirmed or possible revenue and payment posting. Select the users from the last drop down menu and click on the button _Run Report_:
+
+![ps3.png]({{site.baseurl}}/images/ps3.png)
 
 
 
