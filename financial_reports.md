@@ -43,6 +43,7 @@ The Financial Reports include all those reports that have to do with daily trans
  - **Cashier Report Detail**  
  - **Daily Balancing Audit Report**  
  - **Open Balance Report**
+ - **Posting Journal**
  - **Production Report**  
  - **Room Revenue Breakdown Report** 
  - **Total Revenue Breakdown Report**
