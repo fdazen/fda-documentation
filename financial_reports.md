@@ -321,6 +321,20 @@ The _Open Balance Report_ displays information about open balance with respect t
 
 
 
+##**Posting Journal** 
+
+The _Posting Journal Report_ provides comprehensive information about posted payments and revenue for all rooms. Results are broken down by room number, and you may also run the report for a selected user.  
+
+- In the reports list, click on the link _Posting Journal_:  
+
+![pj1.png]({{site.baseurl}}/images/pj1.png)  
+
+- If you have more than one Frontdesk Anywhere account, select the account/s for which you want to run the report. Use the drop down calendars to specify the report date range:  
+
+![ps2.png]({{site.baseurl}}/images/ps2.png)
+
+
+
 
 
 
