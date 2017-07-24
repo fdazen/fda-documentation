@@ -22,6 +22,7 @@ The Financial Reports include all those reports that have to do with daily trans
   
  - **Additional Revenue Report**  
  - **Adjustments Report**  
+ - **Aging Report**
  - **Applied Advanced Deposits Report** 
  - **Bill Add-on Charges Report**
  - **Cashier Report Detail**  
@@ -72,7 +73,20 @@ This report includes information about posted POS items and Add-Ons. There are a
 **Total Taxes**: sum of all applicable taxes.  
 **Total**: sum of Total Revenue and Total taxes.    
 
-{{site.data.alerts.important}} It might happen that you see the tag _Undefined_ in your results. This simply means that there are Revenue Categories or Labels that have not been assigned to a certain item. Learn how to fix this by going into section **Admin Settings** - **Accounting** of this manual. {{site.data.alerts.end}}
+{{site.data.alerts.important}} It might happen that you see the tag _Undefined_ in your results. This simply means that there are Revenue Categories or Labels that have not been assigned to a certain item. Learn how to fix this by going into section **Admin Settings** - **Accounting** of this manual. {{site.data.alerts.end}}  
+
+
+  
+##**Aging Report**    
+
+The _Aging Report_ is linked to the Account Receivable module found in the tab _Profiles_. This report serves to find out what invoices are overdue.  
+
+- In the reports list, click on the link _Aging Report_:  
+
+![v1.png]({{site.baseurl}}/images/v1.png)
+
+
+
 
   
   
