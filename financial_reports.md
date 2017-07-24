@@ -1,11 +1,13 @@
 ---
 title: Financial Reports
-tags: 
+tags:
   - Reports
   - Financial
 keywords: reports
-last_updated: "December 29th, 2015"
-summary: A description of the financial reports in FDA.
+last_updated: 'July 24th, 2017'
+summary: >-
+  Financial reports are useful to your Accounting Department. Here you will find
+  all information regarding what each report does and how to run it.
 published: true
 ---
 
@@ -23,7 +25,11 @@ published: true
 
 
 
-#**Financial Reports**
+##
+
+
+
+**Financial Reports**
      
        
        
