@@ -93,7 +93,12 @@ The _Aging Report_ is linked to the Account Receivable module found in the tab _
   
 - Select which AR Company/ies and Category/ies you want to run the check for. When done, click on the button _Run Report_:  
 
-![v3.png]({{site.baseurl}}/images/v3.png)
+![v3.png]({{site.baseurl}}/images/v3.png)  
+
+
+Here is an example of the report:  
+
+
 
 
 
