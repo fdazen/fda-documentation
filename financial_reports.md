@@ -109,12 +109,12 @@ Here is an example of the report:
 **Company Name**: reflects the Company name configured in the AR profile.  
 **Credit Limit**: displays the remaining credit. Note that the report will show $0 if no Credit Limit has been configured for the AR Profile.  
 **Balance**: displays the balance for all unpayed Issued invoices listed in the associated AR profile.  
-**Future**: e.  
-**Current**: e. 
-**30 Days**: e.  
-**60 Days**: e. 
-**90 Days**: e.  
-**120+ Days**: e. 
+**Future**: displays amount of money owed in the future.  
+**Current**: displays amount of money currently owed. 
+**30 Days**: displays amount of money due in 30 days. 
+**60 Days**: displays amount of money due in 60 days.
+**90 Days**: displays amount of money due in 90 days.  
+**120+ Days**: displays amount of money due in more than 120 days. 
 **Days Overdue**: shows the number of days invoices are past due. 
 
 
