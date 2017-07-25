@@ -83,7 +83,15 @@ The _Aging Report_ is linked to the Account Receivable module found in the tab _
 
 - In the reports list, click on the link _Aging Report_:  
 
-![v1.png]({{site.baseurl}}/images/v1.png)
+![v1.png]({{site.baseurl}}/images/v1.png)  
+
+
+- If you have more than one Frontdesk Anywhere account, select the one/s you want to run the report for. Also, select a date from the scroll down calendar:  
+
+![v2.png]({{site.baseurl}}/images/v2.png)
+  
+  
+-   
 
 
 
