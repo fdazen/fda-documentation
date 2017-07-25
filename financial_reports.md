@@ -97,9 +97,25 @@ The _Aging Report_ is linked to the Account Receivable module found in the tab _
 
 
 Here is an example of the report:  
+  
+![v4.png]({{site.baseurl}}/images/v4.png)
+   
+   
+   
 
+###**Fields Legend**  
 
-
+**Company Code**: reflects the Company short code placed in the AR Profile.  
+**Company Name**: reflects the Company name configured in the AR profile.  
+**Credit Limit**: displays the remaining credit. Note that the report will show $0 if no Credit Limit has been configured for the AR Profile.  
+**Balance**: displays the balance for all unpayed Issued invoices listed in the associated AR profile.  
+**Future**: e.  
+**Current**: e. 
+**30 Days**: e.  
+**60 Days**: e. 
+**90 Days**: e.  
+**120+ Days**: e. 
+**Days Overdue**: shows the number of days invoices are past due. 
 
 
 
