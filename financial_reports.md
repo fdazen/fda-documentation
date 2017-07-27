@@ -1,29 +1,19 @@
 ---
 title: Financial Reports
-tags: 
+tags:
   - Reports
   - Financial
 keywords: reports
-last_updated: "December 29th, 2015"
-summary: A description of the financial reports in FDA.
+last_updated: 'July 24th, 2017'
+summary: >-
+  Financial reports are useful to your Accounting Department. Here you will find
+  all information regarding what each report does and how to run it.
 published: true
 ---
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#**Financial Reports**
      
        
        
@@ -32,11 +22,13 @@ The Financial Reports include all those reports that have to do with daily trans
   
  - **Additional Revenue Report**  
  - **Adjustments Report**  
+ - **Aging Report**
  - **Applied Advanced Deposits Report** 
  - **Bill Add-on Charges Report**
  - **Cashier Report Detail**  
  - **Daily Balancing Audit Report**  
  - **Open Balance Report**
+ - **Posting Journal**
  - **Production Report**  
  - **Room Revenue Breakdown Report** 
  - **Total Revenue Breakdown Report**
@@ -81,7 +73,52 @@ This report includes information about posted POS items and Add-Ons. There are a
 **Total Taxes**: sum of all applicable taxes.  
 **Total**: sum of Total Revenue and Total taxes.    
 
-{{site.data.alerts.important}} It might happen that you see the tag _Undefined_ in your results. This simply means that there are Revenue Categories or Labels that have not been assigned to a certain item. Learn how to fix this by going into section **Admin Settings** - **Accounting** of this manual. {{site.data.alerts.end}}
+{{site.data.alerts.important}} It might happen that you see the tag _Undefined_ in your results. This simply means that there are Revenue Categories or Labels that have not been assigned to a certain item. Learn how to fix this by going into section **Admin Settings** - **Accounting** of this manual. {{site.data.alerts.end}}  
+
+
+  
+##**Aging Report**    
+
+The _Aging Report_ is linked to the Account Receivable module found in the tab _Profiles_. This report serves to find out what invoices are overdue.  
+
+- In the reports list, click on the link _Aging Report_:  
+
+![v1.png]({{site.baseurl}}/images/v1.png)  
+
+
+- If you have more than one Frontdesk Anywhere account, select the one/s you want to run the report for. Also, select a date from the scroll down calendar:  
+
+![v2.png]({{site.baseurl}}/images/v2.png)
+  
+  
+- Select which AR Company/ies and Category/ies you want to run the check for. When done, click on the button _Run Report_:  
+
+![v3.png]({{site.baseurl}}/images/v3.png)  
+
+
+Here is an example of the report:  
+  
+![v4.png]({{site.baseurl}}/images/v4.png)
+   
+   
+   
+
+###**Fields Legend**  
+
+**Company Code**: reflects the Company short code placed in the AR Profile.  
+**Company Name**: reflects the Company name configured in the AR profile.  
+**Credit Limit**: displays the remaining credit. Note that the report will show $0 if no Credit Limit has been configured for the AR Profile.  
+**Balance**: displays the balance for all unpayed Issued invoices listed in the associated AR profile.  
+**Future**: displays amount of money owed in the future.  
+**Current**: displays amount of money currently owed. 
+**30 Days**: displays amount of money due in 30 days. 
+**60 Days**: displays amount of money due in 60 days.
+**90 Days**: displays amount of money due in 90 days.  
+**120+ Days**: displays amount of money due in more than 120 days. 
+**Days Overdue**: shows the number of days invoices are past due. 
+
+
+
 
   
   
@@ -314,8 +351,56 @@ The _Open Balance Report_ displays information about open balance with respect t
 
 
 
+##**Posting Journal** 
+
+The _Posting Journal Report_ provides comprehensive information about posted payments and revenue for all rooms. Results are broken down by room number, and you may also run the report for a selected user.  
+
+- In the reports list, click on the link _Posting Journal_:  
+
+![pj1.png]({{site.baseurl}}/images/pj1.png)  
+
+- If you have more than one Frontdesk Anywhere account, select the account/s for which you want to run the report. Use the drop down calendars to specify the report date range:  
+
+![ps2.png]({{site.baseurl}}/images/ps2.png)
 
 
+- Select the folio statuses the report should account for: by default the report runs for Reserved, Checked-In and Hold folios because they identify reservations with confirmed or possible revenue and payment posting. Select the users from the last drop down menu and click on the button _Run Report_:
+
+![ps3.png]({{site.baseurl}}/images/ps3.png)  
+
+
+Here is an example of the report:  
+
+![p4.png]({{site.baseurl}}/images/p4.png)
+
+
+  
+###**Fields Legend**:  
+  
+**Room Number**: displays the room number associated with payment and revenue details.  
+**Revenue Category**: It displays whether the associated information is regarding payments or room revenue. Note that this field has nothing to do with Revenue Category Labels.  
+**Guests**: Guest name will be listed under this column.  
+**Folio No.**: displays associated folio number.  
+**Ref. No. Status**: this column gives more details regarding the type of item posted. Here is a breakdown:  
+
+ -_R = Revenue_ (Room Revenue)
+ -_P = Payment_   (Refunds will appear with a minus)
+ -_ADJ = Adjustment_  
+ -_POS = POS Item_
+ -_D = Deposit_  (Deposits are advanced payments, if a payment has been posted to a future folio, the system will mark it as a Deposit rather than a Payment)
+ -_RC = Reservation Cancelled  _  
+ 
+**Total**: Total payment/revenue amount.
+**Posting Date**: Time when revenue/payment was posted.  
+**Username**: User who posted revenue/payment. Note that this column may often show _Autopost_: this reminds to any automatic posting of payments and revenue made by the system, for example by Night Audit or IBE.  
+**Folio Status**: identifies the status of the folio. Here is a breakdown:  
+
+ -_I = In-House_
+ -_O = Checked-Out_  
+ -_R = Reserved_  
+ -_RC = Reservation Cancelled_  
+ 
+ 
 
 
 
