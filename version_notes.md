@@ -10,6 +10,19 @@ summary: >-
 published: true
 ---
 
+**3.5.3.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Room type image link
+Bug fix     | Fix Tape chart expand preference
+Bug fix     | Fix order rooms room type
+Bug fix     | Housekeeping section does not show new rooms
+Bug fix     | List reports does not show new rooms
+Bug fix     | Email Field Validation on Guest Fields
+Bug fix     | All Payment Statuses Included on Guest Messages
+
+
 **3.5.2.1**
 
 Enhancement | Description
