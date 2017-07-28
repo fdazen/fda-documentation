@@ -10,6 +10,13 @@ summary: >-
 published: true
 ---
 
+**3.5.4.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Error Adding Add-ons/POS
+
+
 **3.5.3.1**
 
 Enhancement | Description
