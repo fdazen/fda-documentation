@@ -13,8 +13,7 @@ published: true
 
 
 
-#**Internet Booking Engine Customization**  
-
+### Internet Booking Engine Customization
 
 Frontdesk Anywhere offers real-time commissionless online bookings on their website through IBE (Internet Booking Engine). Configuring the booking engine is fast, simple and user friendly. IBE 3.5 offers a wide variety of customizations, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
 
@@ -31,7 +30,7 @@ Replace XXXXXXX with your Frontdesk Anywhere account number. You can find this n
 This guide covers the set-up of IBE 3.5 and selling POS products on your website.
 
 
-##**IBE Customization**  
+## **IBE Customization**
 
 In order to configure and personalize your IBE, you will need to have access to the _Admin Settings_ control panel in your Frontdesk Anywhere account.
 
@@ -43,8 +42,7 @@ You will see a full list of links dedicated to IBE:
 Here you  will find a list of the main settings that need to be configured in order to begin using the Frontdesk Anywhere booking engine.
 
 
-###**Promo Code List**
-
+### **Promo Code List**
 IBE allows you to create special promotions that will only be visible to certain customers. For example, you may want to create a special rate valid only for returning customers: giving them a promo code will enable these guests to access a discounted or specific negotiated rates. 
 
 {{site.data.alerts.note}} We recommend to use Promo Codes for those promotional rates available all year long. Promo codes are accessible if the stay dates coincide with the booking window. In other words, it is currently not possible to book for future dates by using a promo code {{site.data.alerts.end}}
@@ -91,8 +89,7 @@ IBE allows you to create special promotions that will only be visible to certain
 
 
 
-###**Guest Requests**
-
+### **Guest Requests**
 You can set up pre-defined options to offer your guests. These options will conveniently appear at the time the guest finalizes their reservation, and they will be delivered in each folio's _Comment_ box.
 
 - Click on the link _Guest Requests_ under section IBE:
@@ -110,8 +107,7 @@ You can set up pre-defined options to offer your guests. These options will conv
 
 
 
-###**Confirmation Type**
-
+### **Confirmation Type**
 IBE gives you the ability to choose whether you want reservations get confirmed as either Email or Credit Card. With either selection the email is required but you can choose to omit the requirement of providing a credit card so the guest is not charged immediately. 
 
 - To choose your online reservation confirmation type, click on the link _Confirmation Type_ in the Admin Settings, under section**IBE**:  
@@ -124,8 +120,7 @@ IBE gives you the ability to choose whether you want reservations get confirmed 
 ![IBE_10.png]({{site.baseurl}}/images/IBE_10.png)
 
 
-###**Assign Room Logic** 
-
+### **Assign Room Logic**
 You can choose if and how you want to assign rooms for reservations coming from your IBE.  
 
 
@@ -148,8 +143,7 @@ Click on the button _Save Changes_ once all selection has been made:
 ![IBE_12.png]({{site.baseurl}}/images/IBE_12.png)
 
 
-###**Advanced Booking Period**
-
+### **Advanced Booking Period**
 You can configure how many months in advance you want your inventory to be available online for sale. 
 
 - Click on the link _Advanced Booking Period_ under section **IBE**:  
@@ -162,8 +156,7 @@ You can configure how many months in advance you want your inventory to be avail
 
 
 
-###**Upsell Items** 
-
+### **Upsell Items**
 You can sell any active POS item on your IBE. Items will appear on the guest’s confirmation email, and they will appear in each folio, under the POS section.
 You can also add pictures to be uploaded for each POS item. This is a great way to illustrate what’s on offer and incentivize the guest to purchase.
 
@@ -193,8 +186,7 @@ Before starting, click [here](http://docs.frontdeskanywhere.net/3_1_27_3/point_o
 
 
 
-###**Advanced Options**
-
+### **Advanced Options**
 There are many different advanced options that may be configured for IBE! Click on the link _Advanced Options_ under section IBE:  
 
 ![ibe_15_1.png]({{site.baseurl}}/images/ibe_15_1.png)
@@ -219,8 +211,7 @@ _Google Analytics ID_: Use this to add in your Google Analytics ID to enable Goo
 _Button Color_: Choose the color for IBE buttons as well as  for the IBE calendar. Customers usually match or find a complementary color to their logo color.
 
 
-##**Payment Collection Rules**   
-
+### **Payment Collection Rules**
 
 Payment Collection Rules only work if you have already a [payment gateway setup](http://docs.frontdeskanywhere.net/build/accounting.html#payment-processing) active for IBE. The confirmation type for IBE also must be set to _Credit Card_.
 The Payment Collection Rules are used to automatically charge your guests when they finalize their reservations. 
@@ -279,8 +270,7 @@ _Authorize Only_: If you do not want to charge your guests, bu you only want to 
 ![IBE_44.png]({{site.baseurl}}/images/IBE_44.png)
 
 
-##**Other Options**
-
+### **Other Options**
 Additional settings that are used by IBE can be found in other areas of the Admin Settings.
 
 **Logo** (under section _Property Info_). In order to create the best appearance, you should upload a company [logo](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/property_info.html) for IBE. 
