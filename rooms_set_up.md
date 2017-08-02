@@ -228,26 +228,23 @@ We have now come to the point where you need to build your hotel's room types: a
 
  
  
- - Select the maximum and default occupancy, and select the amenities applicable to this type of room: you will see two small panels, one called _Available Amenities_ and another called _Selected Amenities_, with two arrows in the middle:  
+ - Select the maximum and default occupancy by inserting the desired value in the apposite boxes. If you need to limit the number of children allowed, click on the check-box _Limit Children_. Place the maximum number of children allowed in the box:  
  
-
-![room_types_6.png]({{site.baseurl}}/images/room_types_6.png)
-
+ ![room.png]({{site.baseurl}}/images/room.png)
 
  
- To select the amenities applicable to this room type, select them among the available ones and use the arrows to move them from one panel to another: the ones under panel _Selected Amenities_ will be the one showing up in the system:  
+ 
+ 
+- Click on the _Status_ box to make the room type active upon saving. Finally, click on all applicable amenities for the room type:    
+ 
 
 
+![room12.png]({{site.baseurl}}/images/room12.png)
 
-![room_types_7.png]({{site.baseurl}}/images/room_types_7.png)
 
 
  
-- Click _Save_ when finished:  
-
-
-![room_types_8.png]({{site.baseurl}}/images/room_types_8.png)
-
+- Click _Save_ when finished.
 
 
 ###**Load Room Type Pictures**  
