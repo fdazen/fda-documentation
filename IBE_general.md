@@ -4,6 +4,12 @@ tags:
   - internet booking engine
   - IBE
   - online booking engine
+  - guest requests
+  - promo codes
+  - confirmation type
+  - upsell items
+  - advanced booking period
+  - payment collection rules
 keywords: 'internet booking engine, IBE, online booking engine'
 last_updated: 'January 11th, 2016'
 summary: This section describes how to customize the Internet Booking Engine (IBE).
