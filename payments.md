@@ -2,6 +2,12 @@
 title: Payments
 tags:
   - Payments
+  - Recording a payment
+  - Processing a Payment
+  - Authorization
+  - Transfer to folio
+  - Transfer to profile
+  - Transfer charges
 keywords: >-
   payments, recording a payment, swiping credit card, processing credit cards,
   transferring charges, transfers to folio, transfers to profile
