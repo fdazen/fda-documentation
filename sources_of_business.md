@@ -1,7 +1,9 @@
 ---
 title: Sources of Business
 tags:
-  - sources
+  - sources of business items
+  - sources of business categories
+  - source of business rules
 keywords: >-
   sources, source tags, sources of business rules, sources of business
   categories, 
