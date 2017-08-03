@@ -1,6 +1,9 @@
 ---
 title: Housekeeping
-tags: housekeeping
+tags:
+  - housekeeping
+  - housekeeping status
+  - housekeeping rules
 keywords: 'housekeeping, housekeeping status, housekeeping rules'
 last_updated: 'December 7th, 2015'
 summary: >-
