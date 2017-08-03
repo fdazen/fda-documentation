@@ -1,10 +1,15 @@
 ---
 title: Group Reservations
-tags: 
+tags:
   - group reservation
-keywords: "groups, group reservation, group rules"
+  - group rules
+  - group payments
+  - add rooms to group
+keywords: 'groups, group reservation, group rules'
 last_updated: December 22nd 2015
-summary: "This section guides you through making a group booking, adding additional rooms for a group, and set up payment group rules."
+summary: >-
+  This section guides you through making a group booking, adding additional
+  rooms for a group, and set up payment group rules.
 published: true
 ---
 
