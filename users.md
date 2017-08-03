@@ -1,7 +1,9 @@
 ---
 title: Users
 tags:
+  - users levels
   - users
+  - users permissions
 keywords: 'users, user levels, user restrictions, shifts, permissions.'
 last_updated: 'November 23rd, 2015'
 summary: >-
