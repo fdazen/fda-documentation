@@ -1,7 +1,9 @@
 ---
 title: Point of Sale
 tags:
-  - POS
+  - POS point
+  - Pos categories
+  - Pos items
 keywords: 'POS Items, POS Categories, POS Products, Point of Sale'
 last_updated: 'December 24th, 2015'
 summary: >-
