@@ -277,7 +277,7 @@ We have now come to the point where you need to build your hotel's room types: a
 ##Room Availability Period  
 
 
-Before configuring the rooms that will be listed under each room type, you will need to configure a _Room Availability Period_: it defines the time period when each room is available. If you are running a seasonal buisness, for example, you will be able to pre-configure when your rooms are available in the system. This feature also comes handy if rooms need to be taken off the availability chart for a limited period of time.  
+Before configuring the rooms that will be listed under each room type, you will need to configure a _Room Availability Period_: it defines the time period when each room is available. If you are running a seasonal buisness, for example, you will be able to pre-configure when your rooms are available in the system. This feature also comes handy if rooms need to be taken off the availability chart for a limited period of time. We remind you that configuring a room availability period is a requirement for room creation: if your hotel runs all year long, you will simply need to create one availability period.
 
 
 - In the Admin Settings, click on the link **Room Availability Periods** under section _Rooms_:  
@@ -288,7 +288,25 @@ Before configuring the rooms that will be listed under each room type, you will 
 
 - Click on the button _Add_:  
 
-![122.png]({{site.baseurl}}/images/122.png)  
+
+![122.png]({{site.baseurl}}/images/122.png)    
+
+
+- In the _Title_ field, type in the name for the availability period. Then, select the availability starting date by clicking one the  _Availability Start_ field:  
+
+![114.png]({{site.baseurl}}/images/114.png)
+  
+  
+- Choose when the availability period should end. If your hotel runs all year long, simply check the _Ongoing_ circlebox. Otherwise, click on the circlebox _Set End Date_: then click on the field below to choose an end date:  
+
+![145.png]({{site.baseurl}}/images/145.png)  
+
+
+-Activate the availability period by checking the _Status_ box, and click on the blue _Save_ button:  
+
+![125.png]({{site.baseurl}}/images/125.png)  
+
+
 
 
 
