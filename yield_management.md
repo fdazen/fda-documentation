@@ -18,7 +18,7 @@ published: true
 
 
 
-##**Yield Management Rules**  
+##Yield Management Rules  
 
 Let us start by defining what rules you want the system to follow.  
 
@@ -88,7 +88,7 @@ To <span class="label label-default">EDIT</span> a rule, click on the blue link 
 
  
 
-##**Yield Management Settings**  
+##Yield Management Settings  
 
 Once the Yield Management Rules are created, you will need to specify how often you want the system to check and apply those rules.  
 
@@ -108,7 +108,7 @@ Once the Yield Management Rules are created, you will need to specify how often 
 
 
  
-##**Running the Yield Manager**  
+##Running the Yield Manager  
 
 The time frame you choose in the Yield Management Settings will ensure that the system periodically updates price according to occupancy levels. However, there might be times at which you may want to manually run the Yield Manager.
 
