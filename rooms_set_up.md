@@ -19,11 +19,7 @@ published: true
 
 
 
-
-
-
-
-
+Room Configuration is probably one of the first steps you will take towards setting up your Frontesk Anywhere account. We recommend you to follow the order below when building your rooms, as some items are requirements for building other items.
 
 
 
