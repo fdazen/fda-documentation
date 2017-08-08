@@ -24,7 +24,7 @@ published: true
 
 
 
-##**POS Points**
+##POS Points
 
 Start by creating your POS Points.  
 
@@ -63,7 +63,7 @@ Start by creating your POS Points.
 
  
  
-##**POS Categories**
+##POS Categories
 
  
  Once POS Points are created, you can go ahead and create your Categories.
@@ -117,7 +117,7 @@ Click on the blue button _Save POS Category_ when done.
 
 
 
-##**POS Products**  
+##POS Products  
 
 After creating your POS Points and Categories, you can finally proceed to set up all items you want to sell!
 
@@ -191,7 +191,7 @@ The procedure is the same as adding a new one!
  
 
 
-##**Charging POS Products**  
+##Charging POS Products  
 
 - Add a POS product charge from any reservation folio, bly clicking on the blue link _POS Items_ on the right hand side of any folio:  
 
