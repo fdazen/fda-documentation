@@ -1,10 +1,15 @@
 ---
 title: Single Reservation
-tags: 
+tags:
   - single reservation
-keywords: "single entry reservation, reservation, how to make a reservation, folio, cancel, check-in, check-out, no show, post add-on, POS items"
-last_updated: "December 15th, 2015"
-summary: You can create solo reservations easily with a simple click on the Tape Chart. You will need to make sure that the room you are trying to book for the chosen dates is available for the date range the reservation is for.
+keywords: >-
+  single entry reservation, reservation, how to make a reservation, folio,
+  cancel, check-in, check-out, no show, post add-on, POS items
+last_updated: 'December 15th, 2015'
+summary: >-
+  You can create solo reservations easily with a simple click on the Tape Chart.
+  You will need to make sure that the room you are trying to book for the chosen
+  dates is available for the date range the reservation is for.
 published: true
 ---
 
@@ -27,7 +32,7 @@ published: true
 
 
 
-##**Choosing Dates and Showing Availability**
+##Choosing Dates and Showing Availability
 
 
 The first way you can start creating a single reservation is by clicking directly on the empty box on your Tape Chart, corresponding to the day and room you want to book. 
