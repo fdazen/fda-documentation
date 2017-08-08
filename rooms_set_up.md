@@ -328,30 +328,31 @@ You can now load in the system all of the rooms at your property, and organize t
 
 
 
-{{site.data.alerts.important}} If your account has already a few rooms already built from your demo, we advise to edit the existing rooms before creating new ones, as rooms cannot be deleted once created, but only deactivated. {{site.data.alerts.end}}
 
-
-- To <span class="label label-primary">EDIT</span> a room, click on the blue link _Edit_ on the right hand side of a room:  
-
-![Rooms_2.png]({{site.baseurl}}/images/Rooms_2.png)
+- To add a new room, click on the button _Add_:  
 
 
 
- - Insert the room name or number, the type it belongs to, the floor and the class. Use the drop down calendar to decide when the room availability should start: you can choose a past or future date. Once done, you can click on the blue button _Save_:  
- 
-
-![rooms_3.png]({{site.baseurl}}/images/rooms_3.png)
+![55.png]({{site.baseurl}}/images/55.png)
 
 
 
- 
- - To create a new room, scroll down the list of rooms and click on the button _Add a Room_:  
- 
-
-![rooms_4.png]({{site.baseurl}}/images/rooms_4.png)
+- To create one room at a time, select the option _Single Room_, and fill in all the information: insert the room name/number in the _Title_ field. The _Description_ box is only used on this screen and can be ignored. Assign the room the right _Room Type_, _Floor_, and _Room Class_ by choosing an option from the drop down menus:  
 
 
-- Select the option _Single Room_ from the top options, and fill in all the information. Click _Save_ when finished:  
+![56.png]({{site.baseurl}}/images/56.png)
+  
+  
+  
+- Activate the room by checking the _Status_ box, and select an _Availability Period_. When done, click ont he blue _Save_ button:  
+
+![57.png]({{site.baseurl}}/images/57.png)
+
+
+
+
+
+. Click _Save_ when finished:  
 
 
 ![rooms_4.1.png]({{site.baseurl}}/images/rooms_4.1.png)
