@@ -10,6 +10,17 @@ summary: >-
 published: true
 ---
 
+**3.5.5.1**
+
+Enhancement | Description
+------------|---------
+Improvement | Improve booking save speed
+Bug fix     | Offsite bookings causes reservation error
+Bug fix     | Creating Offsite payer throws an error
+Bug fix     | Published rooms shows 0 rooms
+Bug fix     | Update Booking on Transaction Voids
+
+
 **3.5.4.1**
 
 Enhancement | Description
