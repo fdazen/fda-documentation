@@ -1,6 +1,8 @@
 ---
 tags:
   - Profiles
+  - Guest profile
+  - Travel Agent profile
 keywords: >-
   profiles, guest profile, company profile, travel agent profile, invoice
   profile, search profile, create profile

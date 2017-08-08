@@ -2,6 +2,14 @@
 title: General
 tags:
   - general
+  - languages
+  - modes of arrival
+  - identification types
+  - sources of business
+  - display colors
+  - guest information
+  - custom fields
+  - alerts
 keywords: >-
   languages, modes of arrival, identification types, sources of business,
   markets, display colors, guest information, reservation information, custom

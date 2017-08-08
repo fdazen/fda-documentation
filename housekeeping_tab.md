@@ -1,11 +1,17 @@
 ---
 title: Housekeeping Tab
-tags: 
-  - Housekeeping
-keywords: "housekeeping, tab"
-last_updated: "March 22nd, 2016"
-summary: "The Housekeeping Tab is where your housekeepers will get all the information they need to organize their daily work-load. Learn here how to make the most from it!"  
----  
+tags:
+  - Housekeeping Tab
+  - Assign filters
+keywords: 'housekeeping, tab'
+last_updated: 'March 22nd, 2016'
+summary: >-
+  The Housekeeping Tab is where your housekeepers will get all the information
+  they need to organize their daily work-load. Learn here how to make the most
+  from it!
+published: true
+---
+  
 
 
 ##**Housekeeping Tab Organization and Set-up**  
@@ -186,20 +192,3 @@ As the day goes by and work gets done by your employees, your Housekeepers will 
 The updated status will appear in real-time to the Frontdesk users on the left hand side of any room. The statuses are color coded, and the Frontdesk users will need to refresh the page to get the most updated information: 
 
 ![Housekeeping_tab_26.png]({{site.baseurl}}/images/Housekeeping_tab_26.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

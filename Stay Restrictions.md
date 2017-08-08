@@ -41,8 +41,6 @@ The _Description_ will appear on the booking engine as a guidance as to why gues
 If not sure about what days of the week the period corresponds to, select them all. The restriction will only pick up on the dates specified by the scroll down calendars.  
 
 
-{{site.data.alerts.warning}}Important: restrictions work **inclusively**. This means that the restriction will be effective for all dates selcted.  {{site.data.alerts.end}}  
-
 
 - Choose how the system should enforce the restriction:  
 ![stay_4.png]({{site.baseurl}}/images/stay_4.png)

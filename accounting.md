@@ -2,6 +2,16 @@
 title: Accounting
 tags:
   - accounting
+  - currency
+  - fiscal year
+  - pay types
+  - credit card types
+  - credit card purge
+  - adjustment reason list
+  - revenue account label
+  - revenue account category
+  - revenue manager
+  - invoices
 keywords: >-
   reports, payments, currency, pay types, credit card, invoices, discount
   reasons, Revenue Labels, Revenue Categories, security deposit
