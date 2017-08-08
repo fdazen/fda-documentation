@@ -23,8 +23,7 @@ published: true
 
 
 
-##**Taxes and Fees**
-
+##Taxes and Fees
   
 As a first thing, you will need to set up all applicable fees and taxes.  
 
@@ -79,7 +78,7 @@ We advise you to speak to your accountant to go over these important details. {{
 
  
 
-###**Tax Operations**  
+###Tax Operations
 
 <span class="label label-info">Deactivate</span> To make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
