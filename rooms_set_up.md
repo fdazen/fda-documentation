@@ -274,6 +274,26 @@ We have now come to the point where you need to build your hotel's room types: a
 ![Room_types_13.png]({{site.baseurl}}/images/Room_types_13.png)
 
 
+##Room Availability Period  
+
+
+Before configuring the rooms that will be listed under each room type, you will need to configure a _Room Availability Period_: it defines the time period when each room is available. If you are running a seasonal buisness, for example, you will be able to pre-configure when your rooms are available in the system. This feature also comes handy if rooms need to be taken off the availability chart for a limited period of time.  
+
+
+- In the Admin Settings, click on the link **Room Availability Periods** under section _Rooms_:  
+
+
+![123.png]({{site.baseurl}}/images/123.png)  
+
+
+- Click on the button _Add_:  
+
+![122.png]({{site.baseurl}}/images/122.png)  
+
+
+
+
+
 
 
 ##Rooms  
