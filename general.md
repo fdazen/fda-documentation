@@ -31,7 +31,7 @@ published: true
 
 
 
-##**Languages**  
+##Languages  
 
 Frontdesk Anywhere comes with a few optional languages that you can set up as default for both your OBE and your PMS.
 
@@ -71,7 +71,7 @@ Frontdesk Anywhere comes with a few optional languages that you can set up as de
  Setting up a default language only means that all _new_ users will see the system in that language upon their first log-in.   
 
 
-##**Modes Of Arrival**  
+##Modes Of Arrival  
 
 Create your guest's modes of arrival to keep track of how they come to your property!  
 
@@ -125,7 +125,7 @@ or you can erase them by selecting the check box on the left hand side of any Mo
 
 
 
-##**Identification Type**  
+##Identification Type  
 
 You configure all the Identification Types that are accepted at your property in a simple click!  
 
@@ -172,9 +172,9 @@ You configure all the Identification Types that are accepted at your property in
 
 
 
-##**Markets**  
+##Markets  
 
-Markets are used to group your guests into segments: you can report on this field to have a better understanding on who your guests are.  
+Markets are used to group  guests into market segments: you can report on this field to have a better understanding on who your guests are.  
 
 - In the Admin Settings, click on the link **Markets** under section _General_:  
 
@@ -220,7 +220,7 @@ Markets are used to group your guests into segments: you can report on this fiel
 
 
 
-##**Guest Information and Reservation Information Custom Fields**  
+##Guest Information and Reservation Information Custom Fields 
 
 Frontdesk Anywhere allows you to personalize the number and type of fields you want to have in your reservation folios. Before starting, let us look at a reservation folio:  
 
@@ -321,7 +321,7 @@ When you mark a field as **Required**, the system will force agents to insert th
   - The _Reservation Information: Custom Fields_ link works the same as the _Guest Information: Custom Fields_ one.  
 
 
-##**Display Colors**
+##Display Colors
   
   Your account comes with a set of colors that you can easily personalize. Colors are used to define the status of a reservation and of rooms, they are employed to give you a good first-glance understanding of what is happening at your property at any time by just looking at your Tape Chart.  
 
@@ -368,7 +368,7 @@ When you mark a field as **Required**, the system will force agents to insert th
 
 
 
-##**Alerts**
+##Alerts
 
 Frontdesk Anywhere can help you reducing the margin of human error that is involved in the daily management of your hotel. You can set up the system to warn users when a possible damaging action is about to be taken: for example, if a guest is about to be checked-in into a dirty room, or if a guest is about to be checked-out with an outstanding balance, security deposit.
 
