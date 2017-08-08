@@ -368,51 +368,34 @@ You will have two options to create multiple rooms.
 - To create rooms that are under the same type, but have different names or numbers, select the option _Multiple Rooms - Comma Separated_:  
 
 
-![rooms_4.2.png]({{site.baseurl}}/images/rooms_4.2.png)
+![543.png]({{site.baseurl}}/images/543.png)
 
  
-- Enter all room names/numbers in the editable box, separating each name/number with a comma and no space. Fill in all other information and when finished, click on the button _Save_:  
+- Enter all room names/numbers in the editable box, separating each name/number with a comma and no space. The _Description_ box is only used on this screen, and it may be ignored. Fill in all other information and when finished, click on the button _Save_:  
 
 
-
-![rooms_4.3.png]({{site.baseurl}}/images/rooms_4.3.png)  
-
-
+![53.png]({{site.baseurl}}/images/53.png)
 
 
 - If your rooms are numbered in a progressive order, you may want to use the option to create _Multiple Rooms - Incremental Room Numbers_. Select this option by clicking on the circle box on the top of the room creation panel:  
 
 
-![rooms_4.4.png]({{site.baseurl}}/images/rooms_4.4.png)  
+![52.png]({{site.baseurl}}/images/52.png)  
 
 
 
-- Place a Prefix, and insert the first and last number of the progressive room order. In the example below, all rooms between 101 and 110 are going to be automatically built:  
+- Fill in the _Prefix_, and insert the first and last number of the progressive room order. In the example below, all rooms between 101 and 110 are going to be automatically built:  
 
 
-![rooms_4.6.png]({{site.baseurl}}/images/rooms_4.6.png)
+![51.png]({{site.baseurl}}/images/51.png)
 
 
 {{site.data.alerts.important}} The Prefix will be added to the room accronym. If you do not need both accronym and prefix before the room number, you may leave the Prefix field empty. {{site.data.alerts.end}}
 
-
+Fill in all other information and click on the button _Save_.
   
 
- - As mentioned above, rooms cannot be erased but they can be made inactive. Inactive rooms won't appear in your account anywhere. To make a room inactive, un-check the box under the _Status_ column for the relevant row:  
  
-
-![Rooms_9.png]({{site.baseurl}}/images/Rooms_9.png)
-
-
- 
-{{site.data.alerts.warning}}  Before making a room inactive, make sure to move all reservations currently existing in the room by placing them into another room (or cancelling them). {{site.data.alerts.end}} 
- 
- - If your hotel has a lot of rooms, you may come to need to filter your rooms. On the top right hand side of the room panel there are filters that will help you find a specific room:  
- 
-
-![Rooms_10.png]({{site.baseurl}}/images/Rooms_10.png)
-
-
  
  
 ##Order Room Types  
