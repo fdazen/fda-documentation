@@ -29,7 +29,7 @@ published: true
 
 
 
-##**Floors**  
+##Floors  
 
 
 
@@ -79,7 +79,7 @@ The same small window will pop-up: edit the name and click on the button _Save_ 
 
 
 
-###**How To Use Floors**  
+###How To Use Floor  
 
 When you log in into your account, go to the Frontdesk Tab: on the right hand side there will be a scroll down menu with the tag _View by Type_. Click on the scroll down menu and select _View by Floor_ to visualize your rooms grouped by floors.
 
@@ -88,7 +88,7 @@ When you log in into your account, go to the Frontdesk Tab: on the right hand si
 
 
 
-##**Amenities**
+##Amenities
 
 
 Before creating your rooms, you will need to configure the amenities that are available in your rooms. Make sure to create _all_ of the amenities, independently of the type or room level in which they appear.  
@@ -135,7 +135,7 @@ Before creating your rooms, you will need to configure the amenities that are av
 
 
   
-##**Room Classes**
+##Room Classes
 
 
 A room class is a general concept referring to any extra organizational level you wish to have for your rooms. For example, if your hotel offers bed dorms, you can create a 'dorm' class to group your beds; or if you have different buildings, you can treat classes as 'buildings', and easily check for availability. Room Classes represent a grouping level for rooms but only for internal purposes: your guests won't be able to see nor to book a rom listed under a specific class.
@@ -181,7 +181,7 @@ A room class is a general concept referring to any extra organizational level yo
 
 
 
-###**How to Use Classes**  
+###How to Use Classes  
 
 
 
@@ -191,7 +191,7 @@ When you log in into your account, go to the Frontdesk tab: on the right hand si
 
 
 
-##**Room Types**   
+##Room Types   
 
 
 We have now come to the point where you need to build your hotel's room types: as we understand it, a room 'type' is defined by the occupancy level, its position in the bulding and the type of amenities it offers. For example, common room types are 'King', 'Queen', 'Twin', and so on.  
@@ -247,7 +247,7 @@ We have now come to the point where you need to build your hotel's room types: a
 - Click _Save_ when finished.
 
 
-###**Load Room Type Pictures**  
+###Load Room Type Pictures  
 
  - Go back to the Room Types List (Admin Settings - Room Types) and click on the blue link _Images_ on the right hand side of the relevant room type: 
  
@@ -276,7 +276,7 @@ We have now come to the point where you need to build your hotel's room types: a
 
 
 
-##**Rooms**  
+##Rooms  
 
 You can now load in the system all of the rooms at your property, and organize them around the room types, classes and floors you have created.  
 
@@ -320,7 +320,7 @@ You can now load in the system all of the rooms at your property, and organize t
 
 
  
- ###**Creating Multiple Rooms**  
+ ###Creating Multiple Rooms  
  
  
 You will have two options to create multiple rooms.
@@ -376,7 +376,7 @@ You will have two options to create multiple rooms.
 
  
  
-##**Order Room Types**  
+##Order Room Types  
  
  You can decide the order in which your room types are displayed on your Tape Chart with just one click.  
  
@@ -402,7 +402,7 @@ You will have two options to create multiple rooms.
 {{site.data.alerts.note}} In order to see changes being effective on your Tape Chart, do not forget to log out and log back in into the system. This will ensure a proper refresh of the room order. {{site.data.alerts.end}} 
 
 
-##**Order Rooms**  
+##Order Rooms  
 
 
 To order with which your rooms are listed under each type, click on the blue link _Order Rooms_, under section **Rooms**: a list of all your rooms will appear, along with an editable box on the right side: order your rooms by placing them in progressive order. When finished, click on the blue button _Save_:  
@@ -413,7 +413,7 @@ To order with which your rooms are listed under each type, click on the blue lin
 
 
 
-##**Published Rooms**  
+##Published Rooms  
 
 
 Frontdesk Anywhere allows you to take some rooms off all channels or to increase the availability value. You will have both the ability to select how many rooms you wish to protect and decide by how many reservations you wish to overbook. 
@@ -452,7 +452,7 @@ Real Availability + Overbooking Allowance - Protected Rooms = Total Availability
 
 
 
-##**Tape Chart/Refresh Your Availability**  
+##Tape Chart/Refresh Your Availability  
   
   
   
@@ -494,7 +494,7 @@ The _Update Date Range_ is uneditable, and it is fixed to 2 Years. This means th
 ![tape_chart_run_4.png]({{site.baseurl}}/images/tape_chart_run_4.png)
 
 
-###**Calculate Inventory**  
+###Calculate Inventory  
 
 Having the system Calculating Inventory depends on whether you want to send a _hard refresh_ of inventory to the channels, rather than a simple _push of inventory_. Choosing to re-calculating your inventory means to **re-build** all of the information loaded in your Tape Chart and then send it to the channels. A simple push of inventory, on the other hand, means to send whatever information are already displayed on the Tape Chart to the channels.
 
@@ -502,7 +502,7 @@ Calculating Inventory might take a lot of time, especially if you have a big pro
 
 
 
-##**Choosing room priority for reservations**    
+##Choosing room priority for reservations    
   
 
 Frontdesk Anywhere allows you to establish a priority for where newly created reservation interfacing with the software will be placed. This comes handy if you want your best rooms to always have reservations assigned, and by the same token, if you want certain rooms always to be filled up at last.  
