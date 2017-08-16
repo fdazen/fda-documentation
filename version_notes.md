@@ -10,6 +10,17 @@ summary: >-
 published: true
 ---
 
+**3.5.7.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Room assignment bug when dates are changed
+Bug fix     | Inclusive tax fix
+Bug fix     | POS work area fixes
+Bug fix     | IBE room type images fix
+Bug fix     | Stop external charge removal
+
+
 **3.5.5.1**
 
 Enhancement | Description
