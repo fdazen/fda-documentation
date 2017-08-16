@@ -1,11 +1,15 @@
 ---
 title: Manager Reports
-tags: 
+tags:
   - Reports
   - Manager
-keywords: "reports, manager, daily operations"
-last_updated: "January 31st, 2016"
-summary: "In this section you will find a description of all those reports that are helpful to the hotel managers' daily operations. You will find important information about current or forecasted occupancy level, guests, channel production and much more!"
+keywords: 'reports, manager, daily operations'
+last_updated: 'January 31st, 2016'
+summary: >-
+  In this section you will find a description of all those reports that are
+  helpful to the hotel managers' daily operations. You will find important
+  information about current or forecasted occupancy level, guests, channel
+  production and much more!
 published: true
 ---
 
@@ -13,7 +17,7 @@ published: true
   
  
   
-##**Lodging Statistics Report**  
+##Lodging Statistics Report 
   
 The _Lodging Statistics Report_ gives you important information about occupancy and revenue. The information is displayed both in a percentage and a numeric value, and it can be used to calculate past, present occupancy, but also to forecast it. Data about revenue is also broken down by room/additional charges and taxes. The report also offers an average daily rate by date.   
 
@@ -29,9 +33,9 @@ The _Lodging Statistics Report_ gives you important information about occupancy 
 
 ![Manager_Report_3.png]({{site.baseurl}}/images/Manager_Report_3.png)  
 
+###Fields legend
 
-###**Fields Legend**  
-  
+
 **Date**: date for which information is shown.  
 **Day**: day of the week for the date shown.  
 **TLRM**: total number of rooms at the property for the date shown.  
@@ -56,7 +60,7 @@ The _Lodging Statistics Report_ gives you important information about occupancy 
   
   
   
-##**Manager's Report**  
+##Manager's Report  
 
 The _Manager's Report_ gives managers a quick overview on daily, month-to-date and year-to-date occupancy and revenue values. It includes forecasting information for the upcoming year and the next 365 days, offering a great understanding on how the business is/will be doing.  
 
@@ -73,7 +77,7 @@ The _Manager's Report_ gives managers a quick overview on daily, month-to-date a
 ![Manager_Report_6.png]({{site.baseurl}}/images/Manager_Report_6.png)
 
 
-###**Fields Legend**  
+###Fields legend
   
 **Day**: shows information for the current day.  
 **Period TD**: period to date.  
@@ -81,7 +85,7 @@ The _Manager's Report_ gives managers a quick overview on daily, month-to-date a
 
   
   
-##**Pace Report**  
+##Pace Report  
 
 The _Pace Report_ compares information from two different date ranges of your choice, it shows information about reservations on the books and tracks booking trends in order to maxime revenue!  
 
@@ -98,7 +102,7 @@ The _Pace Report_ compares information from two different date ranges of your ch
 ![Manager_Report_9.png]({{site.baseurl}}/images/Manager_Report_9.png)
   
   
-###**Fields Legend**  
+###Fields legend
 
 **Date**: breakdown by day of the period selected as date range.  
 **Day**: corresponsindg day of the week.  
@@ -112,7 +116,7 @@ The _Pace Report_ compares information from two different date ranges of your ch
 
 
 
-##**Production Report By Month**
+##Production Report By Month
   
 The _Production Report By Month_ gives you a monthly summary of four different information types: bookings, occupancy, PAX and Unique Guests. You can also have the result organized by Source or Market. A line chart of the information is also supplied as a visual aid to help the user see how Source/Market information changes on a monthly basis.  
 
@@ -139,9 +143,8 @@ When finsihed, click on the blue button _Run Report_:
 ![Manager_reports_12.png]({{site.baseurl}}/images/Manager_reports_12.png)
 
 
-###**Fields Legend**:  
+###Fields legend
 
 **Market/Source**: lists all market/source names associated with the number of reservation shown.  
 **Month**: shows the number of reservation per month. Note that the report will display only months with existing reservation loaded.  
-**Total**: sum of all reservation for all displayed months.  
-
+**Total**: sum of all reservation for all displayed months.

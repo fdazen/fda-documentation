@@ -13,11 +13,6 @@ published: true
 
 
 
-
-     
-       
-       
-The Financial Reports include all those reports that have to do with daily transactions performed at your property, and they offer a precise understanding of all financial operations. For this reason, these will mostly important to your Accounting Department. These include:  
   
   
  - **Additional Revenue Report**  
@@ -36,7 +31,7 @@ The Financial Reports include all those reports that have to do with daily trans
  - **Trial Balance With Range Report**
 
 
-##**Additional Revenue Breakdown**
+##Additional Revenue Breakdown
 
 This report includes information about posted POS items and Add-Ons. There are a variety of filters that will allow you to choose how you want the results to displayed. This report is useful for many reasons: it allows the Accounting department to follow up with  how many actual extra charges have been sold for a certain date range, and it allows them to include a folio breakdown where you can see where in the system the charges have been posted. As results can also be organized around the user who posted the item, it comes handy if your hotel needs to calculate commission based on upsell items. 
 
@@ -56,7 +51,7 @@ This report includes information about posted POS items and Add-Ons. There are a
 ![Finacial_reports_3.png]({{site.baseurl}}/images/Finacial_reports_3.png)
 
 
-###**Fields Legend**  
+###Fields Legend  
 
 **Charge Type**: displays the type of Item that has been posted.  
 **Revenue Category**: shows the Revenue Category associated with the item.  
@@ -77,7 +72,7 @@ This report includes information about posted POS items and Add-Ons. There are a
 
 
   
-##**Aging Report**    
+##Aging Report    
 
 The _Aging Report_ is linked to the Account Receivable module found in the tab _Profiles_. This report serves to find out what invoices are overdue.  
 
@@ -103,7 +98,7 @@ Here is an example of the report:
    
    
 
-###**Fields Legend**  
+###Fields Legend 
 
 **Company Code**: reflects the Company short code placed in the AR Profile.  
 **Company Name**: reflects the Company name configured in the AR profile.  
@@ -122,7 +117,7 @@ Here is an example of the report:
 
   
   
-##**Adjustments Report**
+##Adjustments Report**
 
 The _Adjustment Report_ gives you a summary of all adjustments made on each folio for a selected date range. Along with the adjustment amount, it gives information of the Department that has allowed it and the reason why it has been given out. If you want to keep track of reasons and departments, make sure to configure those in the Admin Settings, section **Accounting**: check out the configuration part of this manual to learn how to!   
 
@@ -139,7 +134,7 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 ![Finacial_reports_6.png]({{site.baseurl}}/images/Finacial_reports_6.png)
  
 
-###**Fields Legend**    
+###Fields Legend    
 
 **Folio No**: Folio hwere the adjustment was performed.  
 **Date&Time**: Time and date when the adjustment was performed.  
@@ -154,7 +149,7 @@ The _Adjustment Report_ gives you a summary of all adjustments made on each foli
 **Total**: total amount of revenue and taxes adjusted.  
   
   
-##**Applied Advanced Deposits Report**  
+##Applied Advanced Deposits Report  
  
 The _Applied Advanced Deposit Report_ shows all payments taken for a selected date range and provides general information about the associated reservation folios. The report also applies those payments against accrued revenue (Applied Deposit) and against revenue that has not yet been accrued (Advanced Deposit): for this reason, you will see a _Run for Date_ filter which will be used to calculate how much deposit has been applied and how much is advanced.  
  
@@ -174,7 +169,7 @@ In the example above, I am taking all payments posted between 01/20 through 01/3
 ![Finacial_reports_33.png]({{site.baseurl}}/images/Finacial_reports_33.png)
  
  
-###**Fields Legend**  
+###Fields Legend
  
 **Name**: guest name.  
 **Room Number**: number of room associated with the reservation folio.  
@@ -197,7 +192,7 @@ In the example above, I am taking all payments posted between 01/20 through 01/3
 
 
 
-##**Bill Add-On Charges Report**  
+##Bill Add-On Charges Report  
 
 The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items posted for a selected date range. This report also displays information about the reservation folios associated with the charge. Differently from the _Additional Revenue Breakdown_ report, the Bill Add-On report won't provide a breakdown of taxable, non-taxable revenue and taxes, as it is supposed to provide more general information about additional revenue. 
 
@@ -214,7 +209,7 @@ The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items 
   
 ![Finacial_reports_30.png]({{site.baseurl}}/images/Finacial_reports_30.png)  
 
-###**Fields Legend**  
+###Fields Legend 
 
 **Name**: guest name associated with the folio number.  
 **Room Number**: room number associated with the reservation folio.  
@@ -239,7 +234,7 @@ The _Bill Add-On Charges Report_ shows detailed information about Add-Ons items 
 
 
    
-##**Cashier Report Detail**   
+##Cashier Report Detail 
 
 The _Cashier Report Detail_ will provide you with detailed payment information made on a selected date range. You will have the ability to filter by the user who posted the payment and also to show refunds. The option _IBE_ is available to retrieve information about payments processed by your Payment Gateway by those bookings made on your Internet Booking Engine. All payments are broken out into Payment Type and reservation Folio number.  
 
@@ -272,7 +267,7 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 ![Finacial_reports_9.png]({{site.baseurl}}/images/Finacial_reports_9.png)  
 
 
-###**Fields Legend**  
+###Fields Legend 
 
 **Payment Type**: The report is broken down by pay type, which will be listed on the top of the results. In the example above, there are two payment types showing, Cash and Visa.  
 **Payment Date**: Date and time where the payment was posted.  
@@ -283,7 +278,7 @@ The _Cashier Report Detail_ will provide you with detailed payment information m
 
 
 
-##**Daily Balancing Audit Report**
+##Daily Balancing Audit Report
 
 The _Daily Balancing Audit Report_ provides a breakdown of each folio and compares charges with payments posted. Charges include additional revenue. This report is really the Trial Balance report but with a folio breakdown, so we advise to run it from the beginning of your fiscal year. The Daily Balancing Audit Report is mostly useful when trying to find errors/discrepancies directly in the folio where the charges/settlements have been processed.
   
@@ -300,7 +295,7 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
 ![Finacial_reports_12.png]({{site.baseurl}}/images/Finacial_reports_12.png)
 
 
-###**Fields Legend**  
+###Fields Legend 
   
 **Folio No**: Reservation folio Number.  
 **Taxable Revenue**: Sum of all charges subject to tax. Note that if applicable, another column with the sum of all _Non-Taxable Revenue_ will appear.  
@@ -313,7 +308,7 @@ The _Daily Balancing Audit Report_ provides a breakdown of each folio and compar
   
 
 
-##**Open Balance Report**  
+##Open Balance Report  
 
 The _Open Balance Report_ displays information about open balance with respect to accrued revenue at the time the report is run, for the selected date range. The open balance is calculated by subtracting revenue and taxes accrued from settlements posted on the folio. This report has the primary goal of showing information about your guests' open balances with resepect to accrued revenue, but it may also be used to look up the total sum of transfers sent and received for a given reservation folio and payments made.  
 
@@ -330,7 +325,7 @@ The _Open Balance Report_ displays information about open balance with respect t
 ![Finacial_reports_36.png]({{site.baseurl}}/images/Finacial_reports_36.png)
 
 
-###**Fields Legend**:  
+###Fields Legend:  
   
 **Room Number**: displays the room number associated with the folio. Note that if the field is empty, it means that the reservation is an unassigned status.  
 **Room Type**: shows the room type associated with the folio.  
@@ -351,7 +346,7 @@ The _Open Balance Report_ displays information about open balance with respect t
 
 
 
-##**Posting Journal** 
+##Posting Journal 
 
 The _Posting Journal Report_ provides comprehensive information about posted payments and revenue for all rooms. Results are broken down by room number, and you may also run the report for a selected user.  
 
@@ -375,7 +370,7 @@ Here is an example of the report:
 
 
   
-###**Fields Legend**:  
+###Fields Legend 
   
 **Room Number**: displays the room number associated with payment and revenue details.  
 **Revenue Category**: It displays whether the associated information is regarding payments or room revenue. Note that this field has nothing to do with Revenue Category Labels.  
@@ -405,7 +400,7 @@ Here is an example of the report:
 
 
 
-##**Production Report**  
+##Production Report  
 
 The _Production Report_ provides you with information about Occupancy and Revenue. This information is shown both as a numeric value and a percentage value. You can decide to organize the results of this report by Source or Market, filter them by room type and/or reservation folio status. This report also displays the average daily rate for the selected date range.  
 
@@ -424,7 +419,7 @@ The _Production Report_ provides you with information about Occupancy and Revenu
  
 
 
-###**Fields Legend**  
+###Fields Legend 
   
 **Source/Market**: Depending on your filter, this field will show the name of the source/market from/for which revenue has been produced. Note that in the example there is an _Undefined_ market: this means that the revenue values are showing for those reservations for which no market has been specified.  
 **Occupancy**: Number of people.  
@@ -437,7 +432,7 @@ The _Production Report_ provides you with information about Occupancy and Revenu
 
 
 
-##**Room Revenue Breakdown Report**
+##Room Revenue Breakdown Report
 
 The _Room Revenue Breakdown_ report gives you information about Room Revenue broken down  by reservation folio. The Revenue is furthermore grouped by Taxable, Non-Taxable and Tax Exempt category. The report also offers a breakdown by tax label. This is report is useful if you are looking to trace back a particular set of information to a certain reservation folio, but most importantly it offers precise infromation on how much revenue is taxable/non-taxable, and it helps understanding the total amount of each tax for the sleected date range.  
 
@@ -456,7 +451,7 @@ The _Room Revenue Breakdown_ report gives you information about Room Revenue bro
 
 
   
-###**Fields Legend**  
+###Fields Legend 
   
 **Folio No**: lists the folio number associated with the information shown on the other columns.  
 **Check-In/Check-out Dates**: shows the arrival and departure date associated with the reservation folio.  
@@ -474,7 +469,7 @@ The _Room Revenue Breakdown_ report gives you information about Room Revenue bro
 
 
 
-##**Total Revenue Breakdown Report**
+##Total Revenue Breakdown Report
   
 The _Total Revenue Breakdown_ report shows information on all revenue, broken down by Renue Labels or Categories. Differently from the _Room Revenue Breakdown_ report, it includes information about all items for sale at your property, including Add-ons and POS. This report is useful to have precise information on revenue and taxes applicable at your property. Information will be grouped by charge type (Add-on, Lodging, Pos, etc.) and you will also be able to look into the relevant Revenue Category/Label associated with each charge.  
 
@@ -491,7 +486,7 @@ The _Total Revenue Breakdown_ report shows information on all revenue, broken do
 ![Finacial_reports_24.png]({{site.baseurl}}/images/Finacial_reports_24.png)  
 
 
-###**Fields Legend**:  
+###Fields Legend 
 
 **Charge Type**: lists whether the charge reported on is an Add-on, a POS, or a Room Revenue.  
 **Revenue Category/Revenue Label**: lists the name of either the Revenue Category or Label, depending on what you have selected as your fitler.  
@@ -504,7 +499,7 @@ The _Total Revenue Breakdown_ report shows information on all revenue, broken do
 
 
 
-##**Trial Balance Report (TB)**
+##Trial Balance Report (TB)
   
 The _Trial Balance Report_ provides a summary of all financial transactions for a specific date, and compares it with information from the beginning of the fiscal year. It displays three important pieces of information: the _Opening Balance_, the _Transaction Net_ and the _Closing Balance_.
 The Opening Balance is the sum of the Total Revenue plus all Taxes minus all Payments, from the beginning of the fiscal year up to the day prior to running the Trial Balance report.
@@ -527,7 +522,7 @@ Note that the Opening Balance should always be identical to the previous date's 
  
 
 
-###**Fields Legend***:  
+###Fields Legend 
 
 **Opening Balance**: Total Revenue plus Taxes, minus Payments from the Fiscal Year Start until the day before the Run For Date.  
 **Revenue and Taxes**: displays a breakdown of Total Revenue, broken down by revenue and applicable taxes.  
@@ -538,7 +533,7 @@ Note that the Opening Balance should always be identical to the previous date's 
 
 
 
-##**Trial Balance With Range Report**
+##Trial Balance With Range Report
 
 The _Trial Balance With Range Report_ provides a summary of all financial trnasaction for a selected date range. This report is the same as the _Trial Balance_, but it offers a date range, rather than a single date (Run for Date).
 For instructions, read the _Trial Balance Report_ section.

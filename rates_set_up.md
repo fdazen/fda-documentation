@@ -23,8 +23,7 @@ published: true
 
 
 
-##**Taxes and Fees**
-
+##Taxes and Fees
   
 As a first thing, you will need to set up all applicable fees and taxes.  
 
@@ -79,7 +78,7 @@ We advise you to speak to your accountant to go over these important details. {{
 
  
 
-###**Tax Operations**  
+###Tax Operations
 
 <span class="label label-info">Deactivate</span> To make a tax inactive, simply uncheck the box under column _Status_, on the right hand side of the relevant tax:  
 
@@ -91,7 +90,7 @@ We advise you to speak to your accountant to go over these important details. {{
 
 
 
-##**Rates Set-Up**  
+##Rates Set-Up  
 
 There are different ways you can create and operate on a rate in Frontdesk Anywhere, but before starting it would be good to spend a few words on our terminology: this will make you become more familiar with the instructions written below.  
 
@@ -102,7 +101,7 @@ A **Season Period** is the area of the Rate Class where you place the actual pri
 The **Daily Rate Grid** is where you can view and perform adjustments on the rate for any day of the year.
 
 
-###**Rate Classes**
+###Rate Classes
 
 
 
@@ -174,7 +173,7 @@ However, note that differently from the Multiple Nights Rate, the value you plac
 ![Rate_Classes_8.png]({{site.baseurl}}/images/Rate_Classes_8.png)
 
 
-###**Season Periods**
+###Season Periods
  
  - It is now time to set up the _value_ for your rate. This will be done via the _Season Periods_: a Season Period is what allows you to build different rates for different times of the year within one rate, and also to create prices for different days of the week. Think of a Season Period as correspondent with seasons rates, as for example 'High Season', 'Low Season', etc. 
  You can start by clicking on the little icon next to the tag _Add Period_:  
@@ -238,7 +237,7 @@ You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): 
  - Once all information are placed, you can save the rate. There are different ways you can save a rate: clicking on the button _Save_ will save the rate and remind you to the list of existing rates; clicking on the button _Save & Duplicate Rate_ will save the rate and create a duplicate one.  
  
  
-##**Duplicating a Rate**  
+##Duplicating a Rate  
  
  Duplicating a rate will come handy when you are trying to set up different rates for different room types. We are starting from the idea that although the value of the rate will be different, your Season Periods will probably be the same: a High Season, for example, is defined by the starting/ending date. Hence, instead of having to re-build all Season periods for each of your room type, you can duplicate an existing Rate Class with all its Season Periods, and simply place a different value in it!
  
@@ -258,7 +257,7 @@ You will see a list of available channels (IBE, Frontdesk, Innlink, Zen, etc.): 
 
 
 
-##**Daily Rate Breakdown - Rate Grid**  
+##Daily Rate Breakdown - Rate Grid  
 
 
 The Rate Grid is the tool via which you can see and change the rates on a daily basis. It is also a great tool to change rates for shorter time frames like 'New Years Eve'!  
@@ -347,7 +346,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
 
-##**Deriving a Rate**  
+##Deriving a Rate  
  
  You can create a new rate by applying a certain discount/premium on the value of an existing Rate Class: the new rate is called a _Derived Rate_. Derived rates are linked to the master rate (the one you are deriving them from) in virtue of a certain adjustment you set up. For example, if you are running a 10% promotion for returning guests, you can create these promotional rates by deriving it from the master rate and set an adjustment of a 10% discount. Every time you change the master rate, the derived rate will also be automatically calculated.
  
@@ -382,7 +381,7 @@ The Rate Grid is the tool via which you can see and change the rates on a daily 
 
 
  
-##**Making a Rate Inactive**
+##Making a Rate Inactive
  
 As for rooms, rates cannot be completely erased from the system; however, you can make them inactive by unchecking the box under the column _Status_ for any row:  
  
@@ -391,7 +390,7 @@ As for rooms, rates cannot be completely erased from the system; however, you ca
 
 
 
-##**Rate Priority**  
+##Rate Priority  
 
 If you are building different rates for the same room type, you may want to control what is the default rate that comes up when an agent is making a reservation.
 
@@ -439,7 +438,7 @@ You might need to log out and log back into the system in order to see changes b
 
 
 
-##**Booking Window**  
+##Booking Window  
 
   
   
@@ -479,7 +478,7 @@ This functionality allows you to specify a certain booking window for a specific
 
 
 
-##**Rate Policies**    
+##Rate Policies    
 
 Specifis terms and conditions for a selected rate can be configured via the Rate Policies.  
 

@@ -24,7 +24,7 @@ published: true
 
 
 
-##**Creating User Levels**  
+##Creating User Levels  
 
 Creating different access levels for the system may be necessary to protect certain sensitive information and to enable higher management to have an overrall access to the system. Levels are also used to limit what is displayed to a certain user when they log in into the account. Our first step will be to create those User Levels; once that is done we will need to assign each user to their respective level.
 
@@ -79,7 +79,7 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
 
 
-###**Edit Permissions for a User Level**
+###Edit Permissions for a User Level
 
  
  Now that you have created your User Levels, you can go more in depth and edit access permissions.
@@ -125,14 +125,14 @@ The tags next to the check boxes refer to the tabs that appear on the top of you
 
  
  
-##**User Creation**
+##User Creation
 
  
  It is currently not possible to create users directly within your account: if you wish to create a new user, please contact our Support Team at **help@frontdeskanywhere.com**
  
  
 
-##**Apply User Levels**  
+##Apply User Levels  
 
  
  - All of your system users appear in the _Users_ list. In the Admin Settings, click on the blue link **Users** under section _Users_:  
@@ -189,7 +189,7 @@ Select the right access level by using the scroll down menu next to the tag _Use
 
 
 
-##**Shifts**
+##Shifts
 
 Setting up shifts is a useful tool for auditing and for checking operations that have been processed on a particular shift. You can also run reports for a particular shift to track back user activity!   
 

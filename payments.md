@@ -29,7 +29,7 @@ published: true
 
 
    
-##**The Payment Panel**  
+##The Payment Panel  
 
  - The payment section is located on the right column of the folio, right under the summary of all charges, and it is accessible by clicking on the blue _Payment_ link:  
 
@@ -62,10 +62,10 @@ The Payment panel can be separated into two main sections:
 
 
 
-##**Recording a Payment**
+##Recording a Payment
 
 
-###**Recording a Payment Without Applying it to a Charge**    
+###Recording a Payment Without Applying it to a Charge   
   
   
 
@@ -123,7 +123,7 @@ Note that if the recorded payment has not been or not yet been applied to a spec
 
   
   
-##**Invoices**  
+##Invoices  
 
 Each folio has a dedicated section called _Invoices_ : this is the place where you can isolate existent folio charges into different invoices. This feature is used when having to split bills for your guests, along with printing the associated receipts.  
 
@@ -141,7 +141,7 @@ If you do need to isolate any of the charges and associated payments, just follo
 
 
 
-###**Create a New Invoice**  
+###Create a New Invoice  
 
 In order to transfer charges/applied payments, you will first need to create a new invoice.  
 
@@ -213,7 +213,7 @@ To create a new invoice, click on the button **Transfer Transactions**:
 ![pay14.png]({{site.baseurl}}/images/pay14.png)
 
 
-###**Applying Payments to Charges**    
+###Applying Payments to Charges    
 
 When you split charges into different invoices, you will need to reflect payments in the folio that are relative to those charges, so that the invoice will show a balance of $0.
 
@@ -257,7 +257,7 @@ When done, click on the yellow button **Apply to Payments**:
 
 
   
-###**Printing an Invoice**  
+###Printing an Invoice  
 
 Each invoice has its own balance, corresponding to the charges it contains and the payment that have been applied to those charges. From time to time you might need to separate the bills and print receipts that will only show certain charges/payments.  
 
@@ -280,7 +280,7 @@ You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amaz
 
 
 
-##**Payment Operations**  
+##Payment Operations  
 
 
 - To perform operations on submitted payments, click on the Payments drop down menu, and then on the green box _Payment_ for the payment on which you wish to perform your operations:  
@@ -296,7 +296,7 @@ You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amaz
 
   
   
-###**Recording a Security Deposit**  
+###Recording a Security Deposit  
 
 
 - You can record security deposits directly from the same Payment screen. Choose the Pay Type and insert the amount you want to have recorded as a deposit:  
@@ -331,7 +331,7 @@ You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amaz
 
   
   
-###**Turning a Security Deposit into a Payment**  
+###Turning a Security Deposit into a Payment  
 
 
 - It might often happen that your guests will want to turn their security deposits into payments to set their bills. This is easily done: expand the _Payment_ tab to individuate the deposit:    
@@ -355,7 +355,7 @@ You can click [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amaz
 
 
 
-##**Capturing Credit Card Details With Credit Card Swiper**  
+##Capturing Credit Card Details With Credit Card Swiper  
     
       
       
@@ -411,7 +411,7 @@ You can use the Swiper in the _Profile_ tab, in the relevant Payment section:
 
 
 
-##**Processing Payments with Payment Processing**  
+##Processing Payments with Payment Processing 
 
 
 If your account is integrated with a Payment Gateway, you will be able to _process_ payments for credit cards directly into the Payment screen.  
@@ -492,13 +492,13 @@ The amount corresponding to the authorization appears in light grey, and the ove
 
 
 
-##**Transferring Charges**      
+##Transferring Charges      
 
 You have the ability to transfer all or part of a folio charges either to another folio or to a Profile.  
   
   
   
-###**Transferring Charges from Folio to Folio**  
+###Transferring Charges from Folio to Folio 
 
 
 Before you follow the instruction below, make sure you note down the folio number you wish to send the charges **to**.  
@@ -555,7 +555,7 @@ Before you follow the instruction below, make sure you note down the folio numbe
 
 
 
-###**Transferring Charges from Folio to a Profile** 
+###Transferring Charges from Folio to a Profile 
  
 
 You will be able to send charges from a folio to a Profile invoice. Before you follow the instructions below, make sure that the Profile you want to send charges to **has at least one invoice created**; if it does not, you will need to create one. You can follow instructions [here](http://docs.frontdeskanywhere.net.s3-website-us-west-1.amazonaws.com/build/profiles.html).To do so, follow the instructions on the _Profile_ section of this manual. It is also recommendable having the Profile ID number handy, in order to avoid confusion in case there are multiple profiles with the same name.    
@@ -604,7 +604,7 @@ You will be able to send charges from a folio to a Profile invoice. Before you f
 
   
   
-###**Applying Payments to Charges**   
+###Applying Payments to Charges   
 
 
 When you transfer charges to different invoices, you will need to reflect payments that are relative to those charges, so that the invoice will show a balance of $0.
@@ -635,7 +635,7 @@ We call this feature _Apply Payments_: it is the ability to associated payments 
   
   
   
-##**Adjustments**  
+##Adjustments  
 
 
 You will be able to perform adjustments to charges, directly from each folio:  

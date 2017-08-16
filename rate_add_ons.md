@@ -16,7 +16,7 @@ published: true
 
 
 
-##**Configure Your Add-Ons**
+##Configure Your Add-Ons
 
 
 

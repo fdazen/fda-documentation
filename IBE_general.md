@@ -18,9 +18,6 @@ published: true
 
 
 
-
-### Internet Booking Engine Customization
-
 Frontdesk Anywhere offers real-time commissionless online bookings on their website through IBE (Internet Booking Engine). Configuring the booking engine is fast, simple and user friendly. IBE 3.5 offers a wide variety of customizations, allowing you to configure its style to complement your website. Rooms can be sold online with multiple pictures, promotion codes and up-sell items.
 
 Your account's booking engine can be accessed using the below URL:
