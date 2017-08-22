@@ -32,11 +32,11 @@ published: true
 
 
 
-#**Accounting**  
+# **Accounting**  
 
 The Accounting section is the place here you configure all those settings that have to do with payments, currencies, credit cards, fiscal year, etc. Most importantly it is home to Revenue Management: you can build Revenue Labels and Categories around which your reports are organized.  
 
-##**Currency**  
+## **Currency**  
 
 During the intial system set-up it is important for you to configure the right currency, as this will be displayed in all guest communications and if applicable, on IBE.  
 
