@@ -10,6 +10,14 @@ summary: >-
 published: true
 ---
 
+**3.5.8.1**
+
+Enhancement | Description
+------------|---------
+Improvement | Speed up occupied rooms endpoint
+Bug fix     | CC payments fail if payment processing is inactive
+
+
 **3.5.7.1**
 
 Enhancement | Description
