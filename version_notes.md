@@ -10,6 +10,13 @@ summary: >-
 published: true
 ---
 
+**3.5.9.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Inventory not updating on OTAs
+
+
 **3.5.8.1**
 
 Enhancement | Description
