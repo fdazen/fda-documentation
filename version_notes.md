@@ -10,6 +10,15 @@ summary: >-
 published: true
 ---
 
+**3.5.10.1**
+
+Enhancement | Description
+------------|---------
+Bug fix     | Rate list bug
+Bug fix     | Rate priority list bug
+Bug fix     | IBE inclusive tax bug
+
+
 **3.5.9.1**
 
 Enhancement | Description
