@@ -23,7 +23,7 @@ published: true
 
 
 
-##Housekeeping Status    
+## Housekeeping Statuses    
 
 Housekeeping Statuses serve to indicate whether a certain room needs attention from your Housekeeping staff or not. Frontdesk Anywhere performs changes in the Housekeeping Status of each room thanks to certain Rules you will have to set up: since the rules are based on the Housekeeping Statuses, it will be good for you to familiarize with what each status mean!  
 
@@ -60,7 +60,7 @@ Here is a breakdown of what they mean:
 {{site.data.alerts.note}} It is currently not possible to add or edit an Housekeeping Status.   {{site.data.alerts.end}} 
 
 
-##Housekeeping Rules
+## Housekeeping Rules
 
 Housekeeping Rules are necessary to establish how the system should use the Housekeeping Status. Since the work of your Housekeeping staff will center on the Statuses, it is extremely important to set your rules correctly!  
 
