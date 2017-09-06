@@ -14,7 +14,7 @@ published: true
 
 
 
-##Publishing IBE on your Website
+## Publishing IBE on your Website
 
 Publishing your IBE site is easy to do and requires very little HTML skills. We offer IBE 3.5 in a responsive format that will automatically adjust the width down to 320 pixels.  IBE’s responsiveness works well for mobile devices, and embedding it into websites ensures a smooth booking process, no matter what platform you are using!
 
@@ -40,7 +40,7 @@ Be sure to place the link to your booking page prominently on every page of your
 Your IBE booking engine is protected by _SSL encryption_, which means you and your guests’ data is secure during transmission. If you use an embedded iframe, your guests will not be aware that their data is protected. You may wish to purchase an SSL certificate for your website so that these guests have even further reassurance that their information is safe.
   
   
-##IBE Booking Link Parameters
+## IBE Booking Link Parameters
 
 There are several parameters that can be used with IBE in order to give your guests a more customized experience. Used in conjunction with a calendar picker booking widget this will enable you to provide a great experience for your users.    
 
