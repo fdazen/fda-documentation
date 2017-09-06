@@ -9,8 +9,7 @@ published: true
 ---
  
  
-#**Stay Restrictions**  
-
+## Stay Restrictions
   
 ##**What Are Stay Restrictions**
   
