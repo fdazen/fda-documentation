@@ -52,7 +52,7 @@ This report includes information about posted POS items and Add-Ons. There are a
 
 
 ###Fields Legend  
-
+ 
 **Charge Type**: displays the type of Item that has been posted.  
 **Revenue Category**: shows the Revenue Category associated with the item.  
 **Revenue Label**: shows the Revenue Label associated with the item.  
