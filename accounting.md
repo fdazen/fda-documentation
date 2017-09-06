@@ -32,9 +32,11 @@ published: true
 
 
 
-# **Accounting**  
+## Accounting
 
-The Accounting section is the place here you configure all those settings that have to do with payments, currencies, credit cards, fiscal year, etc. Most importantly it is home to Revenue Management: you can build Revenue Labels and Categories around which your reports are organized.  
+
+
+The Accounting section is  the place here you configure all those settings that have to do with payments, currencies, credit cards, fiscal year, etc. Most importantly it is home to Revenue Management: you can build Revenue Labels and Categories around which your reports are organized.  
 
 ## **Currency**  
 
