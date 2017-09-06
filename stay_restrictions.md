@@ -11,8 +11,7 @@ published: true
  
 ## Stay Restrictions
   
-##**What Are Stay Restrictions**
-  
+### What Are Stay Restrictions  
   
 Stay Restrictions is the place in your Frontdesk Anywhere account where you will be able to place minimum or maximum stay requirements and close outs.
 These actions are all on rate level: for any configured rate, you can define a minimum stay lenght for guests booking it or prevent guests from booking that rate altogether.  
@@ -24,8 +23,7 @@ These actions are all on rate level: for any configured rate, you can define a m
 ![stay_1.png]({{site.baseurl}}/images/stay_1.png)
 
 
-##**Add Min/Max Stay Requirement**  
-
+### Add Min/Max Stay Requirement  
 
 - To add a minimum stay restriction or to limit the amount of consecutive days guests can stay at your property, click on the blue button **Add Min/Max Requirement**:  
 
@@ -66,7 +64,7 @@ Proceed to select the channels where the restriction should be applied to.
 When finished, click on the blue button **Save** at the bottom of the page.
 
 
-###**Important - Overlapping Minimum Stay Restrictions on Channel Integration**    
+### Important - Overlapping Minimum Stay Restrictions on Channel Integration  
 
 If you have multiple minimum stay restrictions enabled for the same dates like in the following example, it is important to understand how the channel manager receives the updates when one of those restriction is made inactive:
 
@@ -87,8 +85,7 @@ Since we have deactivated the 3 night minimum stay, the value that will be sent 
 Hence, before deactivating any stay restriction, please take a moment to check if you have any overlapping restriction active: if so, resave those restrictions to ensure the latter are still implemented.
 
 
-##**Setting up a Close-out**   
-
+### Setting up a Close-out
   
 - In the Stay Restriction panel, click on the button **Add Close-Out Period**:  
 
