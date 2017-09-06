@@ -20,7 +20,7 @@ published: true
 
 
 
-##Getting Set Up/Profile Templates
+## Getting Set Up/Profile Templates
   
   
 Before you learn how to create and use the different profiles available for your account, it is important to have all templates set-up for this section. This is important to have everything ready, before you actually start using any of the profiles!  
@@ -46,14 +46,14 @@ Before you learn how to create and use the different profiles available for your
 
 
 
-##Single Profile 
+## Single Profile 
 
 
 A Single Profile is the most common type of profile, as it collects all guest information. Single profiles are created any time a new reservation is created, regardless of the channel via which it interfaces with your PMS. For returning guests all information can easily get pulled down into the reservation folio, thus helping avoid human errors and making the reservation process much more rapid!
 
 
 
-###Creating a Single Profile from a Folio  
+### Creating a Single Profile from a Folio  
 
 
 Every reservation folio is tied to a Profile ID, which you can look up in the Profile tab. When a reservation is made, the system will automatically generate a new profile: 
@@ -118,7 +118,7 @@ If you click on the button _Change_, the system will replace the existing guest,
 
 
 
-###Pulling Down Returning Guests Information from Folio 
+### Pulling Down Returning Guests Information from Folio 
 
 
 When making a reservation on your Tape Chart, if the information you are entering matches any existent Profile ID then a suggestion will be prompted to you:  
@@ -148,7 +148,7 @@ When making a reservation on your Tape Chart, if the information you are enterin
 **Important**: if you create a Profile directly from the folio, credit card information is not going to be pulled down next time you make a reservation for the guest. If you want to save credit card information for a Profile so that anytime you pull down information in a folio the credit card number also appear, you will need to save that information directly in the Profile tab.  
 
 
-###Creating a Single Profile from the Profile Tab 
+### Creating a Single Profile from the Profile Tab 
 
 If you need to load guest information that is not in the system, you can create profiles directly in the _Profile_ tab.  
 
@@ -217,7 +217,7 @@ The credit card information will appear in the folio whenever you pull down the 
 
 
 
-##Creating a Travel Agent, Company Profile or A/R Profile  
+## Creating a Travel Agent, Company Profile or A/R Profile  
 
 
 A **Company Profile** contains information about companies with which the hotel has special partnerships with: you will be able to transfer guest charges directly to the profile, create separate invoices, and keep track of payments.   
@@ -237,7 +237,7 @@ Although they serve different purposes, creation and usage of the three types of
 
 
 
-###Adding Customizable Fields for Travel Agent/Company/AR Profiles  
+### Adding Customizable Fields for Travel Agent/Company/AR Profiles  
 
 
 As a first thing, you will need to add all those fields you want to be applicable and required for creating this kind of profile: differently from a Guest Profile, 
@@ -299,7 +299,7 @@ Fill in this field with the number of days allowed for invoices to be paid off. 
 
 
 
-##Transferring Folio Charges to Profiles  
+## Transferring Folio Charges to Profiles  
 
 Transferring charges from individual or group folios to a Profile enables you to keep track of credits/debts of each hotel partner associated with the Profile. This operation is a two-step process.
 
@@ -347,7 +347,7 @@ Transferring charges from individual or group folios to a Profile enables you to
 
   
   
-###Applying Payments to Charges  
+### Applying Payments to Charges  
 
 
 When you transfer charges to different invoices, you will need to reflect payments that are relative to those charges, so that the invoice will show a balance of $0.
@@ -378,7 +378,7 @@ We call this feature _Apply Payments_: it is the ability to associated payments 
   
   
 
-##Storing a Credit Card for a Profile  
+## Storing a Credit Card for a Profile  
 
 You can store one or multiple credit cards for each Profile: this feature comes quite handy when you have to perform recurrent payments for Travel Agents or Company, but you can also use this for your hotel's returning guests!  
 
