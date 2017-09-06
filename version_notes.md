@@ -10,6 +10,15 @@ summary: >-
 published: true
 ---
 
+**3.5.11.1 - 09/03/2017**
+
+Enhancement | Description
+------------|---------
+Improvement | Faster rate grid loading time
+
+
+
+
 **3.5.10.1**
 
 Enhancement | Description
