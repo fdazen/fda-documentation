@@ -79,8 +79,8 @@ Since we have deactivated the 3 night minimum stay, the value that will be sent 
 Hence, before deactivating any stay restriction, please take a moment to check if you have any overlapping restriction active: if so, resave those restrictions to ensure the latter are still implemented.
 
 
-### Setting up a Close-out
-  
+### Setting up a Close-out  
+
 - In the Stay Restriction panel, click on the button **Add Close-Out Period**:  
 
 ![stay_8.png]({{site.baseurl}}/images/stay_8.png)  
