@@ -32,7 +32,7 @@ published: true
 
 
 
-##Choosing Dates and Showing Availability
+## Displaying Availability
 
 
 The first way you can start creating a single reservation is by clicking directly on the empty box on your Tape Chart, corresponding to the day and room you want to book. 
@@ -70,10 +70,10 @@ Note that you can also use the View tabs on the top of your Tape Chart to make s
 That window is called **Reservation Folio**. 
 
 
-##Entering Booking Information 
+## Entering Booking Information 
 
 
-###Reservation Information 
+### Reservation Information 
   
 - In each folio, the reservation details are organized into three different columns. The first column, called _Duration_ bears general information about the reservation:  
 
@@ -107,7 +107,7 @@ Note that once the _OTA#_ field has been filled in, that value will also be appe
 ![Solo_res_13.png]({{site.baseurl}}/images/Solo_res_13.png)
 
   
-###Guest information 
+### Guest information 
 
 
 The middle column of the reservation folio bears information about the guest/s:  
@@ -145,7 +145,7 @@ If you do not select any suggestion, a new unique Profile ID will be creating up
 
 {{site.data.alerts.note}} credit card information entered into the reservation folio **will not** be saved under the Guest Profile. This means that unless you have saved the card directly in the guest's _profile_, under the _Prifile Tab_, the credit card information is not going to be saved. If you need instructions on how to record credit card information into Guest Profiles, please go to the **Profile** section of this manual!  {{site.data.alerts.end}}
 
-###Rate Information
+### Rate Information
 
 The right column of the reservation folio bears information about rates, taxes and additional charges.  
 
@@ -168,7 +168,7 @@ The _Offered Rate_ is the one that the administrator has set up as _default_ for
 
 
 
-##Reservation Operations 
+## Reservation Operations 
   
  
 Once all information is in the reservation folio, there are several operations you can perform. Any available operation that can be performed will have its corresponding button at the bottom of any folio:   
@@ -178,7 +178,7 @@ Once all information is in the reservation folio, there are several operations y
 These buttons are _dynamic_, meaning that they will change according to the reservation folio status: for example, you will be able to Reserve, Hold or Block a new folio, but you will only be able to Unblock a folio that is in a Blocked status, and so on. 
   
   
-###Hold  
+### Hold  
 
 - If the booking is not finalized, you can choose to **Hold** the reservation: held reservations won't be counted as part of the hotel occupancy, nor the rates will count as revenue. This is most useful when some required information is missing and the guest will have to get in contact with the hotel later to finalize the booking. To place a reservation in a Hold status, click on the bblue button _Hold_ at the bottom of the reservation folio:  
 
@@ -207,7 +207,7 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 ![Solo_res_30.png]({{site.baseurl}}/images/Solo_res_30.png)
 
   
-###Block/DNR
+### Block/DNR
 
 
 - If you need to momentarily hide a certain room from the displayed availability, you may decide to mark the room as **Block/DNR** (Do Not Rent): blocked rooms do not count towards revenue or occupancy values in reports. To place a block on a room, click on the blue button _Block/DNR_ at the bottom of the folio:  
@@ -223,7 +223,7 @@ You will also have the option to reserve a held room, by clicking on the blue bu
 ![Solo_res_31.png]({{site.baseurl}}/images/Solo_res_31.png)  
 
 
-###Reserve  
+### Reserve  
 
  - If all required information has been collected, you can proceed to **Reserve** the folio by clicking on the blue button _Reserve_ at the bottom of the folio:  
 
@@ -274,7 +274,7 @@ To undo the check-out, just click on the button _Check-In_:
 **Important**: the system won't allow you to cancel a checked-in or checked-out reservation, so in order to cancel it you will need to undo all actions until the folio is back in a Reserved Status.  
 
 
-###No Show  
+### No Show  
 
 - Any folio in a reserved status can be marked as a **No Show**: simply click on the button _No-Show_:  
 
@@ -289,7 +289,7 @@ To undo the check-out, just click on the button _Check-In_:
 
 
 
-##Editing the Rate of a Reservation  
+## Editing the Rate of a Reservation  
 
 If your username has the right permissions, you will see a blue, clickable link under section _Rate Information_ in any folio:  
 
@@ -315,7 +315,7 @@ Once finished, click on the yellow button _Update_.
 ![Solo_res_46.png]({{site.baseurl}}/images/Solo_res_46.png)  
 
 
-##Adding Add-Ons and POS Items to a Reservation  
+## Adding Add-Ons and POS Items to a Reservation  
 
 You can add an existing add-on directly from any folio.  
 
@@ -356,7 +356,7 @@ Note that all charges will appear to be _Pending_ until you save the folio: once
 
 
 
-##Moving a Reservation into a Different Room 
+## Moving a Reservation into a Different Room 
 
 Any folio can be moved to a different room and room type, independently of the status of the reservation itself. 
 
@@ -397,7 +397,7 @@ For each available room, the system will also notify you of the Housekeeping Sta
 ![Solo_res_63.png]({{site.baseurl}}/images/Solo_res_63.png)
 
   
-###Split Rooms    
+### Split Rooms    
   
  
 It may happen that your guests will change room during their stay: your account enables you to record their stay across multiple rooms without breaking the reservation. This function is called _Split Room_.  
@@ -463,7 +463,7 @@ In the example above, the guest was initially due to depart on February 14th, bu
 ![Solo_res_74.png]({{site.baseurl}}/images/Solo_res_74.png)  
 
 
-##Guest Messages 
+## Guest Messages 
 
 Each reservation folio has its own Guest Messages section: from here you can send important information to your guests via email or print their reservation documents.  
 
