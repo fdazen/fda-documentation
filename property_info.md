@@ -20,7 +20,7 @@ published: true
 
 As the name suggests, this section is dedicated to information about your company and how guest information are displayed in your system.  
 
-##Logo Upload  
+## Logo Upload  
 
  In the Admin Settings, click on the link **Company Info** under section _Property Info_:  
  
@@ -42,7 +42,7 @@ Your logo will appear on guest communications and on IBE.
 
 
 
-##Default Guest Settings  
+## Default Guest Settings  
 
 
 
@@ -69,6 +69,6 @@ You can choose how the name of your guests is displayed on the Tape Chart and al
 
    
 
-##Time Zone  
+## Time Zone  
   
 <div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>It is not currently possible to change the time zone directly from your account. Please contact our Support Team at help@frontdeskanywhere.com to change it!
