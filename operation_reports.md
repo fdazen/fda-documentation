@@ -31,7 +31,7 @@ The Operation Reports include all those reports that are mostly important for Fr
   
  
 
-##Arrivals: Detailed Report
+## Arrivals: Detailed Report
      
      
   
@@ -61,7 +61,7 @@ The report will offer you a daily breakdown of all reservations. Here is an exam
 
 
 
-###Fields Legend  
+### Fields Legend  
 
 
 
@@ -89,7 +89,7 @@ You may export the report in many different formats: choose the right one by sel
    
 
 
-##Departures Report
+## Departures Report
 
 
 
@@ -114,7 +114,7 @@ The _Departures Report_ displays all of those reservations that are due to check
 
 
 
-###Fields Legend
+### Fields Legend
 
 **Name**: Guest last and first name.  
 **Room Number**: Room number assigned to the guest.  
@@ -134,7 +134,7 @@ The _Departures Report_ displays all of those reservations that are due to check
 
 
 
-##Detailed Availability
+## Detailed Availability
 
 The _Detailed Availability Report_ displays the numeric value of your occupancy or vacancy for a determined date range. This report can be run for a specific room type or for multiple ones. This report will come useful when trying to foresee whether the demand is increasing/decreasing.  
    
@@ -153,7 +153,7 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 ![Operational_reports_10.png]({{site.baseurl}}/images/Operational_reports_10.png)
 
 
-###Fields Legend  
+### Fields Legend  
 
 **Date**: Daily breakdown for the report chosen date range.  
 **Room Type Accronym**: Breakdown of the chosen room types.  
@@ -161,7 +161,7 @@ The _Detailed Availability Report_ displays the numeric value of your occupancy 
 
 
 
-##Guest List
+## Guest List
 
 This report displays a list of all guests who have arrived, departed or currently staying at your property for the selected date range. All guest information is listed here, from their phone details and email address to their email address. You can also have the report showing secondary guests, who will appear next to the primary guests. The primary guest appears in blod. This report is useful to gather information about your guests which can be used for marketing purposes.  
 
@@ -181,7 +181,7 @@ This report displays a list of all guests who have arrived, departed or currentl
 ![Operational_reports_13.png]({{site.baseurl}}/images/Operational_reports_13.png)   
 
 
-###Fields Legend  
+### Fields Legend  
 
 **Folio Number**: Displays the reservation folio number associated with the guest.  
 **Check-In**: Guest's check-in date.  
@@ -201,7 +201,7 @@ This report displays a list of all guests who have arrived, departed or currentl
 
 
 
-##Guest Overnight By Country Of Origin
+## Guest Overnight By Country Of Origin
 
 If you are trying to have a clear understanding of the countries where your guests come from, you will need to run the _Guest Overnight By Country of Origin_ report. You can decide whether to run the report for number of bookings, night or number of guests.   
 
@@ -228,14 +228,14 @@ When done, click on the blue button _Run Report_:
 ![Operational_reports_16.png]({{site.baseurl}}/images/Operational_reports_16.png)
   
 
-###Fields Legend:  
+### Fields Legend:  
 
 **Date**: It shows the month that include the date range chosen.  
 **Total**: Total number of booking for relevant country.  
 **Undefined**: The _Undefined_ value will appear in case there exist reservations for the selected date range that have no country specified.  
 
 
-##Guests In House
+## Guests In House
   
   
 The _Guests In House_ report displays a list of all current in-house guests for any selected date, along with other information about their stay. You can have the results be displayed by room type or alphabetically, by guest's last name.  The report will show both primary and secondary guests: note that the first will appear in bold text.
@@ -256,7 +256,7 @@ The _Guests In House_ report displays a list of all current in-house guests for 
 ![Operational_reports_19.png]({{site.baseurl}}/images/Operational_reports_19.png)
    
 
-###Fields Legend
+### Fields Legend
   
 - **Total Guests**: displays the number of total guests currently in-house.  
 - **Name**: Guest's last and first name.  
@@ -275,7 +275,7 @@ The _Guests In House_ report displays a list of all current in-house guests for 
    
    
 
-##House Count Report
+## House Count Report
   
 Our _House Count Report_ displays the total number of guests at the property for a selected date, per folio reservation status. This means that you can find out how many guests are due to arrive, or that are currently staying at the property. This reports also offers you a count of al the reservations associated with those guests, which you can also filter by reservation status. If you choose to runt he report for multiple Reservation Statuses, the results will broken down by each status; if you choose to run this for multiple days, the report will also break down the results by day. This will ensure you have a good understanding of house count for each status or/and day.
    
@@ -295,7 +295,7 @@ Our _House Count Report_ displays the total number of guests at the property for
 ![Operational_reports_22.png]({{site.baseurl}}/images/Operational_reports_22.png)
 
 
-###Fields Legend    
+### Fields Legend    
 
 **Guests**: under _Guests_ the report shows house count value by Guest number, broken down by reservation status. Note that the number of guests reflects what is shown in the field _Adults_ and _Children_ in the reservation folio:  
 
