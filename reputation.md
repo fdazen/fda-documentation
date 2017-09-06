@@ -14,14 +14,14 @@ published: true
 
 
 
-##Getting Started  
+## Getting Started  
 
 Before you are able to see information in the Reputation tab, you will need to retrieve your hotel ID that you will need to load in your Frontdesk Anywhere. In order to retireve that information, please send a request to our Support team at help@frontdeskanywhere.com.  
 
 {{site.data.alerts.note}} The Reputation tab is powered by Revinate: if you have any question about data displayed in the Reputation tab, please contact Revinate directly! {{site.data.alerts.end}}  
 
 
-##Enabling The Reputation Tab 
+## Enabling The Reputation Tab 
 
 In order to make the Reputation tab active and see information about your hotel, make sure you have requested your _hotel ID_ with our Support Team.  
 
@@ -49,7 +49,7 @@ In order to make the Reputation tab active and see information about your hotel,
 
 
 
-##Accessing The Reputation Tab  
+## Accessing The Reputation Tab  
 
 
 - On the top of your Tape Chart, click on the tab _Reputation_:  
