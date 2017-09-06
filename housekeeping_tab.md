@@ -14,7 +14,7 @@ published: true
   
 
 
-##Housekeeping Tab Organization and Set-up 
+## Housekeeping Tab Organization and Set-up 
 
 The Housekeeping Tab is located just on top of your Tape Chart. Depending on the kind of  access level, and personal preferences, some users might directly log in into the Housekeeping tab without having to click, in order to access it.  
 
@@ -26,7 +26,7 @@ Click on the tab _Housekeeping_ on the top of the screen:
 You will see a panel with different filters. Here is how the screen is organized.  
 
 
-###Top Filters 
+### Top Filters 
 
 
 - There are two different types of filters. The top ones need to be used to visualize or order the housekeeping list.  
@@ -64,13 +64,13 @@ The first filter, called _Housekeeping Status_ is multi-option filter, and you w
 ![Housekeeping_tab_8.png]({{site.baseurl}}/images/Housekeeping_tab_8.png)  
 
 
-- FInally, the top left filter with the tag _Housekeeping View_ gives you different options on how to display the daily housekeeping workload:  
+- Finally, the top left filter with the tag _Housekeeping View_ gives you different options on how to display the daily housekeeping workload:  
 
 ![Housekeeping_tab_9.png]({{site.baseurl}}/images/Housekeeping_tab_9.png)  
 
 
 
-###Assign Filters  
+### Assign Filters  
 
 The second row of filters are used to assign workload, change housekeeping status and assign priority.  
 
@@ -90,7 +90,7 @@ The second row of filters are used to assign workload, change housekeeping statu
 ![Housekeeping_tab_12.png]({{site.baseurl}}/images/Housekeeping_tab_12.png)  
 
 
-##Visualize the Daily Workload 
+## Visualize the Daily Workload 
 
 - Start by choosing your preferred view by using the _Housekeeping View_ filter. In the exmaple below I am using the _View by Floor_ to display all of my hotel's daily housekeeping workload organized by floors:  
 
@@ -135,7 +135,7 @@ The second row of filters are used to assign workload, change housekeeping statu
 
 
 
-##How To Read The Tab 
+## How To Read The Tab 
 
 - Let us look at the following example:  
 
@@ -151,7 +151,7 @@ The second row of filters are used to assign workload, change housekeeping statu
  
  
 
-##How to Assign Workload 
+## How to Assign Workload 
 
 - In order to assign rooms to the employees, you will simply need to selected the rooms by checking the check-box on the left hand side and use the _Assign Housekeeper_ filter to complete the action:  
 
@@ -179,7 +179,7 @@ The second row of filters are used to assign workload, change housekeeping statu
 ![Housekeeping_tab_24.png]({{site.baseurl}}/images/Housekeeping_tab_24.png)  
 
 
-##How to Change the Housekeeping Status
+## How to Change the Housekeeping Status
 
 As the day goes by and work gets done by your employees, your Housekeepers will need to change the Housekeeping Status, ideally to status _Clean_.
 
