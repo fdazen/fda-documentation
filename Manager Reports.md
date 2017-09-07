@@ -21,7 +21,7 @@ summary: A description of the financial reports in FDA.
 - Intended as a quick report for a manager to look at. It shows daily, month-to-date and year-to-date information for the property's lodging statistics, revenue and settlements made. It also includes forecasting information up to 1 year in the future.
 
 
-##**Pace Report (PAC)**
+## *Business Pick-Up Report (PAC)
 
 - Likely to be renamed something like “Business Pick Up Report”
 
