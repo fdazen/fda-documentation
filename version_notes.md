@@ -10,6 +10,16 @@ summary: >-
 published: true
 ---
 
+
+**3.5.12.1 - 09/15/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Error in bookings coming from channel manager, if no room is available at hotel
+
+
+
+
 **3.5.11.1 - 09/03/2017**
 
 Enhancement | Description
