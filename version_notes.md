@@ -10,6 +10,12 @@ summary: >-
 published: true
 ---
 
+**3.5.13.2 - 09/27/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Error in sending rates push to Siteminder
+
 
 **3.5.12.1 - 09/15/2017**
 
