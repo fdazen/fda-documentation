@@ -589,6 +589,14 @@ Enhancement | Description
 Improvement - Reputation Tab | The Reputation tab has been improved to guarantee a better user experience.  
 New Feature - CC email functinality for Email Rules | It is now possible to add multiple email addresses to cc messages sent to guests via the Email Rules functionality.
 
+**v3.2.27.1**    
+
+Enhancement | Description  
+--------|----------  
+Improvement - Reputation Tab | The Reputation tab has been improved to guarantee a better user experience.  
+New Feature - CC email functinality for Email Rules | It is now possible to add multiple email addresses to cc messages sent to guests via the Email Rules functionality.
+
+
 
 
 **v3.2.24.7**    
