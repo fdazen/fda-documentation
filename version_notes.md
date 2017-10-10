@@ -10,6 +10,34 @@ summary: >-
 published: true
 ---
 
+
+**3.5.15.2 - 10/10/2017**
+
+Enhancement | Description
+------------|---------
+Improvement | Charges are now grouped by Revenue Categories and Labels on guest messages  
+Improvement | Ability to show break down of taxes on Invoices
+Improvement | We have removed the voice Lightspeed from appearing on Invoices, if transfers have been sent                 out to Lightspeed
+Bug Fix     | Task Failed error was appearing when transferring charges from folio to folio 
+Bug Fix     | When performing an adjustment, the adjustment line on the folio was showing the value that was               before performing the adjustment, unless folio was reloaded
+Bug Fix     | IBE background image was often stuck and users were not able to reload another image
+Bug Fix     | Random values being charged in the POS tab
+Bug Fix     | The bullet list of amenities was not appearing correctly on IBE for accounts using 3.5.9.1 or                 3.5.11.1
+Bug Fix     | Issue in the POS tab when categories linked to charges were deactivated
+Bug Fix     | System was duplicating profiles for each reservation made for the same profile on IBE
+Bug Fix     | POS items not being taxes when used as Upsell Items on IBE
+Bug Fix     | Aging Ledger Report was not showing any AR Company Category even though profiles have been                     created
+
+
+
+**3.5.14.2 - 10/02/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Error in sending restrictions to Siteminder
+
+
+
 **3.5.13.2 - 09/27/2017**
 
 Enhancement | Description
