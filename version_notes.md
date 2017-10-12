@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.16.1 - 10/13/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Fixed error 'cannot process payment for a higher amount then the current open balance' with                   payment gateway
+
+
 **3.5.15.2 - 10/10/2017**
 
 Enhancement | Description
