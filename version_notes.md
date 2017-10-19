@@ -11,6 +11,16 @@ published: true
 ---
 
 
+
+
+
+**3.5.17.1 - 10/17/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Unable to post deposits on folios
+Bug Fix     | Error when receiving bookings from Siteminder
+
 **3.5.16.1 - 10/13/2017**
 
 Enhancement | Description
