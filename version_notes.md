@@ -11,6 +11,12 @@ published: true
 ---
 
 
+**3.5.18.1 - 10/18/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Failure to specify a POS category for a given POS item makes transfers from external POS                     systems fail
+
 
 
 
