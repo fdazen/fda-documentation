@@ -15,6 +15,21 @@ published: true
 
 Enhancement | Description
 ------------|---------
+Improvement | Add New Zealand dollar to currency list
+Improvement | Ability to have Admin user update availability
+Bug Fix     | Users defaulting to All Access User Level when account is migrated
+Bug Fix     | Reservations coming from channel manager not picking up the correct room details
+Bug Fix     | Unable to choose an ID type from reservation drop down menu
+Bug Fix     | Fixed Thai translation for November
+Bug Fix     | Unable to post deposits on folio
+
+
+
+
+**3.5.18.1 - 10/18/2017**
+
+Enhancement | Description
+------------|---------
 Bug Fix     | Failure to specify a POS category for a given POS item makes transfers from external POS                     systems fail
 
 
