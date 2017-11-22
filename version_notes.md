@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.22.1 - 11/22/2017**
+
+Enhancement | Description
+------------|---------
+
+Bug Fix     | Yield Management availability calculation not working
+
+
 **3.5.19.1 - 10/24/2017**
 
 Enhancement | Description
