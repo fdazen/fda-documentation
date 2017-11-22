@@ -15,7 +15,6 @@ published: true
 
 Enhancement | Description
 ------------|---------
-
 Bug Fix     | Yield Management availability calculation not working
 
 
