@@ -11,6 +11,16 @@ published: true
 ---
 
 
+
+**3.5.24.1 - 12/15/2017**
+
+Enhancement | Description
+------------|---------
+Improvement | Invoices will be kept open after being paid up
+Bug         | Ability to handle inclusive taxes from OTAs
+
+
+
 **3.5.22.1 - 11/22/2017**
 
 Enhancement | Description
