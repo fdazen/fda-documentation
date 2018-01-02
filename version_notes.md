@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.25.1 - 12/22/2017**
+
+Enhancement | Description
+------------|---------
+Bug         | Ability to handle inclusive/exclusive taxes changes via Lightspeed POS API
+
+
+
 **3.5.24.1 - 12/15/2017**
 
 Enhancement | Description
