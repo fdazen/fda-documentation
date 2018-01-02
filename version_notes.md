@@ -11,6 +11,55 @@ published: true
 ---
 
 
+**3.5.26.1 - 01/02/2017**
+
+Enhancement | Description
+------------|---------
+Improvement | Payment Collection rule drop down menu allows multi-selection
+Improvement | New Zealand states are now correctly showing
+Improvement | Open Balance report has been optimzed
+Improvement | House Count report has been optimzed
+Improvement | Departure report report has been optimzed
+Improvement | In House report report has been optimzed
+Improvement | Guest List report report has been optimzed
+Improvement | Manager's report is now showing Guests In House
+Improvement | Applied and Advanced report report has been optimzed
+Improvement | We have extended POS item description lenght
+Bug Fix     | System is not anymore defaulting to IBE reservation as user for automatic release dates
+Bug Fix     | Announcements are now saving for Safari and Firefox users
+Bug Fix     | POS Point can now be created
+Bug Fix     | Drop down menu for States was not populated
+Bug Fix     | Add-ons are now fully editable without errors
+Bug Fix     | Check-in list can now be downloaded
+Bug Fix     | Alerts: check-out  with security deposit
+Bug Fix     | DOB appearing on folio
+Bug Fix     | Report cannot be run by Cancellation Date 
+Bug Fix     | Birth date in Reg. Card shows the current date as default 
+Bug Fix     | Duplicate folios on Arrival List
+Bug Fix     | Room Assignment not working on IBE
+Bug Fix     | Housekeeping Rules not functioning properly
+Bug Fix     | Inactive amenities still appearing on IBE
+Bug Fix     | Improved tips sent from Sqaure POS
+Bug Fix     | Availability wrong if periods are set to start in the future
+Bug Fix     | Payment Collection rules when multiple rules are configured
+
+
+
+
+
+
+
+
+
+
+**3.5.25.1 - 12/22/2017**
+
+Enhancement | Description
+------------|---------
+Bug         | Ability to handle inclusive/exclusive taxes changes via Lightspeed POS API
+
+
+
 **3.5.24.1 - 12/15/2017**
 
 Enhancement | Description
