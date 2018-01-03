@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.27.1 - 01/03/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Promo Code not appearing on Folios
+
+
 **3.5.26.1 - 01/02/2017**
 
 Enhancement | Description
