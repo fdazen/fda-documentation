@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.28.1 - 01/03/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Ota error at finding default room type occupancy
+
+
 **3.5.27.1 - 01/03/2017**
 
 Enhancement | Description
