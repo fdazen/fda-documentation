@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.29.1 - 01/03/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Aerius server error
+Bug Fix     | Exclusive taxes from Lightspeed POS not showing on template
+
+
 **3.5.28.1 - 01/03/2017**
 
 Enhancement | Description
