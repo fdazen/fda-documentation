@@ -11,6 +11,16 @@ published: true
 ---
 
 
+**3.5.30.1 - 01/08/2017**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Room Type order not matching on channel IBE
+Bug Fix     | Work Order error
+Bug Fix     | Ability to skip transaction is pay type is not mapped
+
+
+
 **3.5.29.1 - 01/03/2017**
 
 Enhancement | Description
