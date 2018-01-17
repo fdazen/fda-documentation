@@ -11,6 +11,15 @@ published: true
 ---
 
 
+**.5.31.1 - 01/17/2017**
+
+Enhancement | Description
+------------|---------
+Improvement | Allow tax value change after a selected date
+Bug Fix     | Admin Settings error for work areas Add-ons and POS
+Bug Fix     | Revenue Manager shows error page
+Bug Fix     | Promo code rates changing after room is added to cart
+
 **3.5.30.1 - 01/08/2017**
 
 Enhancement | Description
