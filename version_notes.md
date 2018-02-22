@@ -11,7 +11,19 @@ published: true
 ---
 
 
-**3.5.31.1 - 01/17/2017**
+
+**3.5.32.1 - 02/22/2018**
+
+Enhancement | Description
+------------|---------
+Improvement | Enable Invoice creation on Profile from Folios
+Bug Fix     | Rate endpoint receiving duplicate rates
+Bug Fix     | Customers not transferring to Square
+Bug Fix     | Analytics: Format Date Properly For Cascading Controls
+
+
+
+**3.5.31.1 - 01/17/2018**
 
 Enhancement | Description
 ------------|---------
@@ -20,7 +32,7 @@ Bug Fix     | Admin Settings error for work areas Add-ons and POS
 Bug Fix     | Revenue Manager shows error page
 Bug Fix     | Promo code rates changing after room is added to cart
 
-**3.5.30.1 - 01/08/2017**
+**3.5.30.1 - 01/08/2018**
 
 Enhancement | Description
 ------------|---------
@@ -30,7 +42,7 @@ Bug Fix     | Ability to skip transaction is pay type is not mapped
 
 
 
-**3.5.29.1 - 01/03/2017**
+**3.5.29.1 - 01/03/2018**
 
 Enhancement | Description
 ------------|---------
@@ -38,21 +50,15 @@ Bug Fix     | Aerius server error
 Bug Fix     | Exclusive taxes from Lightspeed POS not showing on template
 
 
-**3.5.28.1 - 01/03/2017**
+**3.5.28.1 - 01/03/2018**
 
 Enhancement | Description
 ------------|---------
 Bug Fix     | Ota error at finding default room type occupancy
-
-
-**3.5.27.1 - 01/03/2017**
-
-Enhancement | Description
-------------|---------
 Bug Fix     | Promo Code not appearing on Folios
 
 
-**3.5.26.1 - 01/02/2017**
+**3.5.26.1 - 01/02/2018**
 
 Enhancement | Description
 ------------|---------
