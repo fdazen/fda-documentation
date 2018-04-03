@@ -11,6 +11,26 @@ published: true
 ---
 
 
+**3.5.33.1 - 04/02/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Promo Code field is now populating the Reservations Lists
+Improvement | Transfers to Invoices to show details of the original folio 
+Improvement | Ability to show First Name on Tape Chart
+Improvement | Allow for searching of email address on profile
+Improvement | System Status panel on Tape Chart clean up
+Bug Fix     | Fix rate grid to show full 14 days 
+Bug Fix     | Prevent SAVE button on taxes from being edited
+Bug Fix     | Fix error when deleting rates
+Bug Fix     | View by Floor and Class is now showing correctly 
+Bug Fix     | Prevent SAVE button on taxes from being edited
+Bug Fix     | Updated information on folio does not show correctly on Profiles
+Bug Fix     | Error when updating ifnormation on Admin Settings
+Bug Fix     | Prevent refunds if amount is not defined or is not negative 
+Bug Fix     | Applicable taxes on POS items sent by LSPOS has bee fixed
+
+
 
 **3.5.32.1 - 02/22/2018**
 
