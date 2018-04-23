@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.39.1 - 04/23/2018**    
+
+Enhancement | Description
+------------|---------
+Bug         | Issues with application functioning on Mozilla and Safari browsers
+
+
 **3.5.33.1 - 04/02/2018**    
 
 Enhancement | Description
