@@ -11,6 +11,25 @@ published: true
 ---
 
 
+
+
+
+**3.5.40.2 - 05/02/2018**    
+
+Enhancement | Description
+------------|---------
+New Feature | Add new report translations to PMS
+New Feature | Create swagger api with CRUD endpoints
+Improvement | Option to have charges grouped by charge type on Invoices
+Improvement | Reservation screen add version number to common.js
+Improvement | Rename 'Spreedly' to 'FDA Classic' on add payment gateway screen
+Improvement | Return payment gateway name + type in available cards endpoint
+Improvement | Stop credit cards from being added until reservation screen is saved
+
+
+
+
+
 **3.5.39.1 - 04/23/2018**    
 
 Enhancement | Description
