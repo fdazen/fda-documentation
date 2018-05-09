@@ -12,6 +12,11 @@ published: true
 
 
 
+**3.5.41.1 - 05/19/2018**    
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Credit card charge token not being stored correctly
 
 
 **3.5.40.2 - 05/02/2018**    
