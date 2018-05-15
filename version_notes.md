@@ -12,6 +12,16 @@ published: true
 
 
 
+**3.5.42.1 - 05/19/2018**    
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Invoice total not correct
+New feature | New invoices groupings: it is now possible to group charges on invoices by revenue labels, categories, charge types or POS points
+Bug Fix     | Invoice not reflecting taxes on POS items 
+
+
+
 **3.5.41.1 - 05/19/2018**    
 
 Enhancement | Description
