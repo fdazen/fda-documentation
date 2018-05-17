@@ -468,27 +468,14 @@ The amount corresponding to the authorization appears in light grey, and the ove
 - If you click on the _Authorization_ blue button, you will be able to access the details and see the available actions that you can perform:  
 
 
-![payments_52.png]({{site.baseurl}}/images/payments_52.png)
-
-
-
-- If you need to release the authorized amount, simply click on the red button _Release_:  
-
-
-![payments_53.png]({{site.baseurl}}/images/payments_53.png)
-
-
 
 - If you want to capture the amount, or part of the authorized amount, insert the relevant value in the box and click on the blue button _Capture_:  
 
 
-![payments_54.png]({{site.baseurl}}/images/payments_54.png)
 
 
 
-
-
-{{site.data.alerts.important}}  When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the refund option is only available for charges that have already been processed by the merchant account; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.{{site.data.alerts.end}}
+ When connected to a Payment Gateway, you will still able to convert payments to deposit, void them or refund them. However, the refund option is only available for charges that have already been processed by the merchant account; if you have only just processed a payment and you want to refund it, you can void it and re-place the charge. Charges voided within the day of charge won't be processed by the merchant account.{{site.data.alerts.end}}
 
 
 
@@ -540,7 +527,7 @@ Before you follow the instruction below, make sure you note down the folio numbe
 
 
 
-- If you now go back to the folio screen, you will see that the sum you chose to transfer will appear next to the link _Traansfer Sent_:  
+- If you now go back to the folio screen, you will see that the sum you chose to transfer will appear next to the link _Transfer Sent_:  
 
 
 ![payments_60.png]({{site.baseurl}}/images/payments_60.png)
