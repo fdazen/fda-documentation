@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.44.1 - 06/11/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Optimize db tables to enhance speed
+
+
+
 
 **3.5.43.1 - 05/30/2018**    
 
