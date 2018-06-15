@@ -12,7 +12,7 @@ published: true
 
 
 **3.5.45.1 - 06/16/2018**    
-​
+
 Enhancement | Description
 ------------|---------
 Improvement | Remove Datafeed from tracking events
