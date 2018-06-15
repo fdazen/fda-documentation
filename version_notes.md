@@ -11,6 +11,16 @@ published: true
 ---
 
 
+**3.5.45.1 - 06/16/2018**    
+​
+Enhancement | Description
+------------|---------
+Improvement | Remove Datafeed from tracking events
+Improvement | Remove unnecessary HK SQL queries from tapechart load functions
+Bug         | Payments not going through Authorize.net
+
+
+
 **3.5.44.1 - 06/11/2018**    
 
 Enhancement | Description
