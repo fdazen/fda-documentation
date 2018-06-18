@@ -11,6 +11,16 @@ published: true
 ---
 
 
+**3.5.46.1 - 06/18/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Add custom fields to Redis
+Improvement | Nigh Audit to update reservation cache
+
+
+
+
 **3.5.45.1 - 06/16/2018**    
 
 Enhancement | Description
