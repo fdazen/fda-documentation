@@ -11,6 +11,16 @@ published: true
 ---
 
 
+**3.5.47.1 - 06/22/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Remove unnecessary queries / entries for the admin section
+Improvement | Tablet mode optimization
+Bug         | Error with Auth.net
+
+
+
 **3.5.46.1 - 06/18/2018**    
 
 Enhancement | Description
