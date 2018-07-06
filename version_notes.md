@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.49.1 - 07/06/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Fix/Improve Error Checking for Payment and Credit Card Controllers
+Bug         | Error with refunds on payments failure
+
+
 **3.5.47.1 - 06/22/2018**    
 
 Enhancement | Description
