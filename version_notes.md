@@ -11,12 +11,20 @@ published: true
 ---
 
 
+**3.5.51.2 - 07/20/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Improve Activity for Log Out Timer
+Improvement | Enhancing checks for Incoming Ota Booking
+Bug         | Resolve Root Cause of Double Charges
+
 **3.5.49.1 - 07/06/2018**    
 
 Enhancement | Description
 ------------|---------
 Improvement | Fix/Improve Error Checking for Payment and Credit Card Controllers
-Bug         | Error with refunds on payments failure
+Bug         |  Error with refunds on payments failure
 
 
 **3.5.47.1 - 06/22/2018**    
