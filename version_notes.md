@@ -11,6 +11,26 @@ published: true
 ---
 
 
+**3.5.52.2 - 09/05/2018**    
+
+Enhancement | Description
+------------|---------
+New Feature | Vertical Bookings Channel Manager
+New Feature | Stripe Direct
+Improvement | Add names to the folio groupings on AR invoices
+Bug         | Can't save OTA# in folios
+Bug         | Booking window preventing bookings days out
+Bug         | Stay Restriction rebuilt
+Bug         | Protected room availability does not get pushed
+Bug         | IBE auto hold release date not set
+Bug         | Bookings availability check fix
+Bug         | System Payment Didn't Reach Gateway sync issue
+
+
+
+
+
+
 **3.5.51.2 - 07/20/2018**    
 
 Enhancement | Description
