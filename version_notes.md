@@ -11,6 +11,17 @@ published: true
 ---
 
 
+**3.5.53.1 - 09/10/2018**    
+
+Enhancement | Description
+------------|---------
+Bug         | Unable to issue invoice
+Bug         | Enable Split Booking on IBE
+Enhancement | Enable credit card payments without credit card billing info
+
+
+
+
 **3.5.52.2 - 09/05/2018**    
 
 Enhancement | Description
