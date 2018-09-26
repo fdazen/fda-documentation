@@ -10,6 +10,19 @@ summary: >-
 published: true
 ---
 
+**3.5.54.1 - 09/25/2018**    
+
+Enhancement | Description
+------------|---------
+Bug         | Unable to take cc payment if expiry dates is current month
+Bug         | Unable to make UnionPay payments
+Bug         | Cancelled reservations status appearing on Tape Chart
+Bug         | IBE released reservations appearing on Tape Chart
+Bug         | IBE reservation released if payments was successful
+Improvement | Add API restrictions
+Improvement | Turn off Stripe sign up
+
+
 
 **3.5.53.1 - 09/10/2018**    
 
