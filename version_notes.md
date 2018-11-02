@@ -10,6 +10,20 @@ summary: >-
 published: true
 ---
 
+**3.5.55.1 - 10/31/2018**    
+
+Enhancement | Description
+------------|---------
+Bug         | Can't make negative payment amounts
+Bug         | Remove adjustments when room night is removed
+Bug         | Reservations lists exporting full data set in CSV
+Bug         | Group reservations time out error
+Bug         | IBE Source not Populating
+Bug         | Restore Delete Credit Card Functionality
+Bug         | Promo code not populating
+Improvement | Handle Spreedly JS API errors
+
+
 **3.5.54.1 - 09/25/2018**    
 
 Enhancement | Description
