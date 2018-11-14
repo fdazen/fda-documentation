@@ -10,6 +10,13 @@ summary: >-
 published: true
 ---
 
+**3.5.56.1 - 11/13/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Release improved reports to selected accounts
+
+
 **3.5.55.1 - 10/31/2018**    
 
 Enhancement | Description
