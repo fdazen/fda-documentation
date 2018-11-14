@@ -14,7 +14,7 @@ published: true
 
 Enhancement | Description
 ------------|---------
-Improvement | Release improved reports to selected accounts
+Improvement | Reports optimization
 
 
 **3.5.55.1 - 10/31/2018**    
