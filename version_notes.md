@@ -10,6 +10,13 @@ summary: >-
 published: true
 ---
 
+**3.5.57.1 - 11/14/2018**    
+
+Enhancement | Description
+------------|---------
+Improvement | Reports optimization
+
+
 **3.5.56.1 - 11/13/2018**    
 
 Enhancement | Description
