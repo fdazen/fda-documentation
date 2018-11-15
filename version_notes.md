@@ -10,6 +10,14 @@ summary: >-
 published: true
 ---
 
+**3.5.58.1 - 11/15/2018**    
+
+Enhancement | Description
+------------|---------
+Bug         | VB coming in as Released
+
+
+
 **3.5.57.1 - 11/14/2018**    
 
 Enhancement | Description
