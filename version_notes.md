@@ -10,11 +10,22 @@ summary: >-
 published: true
 ---
 
+
+**3.5.60.1 - 11/30/2018**    
+
+Enhancement | Description
+------------|---------
+Bug         | Group reservations set to automatically released reverted back to manual release
+Bug         | System allowing overlapping reservations
+Bug         | Unmapped OTA rate error
+
+
+
 **3.5.58.1 - 11/15/2018**    
 
 Enhancement | Description
 ------------|---------
-Bug         | VB coming in as Released
+Bug         | Channel Manager reservations coming in as Released
 
 
 
