@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.61.1 - 12/27/2018**    
+
+Enhancement | Description
+------------|---------
+Bug         | Security deposits will now show on the Reservation List
+
+
 **3.5.60.1 - 11/30/2018**    
 
 Enhancement | Description
