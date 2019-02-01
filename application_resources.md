@@ -67,7 +67,9 @@ published: true
 | ```  {fda module="invoice"}number{/fda}      ```                             | Invoice Number     |  
 | ```  {fda module="invoice"}status{/fda}      ```                             | Invoice Status     |
 | ```  {fda module="invoice"}due_date{/fda}    ```                             | Invoice Due Date   |  
-| ```  {fda module="invoice"}issued_date{/fda} ```                             | Issued Date        |  
+| ```  {fda module="invoice"}issued_date{/fda} ```                             | Issued Date        |
+| ```  {fda module="group_inventory"}tax_sum{/fda} ```                         | Tax Sum            |  
+
   
 | System Variable                                                              | Information        |
 |------------------------------------------------------------------------------|:-------------------|
