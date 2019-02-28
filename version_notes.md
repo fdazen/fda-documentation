@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.65.1 - 02/28/2019**    
+
+Enhancement | Description
+------------|---------
+Improvement | Brazilian currency is now available for currency selection
+Bug         | When changing rooms to different rooms types, deactivating rooms and deleting rooms, 			   | please be aware that current reservations in that room type will stay with that room 			  | type in an unassigned status. They will need to be moved manually into the new room 			| type.
+
+
 **3.5.61.1 - 12/27/2018**    
 
 Enhancement | Description
