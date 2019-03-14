@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.66.1 - 03/13/2019**    
+
+Enhancement | Description
+------------|---------
+Bug         | There was an issue with Stay Restrictions for Fridays and Saturdays also including Thursdays, this has now been resolved as now Stay Restrictions for Fridays and Saturdays should not include Thursdays.
+Bug         | There was an issue with authorizations showing on the payment page with 0.00 for the captured authorization. This has now been resolved, and the captured amount will now show the correct amount.
+
+
 **3.5.65.1 - 02/28/2019**    
 
 Enhancement | Description
