@@ -15,7 +15,7 @@ published: true
 
 Enhancement | Description
 ------------|---------
-Improvement | The Reputation dashboard has recently been offline but is now back online and fully functioning. We apologize for any inconvenience."
+Improvement | The Reputation dashboard has recently been offline but is now back online and fully functioning. We apologize for any inconvenience.
 
 
 **3.5.66.1 - 03/13/2019**    
