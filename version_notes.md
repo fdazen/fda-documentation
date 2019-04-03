@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.69.1 - 04/03/2019**    
+
+Enhancement | Description
+------------|---------
+New Feature | We are now introducing the Intercom app into our PMS. Intercom is an integrated help desk and knowledge base to receive answers to questions about the PMS thru a platform within the FDA system.
+
+
 **3.5.67.1 - 03/20/2019**    
 
 Enhancement | Description
