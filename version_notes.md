@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.70.1 - 04/15/2019**    
+
+Enhancement | Description
+------------|---------
+Bug         | Hotels were experiencing an issue with taxes not updating properly when a reservation was modified thru Frontdesk Anywhere Connect, this issue has now been resolved.
+
+
 **3.5.69.1 - 04/03/2019**    
 
 Enhancement | Description
