@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.71.1 - 05/13/2019**    
+
+Enhancement | Description
+------------|---------
+Improvement | Hotels will not be able to delete room types from the PMS system if this room type is connected to a room mapping for an OTA. If the room type does need to be either deleted or deactivated, the room mapping will need to be removed first in order for this to happen. This will prevent issues with Integrations.
+
+
 **3.5.70.1 - 04/15/2019**    
 
 Enhancement | Description
