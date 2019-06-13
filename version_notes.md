@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.74.4 - 06/13/2019**    
+
+Enhancement | Description
+------------|---------
+Improvement | We have updated our OTA connections to improve the quality of receiving, reservations, modifications and cancellations as well as pushing rates, availability and restrictions to the websites. We have also updated the connections to receive comments from the guests who wish to communicate to the hotels the information that is supplied during the reservation booking process.
+
+
 **3.5.71.1 - 05/13/2019**    
 
 Enhancement | Description
