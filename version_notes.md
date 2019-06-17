@@ -11,6 +11,13 @@ published: true
 ---
 
 
+
+**3.5.75.1 - 06/14/2019**
+
+Enhancement | Description
+------------|---------
+Bug         | Fix error on credit card tokenization
+
 **3.5.74.4 - 06/13/2019**    
 
 Enhancement | Description
