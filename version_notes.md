@@ -11,12 +11,21 @@ published: true
 ---
 
 
+**3.5.76.1 - 06/26/2019**
+
+Enhancement | Description
+------------|---------
+Bug         | Reservations being delivered from the channel manager populating with UNKNOWN UNKNOWN for the secondary guest was making those the primary guest names. This issue has been resolved.
+Bug         | BDC reservations made for more than one night was dropping into the PMS as a one night stay and was not populating all of the nights. This issue has been resolved.
+Bug         | When trying to make a guest the Primary Guest on the reservation screen, the operation was failing. This issue has been resolved.
+
 
 **3.5.75.1 - 06/14/2019**
 
 Enhancement | Description
 ------------|---------
 Bug         | Fix error on credit card tokenization
+
 
 **3.5.74.4 - 06/13/2019**    
 
