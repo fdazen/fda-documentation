@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.77.1 - 06/27/2019**
+
+Enhancement | Description
+------------|---------
+Bug         | We were experiencing issues with stay restrictions pushing to all channels, this issue has been resolved.
+
+
 **3.5.76.1 - 06/26/2019**
 
 Enhancement | Description
