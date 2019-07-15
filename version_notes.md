@@ -11,6 +11,15 @@ published: true
 ---
 
 
+**3.5.80.1 - 07/15/2019**
+
+Enhancement | Description
+------------|---------
+Improvement | We have improved the tapechart calculations to detect any possible issues with availability.
+Bug         | Dropdown filters on Analytics reports have also been fixed that all Processed By employees will show accordingly.
+Bug         | We have updated the the issue with Adjustments showing different between the Adjustments page and the main folio.
+
+
 **3.5.77.1 - 06/27/2019**
 
 Enhancement | Description
