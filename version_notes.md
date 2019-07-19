@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.81.1 - 07/19/2019**
+
+Enhancement | Description
+------------|---------
+Bug         | Expedia direct connections - fixed incoming billing infromation
+
+
 **3.5.80.1 - 07/15/2019**
 
 Enhancement | Description
