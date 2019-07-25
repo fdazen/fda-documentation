@@ -11,6 +11,14 @@ published: true
 ---
 
 
+**3.5.82.1 - 07/25/2019**
+
+Enhancement | Description
+------------|---------
+Bug         | The transactions in Invoice showing the previous room name
+Bug         | New User button adds blank user
+
+
 **3.5.81.1 - 07/19/2019**
 
 Enhancement | Description
