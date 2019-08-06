@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.83.1 - 08/06/2019**
+
+Enhancement | Description
+------------|---------
+Bug         | We have recently pinpointed an issue with adjustments and taxes. This has now been resolved and will show correctly on the folios as well as guest messages.
+
+
 **3.5.82.1 - 07/25/2019**
 
 Enhancement | Description
