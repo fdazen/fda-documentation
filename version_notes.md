@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.87.1 - 09/09/2019**
+
+Enhancement | Description
+------------|---------
+Bug         | An issue has been identified and resolved with some room types showing Sold out on the Booking Engine with availability in the PMS.
+
+
 **3.5.83.1 - 08/06/2019**
 
 Enhancement | Description
