@@ -11,6 +11,15 @@ published: true
 ---
 
 
+**3.5.89.1 - 04/17/2020**
+
+Enhancement | Description
+------------|---------
+Improvement | When making group reservations, there is no default group rule which means all charges will remain on the individual folios within the group unless you decide to add a group rule for charges to be transferred.
+Improvement | Frontdesk Anywhere is pleased to announce having brought ADA compliance to its new suite of website booking engines, enabling hoteliers across the United States to be compliant with the Americans with Disabilities Act.
+Bug         | Some hotels have experienced an issue with double charges showing on invoices, this issue has been resolved.
+
+
 **3.5.87.1 - 09/09/2019**
 
 Enhancement | Description
