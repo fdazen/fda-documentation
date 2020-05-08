@@ -11,6 +11,13 @@ published: true
 ---
 
 
+**3.5.91.1 - 05/08/2020**
+
+Enhancement | Description
+------------|---------
+Improvement | In the past the system allowed the user to convert a Payment back to a Deposit on the Payments screen. This has now been fixed so that a Payment cannot be converted back to a Deposit. Only a Deposit can be converted to a Payment.
+
+
 **3.5.89.1 - 04/17/2020**
 
 Enhancement | Description
