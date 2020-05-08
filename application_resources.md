@@ -38,6 +38,8 @@ published: true
 | Inventory Information Variables                                              | Information                  |
 | -----------------------------------------------------------------------------|:-----------------------------|
 | ``` {fda module="inventory"}total{/fda}        ```                           | Inventory Total              |
+| ``` {fda module="inventory"}total_room_charge{/fda}        ```               | Total Room+Tax              |
+| ``` {fda module="inventory"}sutotal_room_charge{/fda}        ```             | Total Room              |
 | ``` {fda module="inventory"}date_rate_change{/fda} ```                       | Date Rate Change List        |
 | ``` {fda module="inventory"}rate_average{/fda} ```                           | Rate Average                 |
 
