@@ -9,6 +9,12 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.93.1 - 07/02/2020**
+
+Enhancement | Description
+------------|---------
+Improvement | New template variable available for Rate Policies. You can find this in the Resources area of the menu.
+
 
 
 **3.5.91.1 - 05/08/2020**
