@@ -53,6 +53,7 @@ published: true
 | ```` {fda module="folio"}number_children{/fda}    ````                       | Number Of Children      |
 | ```` {fda module="folio"}room_no{/fda}            ````                       | Room Number             |
 | ```` {fda module="folio"}comments{/fda}           ````                       | Folio Comments          |
+| ```` {fda module="folio"}rate_policy{/fda}           ````                    | Rate Policies           |
 |                                                                              |                         |
 
 
