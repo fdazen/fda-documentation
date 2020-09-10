@@ -16,8 +16,13 @@ Enhancement | Description
 ------------|---------
 Improvement | Improved email functionality
 Improvement | Improved email rules functionality
-New Feature | Integration with Chosen Payments
 
+
+**3.5.94.2 - 08/31/2020**
+
+Enhancement | Description
+------------|---------
+New Feature | Integration with Chosen Payments
 
 
 **3.5.93.1 - 07/02/2020**
