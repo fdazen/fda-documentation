@@ -9,6 +9,17 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+
+**3.5.96.1 - 09/10/2020**
+
+Enhancement | Description
+------------|---------
+Improvement | Improved email functionality
+Improvement | Improved email rules functionality
+New Feature | Integration with Chosen Payments
+
+
+
 **3.5.93.1 - 07/02/2020**
 
 Enhancement | Description
