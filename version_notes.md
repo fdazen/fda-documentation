@@ -14,6 +14,14 @@ published: true
 
 Enhancement | Description
 ------------|---------
+New Feature | Chosen multiple payment devices
+Bug Fix     | Error on purging credit cards
+
+
+**3.5.96.1 - 09/10/2020**
+
+Enhancement | Description
+------------|---------
 Improvement | Improved email functionality
 Improvement | Improved email rules functionality
 
