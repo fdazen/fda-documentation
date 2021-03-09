@@ -16,6 +16,7 @@ Enhancement | Description
 ------------|---------
 Improvement | Increase report date range to 100 days
 
+
 **3.5.97.1 - 10/11/2020**
 
 Enhancement | Description
