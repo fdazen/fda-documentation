@@ -9,6 +9,12 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.100.1 - 03/26/2021**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Fix invoices with deleted transactions
+
 
 **3.5.99.1 - 03/08/2021**
 
