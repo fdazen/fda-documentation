@@ -9,6 +9,15 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.101.1 - 05/04/2021**
+
+Enhancement | Description
+------------|---------
+Improvement | Enable 60 day credit cards purge
+Improvement | Card improvement on Chosen Payments
+Improvement | Increase reports filter date range to a maximum of 184 days
+
+
 **3.5.100.1 - 03/26/2021**
 
 Enhancement | Description
