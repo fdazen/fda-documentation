@@ -9,6 +9,13 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.103.2 - 05/18/2021**
+
+Enhancement | Description
+------------|---------
+Bug Fix     | Room charges added to Addon/pos charges
+
+
 **3.5.101.1 - 05/04/2021**
 
 Enhancement | Description
