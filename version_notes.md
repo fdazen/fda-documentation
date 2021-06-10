@@ -9,6 +9,13 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+
+**3.5.104.1 - 06/10/2021**
+
+Enhancement | Description
+------------|---------
+Improvement | Report date range extension
+
 **3.5.103.2 - 05/18/2021**
 
 Enhancement | Description
