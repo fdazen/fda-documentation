@@ -9,6 +9,13 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.105.1 - 06/16/2021**
+
+Enhancement | Description
+------------|---------
+Improvement | Display room types ID
+
+
 **3.5.104.1 - 06/10/2021**
 
 Enhancement | Description
