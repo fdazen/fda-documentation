@@ -9,6 +9,13 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.107.1 - 09/02/2021**
+
+Enhancement | Description
+------------|---------
+Bug Fix | Fix Housekeeping room priority column
+
+
 **3.5.105.1 - 06/16/2021**
 
 Enhancement | Description
