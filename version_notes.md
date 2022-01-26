@@ -14,7 +14,7 @@ published: true
 Enhancement | Description
 ------------|---------
 Bug Fix | Fix Housekeeping room priority column
-
+ 
 
 **3.5.105.1 - 06/16/2021**
 
