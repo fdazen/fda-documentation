@@ -13,7 +13,7 @@ published: true
 
 Enhancement | Description
 ------------|---------
-Improvement | system enhancement 
+Improvement | System enhancement
 
 
 **3.5.107.1 - 09/02/2021**
