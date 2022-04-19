@@ -9,6 +9,13 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.109.2 - 04/19/2022**
+
+Enhancement | Description
+------------|---------
+New Feature | Equalweb Integration
+
+
 **3.5.108.3 - 01/31/2022**
 
 Enhancement | Description
