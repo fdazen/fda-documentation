@@ -9,6 +9,14 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.111.1 - 06/20/2022**
+
+Enhancement | Description
+------------|---------
+Improvement | Turn off automatic profile merge
+Bug Fix     | Fix invoices with Virtual rooms
+
+
 **3.5.109.2 - 04/19/2022**
 
 Enhancement | Description
