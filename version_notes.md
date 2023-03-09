@@ -9,6 +9,22 @@ summary: >-
   and the corresponding version!
 published: true
 ---
+**3.5.113.2 - 03/08/2022**
+
+Enhancement | Description
+------------|---------
+Improvement | Kosovo has been added to the Country List in reservations
+Improvement | Tape Chart cron update for faster availability reconfiguration
+Improvement | Quantity validation for adjustments
+Improvement | Backend validation for images uploaded
+Improvement | Extended the ability to push rates to Siteminder for up to 2 years
+Bug | Spanish format date fix
+Bug | Romania country wrong spelling fix
+Bug | IBE amenities caching fix
+Bug | Group confirmation is now supporting multiple dates
+
+
+
 **3.5.112.1 - 08/18/2022**
 
 Enhancement | Description
